@@ -99,8 +99,12 @@ async function fetchAllNews() {
   const results = await Promise.allSettled(
     RSS_FEEDS.map(async (feed) => {
       try {
-        const parsed = await parser.parseURL(feed.url);
-        return (parsed.items || []).map(item => ({
+        // Hard timeout: abort if feed takes >20s (some feeds hang beyond rss-parser timeout)
+        const result = await Promise.race([
+          parser.parseURL(feed.url),
+          new Promise((_, reject) => setTimeout(() => reject(new Error('Hard timeout 20s')), 20000)),
+        ]);
+        return (result.items || []).map(item => ({
           ...item,
           _source: feed.name,
         }));
