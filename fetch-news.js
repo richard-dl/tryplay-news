@@ -192,7 +192,9 @@ async function main() {
   console.log(`Written to ${outPath}`);
 }
 
-main().catch(err => {
+main().then(() => {
+  process.exit(0);
+}).catch(err => {
   console.error('Fatal:', err);
   process.exit(1);
 });
