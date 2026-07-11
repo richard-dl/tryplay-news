@@ -2,40 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Un hombre fue baleado tras incumplir una salida transitoria y seguirá la pena en arresto domiciliario",
-      "description": "Luego de no regresar a prisión tras una salida transitoria en febrero, Lucas Exequiel Figueroa fue atacado a tiros en Mar del Plata y sufrió heridas graves. La justicia dispuso que termine su condena en la casa de su madre",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/sociedad/policiales/2026/07/11/un-hombre-fue-baleado-tras-incumplir-una-salida-transitoria-y-seguira-la-pena-en-arresto-domiciliario/",
-      "image": "https://www.infobae.com/resizer/v2/VU3MHZDQDJANJJGTH53D3WTWPM.jpg?auth=5a16e561ac80784f5c7bdeadb3aa4b698495418d4c8e61e083b01e24648baad8&smart=true&width=1024&height=683",
-      "pubDate": "2026-07-11T08:19:58.000Z",
-      "emojisString": "⚖️ 💻"
-    },
-    {
-      "title": "Previsión del clima en Washington D. C. para antes de salir de casa este 11 de julio",
-      "description": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/noticias/2026/07/11/prevision-del-clima-en-washington-d-c-para-antes-de-salir-de-casa-este-11-de-julio/",
-      "image": "https://www.infobae.com/resizer/v2/7YAFWMTASNGPDASGPRZ377LB2Y.jpg?auth=66982fd17607f9d23de1c94c8e04384e142749486a5a1160fd21753b7abd56b5&smart=true&width=1456&height=816",
-      "pubDate": "2026-07-11T08:17:45.000Z",
-      "emojisString": "💻 🌤️ 🇺🇸"
-    },
-    {
-      "title": "“Error de transición”: la moneda de diez centavos con el rostro de Roosevelt que puede valer hasta US$9000",
-      "description": "Identifica la moneda de diez centavos de Roosevelt de 1965 que vale US$9 mil. Conoce las claves de su error de transición para venderla a coleccionistas.",
+      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 11 de julio ",
+      "description": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/error-de-transicion-la-moneda-de-diez-centavos-con-el-rostro-de-roosevelt-que-puede-valer-hasta-nid11072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/6DA6CK4K4NDTPFVL2NC7BPM3WU.jpg?auth=fdbace6623e7e8015c0c1d6be263d5901ed0f9170d5197b3f2e81fe9ddb9efc3&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-11T08:16:00.000Z",
-      "emojisString": "📰"
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-11-de-julio-nid11072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/6X3UZ254XVBDRDA52SWQBCPYWA.jpg?auth=add359e974bcfae8fefd52d73a702464e717c21c667a3289f931e40dc62d7234&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-11T09:51:01.000Z",
+      "emojisString": "💵"
     },
     {
-      "title": "El poder de cambiar la pregunta",
-      "description": "Las innovaciones más transformadoras no siempre nacen de una nueva tecnología; muchas veces surgen cuando alguien descubre un uso inesperado para una herramienta que ya existía",
+      "title": "Noticias del ICE en Kansas City hoy: confirman operativos masivos por el partido de Argentina en el Mundial 2026",
+      "description": "Conoce cómo será el operativo del ICE durante el partido de Argentina vs. Suiza en el Mundial 2026 y qué controles realizará en Kansas City.",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/negocios/el-poder-de-cambiar-la-pregunta-nid11072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/KIHOQXLDVRE23ELD4PFMJ6UNLU.jpg?auth=f67a8d28d671f70c704b942403d9a19f3f31beb206ad8c2a50ab5c552bffd01c&smart=true&width=800&height=450",
-      "pubDate": "2026-07-11T08:13:00.000Z",
-      "emojisString": "💻"
+      "link": "https://www.lanacion.com.ar/estados-unidos/noticias-del-ice-en-kansas-city-hoy-confirman-operativos-masivos-por-el-partido-de-argentina-en-el-nid11072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/7XLXGBCSPVADHCFGDD23ZKAROY.jpg?auth=156805fe7e761f1ad695351612ca6cd465f04921da312ec00ee956489d36267f&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-11T09:51:00.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Once detenidos por vender drogas en domicilios y en una granja de El Campello (Alicante)",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/11/once-detenidos-por-vender-drogas-en-domicilios-y-en-una-granja-de-el-campello-alicante/",
+      "image": null,
+      "pubDate": "2026-07-11T09:47:53.000Z",
+      "emojisString": "🚨"
+    },
+    {
+      "title": "Trece comunidades en aviso por calor y lluvias, con País Vasco y Galicia en nivel naranja",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/11/trece-comunidades-en-aviso-por-calor-y-lluvias-con-pais-vasco-y-galicia-en-nivel-naranja/",
+      "image": null,
+      "pubDate": "2026-07-11T09:47:37.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Idrettsglede, la filosofía de \"disfrute del deporte\" en Noruega que prohíbe contar los resultados en partidos con menores de 11 años",
+      "description": "Con apenas 5,6 millones de habitantes y más dedicado a los deportes de invierno que al fútbol, Noruega está plantando cara a las grandes potencias del Mundial. ¿Cuál es su secreto?",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cnv9leeprvvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9ec/live/b37cb980-7bc7-11f1-88b3-abafabeb0031.jpg",
+      "pubDate": "2026-07-11T09:40:21.000Z",
+      "emojisString": "⚽ 🏅 💻"
+    },
+    {
+      "title": "Desnudos falsos, vejación real: los proxenetas de fantasmas de las escuelas de élite ",
+      "description": "Según las investigaciones en curso, un grupo de alumnos desvestía a sus compañeras operando con inteligencia artificial y comercializaba esos cuerpos espectrales. \nLos adultos pusimos en manos de chicos de trece años herramientas capaces de fabricar realidades falsas, antes de darles una sola razón",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/opinion/desnudos-falsos-vejacion-real-proxenetas-fantasmas-escuelas-elite_0_SbQpMzNuN3.html",
+      "image": "https://www.clarin.com/img/2026/07/07/kojnFUNK6_1200x630__1.jpg",
+      "pubDate": "2026-07-11T09:15:27.000Z",
+      "emojisString": "💻 📚"
+    },
+    {
+      "title": "Tras estar 28 años prohibido, el videojuego Carmageddon volvió a ser legal en la Ciudad gracias a la Ley de Hojarasca \n",
+      "description": "Se trata de un juego que había sido vedado en 1998 en el ámbito porteño por incitar a la violencia y fomentar los delitos viales.\nCon la aprobación de la Ley Hojarasca porteña en junio pasado se derogó la norma y dejó de estar prohibido.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/politica/28-anos-prohibido-videojuego-carmageddon-volvio-legal-ciudad-gracias-ley-hojarasca_0_5efOsWhxQW.html",
+      "image": "https://www.clarin.com/img/2026/07/09/8LimXAT5n_1200x630__1.jpg",
+      "pubDate": "2026-07-11T09:09:27.000Z",
+      "emojisString": "💻 🚗"
     },
     {
       "title": "Clima en Ciudad de Buenos Aires: sábado frío y nublado con un marcado cambio en la dirección del viento",
@@ -47,31 +74,13 @@
       "emojisString": "💻 🌤️"
     },
     {
-      "title": "El argentino Wenceslao Casares y Peter Thiel, entre los CEOs de Sun Valley 2026",
-      "description": "En Idaho, Estados Unidos, una vez al año, una firma de Wall Street, reúne a CEOs y directivos de compañías de diferentes rubros. En su origen, se pensó como un ‘Tinder de negocios’, motivados por un acuerdo millonario que dos megacompañías norteamericanas sellaron en Sun Valley hace cuarenta y cuatr",
+      "title": "Crece la tensión en Medio Oriente: Irán afirma que cumplió su palabra, pero Trump respondió que el alto al fuego se acabó",
+      "description": "El canciller iraní, Abás Araqchi, aseguró que \"solo puede haber respeto cuando es mutuo\". Y el acuerdo que se había firmado entre el país persa y Estados Unidos corre peligro.\r\n Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/protagonistas/el-argentino-wenceslao-casares-y-peter-thiel-entre-los-ceos-de-sun-valley-2026.phtml",
-      "image": "https://fotos.perfil.com/2026/07/11/trim/540/304/11072026wenceslaocasarespeterthielafpg-2280213.jpg",
-      "pubDate": "2026-07-11T07:13:39.000Z",
+      "link": "https://www.perfil.com/noticias/internacional/iran-afirma-que-cumplio-su-palabra-pero-trump-respondio-que-el-alto-al-fuego-se-acabo.phtml",
+      "image": "https://fotos.perfil.com/2026/07/08/trim/540/304/trump-2278984.jpg",
+      "pubDate": "2026-07-11T07:14:00.000Z",
       "emojisString": "🇺🇸"
-    },
-    {
-      "title": "Dólar blue hoy: a cuánto cotiza este sábado 11 de julio",
-      "description": "Mirá la cotización para la compra y venta del dólar blue hoy.\nLa brecha con el dólar oficial.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-11-julio_0_MTPHuJhc5F.html",
-      "image": "https://www.clarin.com/img/2017/08/29/ryra6HxcW_1200x630.jpg",
-      "pubDate": "2026-07-11T07:00:02.000Z",
-      "emojisString": "💵 💻"
-    },
-    {
-      "title": "El desafío de construir la casualidad hacia 2027",
-      "description": "Hoy Javier Milei depende de los gobernadores, y de los aliados del no peronismo del Congreso, para poder repetir lo que en 2023 fue casualidad.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/desafio-construir-casualidad-2027_0_jvQPhrP86c.html",
-      "image": "https://www.clarin.com/img/2026/07/09/8lg-q7szy_1200x630__1.jpg",
-      "pubDate": "2026-07-11T06:51:23.000Z",
-      "emojisString": "🏛️ 💻"
     },
     {
       "title": "Por qué el declive de población deja al descubierto las antiguas divisiones de Alemania",
@@ -81,17 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/98d0/live/637181e0-7ca4-11f1-bc75-67a16fbc54d2.jpg",
       "pubDate": "2026-07-11T03:57:23.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "La deuda educativa argentina no es de diagnóstico, sino de acción: sabemos qué falla, pero no logramos corregirlo",
-      "description": "Los resultados de PISA vuelven a mostrar el rezago de la Argentina frente a los países desarrollados y también dentro de la región. El problema ya no pasa por medir la crisis educativa, sino por transformar esa evidencia en políticas sostenidas dentro del aula.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/opiniones/la-deuda-educativa-argentina-no-es-diagnostico-sino-accion-sabemos-que-falla-pero-no-logramos-corregirlo-n6297822",
-      "image": "https://media.ambito.com/p/ad472d4ea03068f3c2ef5c36c2e80cc8/adjuntos/239/imagenes/042/613/0042613654/estudiantes-alumnos-educacion-aula.png",
-      "pubDate": "2026-07-11T03:09:00.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-07-11T08:26:39.872Z"
+  "updated": "2026-07-11T09:57:13.370Z"
 }
