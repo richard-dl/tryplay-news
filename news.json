@@ -2,6 +2,69 @@
   "success": true,
   "data": [
     {
+      "title": "El hijo de Priscilla Presley, Navarone, responde a las críticas por pedir donaciones para abrir un negocio de pizzas",
+      "description": "El músico lanzó una campaña en GoFundMe para poner en marcha un negocio de pizzas orgánicas en Los Ángeles",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/entretenimiento/2026/07/12/el-hijo-de-priscilla-presley-navarone-responde-a-las-criticas-por-pedir-donaciones-para-abrir-un-negocio-de-pizzas/",
+      "image": "https://www.infobae.com/resizer/v2/TZDKAWFLMRGGDEWT3ARAUIVMZU.jpg?auth=29155947e6183a9a1fcded8135b54a886e46e9b473470b1f0c8a620b0f82a04f&smart=true&width=1920&height=1080",
+      "pubDate": "2026-07-12T23:26:00.000Z",
+      "emojisString": "🗳️"
+    },
+    {
+      "title": "Café peruano llega a la estratósfera: lote producido en Cusco fue expuesto a -61,9 °C y radiación extrema para una investigación científica",
+      "description": "Las primeras pruebas sensoriales detectaron cambios en el aroma, la acidez y el cuerpo del café, aunque los especialistas aclaran que los resultados aún son preliminares",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/peru/2026/07/12/cafe-peruano-llega-a-la-estratosfera-lote-producido-en-cusco-fue-expuesto-a-619-c-y-radiacion-extrema-para-una-investigacion-cientifica/",
+      "image": "https://www.infobae.com/resizer/v2/DVVRD4B3TFEMRNVASBI3PGVDCE.png?auth=e0568f6bf9d781c3d04de9e8c96ec573b858c2b2fa9dbb5444b5227b31bbbb5d&smart=true&width=1920&height=1080",
+      "pubDate": "2026-07-12T23:25:55.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Para menores de 18: cómo abrir una cuenta de inversión en EE.UU. y qué beneficios tiene",
+      "description": "Los menores de 18 años en EE.UU. pueden abrir una cuenta de inversión con ayuda de un adulto y comenzar a ahorrar para el futuro. Conoce cómo funciona la Trump Account, cuáles son sus beneficios y el paso a paso para solicitarla en línea o a través del IRS",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/para-menores-de-18-como-abrir-una-cuenta-de-inversion-en-eeuu-y-que-beneficios-tiene-nid12072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/SZI35ILV4RBLVARTYALCTEHEPI.jpg?auth=e7c7f1032b0f5f20d368531da6e2598bf6d41bcff8cd0edce9be8c9330cee034&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-12T23:21:59.000Z",
+      "emojisString": "🇺🇸"
+    },
+    {
+      "title": "Ciudadanía por nacimiento: qué pasará con el hospital de Texas que Abbott investiga por “turismo de maternidad”",
+      "description": "Conoce por qué Greg Abbott ordenó investigar a un hospital de Texas acusado de promover turismo de maternidad y qué sanciones podría enfrentar.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/texas/ciudadania-por-nacimiento-que-pasara-con-el-hospital-de-texas-que-abbott-investiga-por-turismo-de-nid12072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/MBWHK6NWBFFTFB7CBPWM6GVFWE.jpg?auth=026bb3f3ccff92b4a0297b5080b36a4a262b2763b3b0245295cc24bb5aac9c45&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-12T23:08:00.000Z",
+      "emojisString": "🏥"
+    },
+    {
+      "title": "Chacarita no lo aguantó en Jujuy y el líder Gimnasia rescató un empate",
+      "description": "El Funebrero ganaba y se escapaba del fondo, pero el Lobo llegó a la igualdad. Mirá todos los resultados de este domingo en la Primera Nacional.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-ascenso/chacarita-gimnasia-primeranacional-futbol_0_MUYSJ3pTVY.html",
+      "image": "https://www.ole.com.ar/images/2026/07/12/5F8a61tpL_1200x630__1.jpg",
+      "pubDate": "2026-07-12T22:59:50.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Un jugador de Egipo en El Cairo: \"Messi ya no me cae bien\"",
+      "description": "Ahmed Fatouh cuestionó a la Pulga al regresar a El Cairo, opinó que tolera la injusticia y se rió cuando una periodista le dijo que espera que no juegue nunca más.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/mundial/mundial-2026/fatouh-messi-egipto-entrevista-criticas-argentina_0_X6RkdnamYk.html",
+      "image": "https://www.ole.com.ar/images/2026/07/12/mM6PNbI9z_1200x630__1.jpg",
+      "pubDate": "2026-07-12T22:48:21.000Z",
+      "emojisString": "⚽ ⚖️ 💻"
+    },
+    {
+      "title": "SpaceX definió la fecha para el vuelo 13 de Starship en una prueba crucial para la carrera aeroespacial",
+      "description": "La compañía aeroespacial de Elon Musk busca validar las mejoras de la configuración V3 con el Super Heavy Booster 20 y la nave Ship 40.  Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/ciencia/space-x-definio-la-fecha-para-el-vuelo-13-de-starship-en-una-prueba-crucial-para-la-carrera-aeroespacial.phtml",
+      "image": "https://fotos.perfil.com/2026/07/12/trim/540/304/spacex-define-la-fecha-para-el-vuelo-13-de-starship-2281070.jpg",
+      "pubDate": "2026-07-12T22:46:00.000Z",
+      "emojisString": "💻"
+    },
+    {
       "title": "Victoria Villarruel respaldó los reclamos docentes y volvió a marcar distancia de Javier Milei",
       "description": "La vicepresidenta aseguró que quienes eligen la educación \"cumplen una misión fundamental\" y pidió salarios acordes a la importancia de su tarea.",
       "source": "Ámbito",
@@ -11,87 +74,24 @@
       "emojisString": "🏛️ 💻 📚"
     },
     {
-      "title": "EN VIVO | Clima CDMX y resto de México hoy domingo 12 de julio: lluvias fuertes y caída de granizo en la capital",
-      "description": "Sigue en tiempo real las actualizaciones del pronóstico del clima en los distintos estados de la República Mexicana",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/07/12/en-vivo-clima-en-cdmx-y-mexico-hoy-12-de-julio-se-esperan-tormentas-electricas-y-granizadas-para-este-domingo/",
-      "image": "https://www.infobae.com/resizer/v2/3TC72RQOUJALLHUUCCXHMEO4EA.jpg?auth=20a7b7a6785f06ffde4f12fb596e0060db45af19f1cd855f9cc2c99148482199&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-12T22:24:56.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Lluvias en Veracruz dejan severas inundaciones: familias reviven la tragedia del huracán Karl y exigen un muro de contención",
-      "description": "Las intensas precipitaciones provocaron deslaves y el desbordamiento del río Tolomé en varios municipios; autoridades activaron el Plan DN-III-E mientras habitantes piden obras que eviten nuevas emergencias",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/07/12/lluvias-en-veracruz-dejan-severas-inundaciones-familias-reviven-la-tragedia-del-huracan-karl-y-exigen-un-muro-de-contencion/",
-      "image": "https://www.infobae.com/resizer/v2/ZYKTIWJW3JCWZFN4DIDX6KMCDA.jpg?auth=e373e1d522cffb2e9d6a40336db54d13a10ab06937486aa7d3e3cc23cb6d1f57&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-12T22:24:13.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Un informe revela cuánto puede desvalorizarse un auto híbrido y un eléctrico en cinco años",
-      "description": "Se analizaron más de 950.000 vehículos usados de cinco años de antigüedad vendidos entre marzo de 2025 y febrero de 2026 en los Estados Unidos",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/autos/un-informe-revela-cuanto-puede-desvalorizarse-un-auto-hibrido-y-un-electrico-en-cinco-anos-nid11072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/R3UP3V4ZTBEF7KVUIA2QD3KWME.jpg?auth=4ce1cf5ca2bb7969d6ebfd7e07f96d031ba7e9247a539f6ec0f9240aae08094a&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-12T22:22:53.000Z",
-      "emojisString": "🇺🇸"
-    },
-    {
-      "title": "Mundial 2026, en vivo: se definieron los cruces de semifinales tras la victoria de la Argentina",
-      "description": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores y reacciones sobre los partidos.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-se-definieron-los-cruces-de-semifinales-tras-la-victoria-de-la-argentina-nid12072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/3R6RJBKU2BD2PLOW46HZK4YZJU.JPG?auth=92cb97ca45b16c02577610d680919fabc0c2c3f395db4b4005f4145ba8bb47ac&smart=true&width=4623&height=3081",
-      "pubDate": "2026-07-12T22:20:25.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "El capitán de Suiza publicó un emotivo posteo tras la eliminación con Argentina y el Dibu tuvo un particular gesto",
-      "description": "Granit Xhaka compartió un mensaje luego de lo que fue la derrota en el Mundial, donde agradeció el apoyo y destacó el esfuerzo del equipo.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/mundial/mundial-2026/granit-xhaka-capitan-suiza-dijo-eliminacion-argentina-dibu-mundial_0_CIDBdktXpy.html",
-      "image": "https://www.ole.com.ar/images/2026/07/12/68vdSOAjN_1200x630__1.jpg",
-      "pubDate": "2026-07-12T22:19:33.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Llega Villa: Boca lo hizo oficial y el delantero se expresó en sus redes",
-      "description": "El club confirmó cuándo será la revisión médica del colombiano, quien reflexionó públicamente sobre un regreso con mucho alrededor.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/boca-juniors/boca-villa-vuelta-confirmada-revision-medica-equipo_0_jNcvolenu8.html",
-      "image": "https://www.ole.com.ar/images/2026/07/12/4HbaPHgX9_1200x630__1.jpg",
-      "pubDate": "2026-07-12T22:15:42.000Z",
-      "emojisString": "⚽ 💻 🏥"
-    },
-    {
-      "title": "El ejército estadounidense anunció que inició una nueva ola de ataques sobre Irán",
-      "description": "Lo informó un mensaje en X del Mando Central estadounidense para Oriente Medio (Centcom). \nY afirmó que quiere impedir que Teherán \"ataque a las tripulaciones civiles y a los buques comerciales\" en el paso marítimo.",
+      "title": "Regalo al PJ con las colectoras, el temido desempate de Villarruel y Patricia Bullrich sale de gira",
+      "description": "Aunque es una propuesta del Gobierno para eliminar las PASO, pueden terminar beneficiando al PJ. \nExpertos en temas electorales aseguran que la IA puede ayudar a mejorar la transparencia.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/mundo/ejercito-estadounidense-anuncio-inicio-nueva-ola-ataques-iran_0_LcRC7hf80F.html",
-      "image": "https://www.clarin.com/img/2026/07/12/YZa_1nE46_1200x630__1.jpg",
-      "pubDate": "2026-07-12T21:57:22.000Z",
-      "emojisString": "💻 💥"
+      "link": "https://www.clarin.com/opinion/regalo-pj-colectoras-temido-desempate-villarruel-patricia-bullrich-sale-gira_0_cpeQwpj6bs.html",
+      "image": "https://www.clarin.com/img/2026/06/30/q2yrOOrHJ_1200x630__1.jpg",
+      "pubDate": "2026-07-12T22:24:58.000Z",
+      "emojisString": "🏛️ 💻"
     },
     {
-      "title": "EE. UU. asegura que el estrecho de Ormuz está abierto mientras intercambia ataques con Irán",
-      "description": "Las acciones se producen tras el ataque contra un buque de bandera chipriota que navegaba por esa importante ruta comercial.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cz9ldgp9471o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d4ac/live/9c7e51b0-7ddb-11f1-91f9-abeb669686c2.jpg",
-      "pubDate": "2026-07-12T21:46:02.000Z",
-      "emojisString": "💻 💥"
-    },
-    {
-      "title": "Las claves para que Julián volviera a ser Julián: el apoyo del numeroso clan Alvarez y por qué Scaloni lo considera fundamental en la Selección Argentina",
-      "description": "Luego de un complicado arranque de Mundial, el cordobés de Calchín fue el héroe de la trabajada victoria de Argentina ante Suiza.\n\"No me siento el peor cuando las cosas no salen bien, ni el mejor cuando convierto. Sigo siendo Julián, intentando dar el máximo\", dijo tras el golazo que abrió el camino",
+      "title": "Marcelo Bielsa ya tiene reemplazante en Uruguay: Diego Forlán agarra la dirección técnica de la Celeste",
+      "description": "Después de la durísima eliminación de la Celeste en la fase de grupos de la Copa del Mundo, Cachavacha agarrará el fierro caliente hasta marzo.\nLo confirmó Ignacio Alonso, presidente de la AUF: \"Lo elige el comité ejecutivo. Hace bastante tiempo que nosotros venimos hablando con él. No es de ahora\".",
       "source": "Clarín",
-      "link": "https://www.clarin.com/deportes/claves-julian-volviera-julian-apoyo-numeroso-clan-alvarez-scaloni-considera-fundamental-seleccion-argentina_0_dgha6Qb1ky.html",
-      "image": "https://www.clarin.com/img/2026/07/12/8UoVE1_ei_1200x630__1.jpg",
-      "pubDate": "2026-07-12T21:45:07.000Z",
-      "emojisString": "⚽ 💻"
+      "link": "https://www.clarin.com/deportes/marcelo-bielsa-reemplazante-uruguay-diego-forlan-agarra-direccion-tecnica-celeste_0_kM9UuPy4JT.html",
+      "image": "https://www.clarin.com/img/2026/07/12/7XJpmnRx__1200x630__1.jpg",
+      "pubDate": "2026-07-12T22:22:19.000Z",
+      "emojisString": "⚽ 🏛️"
     }
   ],
   "count": 10,
-  "updated": "2026-07-12T22:29:52.953Z"
+  "updated": "2026-07-12T23:29:19.937Z"
 }
