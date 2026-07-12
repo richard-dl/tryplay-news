@@ -2,13 +2,76 @@
   "success": true,
   "data": [
     {
-      "title": "Scaloni hizo una autocrítica sobre el desempeño de la selección y anticipó el cruce con Inglaterra",
-      "description": "Tras la victoria ante Suiza que le aseguró el pase a semifinales, el entrenador argentino valoró las capacidades del equipo europeo; “Nos costó juntar cinco o seis pases”, dijo sobre el nivel de la albiceleste",
+      "title": "Nadie quiere las zapatillas de Marcel Marceau",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/12/nadie-quiere-las-zapatillas-de-marcel-marceau/",
+      "image": null,
+      "pubDate": "2026-07-12T08:33:45.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Convergencia fiscal y garantías laborales en el acuerdo sobre Gibraltar que entra en vigor",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/12/convergencia-fiscal-y-garantias-laborales-en-el-acuerdo-sobre-gibraltar-que-entra-en-vigor/",
+      "image": null,
+      "pubDate": "2026-07-12T08:33:29.000Z",
+      "emojisString": "⚖️ 💻"
+    },
+    {
+      "title": "Oficial y confirmado por Uscis: el grupo de migrantes que perdería el TPS el 27 de noviembre de 2026 en EE.UU.",
+      "description": "Conocé hasta cuándo se extiende el TPS para ciudadanos de Líbano, qué pasa con los permisos de trabajo y qué puede ocurrir después del 27 de noviembre.",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/scaloni-hizo-una-autocritica-sobre-el-desempeno-de-la-seleccion-y-anticipo-el-cruce-con-inglaterra-nid12072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/FTNSSLQSXJDYVJ53TWZZF56GD4.png?auth=d6180c7c24c2d9e76d8ea3a314c2b153fe17035ab0f42cfe27250434212a21a6&smart=true&width=870&height=572",
-      "pubDate": "2026-07-12T06:25:15.000Z",
-      "emojisString": "⚽ 💻"
+      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/oficial-y-confirmado-por-uscis-el-grupo-de-migrantes-que-perderia-el-tps-el-27-de-noviembre-de-2026-nid12072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ICPQMFQVTZCINIQDQHZX4DP3XM.png?auth=7dc891a214e069c058a12afa9e499154e040c29d125fa08bf552791b66c4c456&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-12T08:33:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "En el camino de Salamone",
+      "description": "Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/cultura/en-el-camino-de-salamone.phtml",
+      "image": "https://fotos.perfil.com/2026/07/12/trim/540/304/12072026fernandagarcialaocedocg-2280816.jpg",
+      "pubDate": "2026-07-12T08:27:25.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Ojos brujos",
+      "description": "Antonio Lorente pasó por Buenos Aires con sus lápices blandos, sus monos de obsequio y ese catálogo de ojos hechizados que parecen mirar desde una infancia anterior al lenguaje. Ilustrador de clásicos, de niñas pálidas, muchachos rosados y fantasmas victorianos, el artista español presenta “13 de fa",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/cultura/ojos-brujos.phtml",
+      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
+      "pubDate": "2026-07-12T08:24:38.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Oficial y confirmado: el DMV lanza Mobile ID, una versión digital de la licencia de conducir en Virginia",
+      "description": "Consulta cómo funciona Virginia Mobile ID, la app gratuita del DMV para llevar la licencia en el celular sin dejar de portar el documento físico.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/virginia/oficial-y-confirmado-el-dmv-lanza-mobile-id-una-version-digital-de-la-licencia-de-conducir-en-nid12072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/5HWBUVMO45CINEWVMH76PLMHMI.png?auth=2a7ecbd697f85046db1045649fac418878b33def25b0c1af0377189a465939c8&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-12T08:10:00.000Z",
+      "emojisString": "💻 📱 🇧🇷"
+    },
+    {
+      "title": "Golpe de Trump a Los Ángeles: bloquea casi 200 millones de dólares destinados a personas sin hogar",
+      "description": "El gobierno lanza duras acusaciones contra una agencia dedicada a ayudar a estos residentes.\nEl bloqueo pone en riesgo el envío de casi 200 millones de dólares.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/golpe-trump-angeles-bloquea-200-millones-dolares-destinados-personas-hogar_0_ql36Fvbt1q.html",
+      "image": "https://www.clarin.com/img/2026/06/03/i5Xi_5MuS_1200x630__1.jpg",
+      "pubDate": "2026-07-12T08:01:39.000Z",
+      "emojisString": "⚽ 💵 🏛️"
+    },
+    {
+      "title": "Magnesio para el sueño, los músculos y el estreñimiento: ¿sirven los suplementos?",
+      "description": "En muchas personas, tiene más sentido incorporar más alimentos ricos en este mineral esencial que una cápsula.En quiénes se indica suplementación.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/buena-vida/magnesio-sueno-musculos-estrenimiento-sirven-suplementos_0_7gPqeZig83.html",
+      "image": "https://www.clarin.com/img/2021/09/07/cspr5HXrP_1200x630__1.jpg",
+      "pubDate": "2026-07-12T08:01:39.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "El cambio de protocolo VAR por el que se justifica la expulsión de Embolo ",
@@ -20,51 +83,6 @@
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "EN VIVO | La Guardia Revolucionaria de Irán atacó un segundo navío en Ormuz tras lanzar misiles contra países del Golfo",
-      "description": "El Ejército ideológico iraní informó que este domingo lanzó una ofensiva contra una embarcación en la estratégica vía marítima, luego de haber cerrado el paso antes del intercambio de fuego con Estados Unidos",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/mundo/2026/07/12/en-vivo-crece-la-tension-en-medio-oriente-por-las-nuevas-hostilidades-entre-iran-y-estados-unidos/",
-      "image": "https://www.infobae.com/resizer/v2/MECSDFQUWBA5ZHYJUEIFY7FABA.JPG?auth=e6ad0deb8f777e7909a7e6c93ad2122f62aa3ecdd12159911557d934f815f1e1&smart=true&width=5500&height=3364",
-      "pubDate": "2026-07-12T06:23:27.000Z",
-      "emojisString": "⚽ 💻 🇺🇸"
-    },
-    {
-      "title": "Piden evitar desplazamientos innecesarios y alertan del riesgo de incendios en el eclipse",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/12/piden-evitar-desplazamientos-innecesarios-y-alertan-del-riesgo-de-incendios-en-el-eclipse/",
-      "image": null,
-      "pubDate": "2026-07-12T06:16:14.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Mundial 2026, en vivo: se definieron los cruces de semifinales tras la victoria de la Argentina",
-      "description": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y reacciones sobre los partidos",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-se-definieron-los-cruces-de-semifinales-tras-la-victoria-de-la-argentina-nid12072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/SWJLWKMG2BHWDCJPN27DMEZJZ4.jpg?auth=7d0ede264f11453b236e4e382dd73d77e2a726098aff6946010bf528a701f29d&smart=true&width=4089&height=2726",
-      "pubDate": "2026-07-12T06:14:31.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Destrucción cultural: Milei recortó a la mitad el presupuesto para educación y ciencia",
-      "description": "La inversión educativa que realiza el Gobierno se redujo casi el 50% en los últimos dos años, detalló un informe de la Universidad de Buenos Aires. La ciencia retrocedió un 46,5% en lo que va de la gestión libertaria, de acuerdo con el Grupo EPC. El nivel más alto que alcanzó el presupuesto científi",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/destruccion-cultural-milei-recorto-a-la-mitad-el-presupuesto-para-educacion-y-ciencia.phtml",
-      "image": "https://fotos.perfil.com/2026/07/12/trim/540/304/120726conicetcedocg-2280783.jpg",
-      "pubDate": "2026-07-12T06:08:12.000Z",
-      "emojisString": "🏛️ 💻 📚"
-    },
-    {
-      "title": "Muchos candidatos, ninguna regla y todo atado a la disputa presidencial",
-      "description": "La carrera por la sucesión de Axel Kicillof en el peronismo arrancó antes de tiempo y sin reglas claras: ni PASO, ni desdoblamiento, ni ley de reelecciones están definidos. Intendentes y dirigentes de todas las tribus de Unión por la Patria ya tienen nombres, pero la verdadera variable que puede ord",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/politica/muchos-candidatos-ninguna-regla-y-todo-atado-a-la-disputa-presidencial.phtml",
-      "image": "https://fotos.perfil.com/2026/07/12/trim/540/304/120726candidatosgobernadorpbacedocg-2280781.jpg",
-      "pubDate": "2026-07-12T06:06:45.000Z",
-      "emojisString": "🗳️ 💻"
-    },
-    {
       "title": "Consulta toda la información aquí",
       "description": "Este interactivo te muestra las fechas, horarios, resultados, tablas de posiciones de los grupos y las llaves de las fase eliminatoria de los 104 partidos del torneo.",
       "source": "BBC Mundo",
@@ -72,26 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16cc/live/978426b0-73d3-11f1-8e1d-bbbb1017d210.png",
       "pubDate": "2026-07-12T05:58:47.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Recrudecen los ataques entre Estados Unidos e Irán: Washington destruyó 140 objetivos militares y Teherán lanzó misiles contra cuatro países de Medio Oriente",
-      "description": "Los objetivos iraníes fueron en Qatar, Kuwait, Jordania y Bahrein, luego de la respuesta de Washington por la agresión a un buque en Ormuz.\n\"La era de los acuerdos unilaterales ha terminado\", dijo presidente del Parlamento y negociador jefe de Irán, Mohamad Baqer Qalibaf.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/mundo/recrudecen-ataques-estados-unidos-iran-washington-destruyo-140-objetivos-militares-teheran-lanzo-misiles-paises-medio-oriente_0_xoVJOZbIgp.html",
-      "image": "https://www.clarin.com/img/2026/07/12/Md6AFA1Ea_1200x630__1.jpg",
-      "pubDate": "2026-07-12T05:37:24.000Z",
-      "emojisString": "🏛️ 💻 💥"
-    },
-    {
-      "title": "Euforia y emoción: así festejaron los famosos el pase de Argentina a semifinales ",
-      "description": "Numerosas celebridades celebraron el triunfo del conjunto albiceleste ante Suiza del Mundial 2026\nLa Scaloneta avanzó de ronda y se medirá ante Inglaterra por un lugar en la final.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/fama/euforia-emocion-festejaron-famosos-pase-argentina-semifinales_0_reVQ174q4w.html",
-      "image": "https://www.clarin.com/img/2026/07/12/mfAPXPrU0_1200x630__1.jpg",
-      "pubDate": "2026-07-12T05:37:13.000Z",
-      "emojisString": "⚽ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-07-12T06:28:04.744Z"
+  "updated": "2026-07-12T08:38:20.945Z"
 }
