@@ -2,58 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Podemos ve \"miserable e infame\" que Tellado culpe al Gobierno del incendio de Almería tras los \"recortes\" de la Junta",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/13/podemos-ve-miserable-e-infame-que-tellado-culpe-al-gobierno-del-incendio-de-almeria-tras-los-recortes-de-la-junta/",
-      "image": "https://www.infobae.com/resizer/v2/YLAW6OWOYRGQ3OU2JCJNDZ2TVY.jpg?auth=87edb8fc4a084375a2cb43bdbde66f58100853484c97f37c6d3faea6f87eb87d&smart=true&width=1920&height=1280",
-      "pubDate": "2026-07-13T10:48:37.000Z",
-      "emojisString": "🏛️"
+      "title": "Escracharon a una figura de México por remar con los hinchas de Noruega tras la eliminación en el Mundial",
+      "description": "Gilberto Mora participó del tradicional festejo vikingo y fue duramente criticado en redes sociales.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/mundial/mundial-2026/noruega-remo-mundial-seleccion-mexico-gilberto-mora-escracho-enojo_0_KaLCqhRZrA.html",
+      "image": "https://www.ole.com.ar/images/2026/07/04/pC_uPOr6a_1200x630__1.jpg",
+      "pubDate": "2026-07-13T13:14:09.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
-      "title": "La fiscal rebaja de 22 a 12 años de cárcel al autor material de la muerte de Francis",
-      "description": "",
+      "title": "Jackson Mora frena prisión preventiva de su hermana: el testimonio que salvó a Noelia Mora",
+      "description": "El exboxeador optó por declarar públicamente al concluir la detención preliminar, relatando los hechos que le permitieron acumular la suma de dinero involucrada en la investigación",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/13/la-fiscal-rebaja-de-22-a-12-anos-de-carcel-al-autor-material-de-la-muerte-de-francis/",
-      "image": "https://www.infobae.com/resizer/v2/ESRC5MM5PRGUFFWHBBGZNJGNDY.jpg?auth=59f2dec290a6b1b6bc16379e2cd97e2a5dd346f6706155eb17721f57eb2cda71&smart=true&width=1920&height=1500",
-      "pubDate": "2026-07-13T10:48:20.000Z",
-      "emojisString": "⚖️ 💻 🚗"
+      "link": "https://www.infobae.com/peru/2026/07/13/jackson-mora-frena-prision-preventiva-de-su-hermana-el-testimonio-que-salvo-a-noelia-mora/",
+      "image": "https://www.infobae.com/resizer/v2/OLCHULBFPJHJHPDVUBM3CYXIPU.png?auth=ef9b6902c63c3c54e7a5ee5a5590b9dbe9c302a38ad08ef3b83a3c6b350b0fcd&smart=true&width=1920&height=1080",
+      "pubDate": "2026-07-13T13:12:13.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "El Gobierno prorrogó la emergencia del sector eléctrico hasta fines de 2027 y profundiza la reestructuración del sistema energético",
-      "description": "El Poder Ejecutivo extendió la emergencia para los segmentos de generación, transporte y distribución de energía eléctrica bajo jurisdicción federal. La medida busca dar continuidad al proceso de normalización del mercado eléctrico y coordinarlo con la emergencia vigente en el sector del gas.",
+      "title": "Mundial 2026, en vivo: Francia y España se preparan para abrir los cruces de semifinales",
+      "description": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores y reacciones sobre los partidos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-espana-se-preparan-para-abrir-los-cruces-de-semifinales-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/PEO4EAU44FHI3MFWBI626ZLEAI.jpg?auth=c9762762dd4fdc34708e26fb881161b075170625043111024fcc05a4eb44d2f8&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-13T13:11:29.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "El matrimonio de la ‘Casa de los Horrores’ queda en libertad: un juez les absuelve del delito de maltrato psicológico y rebaja su pena",
+      "description": "El Tribunal Superior de Justicia de Andalucía solo ha mantenido su contena por abandono familiar, de seis meses",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/07/13/el-matrimonio-de-la-casa-de-los-horrores-queda-en-libertad-un-juez-les-absuelve-del-delito-de-maltrato-psicologico-y-rebaja-su-pena/",
+      "image": "https://www.infobae.com/resizer/v2/RU6BDBYBBJDUZCJY2O7WYVI5EQ.jpg?auth=d15fb4de4915567908b3d097dbaf6baa13599634cb91f364a9ead5aee6d85e9e&smart=true&width=1030&height=942",
+      "pubDate": "2026-07-13T13:11:29.000Z",
+      "emojisString": "⚖️ 💻"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
+      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ES57WS2LKBARPCU3KYN4226UT4.JPG?auth=c5022842cac78d068a6baa8838667db28a23e2ceee151e2d968018aee256b203&smart=true&width=2000&height=1318",
+      "pubDate": "2026-07-13T13:07:00.000Z",
+      "emojisString": "🏛️ 🗳️ 💻"
+    },
+    {
+      "title": "Un histórico de la Selección de Inglaterra lanzó una provocadora frase sobre Lionel Messi: \"Hay que mandarlo a dormir\"",
+      "description": "El deportista anticipó la semifinal del Mundial 2026 y aseguró que el equipo de Thomas Tuchel derrotará a Argentina. Sus declaraciones generaron repercusión en Inglaterra.",
       "source": "Ámbito",
-      "link": "https://www.ambito.com/energia/el-gobierno-prorrogo-la-emergencia-del-sector-electrico-fines-2027-y-profundiza-la-reestructuracion-del-sistema-energetico-n6298739",
-      "image": "https://media.ambito.com/p/2b635103c04c796695fb5e7ec917ef11/adjuntos/239/imagenes/043/483/0043483237/1200x675/841x485:861x505/energia-electricidad-tarifas-subsidios.jpg",
-      "pubDate": "2026-07-13T10:45:00.000Z",
-      "emojisString": "📊 🏛️ 💻"
+      "link": "https://www.ambito.com/deportes/un-historico-la-seleccion-inglaterra-lanzo-una-provocadora-frase-lionel-messi-hay-que-mandarlo-dormir-n6298799",
+      "image": "https://media.ambito.com/p/f5ee83bf891b3ec9f37c89bdf0e8beb8/adjuntos/239/imagenes/043/310/0043310392/messi-marcelo-endelligetty-images.jpg",
+      "pubDate": "2026-07-13T13:01:00.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
-      "title": "Armando Olmedo, experto en green cards: “Va a haber más escrutinio”",
-      "description": "Conoce qué controles, demoras y posibles cambios salariales anticipa un experto para las empresas que tramitan una green card laboral.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/armando-olmedo-experto-en-green-cards-va-a-haber-mas-escrutinio-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ATOJAL3PJFCN3ASNLIB7VM5MBE.jpg?auth=d8a155051c729eebf928b85bc10d1ac67ff9ec786319d63bed079a26d67646c6&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-13T10:44:00.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Resultados del Quini 6: cuáles fueron los números de la suerte en el sorteo del domingo 12 de julio",
-      "description": "El primer premio de este juego de azar organizado por la Lotería de Santa Fe quedó vacante; en la modalidad “Siempre Sale” hubo 71 ganadores",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/loterias/resultados-del-quini-6-cuales-fueron-los-numeros-de-la-suerte-en-el-sorteo-del-domingo-12-de-julio-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/YCUY7UTTZZHO5DLEVKGTYI6YFA.png?auth=5b4a3b05a10a0e2aeaea72dad3fde09b4979ea1b7168e1df465ae579eac8d7e9&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-13T10:43:55.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Las cosas más extrañas que interfieren con el Wi-Fi y cómo mejorar la señal",
-      "description": "Si estás teniendo problemas de conexión, a lo mejor podrías revisar nuestra lista de factores que podrían estar generando interferencia.",
+      "title": "Los comentarios de Mariano Rajoy sobre la selección francesa de fútbol que provocaron una tormenta de críticas por \"racismo\"",
+      "description": "El expresidente del gobierno español dijo que Francia tenía una buena selección pero \"sin franceses\", lo que ha desatado una oleada de críticas tanto en Francia como en España.",
       "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cyv0z9m7v6yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e3f/live/97cdeff0-7e52-11f1-9fca-c33507801fae.jpg",
-      "pubDate": "2026-07-13T10:42:23.000Z",
-      "emojisString": "💻"
+      "link": "https://www.bbc.com/mundo/articles/c1wyryl1p7ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/815a/live/6f624e90-7eb5-11f1-b5ec-67e9897fe2ad.jpg",
+      "pubDate": "2026-07-13T12:58:03.000Z",
+      "emojisString": "⚽ 🏛️ 💻"
     },
     {
       "title": "Selección argentina, EN VIVO: la jornada del lunes 13 de julio en el Mundial 2026",
@@ -61,37 +70,28 @@
       "source": "Ámbito",
       "link": "https://www.ambito.com/deportes/seleccion-argentina-mundial-2026-en-vivo-semifinal-inglaterra-lionel-scaloni-messi-noticias-minuto-a-minuto-en-vivo-13-julio",
       "image": "https://media.ambito.com/p/ac5623cac9155d68c87020a63ad32b4f/adjuntos/239/imagenes/043/504/0043504855/1200x675/smart/entrenamiento-seleccion-argentina.jpg",
-      "pubDate": "2026-07-13T10:38:00.000Z",
+      "pubDate": "2026-07-13T12:58:00.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "Córdoba: conductora oriunda de La Plata fue detenida tras arrastrar a una policía de la Caminera",
-      "description": "La mujer de 49 años rayó el acta, cerró la ventanilla y dejó atrapada la mano de la uniformada, a quién arrastró unos metros sobre ruta 9. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/cordoba-conductora-oriunda-de-la-plata-fue-detenida-tras-arrastrar-a-una-policia-de-la-caminera.phtml",
-      "image": "https://fotos.perfil.com/2026/07/13/trim/540/304/13-07-2026-conductora-de-la-plata-detenida-en-cordoba-control-policia-caminera-2281164.jpg",
-      "pubDate": "2026-07-13T10:25:41.000Z",
-      "emojisString": "🚨"
-    },
-    {
-      "title": "El 57% de los argentinos considera que el país va por el rumbo incorrecto",
-      "description": "Mientras el respaldo al rumbo general mejoró 12 puntos en un año, un abrumador 77% califica el presente económico como malo y el desempleo se consolidó como la principal preocupación local, duplicando la media mundial. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/el-57-de-los-argentinos-considera-que-el-pais-va-por-el-rumbo-incorrecto.phtml",
-      "image": "https://fotos.perfil.com/2026/07/13/trim/540/304/el-57-de-los-argentinos-considera-que-el-pais-va-por-el-rumbo-incorrecto-2281157.jpg",
-      "pubDate": "2026-07-13T10:10:37.000Z",
+      "title": "Francia declaró \"persona no grata\" a la vicegobernadora de Mendoza por dichos racistas",
+      "description": "Hebe Casado, de La Libertad Avanza, fue vetada por los europeos por haber escrito frases xenófobas en sus redes sociales durante el Mundial 2026. ¿Qué dijeron las autoridades del Viejo Continente?",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/informacion-general/francia-hebe-casado-mundial-2026-persona-grata-mendoza_0_p1jVcXBd64.html",
+      "image": "https://www.ole.com.ar/images/2026/07/13/huoG-1Ria_1200x630__1.jpg",
+      "pubDate": "2026-07-13T12:51:21.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "Abbott ordena mayor presencia de agentes viales: en Texas, conductores verán más operativos de las fuerzas del DPS en carreteras",
-      "description": "Tras culminar su formación, los funcionarios completaron 30 semanas de formación y ya se incorporaron a sus puestos asignados.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/abbott-ordena-mayor-presencia-agentes-viales-texas-conductores-veran-operativos-fuerzas-dps-carreteras_0_6oaMNic5oh.html",
-      "image": "https://www.clarin.com/img/2026/06/25/nOHq1p3QU_1200x630__1.jpg",
-      "pubDate": "2026-07-13T10:01:58.000Z",
-      "emojisString": "💻 🚗"
+      "title": "Ahora: Cueste lo que Cueste, el streaming de análisis deportivo de Perfil.com",
+      "description": "Cueste lo que Cueste es el primer streaming de Perfil.com. Román Iucht presenta un ciclo deportivo para empezar la mañana con información, análisis y buena onda. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/deportes/cueste-lo-que-cueste-el-primer-streaming-deperfilcom.phtml",
+      "image": "https://fotos.perfil.com/2025/09/18/trim/540/304/streaming-de-roman-iuch-18092025-2101742.jpg",
+      "pubDate": "2026-07-13T12:49:00.000Z",
+      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-07-13T10:54:52.086Z"
+  "updated": "2026-07-13T13:14:46.665Z"
 }
