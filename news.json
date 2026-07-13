@@ -2,58 +2,76 @@
   "success": true,
   "data": [
     {
-      "title": "Resultados de la Tinka de este domingo 12 de julio: números ganadores del último sorteo",
-      "description": "La Tinka celebra dos sorteos a la semana, todos los domingos y miércoles, después de las 20:30 horas. Descubra si fue el afortunado ganador del premio mayor",
+      "title": "El petróleo sube más de 4% tras la reanudación de los ataques entre EEUU e Irán y la amenaza de cierre del estrecho de Ormuz",
+      "description": "El Brent, referencia para Europa cotiza en torno a los 79 dólares por barril, mientras que el West Texas Intermediate (WTI), referencia estadounidense, se ubica por encima de los 74 dólares",
       "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/07/13/resultados-de-la-tinka-de-este-domingo-12-de-julio-numeros-ganadores-del-ultimo-sorteo/",
-      "image": "https://www.infobae.com/resizer/v2/H33DULKRCVAKBKZRKJMKWPMETM.jpg?auth=d8921d0331a94f12e8bc6c4aad0d42c4d9d1e6c8c938593314bae6fd0b452381&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-13T04:31:29.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/america/mundo/2026/07/13/el-petroleo-sube-mas-de-4-tras-la-reanudacion-de-los-ataques-entre-eeuu-e-iran-y-la-amenaza-de-cierre-del-estrecho-de-ormuz/",
+      "image": "https://www.infobae.com/resizer/v2/RR62QI5Q7ZHRLDWXQALXUFO66M.jpg?auth=050395b0cf77bd4da00eb940ff5dd75ca23511fab91644696f4b6c1a79fc5b8d&smart=true&width=1000&height=667",
+      "pubDate": "2026-07-13T07:53:45.000Z",
+      "emojisString": "💵 💻 💥"
     },
     {
-      "title": "Resultado Super Astro Luna HOY: número ganador del domingo 12 de julio",
-      "description": "A continuación, se muestran los números ganadores y el signo zodiacal que salieron en las balotas del sorteo de esta noche",
+      "title": "“El Mayo” Zambada fue llevado a un hospital horas después de su detención en EEUU, según nueva revelación",
+      "description": "Las nuevas revelaciones salen en medio de la polémica sobre si el FBI tuvo o no participación en la operación para detener al cofundador del Cártel de Sinaloa",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/07/13/resultado-super-astro-luna-hoy-numero-ganador-del-domingo-12-de-julio/",
-      "image": "https://www.infobae.com/resizer/v2/SUW2GGZFOFHC5KRBVQXXK3VY2M.jpg?auth=c410a21f7d59f3134227342f239e96537a57f99551b924317f024c21091ea800&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-13T04:31:10.000Z",
+      "link": "https://www.infobae.com/mexico/2026/07/13/el-mayo-zambada-fue-llevado-a-un-hospital-horas-despues-de-su-detencion-en-eeuu-segun-nueva-revelacion/",
+      "image": "https://www.infobae.com/resizer/v2/FLPIQWTXPVCBRGT64JHCR7CNB4.png?auth=7a956d1f794087f07cee2b35d05a473c42a9b52bcc95e6c85800a385b5a2ed28&smart=true&width=2752&height=1536",
+      "pubDate": "2026-07-13T07:46:39.000Z",
+      "emojisString": "🏥 🇺🇸"
+    },
+    {
+      "title": "Murió el actor Sam Neill, protagonista de Jurassic Park, a los 78 años",
+      "description": "La noticia fue confirmada a través de un comunicado publicado por su familia; en 2023 le habían diagnosticado un linfoma de células T angioinmunoblástico",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/espectaculos/murio-el-actor-sam-neill-protagonista-de-jurassic-park-a-los-78-anos-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2EKRVTQSEZFN3G4GJ45SCI7IMU.jpg?auth=5921b8d1c30c54034454e50174305f3b25739c9e4a05e8b6dfdd1d595226c9c4&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-13T07:11:45.000Z",
+      "emojisString": "💻 🇧🇷"
+    },
+    {
+      "title": "Mundial 2026, en vivo: Francia y España se preparan para abrir los cruces de semifinales",
+      "description": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores y reacciones sobre los partidos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-espana-se-preparan-para-abrir-los-cruces-de-semifinales-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/PEO4EAU44FHI3MFWBI626ZLEAI.jpg?auth=c9762762dd4fdc34708e26fb881161b075170625043111024fcc05a4eb44d2f8&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-13T07:00:07.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Dólar blue hoy: a cuánto cotiza este lunes 13 de julio",
+      "description": "Mirá la cotización para la compra y venta del dólar blue hoy.\nLa brecha con el dólar oficial.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-lunes-13-julio_0_uTeKsuULiS.html",
+      "image": "https://www.clarin.com/img/2016/01/29/rJMAol3t4x_1200x630.jpg",
+      "pubDate": "2026-07-13T07:00:02.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Murió a los 78 años el actor Sam Neill, protagonista de Jurassic Park",
+      "description": "Según comunicó oficialmente la familia, el deceso se produjo de forma “repentina e inesperada”. \nEn abril, el artista neozelandés había anunciado que su cáncer estaba en remisión tras una terapia genética.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/espectaculos/murio-78-anos-actor-sam-neill-protagonista-jurassic-park_0_SGeFtILiwV.html",
+      "image": "https://www.clarin.com/img/2026/07/13/RxTwIugRI_1200x630__1.jpg",
+      "pubDate": "2026-07-13T06:54:12.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "El Gobierno otorgó a Córdoba un anticipo financiero de hasta $400.000 millones",
-      "description": "La asistencia fue autorizada por decreto y deberá reintegrarse durante el ejercicio fiscal 2026 con intereses; Economía definirá el monto efectivo y las condiciones del desembolso",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/el-gobierno-otorgo-a-cordoba-un-anticipo-financiero-de-hasta-400000-millones-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/XXU4V2RALBFSHNB53JL7JKGSZQ.jpeg?auth=fce2b926651b275cf102a329b5b83d5c536858d821d52950d4cba8074017af13&smart=true&width=1006&height=671",
-      "pubDate": "2026-07-13T04:30:43.000Z",
-      "emojisString": "💵 📊 🏛️"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
-      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ES57WS2LKBARPCU3KYN4226UT4.JPG?auth=c5022842cac78d068a6baa8838667db28a23e2ceee151e2d968018aee256b203&smart=true&width=2000&height=1318",
-      "pubDate": "2026-07-13T04:27:17.000Z",
-      "emojisString": "🏛️ 🗳️ 💻"
-    },
-    {
-      "title": "Argentina vs. Inglaterra: La pelota no se mancha…¿pero negocia?",
-      "description": "La referencia a Malvinas es ineludible en este caso. La emoción que la produce es legítima. El problema es cuando esa emoción se convierte en análisis y confunde los planos.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/opinion/argentina-vs-inglaterra-pelota-manchapero-negocia_0_WPKQNtBQvq.html",
-      "image": "https://www.clarin.com/img/2026/07/11/wHQoC-g7N_1200x630__1.jpg",
-      "pubDate": "2026-07-13T04:04:28.000Z",
+      "title": "Muere a los 78 años Sam Neill, el actor que protagonizó \"Jurassic Park\"",
+      "description": "Su familia informó mediante un comunicado que \"la pérdida fue repentina e inesperada\".",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cx2k9ry810xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/87f5/live/6db85040-7e82-11f1-bbf9-c34ca6867eac.jpg",
+      "pubDate": "2026-07-13T06:30:06.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Intelectuales argentinos: el vacío que deja una generación y el desafío del recambio en tiempos de ajuste y fuga de cerebros",
-      "description": "La muerte de referentes de las ideas coincide con una brutal transformación del sistema universitario y científico. \nEntre la crisis de las instituciones, la batalla cultural y la emergencia de nuevas voces, el problema ya no es solo quién piensa el presente, sino cómo se forman los intelectuales de",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/revista-n/intelectuales-argentinos-vacio-deja-generacion-desafio-recambio-tiempos-ajuste-fuga-cerebros_0_p17xPt87GS.html",
-      "image": "https://www.clarin.com/img/2022/03/18/iR_yPUAm6_1200x630__1.jpg",
-      "pubDate": "2026-07-13T03:50:45.000Z",
-      "emojisString": "💻 🚗"
+      "title": "De Paul, entre la profunda reflexión por el Argentina-Inglaterra y lo que sigue emocionándolo",
+      "description": "El Motorcito de la Selección mantuvo una línea similar a la que bajó Scaloni sobre el partido, aunque tuvo una mirada profunda. Además, se abrió sobre lo que le pasa al ver otra vez al equipo en semifinales.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/seleccion/seleccion-argentina-mundial-paul-inglaterra_0_Au1oDcVZ65.html",
+      "image": "https://www.ole.com.ar/images/2026/06/21/6lHTU4E9u_1200x630__1.jpg",
+      "pubDate": "2026-07-13T05:03:53.000Z",
+      "emojisString": "⚽"
     },
     {
       "title": "Las personas que se mudan de Occidente a Rusia en busca de valores tradicionales (y la realidad que encuentran)",
@@ -72,26 +90,8 @@
       "image": "https://media.ambito.com/p/8c9fae2c2e6fd5d1f5b9981f82f4e51b/adjuntos/239/imagenes/043/508/0043508400/1200x675/smart/1200x675-notas-13-07-26.jpg",
       "pubDate": "2026-07-13T03:00:00.000Z",
       "emojisString": "⚽ 🏛️ 💻"
-    },
-    {
-      "title": "Wall Street no cree en otra guerra y sigue subiendo: las tasas de interés apuestan al boom de la IA",
-      "description": "Los mercados financieros minimizan la escalada geopolítica en Medio Oriente, mientras los rendimientos de los bonos reflejan expectativas de mayor crecimiento impulsado por la revolución tecnológica.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/economia/wall-street-no-cree-otra-guerra-y-sigue-subiendo-las-tasas-interes-apuestan-al-boom-la-ia-n6298670",
-      "image": "https://media.ambito.com/p/8c5fdcc647e3a9b8ad346ab25f3684d3/adjuntos/239/imagenes/042/962/0042962091/eeuu-wall-street.jpg",
-      "pubDate": "2026-07-13T03:00:00.000Z",
-      "emojisString": "💵 📊 💻"
-    },
-    {
-      "title": "Video: el imperdible diálogo táctico entre Paredes y Scaloni en Argentina-Suiza",
-      "description": "Durante la pausa de hidratación del segundo tiempo, el volante central y el DT mantuvieron un intercambio de opiniones en función de cómo ajustar movimientos ante el avance del rival.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/seleccion/scaloni-paredes-charla-argentina-suiza_0_NCIluKzdH1.html",
-      "image": "https://www.ole.com.ar/images/2026/07/12/R2912AIyL_1200x630__1.jpg",
-      "pubDate": "2026-07-13T02:40:43.000Z",
-      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-07-13T04:44:55.057Z"
+  "updated": "2026-07-13T07:55:30.307Z"
 }
