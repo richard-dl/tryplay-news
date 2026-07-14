@@ -2,31 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "El Salvador: suben los precios de alojamiento, servicios y restaurantes en 2026",
-      "description": "Las familias salvadoreñas destinan una mayor parte de su presupuesto a cubrir gastos básicos, mientras la inflación marca nuevos desafíos para el consumo diario.",
+      "title": "La falta de rentabilidad y apoyo al sector agroganadero incrementa el riesgo de incendios",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/el-salvador/2026/07/14/el-salvador-suben-los-precios-de-alojamiento-servicios-y-restaurantes-en-2026/",
-      "image": "https://www.infobae.com/resizer/v2/VO3SFIMRTNHKTLRPH4E5DH7MTQ.JPG?auth=5350824ddc6463ccb891f8068ef3b1c32c45967d3496ae8d6225b19eeb1feb79&smart=true&width=4496&height=3000",
-      "pubDate": "2026-07-14T04:12:08.000Z",
-      "emojisString": "💵 💻"
+      "link": "https://www.infobae.com/espana/agencias/2026/07/14/la-falta-de-rentabilidad-y-apoyo-al-sector-agroganadero-incrementa-el-riesgo-de-incendios/",
+      "image": null,
+      "pubDate": "2026-07-14T06:30:56.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "La Coalición de los Voluntarios acordó reforzar el apoyo a Ucrania e imponer nuevas sanciones para aumentar la presión sobre Rusia",
-      "description": "En una cumbre en París, 37 países ratificaron la asistencia a Kiev, avalaron un impulso a la defensa antiaérea y fijaron una línea de endurecimiento económico contra Moscú con un pedido de tregua",
+      "title": "Dos heridos por asta de toro en el último encierro de los Sanfermines 2026",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/mundo/2026/07/14/la-coalicion-de-los-voluntarios-acordo-reforzar-el-apoyo-a-ucrania-e-imponer-nuevas-sanciones-para-aumentar-la-presion-sobre-rusia/",
-      "image": "https://www.infobae.com/resizer/v2/645UNFBVRRB7DK5UBTHESRWORM.jpg?auth=4b4d0e2e84b560657cc7802810100f5c994ae3178c16d79c00b7289af2db5321&smart=true&width=3607&height=2240",
-      "pubDate": "2026-07-14T04:09:25.000Z",
-      "emojisString": "💻 💥"
+      "link": "https://www.infobae.com/espana/agencias/2026/07/14/dos-heridos-por-asta-de-toro-en-el-ultimo-encierro-de-los-sanfermines-2026/",
+      "image": null,
+      "pubDate": "2026-07-14T06:30:39.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "Revés para migrantes en Texas: rechazan la ley que ofrece matrícula estatal a estudiantes sin estatus legal",
-      "description": "Un tribunal federal de apelaciones rechazó la ley que otorgaba matrícula estatal a estudiantes sin estatus legal en Texas. Greg Abbott celebró el fallo como una “importante victoria”. Conoce qué concluyó la corte y cómo afecta a miles de jóvenes migrantes",
+      "title": "Irán atacó una base militar de EE.UU. en Bahréin y lanzó misiles contra dos buques petroleros de Emiratos Árabes",
+      "description": "La ofensiva iraní se dio luego de una ola de bombardeos ordenados por Washington; Trump dijo que se está “restableciendo” un bloqueo en el estrecho de Ormuz",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/texas/reves-para-migrantes-en-texas-rechazan-la-ley-que-ofrece-matricula-estatal-a-estudiantes-sin-estatus-nid14072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/CDHUV3VIFJH2VAYRSAP657QYXM.jpg?auth=6138f2aa232b092bb076c0238e6b42a46b0a21614c42d3db328fea1e51658c15&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-14T04:04:00.000Z",
-      "emojisString": "⚖️ 💻 📚"
+      "link": "https://www.lanacion.com.ar/el-mundo/iran-ataco-una-base-militar-de-eeuu-en-bahrein-y-lanzo-misiles-contra-dos-buques-petroleros-de-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/DIHKENH2JVAUTOMCXMAJCX6V3U.png?auth=19b4bad35c320ab6c63de1c719624c42f01984234e2b2c3d6610e5017cc8eca7&smart=true&width=882&height=461",
+      "pubDate": "2026-07-14T06:29:54.000Z",
+      "emojisString": "💥 🇺🇸"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: semana clave en el Senado y movimientos en causas judiciales",
+      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-semana-clave-en-el-senado-y-movimientos-en-causas-judiciales-nid14072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/IKVEEI5RQVAD3KTWQPNFSNLIGQ.JPG?auth=c9b83d8581d8f34cbc45bf13b9f3a99451cd85c5dd4e4d3c589188da02633d7e&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-14T06:21:04.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "\"El Mundial necesita reglas claras, no excepciones\"",
+      "description": "",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/cartas-al-pais/mundial-necesita-reglas-claras-excepciones_0_u8WnjnmqKA.html",
+      "image": "https://www.clarin.com/img/2026/07/13/2bHRrKtfJ_1200x630__1.jpg",
+      "pubDate": "2026-07-14T05:16:08.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Descontrol en Ensenada: un partido de la \"Liga Amistad\" terminó en una batalla campal que dejó heridos",
+      "description": "El partido se calentó por un cruce entre un jugador y el banco de suplentes.\nAl terminar los 90 minutos, se desató una pelea que dejó a dos futbolistas hospitalizados, uno de ellos muy grave.\nLas versiones cruzadas entre ambos equipos.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/policiales/descontrol-ensenada-partido-liga-amistad-termino-batalla-campal-dejo-heridos_0_ldcyLHIO2s.html",
+      "image": "https://www.clarin.com/img/2026/07/13/BqrmH6grB_1200x630__1.jpg",
+      "pubDate": "2026-07-14T04:26:52.000Z",
+      "emojisString": "💵 🏥"
     },
     {
       "title": "El inicio de una nueva era en Gibraltar con la eliminación de los controles fronterizos entre España y Reino Unido",
@@ -38,15 +65,6 @@
       "emojisString": "📊"
     },
     {
-      "title": "Cáncer. La desigualdad también se juega en el acceso al tratamiento",
-      "description": "El tiempo y el acceso a los estudios varían entre los diferentes sistemas de cobertura",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/cancer-la-desigualdad-tambien-se-juega-en-el-acceso-al-tratamiento-nid14072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/M6C52HO6LREXLDAQ7JSO5D3QCI.JPG?auth=fd111c4e6f6bd38a8859b8abc867ac10a3f351f293d8db66bc0c942bba2427c3&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-14T03:58:00.000Z",
-      "emojisString": "📰"
-    },
-    {
       "title": "Muere por eutanasia Catalina Giraldo, la mujer de 30 años que emprendió una  batalla legal en Colombia para acceder al suicidio médicamente asistido",
       "description": "Tras años sufriendo de un cuadro de depresión severa, entre otros diagnósticos, Catalina le pidió al sistema de salud colombiano que la ayudara y acompañara a terminar su vida.",
       "source": "BBC Mundo",
@@ -54,24 +72,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82bc/live/9adae4f0-2254-11f1-b6d0-3bb01abdfc34.jpg",
       "pubDate": "2026-07-14T03:30:15.000Z",
       "emojisString": "💻 🏥"
-    },
-    {
-      "title": "Clima hoy en Monte Hermoso, Buenos Aires: el pronóstico del tiempo para este martes 14 julio de 2026",
-      "description": "El SMN anticipa para este martes temperaturas entre 8°C y 14°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-monte-hermoso-buenos-aires-pronostico-tiempo-martes-14-julio-2026_0_REOS9zCAk1.html",
-      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg",
-      "pubDate": "2026-07-14T03:23:24.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Clima hoy en Moreno, Buenos Aires: el pronóstico del tiempo para este martes 14 julio de 2026",
-      "description": "El SMN anticipa para este martes temperaturas entre 6°C y 16°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-moreno-buenos-aires-pronostico-tiempo-martes-14-julio-2026_0_mFXgM6jFAA.html",
-      "image": "https://www.clarin.com/img/2025/04/30/gTJX9Uxtf_1200x630__1.jpg",
-      "pubDate": "2026-07-14T03:23:24.000Z",
-      "emojisString": "💻 🌤️"
     },
     {
       "title": "Crece la expectativa por la visita del papa León XIV a la Argentina: qué lugares recorrería y cuál sería la fecha prevista",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-07-14T04:16:37.792Z"
+  "updated": "2026-07-14T06:33:37.454Z"
 }
