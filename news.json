@@ -2,40 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "El Tribunal Supremo Electoral de Guatemala proyecta 29.450 juntas receptoras de votos para 2027",
-      "description": "La propuesta incluyó tecnología satelital como Starlink para reducir riesgos en el conteo y traslado de actas, mientras el tribunal ya registra la señal disponible y analiza servicios para resultados preliminares",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/guatemala/2026/07/16/el-tribunal-supremo-electoral-de-guatemala-proyecta-29450-juntas-receptoras-de-votos-para-2027/",
-      "image": "https://www.infobae.com/resizer/v2/25LEJNXXRZBODIMVGGPEVKQ7WE.png?auth=c6b7d210e423735588c9b5ccb0a0524fa91545da9087586de3f9e2c260254e24&smart=true&width=1408&height=768",
-      "pubDate": "2026-07-16T04:18:58.000Z",
-      "emojisString": "🗳️ ⚖️ 💻"
-    },
-    {
-      "title": "Cancillería despide a embajadores de Colombia, Perú e Italia tras años de misión en Costa Rica",
-      "description": "El ministro de Relaciones Exteriores, Manuel Tovar, reconoció el trabajo de los diplomáticos por fortalecer los vínculos políticos, comerciales, culturales y académicos entre Costa Rica y sus respectivos países",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/costa-rica/2026/07/16/cancilleria-despide-a-embajadores-de-colombia-peru-e-italia-tras-anos-de-mision-en-costa-rica/",
-      "image": "https://www.infobae.com/resizer/v2/GBCJAWN53ZGWJOZXQASUKZFOLI.png?auth=05e90adc5d652de7ef5944885fec0a9f947d6c7f7b4f2437d06593d2ceff79c6&smart=true&width=1844&height=1302",
-      "pubDate": "2026-07-16T04:18:39.000Z",
+      "title": "Olivia Wilde reveló que un beso improvisado de Penélope Cruz la dejó completamente en blanco: “Perdí el control”",
+      "description": "La actriz y directora contó cuál fue su sorpresiva reacción ante el inesperado gesto de su colega española en el set de La invitación",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/olivia-wilde-revelo-que-un-beso-improvisado-de-penelope-cruz-la-dejo-completamente-en-blanco-perdi-nid16072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/DT2B5ODTVRF5XMXPRSZFA33A7E.JPG?auth=a7e523e9558bb0cc2014f623bc4fa5f829ac8ff82ebd583475bdc218faf82cc4&smart=true&width=2058&height=1492",
+      "pubDate": "2026-07-16T06:33:23.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Seis finales, tres estrellas: la extraña genealogía de Argentina en las finales",
-      "description": "Desde la derrota fundacional ante la selección de Uruguay en 1930 hasta la consagración por penales frente a Francia en Qatar 2022, un repaso por la historia de Argentina en la instancia decisiva del Mundial, con Maradona y Messi como protagonistas de sus capítulos más recordados y Alemania como el",
+      "title": "Juró que no volvería a casarse, pero el amor la sorprendió: la boda de ensueño de Paulina Porizkova",
+      "description": "La modelo de 61 años dio el sí en Italia junto a Jeff Greenstein, guionista de Friends y Will and Grace",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/juro-que-no-volveria-a-casarse-pero-el-amor-la-sorprendio-la-boda-de-ensueno-de-paulina-porizkova-nid16072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GPGKR4QLLVDI7PANRJWO6ACM7U.jpg?auth=50256730c513e9f1127455b344cad40bd372df665d5f7ba6379ecba6b8406bd6&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-16T06:33:05.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Fue a la costa a pasar la Navidad y cayó desde la terraza de una cabaña en Mar Azul: cobrará más de $37 millones de indemnización",
+      "description": "El accidente ocurrió en 2009, cuando un huésped de 48 años se apoyó en la baranda de un deck y cayó al vacío tras el colapso de la estructura. Los propietarios del lugar intentaron atribuir el hecho a la víctima, pero el tribunal los responsabilizó luego de un informe técnico que acreditó el estado",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/judiciales/2026/07/16/fue-a-la-costa-a-pasar-la-navidad-y-cayo-desde-la-terraza-de-una-cabana-en-mar-azul-cobrara-mas-de-37-millones-de-indemnizacion/",
+      "image": "https://www.infobae.com/resizer/v2/BH3CNEXLHRC7NAXGDM4HKKML6U.jpg?auth=9dba5ed4b9e32f0db63612d5b6de2a4c115b51f58e6b000a7e06ac3bb1fa3f8c&smart=true&width=1456&height=816",
+      "pubDate": "2026-07-16T06:32:24.000Z",
+      "emojisString": "⚖️ 🚗"
+    },
+    {
+      "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 16 de julio",
+      "description": "Los precios de los combustibles se definen por una serie de variables tanto nacionales como internacionales",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/07/16/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-16-de-julio/",
+      "image": "https://www.infobae.com/resizer/v2/SMOZMNPD6VEF3KKKI7H4A3ELBU.png?auth=6191bbefafc6e36f724433c63e312fd47a9f9b819c71b17dacba76383a0d91a4&smart=true&width=5000&height=3333",
+      "pubDate": "2026-07-16T06:30:52.000Z",
+      "emojisString": "💻 🎬"
+    },
+    {
+      "title": "Con la camiseta de la Selección y temperaturas bajo cero: así celebró un docente en la Antártida la victoria ante Inglaterra",
+      "description": "Al maestro de la Escuela Provincial 34 de la Base Esperanza poco le importó el viento y la nieve. \nBandera en mano, desafió las condiciones climáticas adversas y festejó el triunfo por 2-1 que le dio a Argentina la clasificación a la final del Mundial.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/deportes/camiseta-seleccion-temperaturas-cero-celebro-docente-en-antartida-victoria-inglaterra_0_HiAOz8ITax.html",
+      "image": "https://www.clarin.com/img/2026/07/16/c53WOFZqN_1200x630__1.jpg",
+      "pubDate": "2026-07-16T06:09:23.000Z",
+      "emojisString": "⚽ 💻 🌤️"
+    },
+    {
+      "title": "Argentina sufrió, venció a Suiza en el alargue y ya pensaba en Inglaterra",
+      "description": "Argentina venció 3-1 a Suiza en el alargue y avanzó a semifinales del Mundial 2026. Julián Álvarez y Lautaro Martínez sellaron la remontada en Kansas City después de que los helvéticos resistieran hasta los últimos minutos del tiempo suplementario. Messi, además, se convirtió en el máximo asistidor",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/deportes/seis-finales-tres-estrellas-la-extrana-genealogia-de-argentina-en-las-finales.phtml",
-      "image": "https://fotos.perfil.com/2026/07/16/trim/540/304/16072026maradonamundialcedocg-2284080.jpg",
-      "pubDate": "2026-07-16T04:02:15.000Z",
+      "link": "https://www.perfil.com/noticias/deportes/argentina-sufrio-vencio-a-suiza-en-el-alargue-y-ya-pensaba-en-inglaterra.phtml",
+      "image": "https://fotos.perfil.com/2026/07/16/trim/540/304/16072026argentinaegiptomundialcedocg-2284098.jpg",
+      "pubDate": "2026-07-16T05:10:15.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "Confirmado en Texas: la empresa de IA que abrirá una nueva sede y dará empleo a veteranos",
-      "description": "Conoce el plan de la empresa de IA que llega a Texas para dar empleo a veteranos y los detalles de la millonaria bonificación que recibió de Abbott.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/texas/confirmado-en-texas-la-empresa-de-ia-que-abrira-una-nueva-sede-y-dara-empleo-a-veteranos-nid16072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TSBK5OMGGNFEJHY7OUOCSJFZWA.jpg?auth=500eba7f747974e6cc79169af53b1a2d7667322add2af04219a6b5b10e6ebbe9&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-16T04:00:00.000Z",
-      "emojisString": "💻"
+      "title": "Messi, a los 39 años: su final será con la historia, además de contra España",
+      "description": "Dada su enorme vigencia a lo largo de más de veinte años, muy pocos discuten que el capitán argentino es el mejor futbolista de la historia. Aún así vale la pena repasar su pasado. Sus frutraciones con la selección nacional hasta llegar a la gestión de Scaloni, donde aparecieron los éxitos que sigue",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/deportes/messi-a-los-39-anos-su-final-sera-con-la-historia-ademas-de-contra-espana.phtml",
+      "image": "https://fotos.perfil.com/2026/07/16/trim/540/304/leonel-messi-de-rosario-al-mundo-entero-quedara-como-el-mejor-de-todos-2284089.jpg",
+      "pubDate": "2026-07-16T05:09:05.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Messi con Olé: la emoción en el himno, \"me faltaba ganarle a Inglaterra\" y qué piensa de España",
+      "description": "El 10, a corazón abierto con Olé. \"Fue increíble esta semifinal\", dijo sensibilizado. Y después contó: \"Me preparé para esto, quería ser útil\".",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/seleccion/messiconoleinglaterraespanafinalmundial_0_HatalC89kg.html",
+      "image": "https://www.ole.com.ar/images/2026/07/16/gSKFRMylK_1200x630__1.jpg",
+      "pubDate": "2026-07-16T04:51:04.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "El festejo en el Obelisco se empañó con incidentes sobre el final: hubo corridas, robo de celulares y volaron piedras y botellas",
+      "description": "Hubo enfrentamientos de grupos que participaban de la celebración y ataques contra agentes policiales que custodiaban la zona. Ocurrió alrededor de la medianoche.\nEn principio, la situación fue controlada y no dejó heridos graves. En Córdoba, también hubo incidentes: botellazos y al menos, 10 deteni",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/ciudades/festejo-obelisco-empano-incidentes-final-corridas-robo-celulares-volaron-piedras-botellas_0_gZkYKaHar9.html",
+      "image": "https://www.clarin.com/img/2026/07/16/jA9aoUsr2_1200x630__1.jpg",
+      "pubDate": "2026-07-16T04:21:56.000Z",
+      "emojisString": "🚨 💻 📱"
     },
     {
       "title": "¿Pueden las rutas alternativas al estrecho de Ormuz mantener el flujo de petróleo y gas del Golfo?",
@@ -45,53 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dea0/live/60ffd000-8051-11f1-b47b-31c36e8d0b3a.png",
       "pubDate": "2026-07-16T03:59:52.000Z",
       "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Senado: fuerte apuesta del Gobierno para aprobar el proyecto de extranjerización de tierras",
-      "description": "La sesión que provocó un tenso cruce entre Villarruel y Bullrich será este jueves; el temario incluye pliegos judiciales como el de Rodríguez Ponte para el juzgado del caso Insaurralde-Cirio; incertidumbre por el quórum",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/senado-fuerte-apuesta-del-gobierno-para-aprobar-el-proyecto-de-extranjerizacion-de-tierras-nid16072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/7XMW2WEZQJFOTDADAZROLHBPQU.jpeg?auth=59b12c08dcdb6ac8ac0f0d8631f2faaa487c217853f817d85d346b7abadbc7d4&smart=true&width=1360&height=910",
-      "pubDate": "2026-07-16T03:51:00.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este jueves 16 julio de 2026",
-      "description": "El SMN anticipa para este jueves temperaturas entre 14°C y 19°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-jueves-16-julio-2026_0_glLe5P295A.html",
-      "image": "https://www.clarin.com/img/2025/04/30/AZmKDesrO_1200x630__1.jpg",
-      "pubDate": "2026-07-16T03:46:46.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este jueves 16 julio de 2026",
-      "description": "El pronóstico extendido durante la jornada.\n¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-jueves-16-julio-2026_0_Dv3PVt1Tcq.html",
-      "image": "https://www.clarin.com/img/2025/04/30/qrC2hnAc8_1200x630__1.jpg",
-      "pubDate": "2026-07-16T03:46:23.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Por qué los hinchas argentinos vivimos cada partido como una verdadera cuestión de identidad",
-      "description": "No alcanza con explicar la pasión por el fútbol. En Argentina, la camiseta funciona como una bandera, la tribuna como un espacio de pertenencia y cada Mundial se acentúa con rituales individuales y colectivos. Promesas imposibles, cábalas, viajes interminables de los seguidores y un repertorio de ca",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/deportes/por-que-los-hinchas-argentinos-vivimos-cada-partido-como-una-verdadera-cuestion-de-identidad.phtml",
-      "image": "https://fotos.perfil.com/2026/07/16/trim/540/304/17072026hinchaargentinaxinhuag-2284060.jpg",
-      "pubDate": "2026-07-16T03:31:37.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "El Gobierno protestó ante el Reino Unido por la incursión del HMS Medway en aguas argentinas sin aviso previo",
-      "description": "El incidente tensiona los mecanismos de confianza militar vigentes desde 1990 y el cumplimiento del acuerdo bilateral Madrid II.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/el-gobierno-protesto-el-reino-unido-la-incursion-del-hms-medway-aguas-argentinas-aviso-previo-n6300065",
-      "image": "https://media.ambito.com/p/50a1f0c27eb3b9ab9a914a56b0bc20ec/adjuntos/239/imagenes/043/497/0043497784/1200x675/775x494:795x514/buque-britanico-hms-medway.jpg",
-      "pubDate": "2026-07-16T03:06:56.000Z",
-      "emojisString": "🏛️ 💻 💥"
     }
   ],
   "count": 10,
-  "updated": "2026-07-16T04:24:00.616Z"
+  "updated": "2026-07-16T06:40:21.479Z"
 }
