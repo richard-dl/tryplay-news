@@ -2,58 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Megaprima de congresistas: Pablo Bustos ve “indignante” suspensión de eliminación del pago",
-      "description": "El veedor cuestionó que el Consejo de Estado suspendiera el decreto que eliminaba la prima de servicios especiales para congresistas",
+      "title": "Corte Suprema avala despido por no justificar $100 millones retirados de cesantías",
+      "description": "El alto tribunal recordó que las cesantías anticipadas solo pueden usarse para fines autorizados y que trabajador y empleador deben verificar su destino",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/07/18/megaprima-de-congresistas-pablo-bustos-ve-indignante-suspension-de-eliminacion-del-pago/",
-      "image": "https://www.infobae.com/resizer/v2/JPBKIUDOPNBLFNLHNRQNIAHDLM.jpeg?auth=0d37c73ca0f30d089632b63c21f08c905f8bff4b05ff93b4c6e7ff2bb3304205&smart=true&width=1216&height=745",
-      "pubDate": "2026-07-18T04:08:49.000Z",
+      "link": "https://www.infobae.com/colombia/2026/07/18/corte-suprema-avala-despido-por-no-justificar-100-millones-retirados-de-cesantias/",
+      "image": "https://www.infobae.com/resizer/v2/SIP3VY6OFJHXFOSYNMPEM434J4.jpg?auth=d1700a3256b6aea4d7565aaf47079409967c815854968c51f41019d7330b9a87&smart=true&width=640&height=428",
+      "pubDate": "2026-07-18T06:16:00.000Z",
+      "emojisString": "⚖️"
+    },
+    {
+      "title": "Resultados Lotería de Santander hoy 18 de julio: revise su billete y cobre el premio mayor",
+      "description": "Como cada sábado, aquí están los números ganadores del últimos sorteo de esta lotería colombiana",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/colombia/2026/07/18/resultados-loteria-de-santander-hoy-18-de-julio-revise-su-billete-y-cobre-el-premio-mayor/",
+      "image": "https://www.infobae.com/resizer/v2/JEELRQKZDZGITJBUG7VAMX7CVQ.jpg?auth=eb3cd19f7d9c80b6f33aaa487b182899394600ba5ce5e4edd1921af898e95525&smart=true&width=1920&height=1080",
+      "pubDate": "2026-07-18T06:15:45.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Mexicanos celebrarán el cumpleaños de Haaland en el Zócalo de la Ciudad de México",
-      "description": "Tras la eliminación del Tri ante Inglaterra en el Mundial 2026, el cariño nacional se volcó hacia Noruega y su artillero, quien correspondió",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/deportes/2026/07/18/mexicanos-celebraran-el-cumpleanos-de-haaland-en-el-zocalo-de-la-ciudad-de-mexico/",
-      "image": "https://www.infobae.com/resizer/v2/ZPTUY7FULNC6XNOFVWVQQXY3QQ.png?auth=c39041dd6ec99f20f3895e3540e471e576840c85849a85b7d6c79abf80a75f79&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-18T04:08:31.000Z",
+      "title": "Powerball sube a US$526 millones: de cuánto es el premio en efectivo para el sorteo del sábado",
+      "description": "Descubre cuánto paga en efectivo el sorteo del Powerball de US$526 millones, cómo influyen los impuestos y qué opciones tiene el ganador.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/loterias/powerball-sube-a-us526-millones-de-cuanto-es-el-premio-en-efectivo-para-el-sorteo-del-sabado-nid18072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/7WXZB67MYRGOHJT2WQNNLXTD6A.png?auth=7fe8c7d109a8ba0e0847d468bd74fce3fdb223a6af50a3c446d8ec24d3fd7cf6&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-18T06:15:00.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Ucrania lanzó un ataque con drones contra uno de los mercados más grandes de Rusia: al menos siete muertos y 24 heridos",
+      "description": "El hecho tuvo lugar en el centro logístico de Wildberries, en Kotovsk, región de Tambov",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/el-mundo/ucrania-lanzo-un-ataque-con-drones-contra-uno-de-los-mercados-mas-grandes-de-rusia-al-menos-siete-nid18072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/RI4DI4XGC5HSVJXOHZ5DSVQHRQ.jpeg?auth=584ca2b710f98f7d63ea44cd8ba363b4515f373d881f2a8726713ba529c7538c&smart=true&width=1600&height=956",
+      "pubDate": "2026-07-18T06:12:54.000Z",
+      "emojisString": "📊 💻 💥"
+    },
+    {
+      "title": "El doloroso recuerdo de la familia de Catalina, a dos años del femicidio",
+      "description": "Catalina Gutiérrez fue asesinada en Córdoba por Néstor Soto. Sus padres ofrecieron a una misa en su memoria y ratificaron que seguirán impulsando distintas acciones judiciales e institucionales. “Queremos que la perpetua sea efectiva y de por vida, hoy en Argentina llega hasta los 35 años”, dijo el",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/policia/el-doloroso-recuerdo-de-la-familia-de-catalina-a-dos-anos-del-femicidio.phtml",
+      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/18072026catalinagutierreznestorsotocedocg-2285684.jpg",
+      "pubDate": "2026-07-18T05:57:39.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Un Mundial con un guion de Hollywood",
+      "description": "Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/deportes/un-mundial-con-un-guion-de-hollywood.phtml",
+      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/18072026mundialseleccionbanderaxinghuag-2285689.jpg",
+      "pubDate": "2026-07-18T05:55:29.000Z",
+      "emojisString": "⚽ 💻 🎬"
+    },
+    {
+      "title": "No podía faltar: el último asado de la Selección antes de la final del Mundial",
+      "description": "El rito sagrado se repitió en el Hilton Hills de Nueva Jersey: cómo fue el paso a paso y quiénes manejaron la parrilla, que fue conseguida especialmente para este evento tan importante en las previas.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/seleccion/asado-seleccion-argentina_0_aqL0sT3Dtg.html",
+      "image": "https://www.ole.com.ar/images/2026/07/18/l09QRcXvZ_1200x630__1.jpg",
+      "pubDate": "2026-07-18T05:51:47.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "Eduardo Coudet asumió la responsabilidad tras la eliminación de River: “Fue un papelón”",
-      "description": "El DT criticó la imagen del equipo en la caída contra Aldosivi por Copa Argentina; aclaró que no decidió apartar a 15 jugadores",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/eduardo-coudet-asumio-la-responsabilidad-tras-la-eliminacion-de-river-fue-un-papelon-nid18072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/QPOJA6D24ZESJICWSZEEUWBSXM.JPG?auth=2f61df3f7e2913b5cb30fdb5e243e12cfe2fa78e3cb3e6e4f3a3b5e90547d88f&smart=true&width=2238&height=1492",
-      "pubDate": "2026-07-18T04:01:24.000Z",
-      "emojisString": "⚽"
+      "title": "Boom literario en español: el Premio Clarín Novela bate un récord histórico con 1.414 manuscritos llegados desde 35 países",
+      "description": "Cerró la convocatoria de 2026 con una cifra de participación inédita que supera marcas de hace dos décadas. \nUn jurado de lujo compuesto por Ariana Harwicz, Betina González y Héctor Abad Faciolince, elegirá la obra ganadora que recibirá un premio de 14 millones de pesos.\nTras recibir más de 1.400 ma",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/cultura/boom-literario-espanol-premio-clarin-novela-bate-record-historico-1414-manuscritos-llegados-35-paises_0_QxfHgFpSv1.html",
+      "image": "https://www.clarin.com/img/2025/11/06/gyvskFvY0_1200x630__1.jpg",
+      "pubDate": "2026-07-18T05:19:32.000Z",
+      "emojisString": "💵 💻"
     },
     {
-      "title": "Por qué las verduras de invierno son consideradas aliadas naturales de la salud",
-      "description": "Virus, hongos, insectos, radiación y frío obligan a las plantas a producir sustancias protectoras. Esos mismos compuestos son la base de muchas de sus propiedades medicinales",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/revista-jardin/por-que-las-verduras-de-invierno-son-consideradas-aliadas-naturales-de-la-salud-nid18072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/NS74AQYEZJBRXI4IRO2Y25JMXI.jpg?auth=08ec8c9bf1a994f204195df8dff1d668fbda997b3ea8cc2c3a54af4d64a1d6fe&smart=true&width=2002&height=1333",
-      "pubDate": "2026-07-18T04:00:00.000Z",
-      "emojisString": "💻 🌤️ 🏥"
-    },
-    {
-      "title": "Se debilita la base histórica de apoyo a Trump a causa de la guerra y la economía",
-      "description": "El último sondeo de ‘The Washington Post’ e ‘Ipsos’ revela un mínimo histórico en el porcentaje de estadounidenses que apoyan fervientemente al mandatario, condicionado por el impacto de la inflación en los hogares y el escepticismo sobre el conflicto con Irán. Su aprobación general se estancó en el",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/internacional/se-debilita-la-base-historica-de-apoyo-a-trump-a-causa-de-la-guerra-y-la-economia.phtml",
-      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/18072026trumpcedocg-2285661.jpg",
-      "pubDate": "2026-07-18T03:54:21.000Z",
-      "emojisString": "💵 📊 💥"
-    },
-    {
-      "title": "La conversación literaria como reencuentro",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/opinion/la-conversacion-literaria-como-reencuentro-por-alvaro-colazo.phtml",
-      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/180726cuidadoinfantiladultoslecturacedocg-2285653.jpg",
-      "pubDate": "2026-07-18T03:53:01.000Z",
-      "emojisString": "💻"
+      "title": "Un deslizamiento de tierra en el centro de China sepulta a más de 10 edificios residenciales: al menos 8 muertos y más de 30 desaparecidos",
+      "description": "Las intensas lluvias en el centro del país provocaron el desprendimiento de grandes rocas y taludes de tierra. Hay más de 2.000 evacuados. \nLa tragedia tuvo como principal epicentro, la localidad de Chongqing.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/mundo/deslizamiento-tierra-centro-china-sepulta-10-edificios-residenciales-8-muertos-30-desaparecidos_0_EIyLwA8fb5.html",
+      "image": "https://www.clarin.com/img/2026/07/18/3HSec6-jh_1200x630__1.jpg",
+      "pubDate": "2026-07-18T05:18:29.000Z",
+      "emojisString": "💻 🌤️ 🚗"
     },
     {
       "title": "La contundente respuesta de Coudet sobre los borrados de River",
@@ -63,35 +90,8 @@
       "image": "https://www.ole.com.ar/images/2026/07/18/phbSPHEcL_1200x630__1.jpg",
       "pubDate": "2026-07-18T03:41:41.000Z",
       "emojisString": "⚽ 📊"
-    },
-    {
-      "title": "Video: por qué se debería haber cobrado offside en el primer gol de Aldosivi a River",
-      "description": "En el inicio de la jugada, Fernández, autor del tanto, estaba adelantado e interfirió a Martínez Quarta, aunque no era fácil de notar sin la ayuda del VAR, que en esta instancia de la Copa Argentina aún no está.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/copa-argentina/video-deberia-cobrado-offside-primer-gol-aldosivi-river_0_ULCDqBxk9S.html",
-      "image": "https://www.ole.com.ar/images/2026/07/18/kzvIgcv84_1200x630__1.jpg",
-      "pubDate": "2026-07-18T03:36:04.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Clima hoy en Mar del Tuyú, Buenos Aires: el pronóstico del tiempo para este sábado 18 julio de 2026",
-      "description": "El SMN anticipa para este sábado temperaturas entre 9°C y 13°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-mar-tuyu-buenos-aires-pronostico-tiempo-sabado-18-julio-2026_0_zrv677llYH.html",
-      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg",
-      "pubDate": "2026-07-18T03:23:28.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Clima hoy en Merlo, Buenos Aires: el pronóstico del tiempo para este sábado 18 julio de 2026",
-      "description": "El SMN anticipa para este sábado temperaturas entre 12°C y 16°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-merlo-buenos-aires-pronostico-tiempo-sabado-18-julio-2026_0_X6vb8qbT28.html",
-      "image": "https://www.clarin.com/img/2025/04/30/f4xLaY8eq_1200x630__1.jpg",
-      "pubDate": "2026-07-18T03:23:24.000Z",
-      "emojisString": "💻 🌤️"
     }
   ],
   "count": 10,
-  "updated": "2026-07-18T04:13:03.798Z"
+  "updated": "2026-07-18T06:18:23.735Z"
 }
