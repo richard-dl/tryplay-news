@@ -2,58 +2,76 @@
   "success": true,
   "data": [
     {
+      "title": "Día del Pollo a la Brasa: ¿Cuándo es y por qué se celebra?",
+      "description": "El plato evolucionó con nuevos acompañamientos, incorporando preparaciones como el mostrito, tallarines verdes, huancaína y frijoles con seco, además de las tradicionales papas fritas y ensaladas",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/peru/2026/07/16/dia-del-pollo-a-la-brasa-cuando-es-y-por-que-se-celebra/",
+      "image": "https://www.infobae.com/resizer/v2/QWOCMV55NFDS3JH3XEN4XAWWZM.jpg?auth=296f41e2c1cbcf2e159a3379388e9ecde8e45857c113fbbecee303c63881cfc8&smart=true&width=1920&height=1080",
+      "pubDate": "2026-07-18T17:26:57.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 18 de julio: se esperan fuertes lluvias y posible ciclón tropical",
+      "description": "Sigue en tiempo real las actualizaciones del pronóstico del clima en los distintos estados de la República Mexicana",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/07/18/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-18-de-julio/",
+      "image": "https://www.infobae.com/resizer/v2/DSFHWLSPQRFKFEKFVSF6QPTYTA.jpeg?auth=bf8b57aced7e6be662bcb9838feb87ca2e95bd99137cf9595ef13caedcfd494e&smart=true&width=1296&height=864",
+      "pubDate": "2026-07-18T17:25:37.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Lao Tzu, filósofo chino: “Ten paciencia. Espera a que el lodo se asiente y el agua corra clara. Permanece quieto hasta que la acción correcta surja”",
+      "description": "Frente al ritmo frenético del mundo moderno, la sabiduría antigua nos invita a pausar los impulsos y cultivar la serenidad mental como la estrategia más efectiva para resolver conflictos con lucidez",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/lifestyle/lao-tzu-filosofo-chino-ten-paciencia-espera-a-que-el-lodo-se-asiente-y-el-agua-corra-clara-permanece-nid11072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/3Z3CNWM5SBFAJJTZ4FTURBUG6A.jpg?auth=aeb44e60c9ccb2c393f601335fe5b28aadd3ec984ed0047b7553470aa33e0367&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-18T17:24:34.000Z",
+      "emojisString": "💻 💥"
+    },
+    {
       "title": "Así es la casa sustentable del hijo de Julián Weich en Córdoba",
       "description": "Jerónimo “Momo” Weich está instalado en la zona de Los Hornillos y compartió en sus redes sociales el proceso de construcción de su propio hogar con materiales naturales y recursos locales",
       "source": "La Nación",
       "link": "https://www.lanacion.com.ar/espectaculos/asi-es-la-casa-sustentable-del-hijo-de-julian-weich-en-cordoba-nid18072026/",
       "image": "https://resizer.glanacion.com/resizer/v2/WNNHMFZ5F5G4BHGMYD43YGGI3U.png?auth=a6fdf45debda4b217b70361d6b12c8b31e5ecc43eeb2d74d890326805233a15f&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-18T16:25:48.000Z",
+      "pubDate": "2026-07-18T17:23:55.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Los veterinarios concuerdan: esta es la verdadera razón por la que los gatos se acuestan sobre la computadora",
-      "description": "Aunque las laptops emiten una temperatura agradable, los expertos en comportamiento animal revelan que este hábito esconde una estrategia mucho más astuta",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/lifestyle/mascotas/los-veterinarios-concuerdan-esta-es-la-verdadera-razon-por-la-que-los-gatos-se-acuestan-sobre-la-nid18072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ORGAU6ORVVGYTPEDFIGHKCW6VE.jpg?auth=1ba318937e2f3dc63b7d2f704aba22340901de8d795d938f4fbd046dbe35e736&smart=true&width=1332&height=850",
-      "pubDate": "2026-07-18T16:23:37.000Z",
-      "emojisString": "💻 🌤️"
+      "title": "Colapinto se quejó del Alpine y ya hay fecha para las mejoras: \"Tenemos que recuperar el terreno perdido\"",
+      "description": "Franco se quejó en el GP de Bélgica que Alpine no llevó novedades al auto, pero al menos hay una confirmación: el director del equipo confirmó buenas noticias al respecto para seguir peleando en la zona media de la tabla.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/autos/formula-1-llegan-mejoras-alpine-franco-colapinto-argentino-quejo-rendimiento-steve_0_b2MmXUkkVf.html",
+      "image": "https://www.ole.com.ar/images/2026/07/18/RzO0DTbg-_1200x630__1.jpg",
+      "pubDate": "2026-07-18T17:23:53.000Z",
+      "emojisString": "🏎️ 💻"
     },
     {
-      "title": "Aberrante: detuvieron a un albañil paraguayo en Merlo acusado de ser un violador serial de chicos",
-      "description": "La División Homicidios de la PFA capturó a Carlos Alberto Avalos Vallejo, buscado por abusar y corromper a seis menores, entre ellos un niño con retraso madurativo",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/sociedad/policiales/2026/07/18/aberrante-detuvieron-a-un-albanil-paraguayo-en-merlo-acusado-de-ser-un-violador-serial-de-chicos/",
-      "image": "https://www.infobae.com/resizer/v2/KJKWJ76D55EX3GBAXRN7K24UZU.jpeg?auth=34efccb1e3c738399293e033803f1a3a1390abe4fedad33bae7e3b3a693de654&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-18T16:22:20.000Z",
+      "title": "Racing sin su 9 figura: las bajas de Martínez y Di Cesare complican a Vojvoda",
+      "description": "El técnico no contará con estos dos jugadores para recibir a Gimnasia en el debut en el Clausura porque sus expulsiones ante Rosario Central en los playoffs del Apertura.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/racing/vojvoda-racing-gimnasia-clausura-martinez-di-cesare_0_Lb60aBmfOw.html",
+      "image": "https://www.ole.com.ar/images/2026/03/18/l0l8WCcPC_1200x630__1.jpg",
+      "pubDate": "2026-07-18T17:14:15.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Hombre subió a torre de la L1 del Cablebús y suspenden el servicio para rescatarlo",
-      "description": "De alrededor de 30, años el sujeto estaba sin camisa y eufórico, por lo que investigan si se encuentra bajo efectos de alcohol o drogas, autoridades le facilitaron hablar por celular con familiares",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/07/18/hombre-subio-a-torre-de-la-l1-del-cablebus-y-suspenden-el-servicio-para-rescatarlo/",
-      "image": "https://www.infobae.com/resizer/v2/MA74GYQZSZBZRIGBNKYU3YZRSU.jpg?auth=f20bd9d739b6b43ea166c12670e6eae900d4329c86955c46199607b0e19ce4e6&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-18T16:22:13.000Z",
-      "emojisString": "💻 📱 🇧🇷"
+      "title": "Messi y Lamine Yamal, unidos por La Masía: Barcelona publicó un video que emociona antes de la final del Mundial",
+      "description": "A horas de la final del Mundial 2026 entre Argentina y España, el club encontró la manera de unir a los dos grandes protagonistas.\nLa institución catalana publicó este viernes un video de casi diez minutos titulado \"Made in La Masia\".\nAllí repasa el recorrido de los dos futbolistas como dos de las m",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/deportes/messi-lamine-yamal-unidos-masia-barcelona-publico-video-emociona-final-mundial_0_abJxitdDxk.html",
+      "image": "https://www.clarin.com/img/2026/07/18/O1e5iUxVQ_1200x630__1.jpg",
+      "pubDate": "2026-07-18T16:47:45.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
-      "title": "Por qué sancionaron a cuatro pilotos para beneficio de Colapinto en el GP de Bélgica",
-      "description": "El argentino sacó rédito con las penalizaciones a Norris y Hadjar, y también la ligaron Alonso y Stroll. Aquí, las razones.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/autos/razon-penalizaciones-belgica-formula1-colapinto_0_PKrkCfIGLc.html",
-      "image": "https://www.ole.com.ar/images/2026/07/18/N2-kdhlPg_1200x630__1.jpg",
-      "pubDate": "2026-07-18T16:20:13.000Z",
-      "emojisString": "🏎️"
-    },
-    {
-      "title": "El Kun Agüero cruzó sin filtro a Laporte por sus dichos sobre el juego de Argentina",
-      "description": "Luego de que su ex compañero dijera que veía cosas que lo \"extrañaban\", Sergio salió a responder a través de su ciclo de stream. Qué fue lo que dijo Aymeric y su reflexión elogiosa sobre Messi.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/seleccion/seleccion-argentina-espana-laporte-messi_0_fonSh5lPaQ.html",
-      "image": "https://www.ole.com.ar/images/2026/07/18/CIa38GhHb_1200x630__1.jpg",
-      "pubDate": "2026-07-18T16:12:42.000Z",
-      "emojisString": "⚽"
+      "title": "El viejo sueño de ser el arquero de España",
+      "description": "",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/deportes/viejo-sueno-arquero-espana_0_LgCK7WNNhF.html",
+      "image": "https://www.clarin.com/img/2026/07/06/A6aiF_lD7_1200x630__1.jpg",
+      "pubDate": "2026-07-18T16:44:37.000Z",
+      "emojisString": "📰"
     },
     {
       "title": "Mundial 2026, EN VIVO: la jornada del sábado 18 de julio minuto a minuto y últimas noticias",
@@ -63,24 +81,6 @@
       "image": "https://media.ambito.com/p/2a1493cc8e2b21075ca9ccbc82ce8d7f/adjuntos/239/imagenes/043/524/0043524788/1200x675/750x294:770x314/kane-mbappe.jpeg",
       "pubDate": "2026-07-18T15:58:00.000Z",
       "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "La era del Monotributo: sube más de 7% la cantidad de gente en ese sistema desde que asumió Milei",
-      "description": "Por pérdida de empleo registrado, necesidad de complementar ingresos o trabajar en aplicaciones, hay más gente que se anotó en este régimen simplificado.\nEl FMI había pedido reformas al sistema.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/monotributo-sube-7-cantidad-gente-sistema-asumio-milei_0_iT4aoY8icl.html",
-      "image": "https://www.clarin.com/img/2024/01/10/EcGjDqsbW_1200x630__1.jpg",
-      "pubDate": "2026-07-18T15:53:55.000Z",
-      "emojisString": "🏛️"
-    },
-    {
-      "title": "Día Internacional de la Luna: por qué se celebra el 20 de julio, datos curiosos y cómo estará hoy",
-      "description": "La Luna es objeto de estudio constante y guarda secretos que la ciencia sigue revelando con cada nueva misión espacial. \nLa ONU invita a reflexionar sobre el único satélite natural de la Tierra y su influencia.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/dia-internacional-luna-celebra-20-julio-datos-curiosos-hoy_0_3b0ShM9k6f.html",
-      "image": "https://www.clarin.com/img/2026/07/03/wuZo9Z1l1_1200x630__1.jpg",
-      "pubDate": "2026-07-18T15:53:25.000Z",
-      "emojisString": "💻"
     },
     {
       "title": "Otra tragedia en la Ruta 4 en Córdoba: dos muertos por el choque entre un camión y un utilitario",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-07-18T16:27:07.073Z"
+  "updated": "2026-07-18T17:29:22.414Z"
 }
