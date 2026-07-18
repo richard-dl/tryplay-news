@@ -2,58 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Corte Suprema avala despido por no justificar $100 millones retirados de cesantías",
-      "description": "El alto tribunal recordó que las cesantías anticipadas solo pueden usarse para fines autorizados y que trabajador y empleador deben verificar su destino",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/07/18/corte-suprema-avala-despido-por-no-justificar-100-millones-retirados-de-cesantias/",
-      "image": "https://www.infobae.com/resizer/v2/SIP3VY6OFJHXFOSYNMPEM434J4.jpg?auth=d1700a3256b6aea4d7565aaf47079409967c815854968c51f41019d7330b9a87&smart=true&width=640&height=428",
-      "pubDate": "2026-07-18T06:16:00.000Z",
-      "emojisString": "⚖️"
-    },
-    {
-      "title": "Resultados Lotería de Santander hoy 18 de julio: revise su billete y cobre el premio mayor",
-      "description": "Como cada sábado, aquí están los números ganadores del últimos sorteo de esta lotería colombiana",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/07/18/resultados-loteria-de-santander-hoy-18-de-julio-revise-su-billete-y-cobre-el-premio-mayor/",
-      "image": "https://www.infobae.com/resizer/v2/JEELRQKZDZGITJBUG7VAMX7CVQ.jpg?auth=eb3cd19f7d9c80b6f33aaa487b182899394600ba5ce5e4edd1921af898e95525&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-18T06:15:45.000Z",
+      "title": "Suelos saturados de humedad complicaron la implantación  del trigo",
+      "description": "En varias zonas hubo que pasar de largo con las fecha de siembra temprana para enfocarse en las intermedias y tardías",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/economia/campo/suelos-saturados-de-humedad-complicaron-la-implantacion-del-trigo-nid18072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YQ7JYB4EUNF6FOW6272XKIM45I.jpg?auth=0ec2c7bcaa31eafabb6d2080f391a5757e838187bc657f3deff96262d1aea958&smart=true&width=4160&height=2768",
+      "pubDate": "2026-07-18T08:13:00.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Powerball sube a US$526 millones: de cuánto es el premio en efectivo para el sorteo del sábado",
-      "description": "Descubre cuánto paga en efectivo el sorteo del Powerball de US$526 millones, cómo influyen los impuestos y qué opciones tiene el ganador.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/loterias/powerball-sube-a-us526-millones-de-cuanto-es-el-premio-en-efectivo-para-el-sorteo-del-sabado-nid18072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/7WXZB67MYRGOHJT2WQNNLXTD6A.png?auth=7fe8c7d109a8ba0e0847d468bd74fce3fdb223a6af50a3c446d8ec24d3fd7cf6&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-18T06:15:00.000Z",
-      "emojisString": "📰"
+      "title": "El futuro soberano de los Estados Unidos",
+      "description": "La arquitectura estatal norteamericana, no centralizada y permeada por numerosos grupos de interés, contrasta con la centralización política de China y Rusia, donde el poder de los lobbies es mucho más acotado",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/opinion/2026/07/18/el-futuro-soberano-de-los-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/UBMRUQVR4ZDLVLRN4OJD25OWOY.jpg?auth=3b3017e2064e7c7ba2280100137b45d2b0023721d7c44a58d8dfeec0a9f155b2&smart=true&width=1920&height=1280",
+      "pubDate": "2026-07-18T08:12:15.000Z",
+      "emojisString": "💻 🇺🇸 🇨🇳"
     },
     {
-      "title": "Ucrania lanzó un ataque con drones contra uno de los mercados más grandes de Rusia: al menos siete muertos y 24 heridos",
-      "description": "El hecho tuvo lugar en el centro logístico de Wildberries, en Kotovsk, región de Tambov",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/el-mundo/ucrania-lanzo-un-ataque-con-drones-contra-uno-de-los-mercados-mas-grandes-de-rusia-al-menos-siete-nid18072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/RI4DI4XGC5HSVJXOHZ5DSVQHRQ.jpeg?auth=584ca2b710f98f7d63ea44cd8ba363b4515f373d881f2a8726713ba529c7538c&smart=true&width=1600&height=956",
-      "pubDate": "2026-07-18T06:12:54.000Z",
-      "emojisString": "📊 💻 💥"
+      "title": "Eutanasia: improvisación legislativa para causar la muerte",
+      "description": "Todos los proyectos que apuntan a regular la eutanasia y el suicidio asistido presentan inconsistencias y riesgos para la seguridad jurídica",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/opinion/2026/07/18/eutanasia-improvisacion-legislativa-para-causar-la-muerte/",
+      "image": "https://www.infobae.com/resizer/v2/XGRYJTAYCRAJLI7M4VOV2O6PZM.jpg?auth=9252384ae8ea05131e7229363ff3bc57a4f640beaed30815e0ac5abdcc49be59&smart=true&width=1920&height=1280",
+      "pubDate": "2026-07-18T08:11:57.000Z",
+      "emojisString": "💻 🚗"
     },
     {
-      "title": "El doloroso recuerdo de la familia de Catalina, a dos años del femicidio",
-      "description": "Catalina Gutiérrez fue asesinada en Córdoba por Néstor Soto. Sus padres ofrecieron a una misa en su memoria y ratificaron que seguirán impulsando distintas acciones judiciales e institucionales. “Queremos que la perpetua sea efectiva y de por vida, hoy en Argentina llega hasta los 35 años”, dijo el",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/policia/el-doloroso-recuerdo-de-la-familia-de-catalina-a-dos-anos-del-femicidio.phtml",
-      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/18072026catalinagutierreznestorsotocedocg-2285684.jpg",
-      "pubDate": "2026-07-18T05:57:39.000Z",
+      "title": "A qué hora es la clasificación de Franco Colapinto en Spa-Francorchamps y cómo ver hoy EN VIVO el GP de Bélgica de F1",
+      "description": "El piloto de Alpine, de buen viernes, tratará de confirmar su gran andar en la tercera práctica y la qualy de este sábado. Seguilo en Olé.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/autos/hora-clasificacion-franco-colapinto-spa-francorchamps-ver-hoy-vivo-gp-belgica-f1_0_K8ylVHyQiT.html",
+      "image": "https://www.ole.com.ar/images/2026/07/17/jfIpb-qhf_1200x630__1.jpg",
+      "pubDate": "2026-07-18T08:01:17.000Z",
+      "emojisString": "🏎️"
+    },
+    {
+      "title": "En qué canal pasan Argentina vs. Italia por la Nations League 2026 hoy",
+      "description": "El encuentro correspondiente a la tercera fecha del último weekend se disputa este sábado a las 7.20 (horario argentino) en Osaka, Japón",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/voley/en-que-canal-pasan-argentina-vs-italia-por-la-nations-league-2026-hoy-nid18072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/SUQKE7WQVVGZ5GNVZTPMWA55RQ.jpg?auth=3592b1a819a1e9166fee326327339fefaf3ce88d357a9ed0c15609e4002b42d7&smart=true&width=1280&height=853",
+      "pubDate": "2026-07-18T08:00:00.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Un Mundial con un guion de Hollywood",
-      "description": "Leer más",
+      "title": "Clima en Ciudad de Buenos Aires: sábado inestable con lluvias persistentes y marcado descenso térmico",
+      "description": "El ingreso de un frente frío interrumpe las marcas atípicas en el AMBA. Conocé el pronóstico detallado para la Ciudad de Buenos Aires y CABA ante un escenario de lluvias continuas. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/deportes/un-mundial-con-un-guion-de-hollywood.phtml",
-      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/18072026mundialseleccionbanderaxinghuag-2285689.jpg",
-      "pubDate": "2026-07-18T05:55:29.000Z",
-      "emojisString": "⚽ 💻 🎬"
+      "link": "https://www.perfil.com/noticias/clima/clima-en-ciudad-de-buenos-aires-sabado-inestable-con-lluvias-persistentes-y-marcado-descenso-termico.phtml",
+      "image": "https://fotos.perfil.com/2026/07/10/trim/540/304/lluvia-10072026-2279705.jpg",
+      "pubDate": "2026-07-18T08:00:00.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Dólar blue hoy: a cuánto cotiza este sábado 18 de julio",
+      "description": "Mirá la cotización para la compra y venta del dólar blue hoy.\nLa brecha con el dólar oficial.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-sabado-18-julio_0_fSCLlI8naq.html",
+      "image": "https://www.clarin.com/img/2017/08/29/ryra6HxcW_1200x630.jpg",
+      "pubDate": "2026-07-18T07:00:02.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "El Mundial se le volcó encima al Gobierno",
+      "description": "El triunfo ante Inglaterra golpeó al oficialismo, que debió retirar el jueves, con el rabo entre las piernas, el debate sobre la ley de Inviolabilidad de la Propiedad.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/mundial-volco-encima-gobierno_0_DxPztCGrDc.html",
+      "image": "https://www.clarin.com/img/2026/07/16/cjDoEKdEC_1200x630__1.jpg",
+      "pubDate": "2026-07-18T06:57:16.000Z",
+      "emojisString": "⚽ 🏛️ 💻"
+    },
+    {
+      "title": "La Selección Argentina celebró su asado-cábala en la previa a la gran final contra España y grabó el emotivo momento",
+      "description": "La grabación muestra a \"Chiqui\" Tapia salando y preparando la carne rodeado por los jugadores que lo chicanean mientras Lautaro Martínez pone una canción muy especial para musicalizar este encuentro que permite conocer toda la intimidad del equipo que lidera Messi. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/sociedad/la-seleccion-celebro-su-asado-cabala-en-la-previa-a-la-gran-final-contra-espana-y-grabo-el-emotivo-momento.phtml",
+      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/el-asado-de-la-seleccion-argentina-antes-del-partido-con-espana-2285693.jpg",
+      "pubDate": "2026-07-18T06:51:00.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
       "title": "No podía faltar: el último asado de la Selección antes de la final del Mundial",
@@ -63,35 +90,8 @@
       "image": "https://www.ole.com.ar/images/2026/07/18/l09QRcXvZ_1200x630__1.jpg",
       "pubDate": "2026-07-18T05:51:47.000Z",
       "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Boom literario en español: el Premio Clarín Novela bate un récord histórico con 1.414 manuscritos llegados desde 35 países",
-      "description": "Cerró la convocatoria de 2026 con una cifra de participación inédita que supera marcas de hace dos décadas. \nUn jurado de lujo compuesto por Ariana Harwicz, Betina González y Héctor Abad Faciolince, elegirá la obra ganadora que recibirá un premio de 14 millones de pesos.\nTras recibir más de 1.400 ma",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/cultura/boom-literario-espanol-premio-clarin-novela-bate-record-historico-1414-manuscritos-llegados-35-paises_0_QxfHgFpSv1.html",
-      "image": "https://www.clarin.com/img/2025/11/06/gyvskFvY0_1200x630__1.jpg",
-      "pubDate": "2026-07-18T05:19:32.000Z",
-      "emojisString": "💵 💻"
-    },
-    {
-      "title": "Un deslizamiento de tierra en el centro de China sepulta a más de 10 edificios residenciales: al menos 8 muertos y más de 30 desaparecidos",
-      "description": "Las intensas lluvias en el centro del país provocaron el desprendimiento de grandes rocas y taludes de tierra. Hay más de 2.000 evacuados. \nLa tragedia tuvo como principal epicentro, la localidad de Chongqing.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/mundo/deslizamiento-tierra-centro-china-sepulta-10-edificios-residenciales-8-muertos-30-desaparecidos_0_EIyLwA8fb5.html",
-      "image": "https://www.clarin.com/img/2026/07/18/3HSec6-jh_1200x630__1.jpg",
-      "pubDate": "2026-07-18T05:18:29.000Z",
-      "emojisString": "💻 🌤️ 🚗"
-    },
-    {
-      "title": "La contundente respuesta de Coudet sobre los borrados de River",
-      "description": "El Chacho habló del mercado post papelón en la Copa Argentina contra Aldosivi y se refirió a los 14 apartados del plantel.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/river-plate/river-eduardo-coudet-borrados-plantel-jugadores-apartados-decision-dirigencia_0_rU6Ko2eXxt.html",
-      "image": "https://www.ole.com.ar/images/2026/07/18/phbSPHEcL_1200x630__1.jpg",
-      "pubDate": "2026-07-18T03:41:41.000Z",
-      "emojisString": "⚽ 📊"
     }
   ],
   "count": 10,
-  "updated": "2026-07-18T06:18:23.735Z"
+  "updated": "2026-07-18T08:15:58.552Z"
 }
