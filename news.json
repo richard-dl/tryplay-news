@@ -2,22 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "La celebración de España del Mundial 2026, en directo: última hora del aterrizaje y recorrido de los campeones en Madrid",
-      "description": "Los jugadores se darán un baño de masas por las calles de la capital en un autobús descubierto. El momento álgido se vivirá en Cibeles, donde se ha instalado un escenario. Se esperan sorpresas",
+      "title": "Encontraron restos óseos en un contenedor de residuos de Neuquén e investigan su origen ",
+      "description": "El hallazgo ocurrió en la tarde del sábado en la localidad de Cutral-Co. Las autoridades trabajan para determinar el sexo, la edad y la posible identidad de los restos",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/deportes/2026/07/20/la-celebracion-de-espana-del-mundial-2026-en-directo-ultima-hora-del-aterrizaje-de-los-campeones-en-madrid-y-sus-visitas-a-zarzuela-moncloa-y-cibeles/",
-      "image": "https://www.infobae.com/resizer/v2/SQTSRLADQREQLI4SV3RTNCBQN4.JPG?auth=6c636ae8e3b1ae7cffea7df749f6f490802215e6fe769d76fd34206dd173eeb1&smart=true&width=3955&height=2733",
-      "pubDate": "2026-07-20T04:43:25.000Z",
-      "emojisString": "⚽ 💻"
+      "link": "https://www.infobae.com/sociedad/2026/07/20/encontraron-restos-oseos-en-un-contenedor-de-residuos-de-neuquen-e-investigan-su-origen/",
+      "image": "https://www.infobae.com/resizer/v2/NIH7O643AJAOZNRCSSN77XPCXA.JPG?auth=616b7ac2d4d6192ee6ebcdc9e8939025811859d5dabf918e2dd0ebb7c27287b4&smart=true&width=1001&height=515",
+      "pubDate": "2026-07-20T07:47:53.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "Cerrar la peligrosa brecha de misiles de Europa",
-      "description": "Las potencias europeas de la OTAN se apresuran a adquirir capacidades mientras Estados Unidos recorta su ayuda",
+      "title": "Investigan la agresión a un grupo de militares que veía el partido en Berriozar (Navarra)",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/economist/2026/07/20/cerrar-la-peligrosa-brecha-de-misiles-de-europa/",
-      "image": "https://www.infobae.com/resizer/v2/SCXOQNDLK5A7ZJ3IWII2BSRS4Q.png?auth=16bc24e89c3fc8f39f0c224f3c4ecd332f2276a4563cc07e11c86e84d21bd2e9&smart=true&width=834&height=469",
-      "pubDate": "2026-07-20T04:43:25.000Z",
-      "emojisString": "💻 🇺🇸"
+      "link": "https://www.infobae.com/espana/agencias/2026/07/20/investigan-la-agresion-a-un-grupo-de-militares-que-veia-el-partido-en-berriozar-navarra/",
+      "image": null,
+      "pubDate": "2026-07-20T07:47:53.000Z",
+      "emojisString": "💥"
+    },
+    {
+      "title": "Comida gratis en Florida desde el 20 de julio: calendario y dónde entregan bolsas de alimentos frescos",
+      "description": "Consulta el calendario de comida gratis en Florida desde el 20 de julio, descubre dónde retirar alimentos frescos y qué requisitos debes cumplir.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/comida-gratis-en-florida-desde-el-20-de-julio-calendario-y-donde-entregan-bolsas-de-alimentos-nid18072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/3F6AA2TQGJAKXNAGC2WEML6R6E.png?auth=8664bfcd4a6f829c7906aa85100e6af41d99f8046c5ed0eb20fa84dc114e4245&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-20T07:42:00.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Hay alerta naranja y amarilla por tormentas, nevadas, lluvias y vientos para este lunes 20 de julio: las provincias afectadas",
+      "description": "El Servicio Meteorológico Nacional advirtió sobre posible caída de granizo y actividad eléctrica; en la Ciudad, la máxima será de 14°C",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-nevadas-lluvias-y-vientos-para-este-lunes-20-de-julio-nid20072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/SS3S26RWRZB4XICEF66ILBXKWA.png?auth=dd53d5e159e1fad07cd8b1b42812170bfb8cb86098311520b3ccf95d8322a514&smart=true&width=500&height=271",
+      "pubDate": "2026-07-20T07:04:58.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Dólar blue hoy: a cuánto cotiza este lunes 20 de julio",
+      "description": "Mirá la cotización para la compra y venta del dólar blue hoy.\nLa brecha con el dólar oficial.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-lunes-20-julio_0_ppc9PqPemb.html",
+      "image": "https://www.clarin.com/img/2017/08/29/ryra6HxcW_1200x630.jpg",
+      "pubDate": "2026-07-20T07:00:02.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "La ANMAT retiró del mercado protectores solares: cuáles son las marcas y por qué prohibieron su comercialización",
+      "description": "La medida fue publicada en el Boletín Oficial de este lunes. \nEl organismo de control informó que los cosméticos no tenían inscripción sanitaria y que tampoco pudo verificar su registro en las bases oficiales.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/sociedad/anmat-retiro-mercado-protectores-solares-marcas-prohibieron-comercializacion_0_KsY7Ox4mrV.html",
+      "image": "https://www.clarin.com/img/2026/07/20/685hYN4Q2_1200x630__1.jpg",
+      "pubDate": "2026-07-20T06:15:54.000Z",
+      "emojisString": "📊 💻"
     },
     {
       "title": "El mensaje de la AFA, en nombre de la Selección, para todos los argentinos: \"No alcanzó\"",
@@ -29,21 +65,12 @@
       "emojisString": "⚽"
     },
     {
-      "title": "España ganó el Mundial 2026: le ganó 1-0 a la Argentina de Messi, que no pudo obtener el bicampeonato",
-      "description": "Ferran Torres fue el autor del gol para los europeos; la selección jugó con uno menos desde los minutos finales del segundo tiempo por la expulsión de Enzo Fernández",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-argentina-y-espana-se-enfrentan-en-la-final-de-la-copa-del-mundo-nid19072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/7ZJ43XTOZJHPVH7C5LBJP4FTVQ.JPG?auth=fdeff005c398e9032d031861c7b67c4d175c380b02301f2cddef7cac4c10ed1e&smart=true&width=2500&height=1666",
-      "pubDate": "2026-07-20T04:17:12.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Nicolás Paz: “Prometo dar absolutamente todo de mí para traer esta copa de vuelta a la Argentina”",
-      "description": "El delantero argentino publicó un emotivo mensaje en su cuenta de Instagram en donde felicitó al equipo español por la victoria pero prometió buscar revancha en 2030",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/nicolas-paz-prometo-dar-absolutamente-todo-de-mi-para-traer-esta-copa-de-vuelta-a-argentina-nid19072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/7PD2DLWISBFYZJIWIIG6QTLS2I.JPG?auth=f9e0e708de307f3afc90dfe5cfc3190fdf103dd74ed4d377ecc1583150453157&smart=true&width=1080&height=720",
-      "pubDate": "2026-07-20T04:02:48.000Z",
+      "title": "El imperdible mensaje de Di María tras la derrota de Argentina ante España: \"La mejor selección de toda la historia de nuestro país\"",
+      "description": "El jugador no ocultó todo lo que siente por el equipo que lidera Lionel Messi. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/sociedad/el-emotivo-mensaje-de-di-maria-tras-la-derrota-de-argentina-ante-espana-la-mejor-seleccion-de-toda-la-historia-de-nuestro-pais.phtml",
+      "image": "https://fotos.perfil.com/2026/07/20/trim/540/304/angel-di-maria-2286980.jpg",
+      "pubDate": "2026-07-20T04:25:04.000Z",
       "emojisString": "⚽ 💻"
     },
     {
@@ -56,15 +83,6 @@
       "emojisString": "📰"
     },
     {
-      "title": "“Mostrá algo de dignidad”: Luis Caputo volvió a cruzarse con un periodista inglés tras la derrota de Argentina",
-      "description": "Piers Morgan, un presentador fanático de Cristiano Ronaldo y anti-Messi, cuestionó la reacción de algunos futbolistas argentinos al finalizar la final del Mundial con España. \nEl ministro de Economía le respondió en redes al presentador británico que había lanzado una dura frase sobre Malvinas luego",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/deportes/mostra-dignidad-luis-caputo-volvio-cruzarse-periodista-ingles-derrota-argentina_0_txWIiQvQOY.html",
-      "image": "https://www.clarin.com/img/2026/07/16/tWDH01zXy_1200x630__1.jpg",
-      "pubDate": "2026-07-20T03:56:51.000Z",
-      "emojisString": "⚽ 📊 💻"
-    },
-    {
       "title": "Las imágenes que deja la final del Mundial más grande de la historia en la que España se coronó campeona y hubo un show de medio tiempo",
       "description": "La victoria de España sobre Argentina 1-0 deja icónicas imágenes que pasarán a la historia de los Mundiales de fútbol.",
       "source": "BBC Mundo",
@@ -72,26 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f07/live/f1b722a0-83e0-11f1-8e6a-2306299d9a77.jpg",
       "pubDate": "2026-07-20T03:56:16.000Z",
       "emojisString": "⚽ 💻 🎵"
-    },
-    {
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este lunes 20 julio de 2026",
-      "description": "El SMN anticipa para este lunes temperaturas entre 7°C y 13°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-lunes-20-julio-2026_0_42AFB5JI2C.html",
-      "image": "https://www.clarin.com/img/2025/04/30/kdfX1azIe_1200x630__1.jpg",
-      "pubDate": "2026-07-20T03:40:37.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "La expulsión de Enzo Fernández es correcta",
-      "description": "Severo ante la protesta en la primera amarilla, el árbitro Vincic determinó sin dudar la segunda por una jugada temeraria. La acción no era revisable por el VAR.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/opinion/expulsion-enzo-fernandez-correcta-severo-amarilla-vincic-var_0_8x65ZCaIm2.html",
-      "image": "https://www.ole.com.ar/images/2026/07/20/ePjRbSHzp_1200x630__1.jpg",
-      "pubDate": "2026-07-20T03:28:50.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-07-20T04:50:13.860Z"
+  "updated": "2026-07-20T07:53:45.761Z"
 }
