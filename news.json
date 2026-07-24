@@ -2,22 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "EN VIVO | Bloqueos en carreteras, accidentes y manifestaciones hoy 24 de julio ",
-      "description": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/07/24/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-24-de-julio/",
-      "image": "https://www.infobae.com/resizer/v2/UNY2POLXAXFVVMO6RGT3DZSPII.jpg?auth=3b7e92eafa17a486f5ecbccdbbee59bfd17899956cd4e29aa581249d659c4964&smart=true&width=800&height=450",
-      "pubDate": "2026-07-24T11:23:19.000Z",
-      "emojisString": "🚗"
+      "title": "La primera práctica para el Gran Premio de Hungría de Fórmula 1: Colapinto le cedió la butaca a Paul Aron, que terminó 19°",
+      "description": "Leclerc fue el más rápido en el primer ensayo; el argentino correrá en la FP2, desde las 12 de nuestro país",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/la-primera-practica-para-el-gran-premio-de-hungria-de-formula-1-colapinto-le-cede-la-butaca-a-paul-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/7525PAL37VGDFFNN34ZAZULDUU.JPG?auth=ad13fc160f6382c6bab2b763f0c342a11cb77f04aa6ce86c68f8bde426b6f2be&smart=true&width=3993&height=2662",
+      "pubDate": "2026-07-24T12:50:36.000Z",
+      "emojisString": "🏎️"
     },
     {
-      "title": "La ONU pidió la evacuación de 6.000 marinos que siguen atrapados en el estrecho de Ormuz por la guerra",
-      "description": "La portavoz de Turk ha denunciado que algunos de ellos han sido “abandonados” en alta mar “sin apoyo ni posibilidad de repatriación e incluso sin el pago de los salarios adeudados”",
+      "title": "Un feroz incendio azota Madrid y el sur de Francia: al menos 80 mil evacuados",
+      "description": "El gobierno de España declaró la emergencia nacional mientras la histórica ola de calor aviva los fuegos en toda Europa y obliga a decenas de miles a buscar resguardo",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/el-mundo/un-feroz-incendio-azota-madrid-y-el-sur-de-francia-al-menos-80-mil-evacuados-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/7VENVVTM25F6DC4K22RUZZGBGM.JPG?auth=78d92f8d2219c3e2f3907a9d6bb37c890b5b6e49395457d0c187b956076230f0&smart=true&width=7500&height=5002",
+      "pubDate": "2026-07-24T12:49:03.000Z",
+      "emojisString": "🏛️ 💻 🌤️"
+    },
+    {
+      "title": "Incendio en Los Olivos: voraz fuego consume planta de productos cosméticos",
+      "description": "Cerca de 60 bomberos y 15 unidades especializadas fueron desplegados para contener el siniestro, que comprometió 1.200 metros cuadrados",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/mundo/2026/07/24/la-onu-pidio-la-evacuacion-de-6000-marinos-que-siguen-atrapados-en-el-estrecho-de-ormuz-por-la-guerra/",
-      "image": "https://www.infobae.com/resizer/v2/AMWQWERW3JDLFELVE2RQ7M4QLY.JPG?auth=f5c73c2d88cdc5e416a7b30f9de4faff943f293e78eb9ef837135bb7e1518d5f&smart=true&width=6000&height=4000",
-      "pubDate": "2026-07-24T11:23:16.000Z",
-      "emojisString": "💻 💥"
+      "link": "https://www.infobae.com/peru/2026/07/24/incendio-en-los-olivos-voraz-fuego-consume-planta-de-productos-quimicos/",
+      "image": "https://www.infobae.com/resizer/v2/MCXMAT3DCFCGZG3ADDITBI4AVY.jpg?auth=8577a6eac9e9b413034265e368792dfb5dd6faa2976b736ea6886cd43d92d88a&smart=true&width=1920&height=1080",
+      "pubDate": "2026-07-24T12:48:51.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Tour de Francia, etapa 19 - EN VIVO: siga el minuto a minuto de los ciclistas colombianos en el Alpe D’Huez ",
+      "description": "La carrera inició en Gap y propone 127,9 kilómetros con 3.572 metros de desnivel, cuatro puertos y una subida final de categoría especial, en una jornada que puede sacudir la lucha por el amarillo",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/colombia/deportes/2026/07/24/tour-de-francia-etapa-19-en-vivo-siga-el-minuto-a-minuto-de-los-ciclistas-colombianos-en-el-alpe-dhuez/",
+      "image": "https://www.infobae.com/resizer/v2/D3YSESAM5RBBLPQNYX5QVAEO2Q.JPG?auth=091a88fd4dc6cf979d2a901fb979a0ba52bbe37697b358329ee504d8cd012fce&smart=true&width=4473&height=2953",
+      "pubDate": "2026-07-24T12:48:48.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Las frases de Javier Milei en defensa de la Selección Argentina de las que se hicieron eco en España",
+      "description": "El presidente de la Nación también salió al cruce por las críticas que recibió la Albiceleste de parte de medios e hinchas extranjeros en la Copa del Mundo.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/seleccion/frases-javier-milei-defensa-seleccion-argentina-hicieron-eco-espana_0_SOSpLlTmOu.html",
+      "image": "https://www.ole.com.ar/images/2026/07/17/5qnRVZm-s_1200x630__1.jpg",
+      "pubDate": "2026-07-24T12:46:30.000Z",
+      "emojisString": "⚽ 🏛️"
+    },
+    {
+      "title": "La charla que tuvo Paredes con el Vasco y una decisión: \"Me obligó...\"",
+      "description": "El capitán fue la figura en el debut en la Copa Sudamericana en la Bombonera.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/boca-juniors/relevacion-paredes-arruabarrena-obligo_0_Ovkas4ZK2T.html",
+      "image": "https://www.ole.com.ar/images/2026/07/24/LpxVUJj_r_1200x630__1.jpg",
+      "pubDate": "2026-07-24T12:39:11.000Z",
+      "emojisString": "⚽"
     },
     {
       "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este viernes 24 de julio",
@@ -25,73 +61,37 @@
       "source": "Ámbito",
       "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-24-julio-n6303129",
       "image": "https://media.ambito.com/p/7501d08b7a9dc299edebcc41939e8583/adjuntos/239/imagenes/042/979/0042979366/mercados-finanzas-vivo-acciones-bolsas-inversiones-bonos-dolar-tasas-cedears.jpg",
-      "pubDate": "2026-07-24T11:21:00.000Z",
+      "pubDate": "2026-07-24T12:30:00.000Z",
       "emojisString": "💵 💻"
     },
     {
-      "title": "El Gobierno designó a Fernando Subirats como nuevo subsecretario de Comunicación y Medios Públicos ",
-      "description": "Era director de Radio Nacional desde el año pasado y tiene trayectoria en el área; estará bajo la órbita de Fabián Fernández",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/el-gobierno-designo-a-fernando-subirats-como-nuevo-subsecretario-de-comunicacion-y-medios-publicos-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EGC5EPLFQRG6FLDZHL2GHXK5SU.jpg?auth=e2afc7b0e03af18c4b111670dc897b5840bd49b76ef1737e03e2886b75dc776e&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-24T11:16:10.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "\"He perdido a 26 familiares y no lloraré hasta que encuentre los restos de todos\": los venezolanos que aún buscan entre los escombros un mes después de los terremotos",
-      "description": "Mientras las familias continúan buscando a sus seres queridos desaparecidos, crece la ira y el resentimiento hacia las autoridades cuando se cumple un mes de los devastadores sismos.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c998y8m57zgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/338a/live/7751b690-86c1-11f1-8c61-e72dd81a46e3.jpg",
-      "pubDate": "2026-07-24T11:15:56.000Z",
-      "emojisString": "💻 🌊"
-    },
-    {
-      "title": "Preocupación libertaria: advierten que en la Legislatura bonaerense no avanzan proyectos para responder a los reclamos del campo",
-      "description": "La presidenta de la Comisión de Asuntos Agrarios de Diputados, Analía Corvino (LLA), y el vicepresidente de la comisión homónima del Senado, Gonzalo Cabezas (LLA), señalaron que la actividad parlamentaria es escasa y que las principales demandas del agro, como fitosanitarios, Ingresos Brutos, tasa v",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/campo/alerta-en-la-legislatura-bonaerense-admiten-que-no-avanzan-proyectos-para-responder-a-los-reclamos-nid23072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/YIQAFJ2VMNG5PC7WEGDKBDDFRA.png?auth=d27a028e71da5eb2e9519304d3f1f76aa71ee5fbe6e173c01fb597d3835f1f6e&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-24T11:15:28.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "Alerta por el petróleo: crece el riesgo de un salto mayor por la crisis en Medio Oriente",
-      "description": "La nueva fase del conflicto en Medio Oriente volvió a presionar al mercado petrolero global. Según analistas, la combinación de interrupciones en Ormuz, riesgos en el Mar Rojo, menor cobertura de seguros, ataques a infraestructura rusa y caída de inventarios amenaza con llevar el crudo por encima de",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/energia/alerta-el-petroleo-crece-el-riesgo-un-salto-mayor-la-crisis-medio-oriente-n6303137",
-      "image": "https://media.ambito.com/p/8f39d4a7012b7f5152ef7b36f2d186ea/adjuntos/239/imagenes/043/214/0043214358/1200x675/2896x1647:2916x1667/petroleo.jpg",
-      "pubDate": "2026-07-24T11:11:09.000Z",
-      "emojisString": "📊 💥"
-    },
-    {
-      "title": "Por qué es polémico el acuerdo nuclear que firmaron EE.UU. y Arabia Saudita ",
-      "description": "El acuerdo permitirá a las empresas estadounidenses operar centrales nucleares para en territorio saudí. Expertos y exfuncionarios han advertido que un acuerdo de este tipo podría llevar a la creación de armas nucleares.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cy74gdm2g3xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/644f/live/3e14cd10-85ed-11f1-8ade-a7a676c613b9.jpg",
-      "pubDate": "2026-07-24T11:02:04.000Z",
+      "title": "Valtra en La Rural: fuerte apuesta por la innovación y la tecnología para el campo",
+      "description": "Valtra participa de la edición 2026 de la Expo Rural en el predio ferial de Palermo, una de las principales muestras del sector agropecuario nacional. En su stand exhibe los tractores BM135 y A135, caracterizados por sus avances tecnológicos, junto a demostraciones en vivo en la pista de manejo.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/rural/valtra-rural-fuerte-apuesta-innovacion-tecnologia-campo_0_RlUPyZ8ecS.html",
+      "image": "https://www.clarin.com/img/2026/07/23/FfkjBAe6v_1200x630__1.jpg",
+      "pubDate": "2026-07-24T12:29:28.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Debutaron los constatadores en Belgrano-Rosario Central: para el municipio fue \"muy positivo\"",
-      "description": "El secretario de Gobierno municipal, Rodrigo Fernández, confirmó que sólo fueron detenidos cuatro cuidacoches \"ilegales\". Fue el primer operativo en un evento masivo deportivo. Leer más",
+      "title": "El destructor USS Zumwalt: capacidad para 12 misiles hipersónicos que la Armada de EE.UU prevé integrar a su flota en septiembre 2026 ",
+      "description": "Con este reequipamiento, el buque de guerra estadounidense se convertirá formalmente en el primer navío de guerra de superficie del mundo diseñado y adaptado para lanzar armamento hipersónico de planeo estratégico.\r\n Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/debutaron-los-constatadores-en-belgrano-rosario-central-para-el-municipio-fue-muy-positivo.phtml",
-      "image": "https://fotos.perfil.com/2026/07/24/trim/540/304/24-07-2026-estacionamiento-medido-constatadores-urbanas-cancha-de-belgrano-2290089.jpg",
-      "pubDate": "2026-07-24T10:53:22.000Z",
-      "emojisString": "🏛️ 🚨"
+      "link": "https://www.perfil.com/noticias/internacional/el-destructor-uss-zumwaltcapacidad-para-12-misiles-hipersonicos-a50-que-la-armada-de-eeuu-preve-integrar-a-su-flota-en-septiembre-2026.phtml",
+      "image": "https://fotos.perfil.com/2026/07/23/trim/540/304/uss-zumwalt-2289734.jpg",
+      "pubDate": "2026-07-24T12:28:00.000Z",
+      "emojisString": "💥"
     },
     {
-      "title": "\"No va a haber anuncios el domingo porque ya los hicimos hace dos meses\": la definición de Luis Caputo antes del acto en La Rural",
-      "description": "El ministro de Economía descartó, según contó el periodista Daniel Pepa, que el Gobierno anuncie nuevas medidas para el campo durante el tradicional acto de la Exposición Rural. Sin embargo, dejó una señal sobre el futuro de la carga impositiva al sector. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/no-va-a-haber-anuncios-el-domingo-porque-ya-los-hicimos-hace-dos-meses-la-definicion-de-luis-caputo-antes-del-acto-en-la-rural.phtml",
-      "image": "https://fotos.perfil.com/2026/07/23/trim/540/304/luis-caputo-visito-la-rural-23072026-2289809.jpg",
-      "pubDate": "2026-07-24T10:41:57.000Z",
-      "emojisString": "📊 🏛️"
+      "title": "Lo más visto en Netflix Venezuela: las 10 series más exitosas del momento, con “El polígamo: temporada 1” a la cabeza",
+      "description": "Netflix actualiza cada semana el listado de las mejores series en Venezuela.\nHay un amplio catálogo de historias para maratonear, entre estrenos recientes y clásicos de siempre.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/espectaculos/lo-mas-visto-en-netflix-venezuela-las-10-series-mas-exitosas-del-momento-con-el-poligamo-temporada-1-a-la-cabeza_0_bD80voWF1U.html",
+      "image": "https://www.clarin.com/img/2025/02/10/iwA6UHhc9_1200x630__1.jpg",
+      "pubDate": "2026-07-24T12:27:19.000Z",
+      "emojisString": "💻 🎬"
     }
   ],
   "count": 10,
-  "updated": "2026-07-24T11:24:47.929Z"
+  "updated": "2026-07-24T12:54:06.305Z"
 }
