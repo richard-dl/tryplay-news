@@ -2,39 +2,57 @@
   "success": true,
   "data": [
     {
-      "title": "Detenido por apuñalar a un hombre que le pidió no disparar al aire en Motril (Granada)",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/24/detenido-por-apunalar-a-un-hombre-que-le-pidio-no-disparar-al-aire-en-motril-granada/",
-      "image": null,
-      "pubDate": "2026-07-24T16:32:52.000Z",
-      "emojisString": "🚨"
+      "title": "El pibe de River que puede meterse en el 11 ante Barracas",
+      "description": "Lautaro Pereyra, de buen ingreso ante Aldosivi, podría ser titular en el debut por el Clausura.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/river-plate/pereyra-river-coudet-barracas-monumental_0_delOcwNd37.html",
+      "image": "https://www.ole.com.ar/images/2026/05/20/WAIWzgzct_1200x630__1.jpg",
+      "pubDate": "2026-07-24T17:56:06.000Z",
+      "emojisString": "⚽"
     },
     {
-      "title": "Homicidio doloso en Morelos bajó 54% en actual sexenio: promedio diario cayó 2.1 puntos en tres meses",
-      "description": "La titular del Secretariado Ejecutivo aseguró que la disminución se acentuó tras implementar el Plan Morelos, en abril de 2026",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/07/24/homicidio-doloso-en-morelos-baja-54-en-el-sexenio-promedio-diario-cae-21-puntos-en-tres-meses/",
-      "image": "https://www.infobae.com/resizer/v2/FD7FQ77NNRHLNNIEYI33H7GUVY.jpg?auth=44e7cbb13ede35980d773c89ae3547675844071858edb153c7d11984749a41e2&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-24T16:32:44.000Z",
+      "title": "Falleció Ceferino Díaz, gloria de Olimpo y un referente del ascenso",
+      "description": "Conmoción en Bahía Blanca y otros equipos en los que jugó el mediocampista tras su partida física a los 53 años.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/informacion-general/fallecimiento-olimpo-bahia-blanca-equipos-ascenso-referenete-ceferino-diaz_0_kAM40H4PnB.html",
+      "image": "https://www.ole.com.ar/images/2026/07/24/GOFrRRLhr_1200x630__1.jpg",
+      "pubDate": "2026-07-24T17:54:59.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Franco Colapinto se accidentó en la segunda práctica para el Gran Premio de Hungría y Lewis Hamilton fue el más rápido",
-      "description": "El argentino rompió la parte trasera de su monoplaza y quedó marginado en Hungaroring; en la primera sesión, el suplente Paul Aron había finalizado 19°",
+      "title": "Récord en Palermo: pagaron $150 millones por el 90% de un padrillo de la raza Criolla",
+      "description": "En el remate especial de la Asociación Criadores de Caballos Criollos, el padrillo Tañido Tronador, de la cabaña La Serena, alcanzó un precio histórico; la subasta superó en total los $350 millones",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-hungria-en-vivo-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/MQUEK46Z2JFJ5PVFF5TOXDMO2M.jpg?auth=e23136d8503047dfd34ca4279f1c3bda192e1d3eecd303ffe2392e3b58ad7653&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-24T16:30:15.000Z",
-      "emojisString": "🏎️"
+      "link": "https://www.lanacion.com.ar/economia/campo/record-en-palermo-pagaron-150-millones-por-el-90-de-un-padrillo-de-la-raza-criolla-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/VEE4NUS3C5CM3IGFHCJ7NYDYNQ.jpeg?auth=29345a067e04c3c38ef72825bb05a7971da1e02c0b4a48009d18d0f2b1675ef1&smart=true&width=2560&height=1908",
+      "pubDate": "2026-07-24T17:53:52.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Juramentación del nuevo Congreso Bicameral EN VIVO: senadores y diputados juran hoy en ceremonia oficial",
+      "description": "La sesión de este viernes marca el inicio del funcionamiento del Parlamento bicameral, integrado por 130 diputados y 60 senadores, que asumirá funciones desde el 28 de julio",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/peru/2026/07/24/instalacion-del-nuevo-congreso-en-vivo-sigue-la-conformacion-de-la-junta-preparatoria-y-la-juramentacion-de-senadores-y-diputados/",
+      "image": "https://www.infobae.com/resizer/v2/77QZWEHNXBBZFIZJXVWGBWYYLA.png?auth=f99ccd89d1179819abdc6c68b22d060d2f266d8b38c946eb7cea304848af94cb&smart=true&width=1536&height=1024",
+      "pubDate": "2026-07-24T17:53:13.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "Última hora de los incendios en España y la emergencia nacional, en directo | Ya hay entre 45.000 y 50.000 personas desalojadas o confinadas por el fuego",
+      "description": "Los efectivos trabajan en fuegos como el de Almorox (Toledo), San Martín de Valdeiglesias (Madrid), Burgohondo (Ávila) o La Mierla (Guadalajara)",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/07/24/los-incendios-en-espana-en-directo-ultima-hora-de-la-emergencia-nacional-en-madrid-y-avila-y-los-pueblos-evacuados/",
+      "image": "https://www.infobae.com/resizer/v2/MAKHC65YURHG5JWA2FEKVFQHWI.jpg?auth=5488827ed1b79b3bd20091c034bc1a32d954bd4aa64ec0d1d52dac7d50b96c63&smart=true&width=1920&height=1011",
+      "pubDate": "2026-07-24T17:52:42.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "El mensaje de la hermana de Agostina Jalabert tras el arresto de su novio a tres años del femicidio",
       "description": "Candela fue quien encontró el cuerpo en el baño; la víctima de 31 años fue asesinada en febrero del 2023 en un departamento de Playa del Carmen",
       "source": "La Nación",
       "link": "https://www.lanacion.com.ar/seguridad/el-mensaje-de-la-hermana-de-agostina-jalabert-tras-el-arresto-de-su-novio-a-tres-anos-del-femicidio-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZRNNPDNOJRBJ7ABYV7YIQUJSVU.jpeg?auth=9224cbc7150e6149204d1819347452ee1e1f94ab18c77d77ed16cfa1643e2605&smart=true&width=1320&height=1108",
-      "pubDate": "2026-07-24T16:29:47.000Z",
+      "image": "https://resizer.glanacion.com/resizer/v2/SRLDLRBOMVDWFM5SC7HAVXIIWI.jpeg?auth=690acb56bbcaf0f4c033ebe48be3c5b68246011ed1c4031b80298d46ab81a681&smart=true&width=1056&height=594",
+      "pubDate": "2026-07-24T17:52:37.000Z",
       "emojisString": "📰"
     },
     {
@@ -43,55 +61,37 @@
       "source": "Ámbito",
       "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-viernes-24-julio-n6303129",
       "image": "https://media.ambito.com/p/7501d08b7a9dc299edebcc41939e8583/adjuntos/239/imagenes/042/979/0042979366/mercados-finanzas-vivo-acciones-bolsas-inversiones-bonos-dolar-tasas-cedears.jpg",
-      "pubDate": "2026-07-24T16:19:00.000Z",
+      "pubDate": "2026-07-24T17:52:00.000Z",
       "emojisString": "💵 💻"
     },
     {
-      "title": "La Liga Cordobesa entregó nuevos desfibriladores a sus clubes",
-      "description": "Con una nueva inversión en equipos DEA, Deportivo Alberdi, Unión de Malvinas, All Boys, Huracán de barrio La France, Bella Vista y Villa Azalais se incorporan a un programa que ya alcanza a más del 40% de las instituciones afiliadas. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/la-liga-cordobesa-entrego-nuevos-desfibriladores-a-sus-clubes.phtml",
-      "image": "https://fotos.perfil.com/2026/07/24/trim/540/304/accion-lcf-2290296.jpeg",
-      "pubDate": "2026-07-24T16:11:53.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "El riesgo país salta por encima de los 440 puntos y acumula su mayor alza semanal en tres meses",
-      "description": "La suba del petróleo y malos datos en Wall Street, elevó el riego internacional. Por su parte, a nivel local el consumo no repunta y los datos adelantados de la actividad económica no son buenos.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/finanzas/tras-una-jornada-fuertes-descensos-los-activos-locales-llega-la-ultima-rueda-renovadas-preocupaciones-n6303180",
-      "image": "https://media.ambito.com/p/acf746b2845429411186f491395c5a1e/adjuntos/239/imagenes/043/289/0043289038/1200x675/1691x788:1711x808/petroleo-mercados.jpg",
-      "pubDate": "2026-07-24T16:09:00.000Z",
+      "title": "¿Se puede gobernar un país durmiendo solo 3 horas? El debate sobre la cultura laboral de Japón que desató la rutina de sueño de la primera ministra",
+      "description": "La primera ministra Sanae Takaichi despertó una polémica al afirmar que, desde que asumió el cargo, suele dormir entre 0 y 3 horas.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c87n1p5epllo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/99c0/live/3f25d680-876f-11f1-b430-afa19a42b819.jpg",
+      "pubDate": "2026-07-24T17:48:58.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "LeBron se decidió: firma con los 76ers por dos años y una cifra sorprendente para armar un súper equipo",
-      "description": "El alero de 41 años se unirá a la franquicia de Philadelphia para armar un súper equipo junto a cuatro nombres de peso en la liga. Firmará un contrato por menos de diez millones de dólares.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/basquet/lebron-james-decision-lakers-philadelphia-76ers-nba-va_0_znIm7QBsr5.html",
-      "image": "https://www.ole.com.ar/images/2026/01/15/wCl3SyxLq_1200x630__1.jpg",
-      "pubDate": "2026-07-24T16:08:07.000Z",
-      "emojisString": "💵 💻"
+      "title": "Franco Colapinto se despistó y chocó en la práctica libre del Gran Premio de Hungría",
+      "description": "El piloto argentino tuvo una jornada para el olvido este viernes ya que sufrió un accidente. Su Alpine sigue trayendo problemas en la conducción.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/deportes/franco-colapinto-se-despisto-y-choco-la-practica-libre-del-gran-premio-hungria-n6303330",
+      "image": "https://media.ambito.com/p/509c4c267cd795f01ca3e8ba91535029/adjuntos/239/imagenes/043/541/0043541284/colapinto-despiste.png",
+      "pubDate": "2026-07-24T17:40:00.000Z",
+      "emojisString": "🏎️ 🚗"
     },
     {
-      "title": "Mientras coquetea con Thiago Almada, Flamengo celebra la vuelta de Giorgian De Arrascaeta",
-      "description": "Tras perderse el Mundial 2026 por lesión, el volante volvió a sumar minutos con el Mengao en el Brasileirao y se prepara para la Copa Libertadores.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/america/flamengo-giorgian-arrascaeta-lesion-thiago-almada_0_r1PQiKb4x2.html",
-      "image": "https://www.ole.com.ar/images/2026/04/30/4dOLebkq__1200x630__1.jpg",
-      "pubDate": "2026-07-24T16:03:42.000Z",
-      "emojisString": "⚽ 💻 🇧🇷"
-    },
-    {
-      "title": "A cuánto cotiza el dólar blue hoy, viernes 24 de julio",
-      "description": "La divisa norteamericana paralela presenta una nueva caída de $5 transcurridas dos horas de la última rueda cambiaria de la semana. Leer más",
+      "title": "Moody’s elevó la calificación crediticia de la Ciudad por el orden de sus cuentas públicas",
+      "description": "La agencia mejoró la nota de Buenos Aires de B2 a B1, con perspectiva estable. La Ciudad recuperó esta calificación después de 14 años y quedó como la jurisdicción subsoberana mejor evaluada del país, dos escalones por encima de la Nación. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-abrio-el-dolar-blue-hoy-viernes-24-de-julio.phtml",
-      "image": "https://fotos.perfil.com/2026/07/21/trim/540/304/dolares-2288378.jpg",
-      "pubDate": "2026-07-24T16:00:00.000Z",
-      "emojisString": "💵 💻"
+      "link": "https://www.perfil.com/noticias/economia/moodys-elevo-la-calificacion-crediticia-de-la-ciudad-por-el-orden-de-sus-cuentas-publicas-a40.phtml",
+      "image": "https://fotos.perfil.com/2026/07/21/trim/540/304/moodys-calificadora-de-riesgo-21072026-2288421.jpg",
+      "pubDate": "2026-07-24T17:29:00.000Z",
+      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-07-24T16:34:42.322Z"
+  "updated": "2026-07-24T17:57:43.895Z"
 }
