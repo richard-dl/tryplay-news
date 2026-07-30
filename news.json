@@ -2,40 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "El Gobierno prohibirá el ingreso al país a extranjeros que “expresen mensajes de odio” contra argentinos",
-      "description": "La medida fue establecida mediante un DNU que modificó la Ley de Migraciones y también alcanza a quienes participen en actos de ultraje contra los símbolos patrios",
+      "title": "Qué se sabe del accidente del helicóptero en San Juan en el que murieron siete personas",
+      "description": "La aeronave, un Bell 412 contratado por la Agencia Federal de Emergencias (AFE), participaba de un curso de capacitación en combate de incendios forestales cuando se produjo el siniestro",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/el-gobierno-prohibira-el-ingreso-al-pais-a-extranjeros-que-expresen-mensajes-de-odio-contra-nid30072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-30T04:15:42.000Z",
+      "link": "https://www.lanacion.com.ar/sociedad/que-se-sabe-del-accidente-del-helicoptero-en-san-juan-en-el-que-murieron-siete-personas-nid29072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2YE3MZY3ABAQDCOJXPYNVXPCTQ.jpg?auth=ce81f87415b2b1f2a5b0e0fd79f2c10feeec59901af7fd3a42d08c6505481c19&smart=true&width=1000&height=750",
+      "pubDate": "2026-07-30T07:03:44.000Z",
+      "emojisString": "💻 🚗"
+    },
+    {
+      "title": "Desarticulada en Cádiz una red de trata de seres humanos para explotación sexual",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/30/desarticulada-en-cadiz-una-red-de-trata-de-seres-humanos-para-explotacion-sexual/",
+      "image": null,
+      "pubDate": "2026-07-30T07:02:09.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "La economía crece el 0,7% en el segundo trimestre, una décima más, por consumo e inversión",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/30/la-economia-crece-el-07-en-el-segundo-trimestre-una-decima-mas-por-consumo-e-inversion/",
+      "image": null,
+      "pubDate": "2026-07-30T07:01:53.000Z",
+      "emojisString": "📊"
+    },
+    {
+      "title": "Gabriel Rolón, psicólogo: “Siempre habrá una herida, una ausencia que se siente a tu lado y te emocione con un recuerdo” ",
+      "description": "El psicoanalista hizo hincapié en la importancia de momentos vividos en el pasado y la resignificación que la persona puede darle en búsqueda de plenitud personal",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-siempre-habra-una-herida-una-ausencia-que-se-siente-a-tu-lado-y-te-emocione-nid30072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/EBB775GXJBEBPITJYQO7JBSQ6Q.jpg?auth=ccc94620f482f824c0f4c825418c45b3b2970894be28b7bdfcb7167e87376c74&smart=true&width=2000&height=1333",
+      "pubDate": "2026-07-30T07:00:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Fermín López, 23 años, futbolista: \"Mi madre trabajaba en una empresa de fruta y la convencí para que lo dejara. Mi padre es cartero en Correos y nunca quiso dejarlo, dice que es su trabajo\"",
+      "description": "Campeón de Europa y medallista olímpico, pero su padre sigue repartiendo cartas cada mañana. \nFermín López contó por qué eso lo mantiene con los pies en la tierra.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/fermin-lopez-23-anos-futbolista-madre-trabajaba-empresa-fruta-convenci-dejara-padre-cartero-correos-quiso-dejarlo-dice-trabajo_0_NVLXAlwlos.html",
+      "image": "https://www.clarin.com/img/2026/07/29/Zn0pMaesc_1200x630__1.jpg",
+      "pubDate": "2026-07-30T06:00:20.000Z",
+      "emojisString": "🏅"
+    },
+    {
+      "title": "Caos en Brasil: temporales con vientos de más 100 km/h dejan cinco muertos, estragos y apagones en Río de Janeiro y San Pablo",
+      "description": "Los vendavales a más de 100 kilómetros por hora sacudió la zona sur y el sureste de Brasil.\nEl panorama luce desolador: calles anegadas, derrumbes, cables, árboles y postes de luz regados por el piso. Hay interrupciones y suspensión de los servicios del transporte público, marítimo y aéreo.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/mundo/caos-brasil-temporales-vientos-100-kmh-dejan-muertos-estragos-apagones-rio-janeiro-san-pablo_0_EifqdjgHdu.html",
+      "image": "https://www.clarin.com/img/2026/07/30/klEOvIV4O_1200x630__1.jpg",
+      "pubDate": "2026-07-30T05:54:57.000Z",
+      "emojisString": "🚗 🇧🇷"
+    },
+    {
+      "title": "Patricia Bullrich habló del importantísimo cargo al que podría acceder y remarcó que \"se tiene una fe bárbara\"",
+      "description": "La referente política de La Libertad Avanza, que actualmente se desempeña como senadora, se sinceró y afirmó: \"Voy a estar donde me necesiten. Soy parte de un equipo y el director técnico es el Presidente\".  Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/politica/patricia-bullrich-hablo-del-nuevo-puesto-al-que-podria-acceder-y-remarco-que-se-tiene-una-fe-barbara.phtml",
+      "image": "https://fotos.perfil.com/2026/06/03/trim/540/304/patricia-bullrich-2253164.jpg",
+      "pubDate": "2026-07-30T04:25:08.000Z",
       "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "El sentido mensaje de Lucas Trejo, el futbolista que perdió a toda su familia en el terremoto de Venezuela",
-      "description": "A un mes de la muerte de su esposa e hijos, el jugador le agradeció a todos los que estuvieron a su lado y expresó que este fue “el peor momento” de su vida",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/el-sentido-mensaje-de-lucas-trejo-el-futbolista-que-perdio-a-toda-su-familia-en-el-terremoto-de-nid29072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/OT7OZKTIZ5EMZGBOK5HYRHLBBY.jpg?auth=84105aa8983444266ace2fb5a1771cddfc59e8bb2a3a12855c92e61a12ba05af&smart=true&width=2000&height=1333",
-      "pubDate": "2026-07-30T04:15:02.000Z",
-      "emojisString": "💻 🌊 🚗"
-    },
-    {
-      "title": "Campaña anti Argentina: Milei habilitó por decreto a expulsar a los extranjeros que agravien al país o a sus ciudadanos",
-      "description": "La Oficina del Presidente sostuvo que la decisión busca preservar la integridad social y el orden institucional, y que responde a episodios recientes de tensión por declaraciones que fueron interpretadas como ofensas a la República y sus habitantes",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/politica/2026/07/30/campana-anti-argentina-milei-habilito-por-decreto-a-expulsar-a-los-extranjeros-que-agravien-al-pais-o-a-sus-ciudadanos/",
-      "image": "https://www.infobae.com/resizer/v2/K333NH2QP5EP3CK76COGFZ33WA.png?auth=9b53bad0dd0b5f70bfb37ab25e454a2137052018acca0b6e52ae3baa98b195d4&smart=true&width=1920&height=1080",
-      "pubDate": "2026-07-30T04:11:49.000Z",
-      "emojisString": "🏛️ 🗳️ 💻"
-    },
-    {
-      "title": "Gobierno de Laura Fernández endurece el aislamiento de alias “Diablo” y acusa al Poder Judicial de debilitar el operativo de máxima seguridad",
-      "description": "El Ejecutivo aseguró que mantiene un despliegue sin precedentes para impedir una fuga o la operación de estructuras criminales desde prisión, mientras cuestionó una resolución judicial que restituyó beneficios al presunto narcotraficante.",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/costa-rica/2026/07/30/gobierno-de-laura-fernandez-endurece-el-aislamiento-de-alias-diablo-y-acusa-al-poder-judicial-de-debilitar-el-operativo-de-maxima-seguridad/",
-      "image": "https://www.infobae.com/resizer/v2/ZNNUWVGKUVHN5HYXTYXCIC2DFQ.png?auth=d23b9469c6eb4b629dcf6dd7193a0cd4408ac603be9d07ee1bdf7ebc8edc819f&smart=true&width=1536&height=1024",
-      "pubDate": "2026-07-30T04:10:06.000Z",
-      "emojisString": "🎾 🏛️ 💻"
     },
     {
       "title": "El dilema de Arabia Saudita al intentar mantenerse al margen de la guerra entre EE.UU. e Irán",
@@ -45,24 +72,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/373c/live/94c21830-8b87-11f1-af36-51c4f770e76f.jpg",
       "pubDate": "2026-07-30T03:57:13.000Z",
       "emojisString": "💻 💥"
-    },
-    {
-      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este jueves 30 julio de 2026",
-      "description": "El SMN anticipa para este jueves temperaturas entre 9°C y 15°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-jueves-30-julio-2026_0_pkTaUMcSZA.html",
-      "image": "https://www.clarin.com/img/2025/04/30/owb6L8N_q_1200x630__1.jpg",
-      "pubDate": "2026-07-30T03:50:38.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este jueves 30 julio de 2026",
-      "description": "El pronóstico extendido durante la jornada.\n¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-jueves-30-julio-2026_0_JrYnyHVk7k.html",
-      "image": "https://www.clarin.com/img/2025/04/30/uIpHwpc_L_1200x630__1.jpg",
-      "pubDate": "2026-07-30T03:50:15.000Z",
-      "emojisString": "💻 🌤️"
     },
     {
       "title": "River se consiguió otro rival: el Monumental",
@@ -81,17 +90,8 @@
       "image": "https://media.ambito.com/p/08eb25266c9736e02f921a480de14254/adjuntos/239/imagenes/043/545/0043545737/1200x675/760x363:780x383/captura-kristalina-georgieva-1500-3.jpg",
       "pubDate": "2026-07-30T03:00:00.000Z",
       "emojisString": "📊 🏛️ ⚖️"
-    },
-    {
-      "title": "A un año de su lanzamiento, qué queda de Provincias Unidas, el frente de los gobernadores que desafió a Javier Milei",
-      "description": "El espacio, conformado el 30 de julio del 2025, intentó romper la polarización entre libertarios y peronistas. Un mal bautismo de fuego y la atomización de los mandatarios enfriaron el armado. ¿Hay 2027?",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/a-un-ano-su-lanzamiento-que-queda-provincias-unidas-el-frente-los-gobernadores-que-desafio-javier-milei-n6305005",
-      "image": "https://media.ambito.com/p/3f84ae95a7fe192a00b79b2ff2b00511/adjuntos/239/imagenes/042/631/0042631103/1200x675/smart/gobernadores-grito-federal.jpg",
-      "pubDate": "2026-07-30T03:00:00.000Z",
-      "emojisString": "🏛️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-07-30T04:17:34.718Z"
+  "updated": "2026-07-30T07:08:27.771Z"
 }
