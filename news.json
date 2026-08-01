@@ -2,76 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Un estudio del CSIC cuestiona la magnitud de la destrucción de Almanzor",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/01/un-estudio-del-csic-cuestiona-la-magnitud-de-la-destruccion-de-almanzor/",
-      "image": null,
-      "pubDate": "2026-08-01T08:32:53.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Las gafas con filtros para ver el eclipse solar en Cataluña causan furor:\"Es una vorágine\"",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/01/las-gafas-con-filtros-para-ver-el-eclipse-solar-en-cataluna-causan-furores-una-voragine/",
-      "image": null,
-      "pubDate": "2026-08-01T08:32:37.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Las retenciones, ¿son un subsidio a Brasil y a Estados Unidos?",
-      "description": "La plaza sojera no hubiera sido la misma si en la Argentina no se cobraban los Derechos de Exportación: hubo una merma en la producción por el peso de la carga tributaria",
+      "title": "Tormenta en el AMBA: alerta naranja, fuerte actividad eléctrica, calles inundadas y caída de granizo ",
+      "description": "El Servicio Meteorológico Nacional indicó que cayeron más de 70 milímetros acumulados de agua en menos de dos horas; se registraron cortes de luz y demoras y cancelaciones en aeropuertos",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/campo/las-retenciones-son-un-subsidio-a-brasil-y-a-estados-unidos-nid01082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZKJR75KOYVA7JPLWPFEVYDSCU4.jpg?auth=4c3ac450a611eb792707954e569dbf12c2634884a83940ca43f73d8a184652db&smart=true&width=960&height=640",
-      "pubDate": "2026-08-01T08:27:00.000Z",
-      "emojisString": "💵 💻 🇺🇸"
+      "link": "https://www.lanacion.com.ar/sociedad/tormentas-viento-zonda-y-nevadas-las-provincias-bajo-alerta-del-smn-este-viernes-y-el-pronostico-nid31072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HOJG23AFW5D7DCA33LO57DURMQ.png?auth=f223560dbe5259c8c5619a6a04acb5f3678f480030b26e9686a875514eac0ee8&smart=true&width=1672&height=941",
+      "pubDate": "2026-08-01T10:17:15.000Z",
+      "emojisString": "🌤️"
     },
     {
-      "title": "Confirmado | A partir del 3 de agosto, Texas dará hasta 5 millones en créditos fiscales y subvenciones: quiénes son elegibles",
-      "description": "La Oficina del Contralor confirmó los plazos y requisitos de las postulaciones.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/confirmado-partir-3-agosto-texas-dara-5-millones-creditos-fiscales-subvenciones-elegibles_0_pab83KVf2E.html",
-      "image": "https://www.clarin.com/img/2026/07/31/Tjp942IBs_1200x630__1.jpg",
-      "pubDate": "2026-08-01T08:10:58.000Z",
-      "emojisString": "⚖️"
-    },
-    {
-      "title": "California alcanza un hito en la modernización de la salud mental: la Proposición 1 entra en vigor en todo el estado",
-      "description": "Los 58 condados comenzaron a operar bajo el nuevo marco de la Behavioral Health Services Act.\n¿Qué promete la reforma?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/california-alcanza-hito-modernizacion-salud-mental-proposicion-1-entra-vigor-estado_0_ZYQ0SvwsiC.html",
-      "image": "https://www.clarin.com/img/2026/01/16/WKMoB32us_1200x630__1.jpg",
-      "pubDate": "2026-08-01T08:08:58.000Z",
-      "emojisString": "💻 🏥"
-    },
-    {
-      "title": "La nueva vía para conseguir una cita de visa de EE.UU. en 10 días: cuesta US$750 y ya funciona en México",
-      "description": "Nueva tarifa de 750 dólares habilita citas rápidas para visas de EE. UU. por tiempo limitado, de forma independiente al costo regular",
+      "title": "Pueblos de ensueño y playas de fama mundial en un circuito por Andalucía ",
+      "description": "Desde Sevilla, en el sur español, el recorrido enhebra Cádiz, Marbella y Tarifa, entre otros destinos que\ninvitan a disfrutar del verano, la gastronomía y la arquitectura; el cruce a Tánger y un plus por Ibiza",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/la-nueva-via-para-conseguir-una-cita-de-visa-de-eeuu-en-10-dias-cuesta-us750-y-ya-funciona-en-mexico-nid01082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/AZXRPCTTLBHNDFVLIFPFMXRDNM.jpg?auth=a3b29a2d8e029de158fd2e88af9a40ba41f6e07d2fdceb51aba53e1e96448513&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-01T08:01:00.000Z",
-      "emojisString": "💵"
+      "link": "https://www.lanacion.com.ar/salud/pueblos-de-ensueno-y-playas-de-fama-mundial-en-un-circuito-por-andalucia-nid01082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/226NHH4HEFHX5ERPJ3VMXTYLFQ.JPG?auth=93919b2bb664c9f4bb280a7d747446ea415f6a491591d17a43c427f303a7e7d2&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-01T10:17:00.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
-      "title": "Clima en Ciudad de Buenos Aires: las lluvias se despiden tras el temporal y baja la temperatura",
-      "description": "El Pronóstico para la Ciudad de Buenos Aires y el AMBA prevé una mejora paulatina hacia la tarde del sábado, tras dejar atrás las tormentas y marcar un moderado descenso térmico. Leer más",
+      "title": "Gasolina en Nuevo León: precio de la magna, premium y diésel este sábado 1 de agosto",
+      "description": "El valor de los carburantes en el país puede cambiar debido a múltiples factores como el tipo de cambio frente al dólar, impuestos y la logística para el traslado",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/01/gasolina-en-nuevo-leon-precio-de-la-magna-premium-y-diesel-este-sabado-1-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/HAGRJXU5YJFRHJTUKOO3SXEUAU.jpg?auth=611deb3d672514101c91b67ee35d380161841759da01a480cf7cbcee3431172d&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-01T10:16:51.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Marruecos guarda silencio tras la crisis migratoria mientras el periódico más cercano al rey Mohamed VI la achaca a que Melilla y Ceuta son ciudades “ocupadas”",
+      "description": "En medio del colapso fronterizo, testimonios de jóvenes migrantes revelan que la desinformación en redes sociales y la precariedad económica en Marruecos impulsaron la decisión de cruzar hacia Ceuta a pesar del riesgo",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/08/01/marruecos-guarda-silencio-tras-la-crisis-migratoria-mientras-el-periodico-mas-cercano-al-rey-mohamed-vi-habla-de-las-ciudades-ocupadas-de-melilla-y-ceuta/",
+      "image": "https://www.infobae.com/resizer/v2/XZQL6ZLBXNFVJOQXFIOGGEVGBA.jpg?auth=f6ac815093cca0d2a633c1b9f827b3f43cea4f4d7b7f74ef1124f130737120d0&smart=true&width=3264&height=1836",
+      "pubDate": "2026-08-01T10:16:40.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Partidos de HOY, sábado 1 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+      "description": "Desde temprano y hasta la noche, la pelota no para de rodar: el Torneo Clausura se lleva todas las miradas con el plato fuerte en Avellaneda entre Racing y Tigre.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-sabado-1-agosto-2026-agenda-ole-horario-ver-futbol-vivo-online_0_DEaxlyKMmm.html",
+      "image": "https://www.ole.com.ar/images/2026/07/31/ok68rwS8h_1200x630__1.jpg",
+      "pubDate": "2026-08-01T10:01:01.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "Hitler y Berlín 1936: el día que el nazismo usó los Juegos Olímpicos como plataforma de propaganda",
+      "description": "El 1 de agosto de 1936, Adolf Hitler inauguró la XI edición de los Juegos Olímpicos de Verano. Concebidos como una monumental plataforma de diplomacia pública y afirmación ideológica, las competencias quedaron marcadas por el impacto del atleta afroamericano que desarmó la retórica del régimen en su",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/clima/clima-en-ciudad-de-buenos-aires-las-lluvias-se-despiden-tras-el-temporal-y-baja-la-temperatura.phtml",
-      "image": "https://fotos.perfil.com/2026/05/07/trim/540/304/amba-como-estara-el-clima-este-fin-de-semana-2235406.jpg",
-      "pubDate": "2026-08-01T08:00:00.000Z",
+      "link": "https://www.perfil.com/noticias/efemerides/de-la-propaganda-nazi-al-mito-de-jesse-owens-la-historia-detras-de-berlin-1936-a50.phtml",
+      "image": "https://fotos.perfil.com/2026/07/30/trim/540/304/adolf-hitler-en-la-apertura-de-los-jjoo-de-1936-2294380.jpg",
+      "pubDate": "2026-08-01T10:00:00.000Z",
+      "emojisString": "🏅 💻"
+    },
+    {
+      "title": "Robert De Niro (82 años): “Soy como Dios y Dios es como yo, soy tan grande como Dios, Él es del mismo tamaño que yo, no está por encima de mí ni yo estoy por debajo de Él”\n\n",
+      "description": "Palabras provocativas que invitan a la reflexión.\nEl verdadero origen de la frase, popular en redes sociales.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/robert-niro-82-anos-dios-dios-grande-dios-mismo-tamano-encima-debajo_0_VsrTDzbbgn.html",
+      "image": "https://www.clarin.com/img/2026/07/20/0wxnrbMTY_1200x630__1.jpg",
+      "pubDate": "2026-08-01T09:31:01.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Almuneda Herraiz, ortodoncista:  \"Si no te cepillas los dientes, las bacterias se quedan en la boca, se alimentan de los restos de comida, producen ácidos y estos debilitan el esmalte\"",
+      "description": "Los consejos de una experta para una óptima salud dental.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/almuneda-herraiz-ortodoncista-cepillas-dientes-bacterias-quedan-boca-alimentan-restos-comida-producen-acidos-debilitan-esmalte_0_VMkX9B2WLG.html",
+      "image": "https://www.clarin.com/img/2025/09/28/7e4LSihLX_1200x630__1.jpg",
+      "pubDate": "2026-08-01T09:29:00.000Z",
+      "emojisString": "⚽ 💻 🏥"
+    },
+    {
+      "title": "Noche espantosa en el AMBA: lluvia, viento, cortes de luz y casi 30 vuelos afectados",
+      "description": "Cayeron casi 90 milímetros durante la madrugada del sábado. El diluvio que afecta a la Ciudad y gran parte del Gran Buenos Aires dejó a muchos usuarios sin suministro eléctrico y afectó varios vuelos en Ezeiza y Aeroparque. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/actualidad/noche-espantosa-en-el-amba-lluvia-viento-y-mas-de-60-mil-usuarios-sin-luz.phtml",
+      "image": "https://fotos.perfil.com/2026/08/01/trim/540/304/vuelos-afectados-por-la-lluvia-2295680.jpg",
+      "pubDate": "2026-08-01T08:38:00.000Z",
       "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "La fe explica por qué millones de latinos respaldan a Trump",
-      "description": "El realineamiento del electorado hispano en EE.UU. revela que los valores religiosos y culturales están desplazando al debate migratorio como único y principal motor de decisión. Hipótesis sobre el futuro electoral. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/elobservador/la-fe-explica-por-que-millones-de-latinos-respaldan-a-trump.phtml",
-      "image": "https://fotos.perfil.com/2026/08/01/trim/540/304/01082026latinotrumpcedocg-2295677.jpg",
-      "pubDate": "2026-08-01T07:56:21.000Z",
-      "emojisString": "🇺🇸"
     },
     {
       "title": "Dólar: tras un mes casi estable, el mercado identifica un nuevo frente de riesgo para agosto",
@@ -81,17 +90,8 @@
       "image": "https://media.ambito.com/p/4083975a9231d5fdc55a3b2e8b441271/adjuntos/239/imagenes/043/557/0043557378/1200x675/smart/argentina-dolar-global.jpg",
       "pubDate": "2026-08-01T03:00:00.000Z",
       "emojisString": "💵 📊 🏛️"
-    },
-    {
-      "title": "Provincias negocian suspensión de PASO (no eliminación) a cambio de un Presupuesto \"federal\"",
-      "description": "El Gobierno analiza garantizar más recursos para los distritos en el proyecto de \"ley de leyes\" para evitar las primarias en el 2027. Estrategia legislativa a dos bandas, solución salomónica y acuerdos electorales en el horizonte.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/ambito-nacional/provincias-negocian-suspension-paso-no-eliminacion-cambio-un-presupuesto-federal-n6305848",
-      "image": "https://media.ambito.com/p/35b022211c3c3027c786c4ee641ecf95/adjuntos/239/imagenes/043/503/0043503745/1200x675/smart/santilli-gobernadores.jpg",
-      "pubDate": "2026-08-01T03:00:00.000Z",
-      "emojisString": "🏛️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-01T08:38:21.656Z"
+  "updated": "2026-08-01T10:20:57.531Z"
 }
