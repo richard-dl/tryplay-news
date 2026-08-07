@@ -2,22 +2,49 @@
   "success": true,
   "data": [
     {
-      "title": "Al menos ocho muertos y 15 estudiantes heridos tras un tiroteo en una escuela de Tailandia",
-      "description": "Entre las víctimas fatales figuran alumnos, profesores y el presunto autor del ataque, según informó la Policía Nacional. El hecho ocurrió en el distrito de Bang Kruai, en la provincia de Nonthaburi, en la escuela Debsirin Nonthaburi, ubicada en las afueras del noroeste de Bangkok",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/mundo/2026/08/07/tiroteo-en-una-escuela-de-tailandia-un-estudiante-mato-a-un-profesor-dejo-cuatro-heridos-y-luego-se-quito-la-vida/",
-      "image": "https://www.infobae.com/resizer/v2/2ROXY4AJXBFBZCWP2PZ5OKMLMU.JPG?auth=8efa09b4aa2985da4e1ce20fd647f7a92a65cbe13aff2138753603a2e5dcb587&smart=true&width=5500&height=3667",
-      "pubDate": "2026-08-07T07:42:43.000Z",
-      "emojisString": "💻 📚 💥"
+      "title": "Arrestados por el ICE en un cementerio: dos ciudadanos denuncian que agentes cortaron el candado y usaron gas pimienta",
+      "description": "Conoce por qué dos trabajadores demandan al ICE tras un operativo en un cementerio de Illinois y qué denuncian sobre la actuación de los agentes",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/arrestados-por-el-ice-en-un-cementerio-dos-ciudadanos-denuncian-que-agentes-cortaron-el-candado-y-nid07082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/E2VVYTL6YVDMZEWOKLHJGPXLQM.png?auth=1d50a6cc6e611666533c7ffd45dad853d8fc5b73da1c434b378486c17853d17f&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-07T08:38:00.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "México tetracampeón en el futbol femenil de los Juegos Centroamericanos: conquista la medalla de oro",
-      "description": "La entrenadora Vanessa Martínez aseguró que sus jugadoras “nunca se rindieron” y demostraron el carácter de un equipo de guerreras",
+      "title": "Jordi Cruz, chef Michelin: “Si te gusta el gazpacho, tienes que probar esta versión con melocotón,  fresas, tomate maduro y cebolleta” ",
+      "description": "El chef del restaurante ABaC, con tres estrellas Michelin, ha compartido una receta de gazpacho de lo más especial, con la fruta como protagonista",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/deportes/2026/08/07/mexico-tetracampeon-en-el-futbol-femenil-de-los-juegos-centroamericanos-conquista-la-medalla-de-oro/",
-      "image": "https://www.infobae.com/resizer/v2/PFWGFEAE6ZA55ANEHR7ZGOV74U.jpg?auth=1e91e2b537277c7b55e7012d699b3745bfe7738136340a5df0334380d87b0b59&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-07T07:42:11.000Z",
-      "emojisString": "🏅"
+      "link": "https://www.infobae.com/espana/2026/08/07/jordi-cruz-chef-michelin-si-te-gusta-el-gazpacho-tienes-que-probar-esta-version-con-melocoton-fresas-tomate-maduro-y-cebolleta/",
+      "image": "https://www.infobae.com/resizer/v2/KDHGYO6P7NH6PMVY5HGSE7X64E.jpg?auth=3f8b9f6e99a51909ff720ac68e2e3d3f83b6393c5f0a52e1e034d54216213648&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-07T08:36:55.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Rechazaron el pedido de la defensa de Pity Álvarez para suspender el juicio por homicidio",
+      "description": "Tal como había previsto el tribunal, la primera audiencia por el crimen de Cristián Díaz se realizará el próximo lunes 10 de agosto",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/sociedad/policiales/2026/08/07/rechazaron-el-pedido-de-la-defensa-de-pity-alvarez-para-suspender-el-juicio-por-homicidio/",
+      "image": "https://www.infobae.com/resizer/v2/HVQENV4TEVFOZIKPPV6UK3MHTQ.jpg?auth=f9997fe9e4922c1466c1fe4c9cf52f2d6fdc8abf5cdf5eea82356d1de4f2c8ba&smart=true&width=1280&height=720",
+      "pubDate": "2026-08-07T08:36:18.000Z",
+      "emojisString": "⚖️ 🚨 💻"
+    },
+    {
+      "title": "Después de años viviendo en su auto, Vera, de 85 años, encontró un lugar propio",
+      "description": "\"Es realmente doloroso recordarlo porque me hace sentir que fui muy estúpida. Pero la verdad es que no tenía otra alternativa.\"\nTras descubrir que no podía hacer frente a los pagos de su hipoteca, se vio obligada a vender su vivienda.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/despues-anos-viviendo-auto-vera-85-anos-encontro-lugar-propio_0_ZBy088Q4Eo.html",
+      "image": "https://www.clarin.com/img/2026/08/07/_JukqpaT1_1200x630__1.jpg",
+      "pubDate": "2026-08-07T07:40:48.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Récord en los Everglades: capturó 96 pitones en sólo 10 días y ganó 10.000 dólares",
+      "description": "El certamen busca controlar una de las especies invasoras que más afectan al ecosistema de los Everglades.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/record-everglades-capturo-96-pitones-solo-10-dias-gano-10000-dolares_0_oyhRoimU22.html",
+      "image": "https://www.clarin.com/img/2026/08/06/J6AtmftjD_1200x630__1.jpg",
+      "pubDate": "2026-08-07T07:20:48.000Z",
+      "emojisString": "💵"
     },
     {
       "title": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
@@ -38,22 +65,13 @@
       "emojisString": "🏛️ 🗳️ 🚨"
     },
     {
-      "title": "4 maestros muertos en un tiroteo en una escuela de Tailandia que se atribuye a un alumno de 14 años",
+      "title": "\"Conversaba con mi maestra cuando le dispararon\": un alumno de 14 años es sospechoso de matar a tiros a 5 docentes en Tailandia",
       "description": "El cuerpo del agresor también fue encontrado sin vida. Se sospecha que mató a sus dos abuelos antes de dirigiste al colegio.",
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/c20ed4rnd7xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b518/live/6c968cc0-922f-11f1-b37c-576fd8256624.jpg",
       "pubDate": "2026-08-07T07:10:07.000Z",
-      "emojisString": "💻 📚 🚗"
-    },
-    {
-      "title": "El Senado aprobó y giró a la Cámara de Diputados el proyecto de propiedad privada",
-      "description": "El oficialismo logró imponer la iniciativa por 37 votos a favor y 33 en contra, pero debió resignar los cambios a la ley del Manejo del Fuego ante la resistencia de los aliados provinciales",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/el-senado-reanudo-la-sesion-en-la-que-se-discutira-el-proyecto-de-propiedad-privada-pero-sin-el-nid06082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/YRRBE4YAXVFFFJ2IERF65QF5VE.jpeg?auth=98317fa80c9665ac10affae6f6d08a3bf99c5efc766c6115ac2eb7d1c87c7dc2&smart=true&width=1280&height=854",
-      "pubDate": "2026-08-07T07:00:08.000Z",
-      "emojisString": "🏛️ 🗳️ 💻"
+      "emojisString": "💻 📚"
     },
     {
       "title": "De la llegada de El Diablo viste a la moda 2 a las mejores series: qué ver en streaming del 7 al 9 de agosto",
@@ -63,24 +81,6 @@
       "image": "https://fotos.perfil.com/2026/08/07/trim/540/304/que-ver-en-streaming-del-7-al-9-de-agosto-2299543.jpg",
       "pubDate": "2026-08-07T07:00:00.000Z",
       "emojisString": "💻 🎬"
-    },
-    {
-      "title": "Bullrich cargó contra el peronismo, recordó compras fiscales de Néstor Kirchner y en la chicana se cruzó fuerte con Jorge Capitanich",
-      "description": "En su alocución final, la senadora libertaria hizo un raconto de las tierras cedidas por gobiernos peronistas y kirchneristas y le tiró por elevación al exgobernador de Chaco. \n\"Respetar la propiedad privada es no ser parte de los narcos usurpadores. El clan Sena, Milagro Sala, los narcos, ellos rob",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/politica/bullrich-cargo-peronismo-recordo-compras-fiscales-nestor-kirchner-chicana-cruzo-fuerte-jorge-capitanich_0_qMEPzgXPz8.html",
-      "image": "https://www.clarin.com/img/2026/08/07/LZOpS4clE_1200x630__1.jpg",
-      "pubDate": "2026-08-07T06:47:17.000Z",
-      "emojisString": "🏛️ ⚖️ 💻"
-    },
-    {
-      "title": "La psicología dice que las madres trabajadoras suelen cargar con estos 5 tipos de culpa que los padres rara vez mencionan",
-      "description": "Conciliar el trabajo con la crianza sigue siendo uno de los principales desafíos para muchas familias.\nEstudios muestran que las madres suelen experimentar sentimientos de culpa con mayor frecuencia que los padres.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/psicologia-dice-madres-trabajadoras-suelen-cargar-5-tipos-culpa-padres-rara-vez-mencionan_0_HHCZu6Rc6Z.html",
-      "image": "https://www.clarin.com/img/2026/07/22/4iJPEK4fq_1200x630__1.jpg",
-      "pubDate": "2026-08-07T06:46:48.000Z",
-      "emojisString": "💻"
     },
     {
       "title": "Uno a uno, cómo votó cada senador la ley de Inviolabilidad de la Propiedad Privada",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-07T07:50:40.068Z"
+  "updated": "2026-08-07T08:50:06.825Z"
 }
