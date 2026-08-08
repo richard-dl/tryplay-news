@@ -2,31 +2,40 @@
   "success": true,
   "data": [
     {
-      "title": "Como si a la Argentina le sobrara plata, ahora hay rechazo a los extranjeros",
-      "description": "El fracaso de la reforma a la ley de Tierras demuestra que el país le pone límites al aprovechamiento del potencial productivo de la agroindustria",
+      "title": "Hay alerta amarilla por frío extremo, vientos y Zonda para este sábado 8 de agosto: las provincias afectadas",
+      "description": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/campo/como-si-a-la-argentina-le-sobrara-plata-ahora-hay-rechazo-a-los-extranjeros-nid08082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/7Z5OJNSRDZCOTPAPA574S2AASE.jpg?auth=11d0a56432ad1370a0e9c664da57cd9f81150b39cf3f2d3ad7b38518b9ba9510&smart=true&width=3000&height=2000",
-      "pubDate": "2026-08-08T10:54:05.000Z",
+      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-vientos-y-zonda-para-este-sabado-8-de-agosto-las-provincias-nid08082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/EUQO67TLNNCTXMRGAVDFJ3VMSA.png?auth=c17b528b0b9d009764577456e279c0a45528695d342d8b1f2116caee9f107db2&smart=true&width=590&height=449",
+      "pubDate": "2026-08-08T11:31:01.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "El nuevo “sueño americano”: las universidades que enseñan cómo ser influencer y ya causan furor en EE.UU.",
+      "description": "Universidades en Estados Unidos ofrecen especializaciones sobre el mundo influencer para formar expertos en marketing digital y desarrollo de marcas.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/el-nuevo-sueno-americano-las-universidades-que-ensenan-como-ser-influencer-y-ya-causan-furor-en-eeuu-nid08082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/OXZ52AWO5NASDKLQLBV7F2GDRM.jpg?auth=37165c708967c824a40e59fc1c5e6baa6eadfd19f06a7aea25da1d95c439af7d&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-08T11:30:00.000Z",
+      "emojisString": "💻 📚 🇺🇸"
+    },
+    {
+      "title": "Los controles entre España e Italia en plena temporada alta podrían afectar al turismo: recibimos a 10 millones de viajeros del país al año",
+      "description": "Madrid aplica desde este sábado controles recíprocos en aeropuertos y puertos tras la negativa de Roma a retirar las restricciones impuestas por la crisis migratoria en Ceuta",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/08/08/los-controles-entre-espana-e-italia-en-plena-temporada-alta-tensan-un-intercambio-turistico-de-103-millones-de-pasajeros/",
+      "image": "https://www.infobae.com/resizer/v2/Y4P4Z5G53JDUBNT42LYFW7NCSA.jpg?auth=146a037b6c6849529f39ce4381f9d9e81e3b8c158bbc91263e99aefc85ccd400&smart=true&width=1920&height=1280",
+      "pubDate": "2026-08-08T11:26:58.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Cuánto cuesta remodelar un baño en agosto 2026, según cada presupuesto",
-      "description": "Los costos de refacción continúan en alza, pero los expertos recomiendan realizar las remodelaciones antes de que continúen subiendo",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuanto-cuesta-remodelar-un-bano-en-agosto-2026-segun-cada-presupuesto-nid06082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/OYFPTHAZLFB6VIZNEGVSAEAYOA.png?auth=04b0db3e2284498f31504cc05157e98534493144b5d9ae1e2785d25ba2cf8d61&smart=true&width=1536&height=1024",
-      "pubDate": "2026-08-08T10:53:49.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Murió Jorge Messi, el papá de Lionel Messi",
-      "description": "El deceso ocurrió ayer, a las 22. Estaba internado en una clínica de Rosario, Argentina",
+      "title": "Claudia Sheinbaum abandona la “cabeza fría” ante Donald Trump y opta por respuestas desafiantes, según The Economist",
+      "description": "La revista británica señaló que la presidenta de México habría adoptado un discurso más desafiante",
       "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/08/murio-jorge-messi-el-papa-de-lionel-messi/",
-      "image": "https://www.infobae.com/resizer/v2/73F7YZB5MFFHJOG44LMMIDCVLA.jpg?auth=0e3c4504bd1d1b6aba9d450b4671563d1aa3a646acb88c96d7c5bc80ac1f521b&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-08T10:53:18.000Z",
-      "emojisString": "⚽"
+      "link": "https://www.infobae.com/mexico/2026/08/08/claudia-sheinbaum-abandona-la-cabeza-fria-ante-donald-trump-y-opta-por-respuestas-desafiantes-segun-the-economist/",
+      "image": "https://www.infobae.com/resizer/v2/TUZGZAM34BA6XDCSCXXVKDBCNE.png?auth=1e400caf48d25be81d740531b6a24d03633681cd9e88248c8736244b7b832c0f&smart=true&width=5040&height=2835",
+      "pubDate": "2026-08-08T11:25:58.000Z",
+      "emojisString": "🏀 💻 🇺🇸"
     },
     {
       "title": "10 de las casas diseñadas con mayor ingenio y simplicidad en Japón",
@@ -47,13 +56,22 @@
       "emojisString": "⚽"
     },
     {
-      "title": "La Policía ya pide el pasaporte a los viajeros procedentes de Italia",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/08/la-policia-ya-pide-el-pasaporte-a-los-viajeros-procedentes-de-italia/",
-      "image": null,
-      "pubDate": "2026-08-08T10:47:20.000Z",
-      "emojisString": "💻"
+      "title": "Euro hoy en Venezuela: precio y cotización de la divisa este sábado 8 de agosto de 2026",
+      "description": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia.\nCómo es la tendencia de la moneda europea en lo que va del año.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-sabado-8-de-agosto-de-2026_0_SudbHrXWtL.html",
+      "image": "https://www.clarin.com/img/2018/12/28/5LE22YAZM_1200x630__1.jpg",
+      "pubDate": "2026-08-08T10:45:11.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Euro hoy en México: precio y cotización de la divisa este sábado 8 de agosto de 2026",
+      "description": "Mirá la cotización del euro en México, su variación y los valores de referencia.\nCómo es la tendencia de la moneda europea en lo que va del año.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/euro-hoy-en-mexico-precio-y-cotizacion-de-la-divisa-este-sabado-8-de-agosto-de-2026_0_8I8qJgBsBQ.html",
+      "image": "https://www.clarin.com/img/2016/12/30/Sy03el4Sg_1200x630.jpg",
+      "pubDate": "2026-08-08T10:45:10.000Z",
+      "emojisString": "💵 💻"
     },
     {
       "title": "A qué hora juegan Los Pumas vs. Sudáfrica y dónde se podrá ver EN VIVO el partido de hoy",
@@ -65,33 +83,15 @@
       "emojisString": "📰"
     },
     {
-      "title": "Murió Jorge Messi, papá de Lionel Messi, en Rosario",
-      "description": "Estaba internado en una clínica de Rosario. El deceso se produjo este viernes a las 22. Leer más",
+      "title": "El rey del césped sagrado: Roger Federer y su idilio eterno con la catedral de Wimbledon",
+      "description": "El 8 de agosto de 1981 nació en Basilea el tenista suizo que redefinió la estética y el rendimiento en el deporte blanco. Con ocho títulos de Grand Slam sobre la hierba del All England Club, su figura quedó grabada para siempre en la superficie más prestigiosa del circuito. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/deportes/murio-jorge-messi-papa-de-lionel-messi-en-rosario.phtml",
-      "image": "https://fotos.perfil.com/2026/06/18/trim/540/304/lionel-y-jorge-messi-18062026-2263911.jpg",
-      "pubDate": "2026-08-08T10:30:14.000Z",
-      "emojisString": "⚽"
-    },
-    {
-      "title": "Dólar CCL hoy: a cuánto cotiza este sábado 08 de agosto",
-      "description": "Mirá la cotización para la compra y venta del dólar CCL hoy.\nCotizaciones, evolución, previsiones e información para el cambio de monedas.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-sabado-08-agosto_0_r0j0WLUkkV.html",
-      "image": "https://www.clarin.com/img/2018/10/15/Mfy9DMYUu_1200x630__1.jpg",
-      "pubDate": "2026-08-08T10:08:02.000Z",
-      "emojisString": "💵"
-    },
-    {
-      "title": "Dólar tarjeta hoy: a cuánto cotiza este sábado 08 de agosto",
-      "description": "Mirá la cotización para la compra y venta del dólar tarjeta hoy.\nCotizaciones, evolución, previsiones e información para el cambio de monedas.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-sabado-08-agosto_0_srGSJ0GWjE.html",
-      "image": "https://www.clarin.com/img/2014/01/29/B1efVPhFNx_1200x630.jpg",
-      "pubDate": "2026-08-08T10:08:01.000Z",
-      "emojisString": "💵"
+      "link": "https://www.perfil.com/noticias/efemerides/el-rey-del-cesped-sagrado-roger-federer-y-su-idilio-eterno-con-la-catedral-de-wimbledon-a50.phtml",
+      "image": "https://fotos.perfil.com/2025/09/03/trim/540/304/roger-federer-2092254.jpg",
+      "pubDate": "2026-08-08T10:00:00.000Z",
+      "emojisString": "🎾 🏅"
     }
   ],
   "count": 10,
-  "updated": "2026-08-08T10:59:11.469Z"
+  "updated": "2026-08-08T11:32:15.971Z"
 }
