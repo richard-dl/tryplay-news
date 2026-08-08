@@ -2,40 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Una anciana de 97 años muere ahogada en una piscina particular de Plans de Sió (Lleida)",
+      "title": "Muere el sacerdote Lluís Bonet, rector durante 25 años de la Sagrada Familia",
       "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/08/una-anciana-de-97-anos-muere-ahogada-en-una-piscina-particular-de-plans-de-sio-lleida/",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/08/muere-el-sacerdote-lluis-bonet-rector-durante-25-anos-de-la-sagrada-familia/",
       "image": null,
-      "pubDate": "2026-08-08T07:30:56.000Z",
+      "pubDate": "2026-08-08T08:16:31.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "El PP defiende negociar \"con luz y taquígrafos\" una financiación \"mejor\" para Cataluña",
+      "title": "París viaja 140 millones de años atrás para mostrar los dinosaurios que habitaban el país",
       "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/08/el-pp-defiende-negociar-con-luz-y-taquigrafos-una-financiacion-mejor-para-cataluna/",
+      "link": "https://www.infobae.com/america/agencias/2026/08/08/paris-viaja-140-millones-de-anos-atras-para-mostrar-los-dinosaurios-que-habitaban-el-pais/",
       "image": null,
-      "pubDate": "2026-08-08T07:30:40.000Z",
-      "emojisString": "💵 💻"
+      "pubDate": "2026-08-08T08:16:12.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "Gabriel Rolón, psicólogo: “A veces uno desea más haber sido feliz que ser feliz ahora” ",
-      "description": "El psicólogo reflexionó sobre la tendencia a idealizar los recuerdos o postergar el bienestar para el futuro; “Lo que fue ya está perdido”, sostuvo",
+      "title": "España impone controles fronterizos a Italia y se agudiza la tensión entre Sánchez y Meloni por la llegada de migrantes a Ceuta",
+      "description": "Italia introdujo controles fronterizos tras la llegada masiva de unos 78.000 migrantes procedentes del vecino Marruecos al enclave español de Ceuta. España responde con una medida recíproca.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/czxq1ppnw18o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca3/live/0fd778e0-92a3-11f1-ad1c-3bd57e0f041e.jpg",
+      "pubDate": "2026-08-08T08:08:30.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Noticias del ICE en Nueva York: el mapa de reportes de redadas migratorias que se cuadruplica en algunas zonas",
+      "description": "Descubre por qué aumentan las redadas del ICE en Nueva York, qué regiones registran más operativos y cómo cambió la estrategia federal.",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-a-veces-uno-desea-mas-haber-sido-feliz-que-ser-feliz-ahora-nid08082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/RWSKZQGI3VHWZH5ZJWI3XP4ZD4.jpg?auth=1171a73c101f7d38fd73e43f9428b2b6c7e949f84a862dddbbcd931d73661407&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-08T07:00:00.000Z",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/noticias-del-ice-en-nueva-york-el-mapa-de-reportes-de-redadas-migratorias-que-se-cuadruplica-en-nid08082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/M53MTGOCHRHTRGCYZ4AXRY4E2E.png?auth=0693ac31433a2b42ea05d8962fe8fa7625f14c510ac72de5f891735a2b8297bb&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-08T08:01:00.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "La psicología dice que los padres que dejaron de gritar generalmente cambiaron primero estas 5 cosas, y ninguna de ellas fue la paciencia",
-      "description": "Quienes lograron cambiar esa dinámica modificaron algo muy cotidiano: la forma en que se organizaban los conflictos.",
+      "title": "Estanislao Bachrach, especialista en neurociencia: “Los mejores analgésicos están en el estómago” ",
+      "description": "El biólogo molecular analizó la importancia de la intuición y el cuerpo para alcanzar la plenitud personal; describió técnicas para transformar la estructura cerebral y reducir el malestar mental",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-especialista-en-neurociencia-los-mejores-analgesicos-estan-en-el-estomago-nid08082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/3E4JVA7C3FDLTICUPISU3DVYIM.png?auth=438a341c7b95e4c1edfa7770185ab420e7eebf9031aef486b417ecad9c1d9619&smart=true&width=1339&height=822",
+      "pubDate": "2026-08-08T08:00:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Victoria para Abbott: peligra la ley de Texas que brinda matrícula estatal a 57.000 estudiantes sin documentos",
+      "description": "La normativa había sido promulgada en 2001 por un gobernador republicano.\nLos jóvenes debían comprometerse a solicitar la residencia permanente.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/psicologia-dice-padres-dejaron-gritar-generalmente-cambiaron-primero-5-cosas-paciencia_0_ujDcOcRoXs.html",
-      "image": "https://www.clarin.com/img/2021/03/23/4vIIRwGMP_1200x630__1.jpg",
-      "pubDate": "2026-08-08T06:47:12.000Z",
-      "emojisString": "💻 💥"
+      "link": "https://www.clarin.com/estados-unidos/victoria-abbott-peligra-ley-texas-brinda-matricula-estatal-57000-estudiantes-documentos_0_uvycRw02eM.html",
+      "image": "https://www.clarin.com/img/2026/08/06/cRbSD4Y9P_1200x630__1.jpg",
+      "pubDate": "2026-08-08T07:45:13.000Z",
+      "emojisString": "💻 📚"
+    },
+    {
+      "title": "Qué significa el proverbio italiano: “O te comes esta sopa o te tiras por la ventana”",
+      "description": "La frase plantea que, a veces, no hay margen para esperar la opción perfecta.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/significa-proverbio-italiano-comes-sopa-tiras-ventana_0_Vc3oBDoZZh.html",
+      "image": "https://www.clarin.com/img/2023/10/26/upweyGW_u_1200x630__1.jpg",
+      "pubDate": "2026-08-08T07:35:13.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "River inscribió a Thiago Almada en la lista para jugar la Sudamericana aunque todavía no llegó a la Argentina",
@@ -47,15 +74,6 @@
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "El fin de un beneficio clave de Medicare: la decisión de Trump que subiría el precio de los medicamentos en 2027",
-      "description": "Aumentan los medicamentos de Medicare en 2027: Donald Trump eliminó un subsidio clave y subirán los costos mensuales de los adultos mayores.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/el-fin-de-un-beneficio-clave-de-medicare-la-decision-de-trump-que-subiria-el-precio-de-los-nid08082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/652K4WO44JECTJ6X5VR2JBSLWM.jpg?auth=0f20781d6a2798f68a45620101bee718b1f435a770a3f1833544812016dc93a1&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-08T06:24:00.000Z",
-      "emojisString": "🇺🇸"
-    },
-    {
       "title": "El ministro, la poesía y los libros",
       "description": "La Ley de Defensa de la Actividad Librera y el poema de Sturzenegger. Leer más",
       "source": "Perfil",
@@ -65,15 +83,6 @@
       "emojisString": "📰"
     },
     {
-      "title": "Líderes de Irán creen que la victoria está al alcance y que el tiempo les favorece",
-      "description": "Irán busca consolidar su control sobre el estrecho de Ormuz, clave para el comercio energético, apostando a que la presión militar y económica desgaste a EE.UU.\nLa estrategia iraní, aunque arriesgada, podría redefinir el equilibrio de poder regional, pero enfrenta desafíos internos y económicos que",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/lideres-de-iran-creen-que-la-victoria-esta-al-alcance-y-que-el-tiempo-les-favorece_0_US4iOoRUyp.html",
-      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
-      "pubDate": "2026-08-08T06:00:08.000Z",
-      "emojisString": "💻 💥"
-    },
-    {
       "title": "Video: el debut de Maxi Salas en Independiente Rivadavia",
       "description": "El ex River hizo su estreno en la Lepra Mendocina, donde está a préstamo por un año.",
       "source": "Olé",
@@ -81,17 +90,8 @@
       "image": "https://www.ole.com.ar/images/2026/08/07/Rc6dmORJ4_1200x630__1.jpg",
       "pubDate": "2026-08-08T03:03:44.000Z",
       "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "3 momentos que marcaron la posesión de Abelardo de la Espriella como presidente de Colombia (y qué dicen sobre cómo será su gobierno)",
-      "description": "Con una oración, un discurso en un batallón militar y un vendedor de panela, De la Espriella le imprimió su propio estilo al acto de procesión.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cz64y70l8wzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cade/live/60e96f40-92d0-11f1-a85d-251309a09aa9.jpg",
-      "pubDate": "2026-08-08T02:31:50.000Z",
-      "emojisString": "🏛️ 💻 💥"
     }
   ],
   "count": 10,
-  "updated": "2026-08-08T07:34:32.087Z"
+  "updated": "2026-08-08T08:20:50.805Z"
 }
