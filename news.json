@@ -2,22 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Interceptan a 12 migrantes de una patera en el hotel Riu Palace la Mola en Formentera",
-      "description": "",
+      "title": "Murió Jorge Messi, el papá de Lionel Messi",
+      "description": "El deceso ocurrió ayer, a las 22. Estaba internado en una clínica de Rosario, Argentina",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/08/interceptan-a-12-migrantes-de-una-patera-en-el-hotel-riu-palace-la-mola-en-formentera/",
-      "image": null,
-      "pubDate": "2026-08-08T09:48:28.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/deportes/2026/08/08/murio-jorge-messi-el-papa-de-lionel-messi/",
+      "image": "https://www.infobae.com/resizer/v2/73F7YZB5MFFHJOG44LMMIDCVLA.jpg?auth=0e3c4504bd1d1b6aba9d450b4671563d1aa3a646acb88c96d7c5bc80ac1f521b&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-08T10:21:41.000Z",
+      "emojisString": "⚽"
     },
     {
-      "title": "Temblor hoy en México: Se reporta sismo de magnitud 4.3 en Chiapas",
-      "description": "Sigue en vivo todas las actualizaciones sobre movimientos telúricos a lo largo y ancho del país",
+      "title": "El Gobierno reconoce el “desborde” del sistema de acogida de menores en Ceuta mientras sindicatos denuncian condiciones insalubres y hacinamiento: “Roza condiciones inhumanas”",
+      "description": "A cierre de la última actualización, son más de 1.300 los menores registrados oficialmente en la ciudad y todavía quedan centenares por identificar y otros cuya localización resulta incierta",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/08/temblor-hoy-en-mexico-noticias-actividad-sismica-8-de-agosto-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/STQDGTFSXNETTP7W7OC5CLVX7M.png?auth=b6b9a3cb36fae2363555e5cfd82e9a79ee976627aa2a90b8ec97320dcf8394ab&smart=true&width=1408&height=768",
-      "pubDate": "2026-08-08T09:48:27.000Z",
-      "emojisString": "💻 🌊"
+      "link": "https://www.infobae.com/espana/2026/08/08/el-gobierno-reconoce-el-desborde-del-sistema-de-acogida-de-menores-en-ceuta-mientras-sindicatos-denuncian-condiciones-insalubres-y-hacinamiento-roza-condiciones-inhumanas/",
+      "image": "https://www.infobae.com/resizer/v2/I6LQS6YET5EI5OC6P6VXANGA4I.jpg?auth=09c3384968ed6f298a34a3a7738bcac0ec368e70b37ae1ee2e5b5ec7da26706d&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-08T10:21:37.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "A Victoria por la victoria: River y las claves para cortar la mala racha vs. Tigre",
+      "description": "Con Almada alentando a la distancia, necesita de manera urgente cortar el sangrado de las derrotas. Debutarían Ortega y Andrada. Partidazo.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/river-plate/river-plate-eduardo-coudet-tigre_0_VvFcCqfjfn.html",
+      "image": "https://www.ole.com.ar/images/2026/08/07/OI9Kn_g_V_1200x630__1.jpg",
+      "pubDate": "2026-08-08T10:18:58.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 8 de agosto",
+      "description": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-8-de-agosto-nid08082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-08T10:02:00.000Z",
+      "emojisString": "💵"
+    },
+    {
+      "title": "Informe Olé: en qué lugar quedó el pase de Almada a River entre las compras más caras que se hicieron en Sudamérica",
+      "description": "La llegada del volante de la Selección a Núñez no sólo rompió el mercado a nivel local, sino que se metió entre las transferencias más onerosas que se hicieron en el continente. El repaso.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/america/almada-river-compras-sudamerica-pases-caros-paqueta-flamengo_0_MUSYiBMN1D.html",
+      "image": "https://www.ole.com.ar/images/2026/08/07/9qoIb7MzT_1200x630__1.jpg",
+      "pubDate": "2026-08-08T10:01:18.000Z",
+      "emojisString": "⚽ 📊 💻"
+    },
+    {
+      "title": "El impacto que los desalojos express podrían tener en los precios de los alquileres",
+      "description": "El Senado dio media sanción a la Ley de Inviolabilidad de la Propiedad Privada; ahora deberá ser tratada por Diputados",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/el-impacto-que-los-desalojos-express-podria-tener-en-los-precios-de-los-alquileres-nid08082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/OEQJM6GWYNAXZGGOHTRKCO3OZU.jpg?auth=109697187c2953572ba449db1cf7e9627438531de97b4ff8c3d9dd24bfb105fa&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-08T10:01:00.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "El rey del césped sagrado: Roger Federer y su idilio eterno con la catedral de Wimbledon",
+      "description": "El 8 de agosto de 1981 nació en Basilea el tenista suizo que redefinió la estética y el rendimiento en el deporte blanco. Con ocho títulos de Grand Slam sobre la hierba del All England Club, su figura quedó grabada para siempre en la superficie más prestigiosa del circuito. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/efemerides/el-rey-del-cesped-sagrado-roger-federer-y-su-idilio-eterno-con-la-catedral-de-wimbledon-a50.phtml",
+      "image": "https://fotos.perfil.com/2025/09/03/trim/540/304/roger-federer-2092254.jpg",
+      "pubDate": "2026-08-08T10:00:00.000Z",
+      "emojisString": "🎾 🏅"
+    },
+    {
+      "title": "El manual para evitar ciberestafas: cuáles son los engaños más comunes y las señales de alerta",
+      "description": "La inteligencia artificial les dio nuevas herramientas a los delincuentes para crear trampas más creíbles. \nExpertos explican por qué ya no alcanza con desconfiar de un mensaje extraño y cómo proteger la identidad digital.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/tecnologia/manual-evitar-ciberestafas-enganos-comunes-senales-alerta_0_YOgwSFWO40.html",
+      "image": "https://www.clarin.com/img/2023/10/16/AbOTgGqqc_1200x630__1.jpg",
+      "pubDate": "2026-08-08T09:53:50.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Los expertos coinciden: configurar el aire a 16 grados no enfría más rápido que ponerlo a 25 ",
+      "description": "Una de las estrategias más utilizadas con el equipo podría responder a una idea equivocada que afecta tanto su rendimiento como el consumo.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/expertos-coinciden-configurar-aire-16-grados-enfria-rapido-ponerlo-25_0_OrsEPMOQll.html",
+      "image": "https://www.clarin.com/img/2026/07/27/Fh6T3NaMr_1200x630__1.jpg",
+      "pubDate": "2026-08-08T09:41:17.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Fenya, la jerga clandestina de las prisiones soviéticas que ahora usan ciberdelincuentes y políticos como Putin",
@@ -27,71 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c75/live/59d197c0-8b62-11f1-b4bb-f7524edbe34a.jpg",
       "pubDate": "2026-08-08T09:30:51.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Operativos del ICE en aeropuertos: qué documentos debe tener un inmigrante a mano y cuáles puede pedir un agente",
-      "description": "Conoce qué documentos necesita un inmigrante para viajar dentro de EE.UU. y cómo el ICE puede identificar pasajeros mediante datos de la TSA.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/operativos-del-ice-en-aeropuertos-que-documentos-debe-tener-un-inmigrante-a-mano-y-cuales-puede-nid08082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/6GU34ZJANFC5VPB4SX5BA4A6QM.jpg?auth=8b7e390883863d56635865d51cc630e5cfd051f63ee2848014b6cd946df68bb5&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-08T09:28:00.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "El negocio del juguete se reinventa",
-      "description": "Series, consolas, redes sociales y espectáculos redefinen la forma de jugar; la industria apuesta por licencias y franquicias para mantenerse vigente en un mercado cada vez más competitivo",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/negocios/nuevas-reglas-para-conquistar-a-los-chicos-nid08082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/QZSF7GAYGNHKXNZDZMPMAVWVW4.JPG?auth=9b9e82efeefb0b5514fddc1686eb32b8e339c3654c42193730b1496116d869c0&smart=true&width=3500&height=2333",
-      "pubDate": "2026-08-08T09:18:00.000Z",
-      "emojisString": "📊 💻 🎬"
-    },
-    {
-      "title": "Otra vez las piedras contra la ley",
-      "description": "Un sector de la cultura política argentina no concibe la ley como resultado de la deliberación sino como imposición del enemigo. Si la ley es del enemigo, no se la discute. Se la lapida",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/opinion/vez-piedras-ley_0_ruAKKhKgTU.html",
-      "image": "https://www.clarin.com/img/2026/08/07/XADpLOd3q_1200x630__1.jpg",
-      "pubDate": "2026-08-08T09:03:17.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "En El Mago de Oz en el Cervantes hay estímulos para los chicos y Dorothy recupera los zapatos plateados",
-      "description": "Adaptación del clásico, en más de un sentido es fiel al libro original y tiene músicos en vivo.\nLa protagoniza Albana Fuentes, que hace un año era descubierta en \"La Sirenita\".",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/espectaculos/mago-oz-cervantes-estimulos-chicos-dorothy-recupera-zapatos-plateados_0_deFfzu3lMv.html",
-      "image": "https://www.clarin.com/img/2026/08/06/q-wuio1I5_1200x630__1.jpg",
-      "pubDate": "2026-08-08T09:03:16.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Partidos de HOY, sábado 8 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-      "description": "Los dos clubes más grandes del país verán acción este día: River visitará a Tigre, mientras que Boca recibirá en el Duco a Vélez.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-sabado-8-agosto-2026-dia-horario-agenda-ole-tv-ver-futbol-vivo_0_Dc9OhVH4vr.html",
-      "image": "https://www.ole.com.ar/images/2026/08/05/vkJT0AdxG_1200x630__1.jpg",
-      "pubDate": "2026-08-08T09:01:15.000Z",
-      "emojisString": "⚽"
-    },
-    {
-      "title": "Huesos de mamut, buques nazis y bombas sin explotar: los vestigios del pasado que sacó a la luz la histórica sequía en Europa",
-      "description": "Las aguas de la cuenca del río Danubio, que atraviesa 19 países, han caído a su nivel más bajo en 30 años, dejando al descubierto estructuras y artefactos antes sumergidos.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c5yv2rlzd40o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5c0/live/c5e9ba60-9101-11f1-883e-7f87b9cbea15.jpg",
-      "pubDate": "2026-08-08T08:57:53.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Estados Unidos: un futbolista argentino fue detenido por el ICE en un aeropuerto de Florida",
-      "description": "Matías Pourrain quedó detenido por el Servicio de Inmigración y Control de Aduanas cuando viajaba en un vuelo interno de Miami a Los Ángeles para disputar un torneo. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/deportes/estados-unidos-un-futbolista-argentino-fue-detenido-por-el-ice-en-un-aeropuerto-de-florida.phtml",
-      "image": "https://fotos.perfil.com/2026/08/08/trim/540/304/matias-pourrain-2300350.jpg",
-      "pubDate": "2026-08-08T06:57:00.000Z",
-      "emojisString": "🚨 💻 🇺🇸"
     }
   ],
   "count": 10,
-  "updated": "2026-08-08T09:52:41.363Z"
+  "updated": "2026-08-08T10:24:27.271Z"
 }
