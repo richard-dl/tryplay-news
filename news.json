@@ -2,22 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Muere un hombre de 61 años en la explosión de un semisótano de Moratalaz (Madrid)",
-      "description": "La explosión tuvo lugar en los cuartos trasteros del edificio, desde donde los Bomberos del Ayuntamiento de Madrid evacuaron a la víctima.",
+      "title": "Un videojuego de supervivencia se inspira en tradiciones andaluzas como la Semana Santa",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/09/muere-un-hombre-de-61-anos-en-la-explosion-de-un-semisotano-de-moratalaz-madrid/",
-      "image": "https://www.infobae.com/resizer/v2/ESPZA5FZCREA5FL7HFMSTMKBKQ.jpg?auth=f5b9663262e183306fe646d8cbbfcceb1ee683a9f26e17164c69b3b9fd41f208&smart=true&width=1600&height=900",
-      "pubDate": "2026-08-09T07:30:29.000Z",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/09/un-videojuego-de-supervivencia-se-inspira-en-tradiciones-andaluzas-como-la-semana-santa/",
+      "image": null,
+      "pubDate": "2026-08-09T08:16:34.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "La búsqueda del impacto científico puede reducir la felicidad del personal por la presión",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/09/la-busqueda-del-impacto-cientifico-puede-reducir-la-felicidad-del-personal-por-la-presion/",
+      "image": null,
+      "pubDate": "2026-08-09T08:16:18.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Sofocado un incendio en refinería saudí que procesa 400.000 barrilles de crudo diarios",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/09/sofocado-un-incendio-en-refineria-saudi-que-procesa-400000-barrilles-de-crudo-diarios/",
-      "image": null,
-      "pubDate": "2026-08-09T07:30:24.000Z",
-      "emojisString": "💻"
+      "title": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy  ",
+      "description": "El padre de Lionel tenía 68 años y estaba internado en Rosario; el último adiós es en el cementerio El Prado en una ceremonia íntima; las novedades minuto a minuto",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-jorge-messi-mensajes-repercusiones-y-ultimas-noticias-del-papa-de-lionel-messi-hoy-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/IN5CNU7LSREN5EL35F67Y7UETY.jpg?auth=c6be5954d455c10635a3fd41de36371b2b6090dc8827891a1e0a18a0ce2c0488&smart=true&width=800&height=450",
+      "pubDate": "2026-08-09T08:00:00.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Esta es la ruta aérea de la Argentina elegida como la más turbulenta del mundo ",
+      "description": "Un informe internacional analizó miles de trayectos y aeropuertos; según se informó en LN+, una conexión corta en Sudamérica encabeza el ranking por una combinación de factores naturales",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/esta-es-la-ruta-aerea-de-la-argentina-elegida-como-la-mas-turbulenta-del-mundo-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/PWMRXK4WEZECHJ4EA4Y2KIICT4?auth=fa5c0eb7afc839ea6d18f17fd8d6761a70bc5d7b93fcec3a08d5ed55df72a857&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-09T08:00:00.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "La nueva desregulación que puede volver a paralizar los puertos",
+      "description": "Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/economia/la-nueva-desregulacion-que-puede-volver-a-paralizar-los-puertos.phtml",
+      "image": "https://fotos.perfil.com/2026/08/09/trim/540/304/090826sturzeneggerpuertotransportecedocg-2300841.jpg",
+      "pubDate": "2026-08-09T07:52:26.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Lacunza ratificó su candidatura a presidente por el PRO y dice que Macri lo impulsó",
+      "description": "Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/politica/lacunza-ratifico-su-candidatura-a-presidente-por-el-pro-y-dice-que-macri-lo-impulso.phtml",
+      "image": "https://fotos.perfil.com/2026/08/09/trim/540/304/090826lacunzamacrinag-2300839.jpg",
+      "pubDate": "2026-08-09T07:43:59.000Z",
+      "emojisString": "🏛️ 🗳️"
+    },
+    {
+      "title": "Mireia Brunet, profesora de autoescuela: “Prefiero mil veces que el motor del auto se apague a que el alumno se descontrole por no mirar a su alrededor”",
+      "description": "Un examinador con 25 años de experiencia y la responsable de La Meva Autoescola repasan los errores que más suspensos provocan en el examen práctico de conducir.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/mireia-brunet-profesora-autoescuela-prefiero-mil-veces-motor-auto-apague-alumno-descontrole-mirar-alrededor_0_jZyLZpkE3U.html",
+      "image": "https://www.clarin.com/img/2026/08/08/H_r0_XhVf_1200x630__1.jpg",
+      "pubDate": "2026-08-09T07:27:27.000Z",
+      "emojisString": "💻 📚"
     },
     {
       "title": "El bloguero Perez Hilton enfrenta una larga recuperación tras los reportes de que se autolesionó durante una transmisión en vivo",
@@ -29,15 +74,6 @@
       "emojisString": "💻"
     },
     {
-      "title": "Récord histórico de quiebras y un industricidio que ya supera al macrismo, a la pandemia y al menemismo",
-      "description": "La parálisis productiva golpea a las empresas de mayor tecnología y trayectoria del país. Las principales cámaras empresariales exigen frenar las ejecuciones fiscales, mientras los plazos de cobro se estiran a medio año y dejan a las fábricas sin capital de trabajo. Las pymes formales advierten sobr",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/record-historico-de-quiebras-y-un-industricidio-que-ya-supera-al-macrismo-a-la-pandemia-y-al-menemismo.phtml",
-      "image": "https://fotos.perfil.com/2026/08/09/trim/540/304/090826fatedesempleoindustricidioafpg-2300835.jpg",
-      "pubDate": "2026-08-09T07:11:11.000Z",
-      "emojisString": "⚽ ⚖️ 💻"
-    },
-    {
       "title": "Qué significa el proverbio japonés: \"La vida es la misma tanto si la pasamos riendo como si la pasamos llorando\"",
       "description": "La frase invita a elegir la actitud con la que se atraviesa la existencia.",
       "source": "Clarín",
@@ -45,42 +81,6 @@
       "image": "https://www.clarin.com/img/2026/02/14/4U4yKPgzT_1200x630__1.jpg",
       "pubDate": "2026-08-09T07:01:27.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Dólar blue hoy: a cuánto cotiza este domingo 09 de agosto",
-      "description": "Mirá la cotización para la compra y venta del dólar blue hoy.\nLa brecha con el dólar oficial.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-domingo-09-agosto_0_ZpJjVuhhw4.html",
-      "image": "https://www.clarin.com/img/2019/11/18/BnZdjOhE_1200x630__1.jpg",
-      "pubDate": "2026-08-09T07:00:02.000Z",
-      "emojisString": "💵 💻"
-    },
-    {
-      "title": "Greg Abbott asigna créditos fiscales para 4400 viviendas asequibles en Texas",
-      "description": "Conoce cómo los US$114 millones anunciados por Greg Abbott financiarán más de 4400 viviendas asequibles en 70 propiedades de Texas",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/texas/abbott-anuncia-us114-millones-para-viviendas-en-texas-estaran-disponibles-mas-de-4400-unidades-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HCCKKSP6ZBA3LP3XUNEYCPTJTQ.jpg?auth=1876dcaf531098826a7444ca705137517e11e452f042a10deae69ba74b10413d&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-09T07:00:00.000Z",
-      "emojisString": "💵 ⚖️ 💻"
-    },
-    {
-      "title": "Arthur Brooks, catedrático de Harvard: “Las personas más felices son las que nunca dejan de aprender” ",
-      "description": "El académico explicó por qué el aprendizaje constante está directamente relacionado con el bienestar, y enumeró algunas de las formas de estimular la curiosidad",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-las-personas-mas-felices-son-las-que-nunca-dejan-de-aprender-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/GDAD5AATEFCTHANOT2HIFIOL5A.jpg?auth=b961a5ec5005a1dbc78e869ede2f60c60f869b091c9309a77e0c8c1c201dfbda&smart=true&width=2000&height=1334",
-      "pubDate": "2026-08-09T07:00:00.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Irán exige condiciones a Estados Unidos para la reapertura del estrecho de Ormuz",
-      "description": "Un alto funcionario del gobierno iraní pidió que el gobierno de Donald Trump cumpla con el acuerdo al que habían llegado en junio. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/internacional/iran-exige-condiciones-a-estados-unidos-para-la-reapertura-del-estrecho-de-ormuz.phtml",
-      "image": "https://fotos.perfil.com/2026/07/18/trim/540/304/18072026estadosunidosormuzafpg-2285680.jpg",
-      "pubDate": "2026-08-09T06:54:17.000Z",
-      "emojisString": "🏛️ 🇺🇸"
     },
     {
       "title": "Cómo Italia, un país famoso por la saludable dieta mediterránea, acabó teniendo tantos niños obesos",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-09T07:32:18.465Z"
+  "updated": "2026-08-09T08:22:21.727Z"
 }
