@@ -2,22 +2,49 @@
   "success": true,
   "data": [
     {
-      "title": "El exnarcotraficante gallego Laureano Oubiña quería organizar una ruta en barco para enseñar cómo introducía droga por las costas de Galicia: la Xunta se lo prohíbe",
-      "description": "La excursión, prevista para el 29 de agosto por la ría de Arousa, costaba 189 euros e incluía un recorrido por una quincena de enclaves ligados al contrabando y el narcotráfico, con Oubiña como guía",
+      "title": "Estatus de la calidad del aire en Lautaro este 9 de agosto de 2026",
+      "description": "El Sistema de Información Nacional de Calidad del Aire (Sinca) contempla cinco etapas: bueno, regular, alerta, pre-emergencia y emergencia",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/2026/08/09/el-exnarcotraficante-gallego-laureano-oubina-queria-organizar-una-ruta-en-barco-para-ensenar-como-introducia-droga-por-las-costas-de-galicia-la-xunta-se-lo-prohibe/",
-      "image": "https://www.infobae.com/resizer/v2/FORFC32TCFGEBFH4QERHLKBOFQ.jpg?auth=76d81664b1a4abe25db8a9c3cdfce4ade58f7820eda68564116c96f4460a6d37&smart=true&width=1920&height=1280",
-      "pubDate": "2026-08-09T11:40:32.000Z",
+      "link": "https://www.infobae.com/noticias/2026/08/09/estatus-de-la-calidad-del-aire-en-lautaro-este-9-de-agosto-de-2026/",
+      "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-09T12:01:49.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Calidad del aire en Calabozo este 9 de agosto de 2026",
-      "description": "Estas son algunas sugerencias a considerar para el estado actual de la calidad del aire",
+      "title": "Un metaanálisis vincula la cafeína con más potencia en ejercicios de fuerza",
+      "description": "Una revisión de 12 estudios con 230 participantes observó que una dosis aguda de este estimulante se relacionó con mayor velocidad de movimiento y potencia media; el efecto varió por sexo, dosis y consumo habitual",
       "source": "Infobae",
-      "link": "https://www.infobae.com/noticias/2026/08/09/calidad-del-aire-en-calabozo-este-9-de-agosto-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-09T11:39:09.000Z",
+      "link": "https://www.infobae.com/salud/ciencia/2026/08/09/un-metaanalisis-vincula-la-cafeina-con-mas-potencia-en-ejercicios-de-fuerza/",
+      "image": "https://www.infobae.com/resizer/v2/ELRQWGNG4BC7DK3X6AF6ZUF3YQ.png?auth=3fc979e1884ffbc3fed9d84d79467f2eeacabee5efccfd1dd8b4d836e1792a38&smart=true&width=2752&height=1536",
+      "pubDate": "2026-08-09T12:01:46.000Z",
       "emojisString": "💻"
+    },
+    {
+      "title": "Vóley femenino: paliza de Las Panteritas a Brasil en el Mundial U17",
+      "description": "Partidazo de Argentina en el clásico sudamericano. Fue 3-0 a la Verdeamarela en un juego festejado con el alma.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/voley/panteritas-seleccion-argentina-femenina-voley-sub-17-17-ganaron-brasil-mundial-chile_0_ziDqKddCPD.html",
+      "image": "https://www.ole.com.ar/images/2026/08/09/KGN4sDCmk_1200x630__1.jpg",
+      "pubDate": "2026-08-09T11:59:44.000Z",
+      "emojisString": "⚽ 💻 🇧🇷"
+    },
+    {
+      "title": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy  ",
+      "description": "El padre de Lionel tenía 68 años y estaba internado en Rosario; el último adiós es en el cementerio El Prado en una ceremonia íntima; las novedades minuto a minuto",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-jorge-messi-mensajes-repercusiones-y-ultimas-noticias-del-papa-de-lionel-messi-hoy-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/IN5CNU7LSREN5EL35F67Y7UETY.jpg?auth=c6be5954d455c10635a3fd41de36371b2b6090dc8827891a1e0a18a0ce2c0488&smart=true&width=800&height=450",
+      "pubDate": "2026-08-09T11:50:00.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Frío extremo, nevadas y viento Zonda: cuáles son las provincias bajo alerta amarilla",
+      "description": "El Servicio Meteorológico Nacional (SMN) mantiene avisos en 15 provincias, mientras que la Ciudad de Buenos Aires y sectores bonaerenses tendrán una jornada muy fría, con temperaturas mínimas de hasta 5 grados durante las primeras horas.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/informacion-general/frio-extremo-nevadas-y-viento-zonda-cuales-son-las-provincias-alerta-amarilla-n6308684",
+      "image": "https://media.ambito.com/p/dbbbfecdb9b23d73277429dcab7d4116/adjuntos/239/imagenes/039/913/0039913727/1200x675/smart/climajpg.jpg",
+      "pubDate": "2026-08-09T11:45:00.000Z",
+      "emojisString": "💻 🌤️"
     },
     {
       "title": "Palermo, tras la victoria ante Independiente en su debut: \"El triunfo magnifica todo, pero no nos tiene que confundir\"",
@@ -38,13 +65,13 @@
       "emojisString": "🏅"
     },
     {
-      "title": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy  ",
-      "description": "El padre de Lionel tenía 68 años y estaba internado en Rosario; el último adiós es en el cementerio El Prado en una ceremonia íntima; las novedades minuto a minuto",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-jorge-messi-mensajes-repercusiones-y-ultimas-noticias-del-papa-de-lionel-messi-hoy-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/IN5CNU7LSREN5EL35F67Y7UETY.jpg?auth=c6be5954d455c10635a3fd41de36371b2b6090dc8827891a1e0a18a0ce2c0488&smart=true&width=800&height=450",
-      "pubDate": "2026-08-09T11:25:00.000Z",
-      "emojisString": "⚽ 💻"
+      "title": "Joan Baseiria, sastre de 81 años: \"La mayoría de ropa actual ya no es ni de algodón ni de lana\"",
+      "description": "Baseiria, cuarta generación de sastres, pone el foco en el ajuste, los tejidos y los errores más habituales al elegir ropa en grandes cadenas.\nAhora se compra rápido y se viste peor.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/joan-baseiria-sastre-81-anos-mayoria-ropa-actual-algodon-lana_0_7JF9KL1v2k.html",
+      "image": "https://www.clarin.com/img/2026/08/09/-xyvNzmsDn_1200x630__1.jpg",
+      "pubDate": "2026-08-09T11:18:35.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Qué es el \"Proyecto Panamá\" y cómo reveló la destrucción de miles de libros antiguos para entrenar a la IA",
@@ -56,42 +83,15 @@
       "emojisString": "💻"
     },
     {
-      "title": "Euro hoy en Uruguay: precio y cotización de la divisa este domingo 9 de agosto de 2026",
-      "description": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia.\nCómo es la tendencia de la moneda europea en lo que va del año.",
+      "title": "Laura C. Vela, autora de 'Seismil': \"Escribo este libro para encontrar mi voz\" ",
+      "description": "La editora y fotógrafa española visita la Argentina para presentar su libro, un fenómeno editorial que crece de boca en boca.  \nLa obra, que ya suma seis ediciones en España, aborda las huellas de la violencia sexual sin reducirse al relato del trauma. \nAquí, la autora reflexiona sobre la escritura,",
       "source": "Clarín",
-      "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-domingo-9-de-agosto-de-2026_0_FiG46co62v.html",
-      "image": "https://www.clarin.com/img/2011/04/11/BklX7NkNe_1200x630.jpg",
-      "pubDate": "2026-08-09T10:45:11.000Z",
-      "emojisString": "💵 💻"
-    },
-    {
-      "title": "Euro hoy en Venezuela: precio y cotización de la divisa este domingo 9 de agosto de 2026",
-      "description": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia.\nCómo es la tendencia de la moneda europea en lo que va del año.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-domingo-9-de-agosto-de-2026_0_89od15nCfa.html",
-      "image": "https://www.clarin.com/img/2013/01/23/rJ4kl9llW_1200x630.jpg",
-      "pubDate": "2026-08-09T10:45:11.000Z",
-      "emojisString": "💵 💻"
-    },
-    {
-      "title": "Qué es el \"eustrés\" y cómo se relaciona con el estrés que conocemos",
-      "description": "Estamos acostumbrados a escuchar sobre los efectos negativos del estrés, pero también puede ayudarnos a centrarnos, motivarnos y obtener un mejor desempeño.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cgr7xknqgrjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d792/live/1ef71070-8c26-11f1-bdad-17769c057c64.jpg",
-      "pubDate": "2026-08-09T10:16:17.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Palabras que resisten al olvido: la urgencia de preservar las lenguas originarias y la memoria viva de las comunidades",
-      "description": "Cada 9 de agosto, la Asamblea General de las Naciones Unidas promueve la protección de los derechos de las comunidades ancestrales. En la actualidad, la batalla por la preservación de los idiomas nativos se posiciona como el eje central para evitar la pérdida irreparable de cosmovisiones y saberes a",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/efemerides/palabras-que-resisten-al-olvido-la-urgencia-de-preservar-las-lenguas-originarias-y-la-memoria-viva-de-las-comunidades-a50.phtml",
-      "image": "https://fotos.perfil.com/2024/11/23/trim/540/304/pueblos-indigenas-1917506.jpg",
-      "pubDate": "2026-08-09T10:00:00.000Z",
-      "emojisString": "💻"
+      "link": "https://www.clarin.com/cultura/laura-c-vela-autora-seismil-escribo-libro-encontrar-voz_0_6Lc3hT4n7B.html",
+      "image": "https://www.clarin.com/img/2026/08/05/IMSS-2ys8_1200x630__1.jpg",
+      "pubDate": "2026-08-09T11:01:32.000Z",
+      "emojisString": "⚽ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-09T11:43:14.582Z"
+  "updated": "2026-08-09T12:03:30.355Z"
 }
