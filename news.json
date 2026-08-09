@@ -2,40 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Permanecen 467 personas evacuadas por el incendio de Niebla (Huelva)",
-      "description": "",
+      "title": "Si vas a ver el eclipse del 12 de agosto hay un código de vestimenta: “En la oscuridad, los colores rojizos anaranjados van a desaparecer” ",
+      "description": "La razón está en la biología del ojo humano y en un fenómeno óptico conocido como efecto Purkinje. El cambio en la percepción del color solo se producirá de forma nítida en la franja de totalidad y únicamente durante los minutos en que el sol quede completamente oculto",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/09/permanecen-467-personas-evacuadas-por-el-incendio-de-niebla-huelva/",
-      "image": null,
-      "pubDate": "2026-08-09T09:47:18.000Z",
+      "link": "https://www.infobae.com/espana/2026/08/09/si-vas-a-ver-el-eclipse-del-12-de-agosto-hay-un-codigo-de-vestimenta-en-la-oscuridad-los-colores-rojizos-anaranjados-van-a-desaparecer/",
+      "image": "https://www.infobae.com/resizer/v2/YNPEHUXIXJGSFG224HCYQ2GABM.png?auth=98bf10701fc65ce3ceef8a3706a37b0ab0155727db93ced6fa22e8fb9979e3af&smart=true&width=1408&height=768",
+      "pubDate": "2026-08-09T10:23:39.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Todos pendientes del renqueante estado de Marchand    ",
-      "description": "",
+      "title": "La Libertad Avanza busca una coalición amplia para disputar la gobernación bonaerense en 2027",
+      "description": "Trabaja de forma estrecha con Pro; la UCR se muestra más reticente; Diego Santilli y Sebastián Pareja, los posibles candidatos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/la-libertad-avanza-busca-una-coalicion-amplia-para-disputar-la-gobernacion-bonaerense-en-2027-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/DQCFP7GMJZCWZIXVPIFO2TAGMI.jpg?auth=2a9ef2b344278ef4dd49ea58f5599c6ab9fda7d37e1472a9303fc27cf2cdfd9a&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-09T10:23:30.000Z",
+      "emojisString": "🗳️ 💻"
+    },
+    {
+      "title": "El Gobierno recaudó $1,5 billón para rutas y obras viales, ejecutó apenas una cuarta parte y colocó más de $1 billón en plazos fijos y títulos públicos",
+      "description": "Retiene en inversiones financieras los fondos suficientes para mejorar casi dos tercios de las rutas nacionales",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/el-gobierno-recaudo-15-billon-para-rutas-y-obras-viales-ejecuto-apenas-una-cuarta-parte-y-coloco-mas-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/H2OM5CSZK5B73ND6CAL52UAPVI.jpg?auth=39d57296843fdbe4b0d0845177ed2d716bbbf0053b91d2b2744315773fb80849&smart=true&width=5760&height=3840",
+      "pubDate": "2026-08-09T10:22:26.000Z",
+      "emojisString": "💵 🏛️ 💻"
+    },
+    {
+      "title": "Precio de la gasolina en Jalisco este 8 de agosto",
+      "description": "El precio de los carburantes en el país puede cambiar debido a diversos factores como el valor del dólar en el tipo de cambio, impuestos y la logística para el traslado",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/09/todos-pendientes-del-renqueante-estado-de-marchand/",
-      "image": null,
-      "pubDate": "2026-08-09T09:47:00.000Z",
+      "link": "https://www.infobae.com/mexico/2026/08/09/precio-de-la-gasolina-en-jalisco-este-8-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/6NUTLUQRYVHCBJQ7HUJKEHJVOA.jpg?auth=663a3822d70c158a01430fb0aa7acc996edbf6d7a8bd451eaf579c1a42ae4da2&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-09T10:19:16.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Qué es el \"eustrés\" y cómo se relaciona con el estrés que conocemos",
+      "description": "Estamos acostumbrados a escuchar sobre los efectos negativos del estrés, pero también puede ayudarnos a centrarnos, motivarnos y obtener un mejor desempeño.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cgr7xknqgrjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d792/live/1ef71070-8c26-11f1-bdad-17769c057c64.jpg",
+      "pubDate": "2026-08-09T10:16:17.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "La Casa Blanca desclasifica información secreta del FBI que deja expuesto a Trump sobre una polémica medida",
-      "description": "Conoce qué revelan los documentos del FBI desclasificados por la Casa Blanca sobre la investigación abierta a Donald Trump tras despedir a James Comey.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/washington/la-casa-blanca-desclasifica-informacion-secreta-del-fbi-que-deja-expuesto-a-trump-sobre-una-polemica-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/E4PMAVTIYBG4BNFSFOPVHMCVOY.jpg?auth=48ce9d648d3f8a1f3c92c27e4ea7f45eef5a40c1258248b0d59d15989c8a2d17&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-09T09:39:00.000Z",
-      "emojisString": "🇺🇸"
+      "title": "Palabras que resisten al olvido: la urgencia de preservar las lenguas originarias y la memoria viva de las comunidades",
+      "description": "Cada 9 de agosto, la Asamblea General de las Naciones Unidas promueve la protección de los derechos de las comunidades ancestrales. En la actualidad, la batalla por la preservación de los idiomas nativos se posiciona como el eje central para evitar la pérdida irreparable de cosmovisiones y saberes a",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/efemerides/palabras-que-resisten-al-olvido-la-urgencia-de-preservar-las-lenguas-originarias-y-la-memoria-viva-de-las-comunidades-a50.phtml",
+      "image": "https://fotos.perfil.com/2024/11/23/trim/540/304/pueblos-indigenas-1917506.jpg",
+      "pubDate": "2026-08-09T10:00:00.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "El formulario de asilo que Uscis rechazará desde el 28 de agosto si se usa la versión anterior",
-      "description": "Verifica qué edición del formulario I-589 acepta Uscis desde el 28 de agosto y evita el rechazo por usar páginas o versiones incorrectas",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/el-formulario-de-asilo-que-uscis-rechazara-desde-el-28-de-agosto-si-se-usa-la-version-anterior-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/YLMSMTLCVVGGNLHCVY7DDTGDRU.png?auth=a5b24d3616c10a60c54e072ef0d80e3f1bbf9d59ed2aa0d53a96b94c2b6843e4&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-09T09:23:00.000Z",
-      "emojisString": "📰"
+      "title": "Patrick Vandenameele, doctor en ingeniería electrónica: “La IA dará un paso más; el próximo será la inteligencia sintética”",
+      "description": "El centro de investigación imec prepara en Málaga una instalación estratégica para desarrollar nuevos materiales y chips más eficientes, esenciales para la inteligencia artificial, la robótica y la defensa.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/patrick-vandenameele-doctor-ingenieria-electronica-ia-dara-paso-proximo-inteligencia-sintetica_0_UJbwd4TjdY.html",
+      "image": "https://www.clarin.com/img/2026/08/08/N8Tv1_T9s_1200x630__1.jpg",
+      "pubDate": "2026-08-09T09:27:31.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Hutíes de Yemen anuncian un ataque a instalación petrolera saudí y otras noticias de Oriente Medio",
@@ -47,15 +74,6 @@
       "emojisString": "💻 💥"
     },
     {
-      "title": "La industria pelea entre volver a ser y la dura realidad",
-      "description": "La industria creció en junio 2% contra el mismo mes del año pasado, pero cayó en 2,2% en el semestre.\nUn informe privado proyecta que van a cerrar 3.000 empresas este año.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/economia/industria-pelea-volver-dura-realidad_0_w9tnwO7J1W.html",
-      "image": "https://www.clarin.com/img/2025/08/17/OP4K0_zVi_1200x630__1.jpg",
-      "pubDate": "2026-08-09T09:19:30.000Z",
-      "emojisString": "💻"
-    },
-    {
       "title": "El 12 de agosto habrá un paro general universitario",
       "description": "Leer más",
       "source": "Perfil",
@@ -65,15 +83,6 @@
       "emojisString": "📰"
     },
     {
-      "title": "Dudas sobre si el Gobierno cuenta con los dólares suficientes",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/dudas-sobre-si-el-gobierno-cuenta-con-los-dolares-suficientes.phtml",
-      "image": "https://fotos.perfil.com/2026/08/09/trim/540/304/090826mileiafpg-2300849.jpg",
-      "pubDate": "2026-08-09T09:01:55.000Z",
-      "emojisString": "💵 🏛️"
-    },
-    {
       "title": "Partidos de HOY, domingo 9 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
       "description": "Desde el plato fuerte entre San Lorenzo y Huracán en el Torneo Clausura hasta choques estelares en Europa y el ascenso argentino.",
       "source": "Olé",
@@ -81,17 +90,8 @@
       "image": "https://www.ole.com.ar/images/2026/08/02/OMJM11J63_1200x630__1.jpg",
       "pubDate": "2026-08-09T09:01:29.000Z",
       "emojisString": "⚽ 🚗"
-    },
-    {
-      "title": "Eclipse solar total: Avellanosa de Muñó, el pequeño pueblo de España que por una noche será uno de los lugares más fascinantes del planeta",
-      "description": "Sin apenas residentes y casi sin visitantes a lo largo del año, esta pequeña localidad del norte de España se prepara para una noche extraordinaria.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cwymvm84p9ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ed8/live/0b1d6760-919f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "pubDate": "2026-08-09T08:59:27.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-09T09:54:23.794Z"
+  "updated": "2026-08-09T10:26:03.429Z"
 }
