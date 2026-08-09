@@ -2,49 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Hija de alias “Pecho de rata” habría asumido el mando del narco en Costa Rica tras la extradición de su padre",
-      "description": "El expediente judicial señala que la hija de Edwin López Vega asumió decisiones operativas y el manejo de bienes tras la captura y extradición de su padre, según escuchas y análisis del Ministerio Público",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/costa-rica/2026/08/09/hija-de-alias-pecho-de-rata-habria-asumido-el-mando-del-narco-en-costa-rica-tras-la-extradicion-de-su-padre/",
-      "image": "https://www.infobae.com/resizer/v2/NWPDLLLJ5BAPJBXPY3O4RUTHTQ.png?auth=e0dfbbc4971a4ef0689863bd03f163aa26eb76824bd048c57bad97efcc904298&smart=true&width=2752&height=1536",
-      "pubDate": "2026-08-09T15:40:21.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Anuncian un espectáculo astronómico: “El eclipse total de agosto 2026 puede ser visible junto a auroras boreales”",
-      "description": "El fenómeno solar del 12 de agosto será un acontecimiento inédito en el hemisferio norte, donde la ciencia analiza la remota posibilidad de capturar al fenómeno natural en pleno día",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/ciencia/anuncian-un-espectaculo-astronomico-el-eclipse-total-de-agosto-2026-puede-ser-visible-junto-a-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/NWZKLGPNOJA5LJQ73KWYIL7EMU.jpg?auth=ccb8824c63f6a897473ca749d9b55ea4c6ee8665fadfdf5778f21a1b3c91d023&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-09T15:40:00.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Nacional vs América en Fútbol Libre, Pirlo TV o Roja Directa: por qué estas trasmisiones online gratuitas podrían costarte información personal",
-      "description": "Portales que prometen streaming sin costo suelen monetizar con anuncios agresivos, redirecciones y alertas falsas, y pueden pedir datos sensibles o impulsar descargas peligrosas",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/08/09/nacional-vs-america-en-futbol-libre-pirlo-tv-o-roja-directa-por-que-estas-trasmisiones-online-gratuitas-podrian-costarte-informacion-personal/",
-      "image": "https://www.infobae.com/resizer/v2/HUTYM5RSGVH2RIG4KA6DCH3NOI.jpg?auth=984de8a5fea26cbabcc652f2e50c50a6cbd5f32ae4b5e1f26f987518bf19cce8&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-09T15:39:26.000Z",
-      "emojisString": "⚽"
-    },
-    {
-      "title": "Polémica en el básquetbol femenino: el foul de DiJonai Carrington contra Sophie Cunningham que desató un debate racial",
-      "description": "La mediática jugadora de Indiana, que es blanca, recibió una falta de la basquetbolista de Chicago, que luego posteó sobre el incidente",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/basquetbol/polemica-en-el-basquetbol-femenino-el-foul-de-dijonai-carrington-contra-sophie-cunningham-que-desato-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/PSUI2Z3JDVB2ZEXPH3C3HXOSC4.JPG?auth=b46d280aaaabf52afe9fd0d92326f2f587d5d37ffe122363cd0bf3362f50c275&smart=true&width=3000&height=2001",
-      "pubDate": "2026-08-09T15:28:39.000Z",
-      "emojisString": "🏀 💻"
-    },
-    {
-      "title": "Con Leo presente, la familia Messi despidió a Jorge en una ceremonia íntima",
-      "description": "El capitán de la Selección Argentina e Inter Miami aterrizó en Rosario y pudo darle un último adiós a su papá, quien falleció a los 68 años tras luchar contra una dura enfermedad.",
+      "title": "Tensión en Ecuador: hinchas de Barcelona intentaron invadir la cancha ",
+      "description": "Simpatizantes del club en el que milita el Pipa Benedetto quisieron ingresar al campo de juego y generaron una demora de 20 minutos durante el encuentro. Mirá el video.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/informacion-general/jorge-messi-lionel-ultimo-adios-velorio-ceremonia-rosario_0_I6MwejE3DJ.html",
-      "image": "https://www.ole.com.ar/images/2026/08/09/FrY9CRKwH_1200x630__1.jpg",
-      "pubDate": "2026-08-09T15:27:18.000Z",
-      "emojisString": "⚽ 💻 🏥"
+      "link": "https://www.ole.com.ar/informacion-general/barcelona-ecuador-incidentes-hinchas-cancha-invasion_0_xktIFEVUVJ.html",
+      "image": "https://www.ole.com.ar/images/2026/08/09/YZECSVnL__1200x630__1.jpg",
+      "pubDate": "2026-08-09T16:11:23.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Un estudio en Australia relacionó la alimentación con presas enteras con conductas más silvestres en leones cautivos",
+      "description": "La investigación de la Universidad de Adelaida y Monarto Safari Park siguió a tres machos adultos y halló ciclos de ingesta y ayuno similares a los observados fuera del zoológico",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/america/ciencia-america/2026/08/09/un-estudio-en-australia-relaciono-la-alimentacion-con-presas-enteras-con-conductas-mas-silvestres-en-leones-cautivos/",
+      "image": "https://www.infobae.com/resizer/v2/S3V3J75DJVFEDEHW6BY4MCN7G4.png?auth=247ff0a63d22056a71c6efaaec2c9f8fb9b1e64953046c83b20dc9a7918ca705&smart=true&width=2752&height=1536",
+      "pubDate": "2026-08-09T16:08:40.000Z",
+      "emojisString": "💻 📚"
+    },
+    {
+      "title": "Continúa la fecha 4 del Torneo Clausura: la agenda de partidos del domingo",
+      "description": "Además del clásico entre San Lorenzo y Huracán, jugarán Gimnasia-Barracas y Defensa-Newell’s (17:45). Más tarde, cerrarán la jornada Argentinos-Racing (20.15)",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/deportes/2026/08/09/continua-la-fecha-4-del-torneo-clausura-la-agenda-de-partidos-del-domingo/",
+      "image": "https://www.infobae.com/resizer/v2/F2VK3MS5JJHZLMDO5LHRZA37RU.jpg?auth=d2e3e0b87aef01ddf641a0b22b779dbf97387c7dae29de7af4397811e8b17c61&smart=true&width=1536&height=864",
+      "pubDate": "2026-08-09T16:08:35.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Anselmino se volvió a lesionar en Chelsea, salió al borde del llanto y recibió el consuelo de Xabi Alonso",
+      "description": "El defensor argentino sufrió una nueva molestia muscular en el amistoso con Johor Darul Takzim y tuvo que ser reemplazado en su quinto partido al hilo con los Blues.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/aaron-anselmino-chelsea-lesion-xabi-alonso_0_x1e7MNxiXR.html",
+      "image": "https://www.ole.com.ar/images/2026/08/09/qwfc8F-EC_1200x630__1.jpg",
+      "pubDate": "2026-08-09T16:05:25.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy  ",
+      "description": "El padre de Lionel tenía 68 años y estaba internado en Rosario; el último adiós es en el cementerio El Prado en una ceremonia íntima; las novedades minuto a minuto",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-jorge-messi-mensajes-repercusiones-y-ultimas-noticias-del-papa-de-lionel-messi-hoy-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/RMA3B7LCDJFK7OZT3GDJ7SWZ4U.JPG?auth=dedaf7b8f1750c474b37403d4bcfabb060412837b0bf809efe946fa68406b191&smart=true&width=1862&height=1397",
+      "pubDate": "2026-08-09T16:02:31.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "El consumo no repunta: las ventas minoristas pyme cayeron 3,8% en julio y acumulan siete meses en baja",
+      "description": "Las ventas retrocedieron también 2,1% frente a junio y acumularon una contracción del 2,7% en los primeros siete meses del año, según CAME. El mayor peso de las tarifas sobre los ingresos y la pérdida de poder adquisitivo profundizaron la cautela de los consumidores.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/economia/el-consumo-no-repunta-las-ventas-minoristas-pyme-cayeron-38-julio-y-acumulan-siete-meses-baja-n6308733",
+      "image": "https://media.ambito.com/p/00e1020f695a45711da43c08bf473988/adjuntos/239/imagenes/041/720/0041720896/rebajas-descuentos-promociones-consumo-comercios.jpg",
+      "pubDate": "2026-08-09T16:02:00.000Z",
+      "emojisString": "💵"
+    },
+    {
+      "title": "La mora total de los argentinos se quintuplicó en 18 meses y supera el 30% fuera de los bancos",
+      "description": "La Universidad Austral y EcoGo advirtieron que la mora total consolidada en personas físicas, que incluye el crédito del sistema financiero y de proveedores no financieros, acumuló en junio 20 meses de crecimiento",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/economia/la-mora-total-de-los-argentinos-se-quintuplico-en-18-meses-y-supera-el-30-fuera-de-los-bancos-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/SXRI3HDGRRFFDOHM5ROWOTDPMY.jpg?auth=5aae986406170f4393cfded1795a476a69a3260663915cfb9b4dacdb16264cec&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-09T15:50:08.000Z",
+      "emojisString": "💵 📊 📚"
+    },
+    {
+      "title": "Lionel Messi despidió a su papá Jorge junto a su familia y amigos en una íntima ceremonia en Rosario",
+      "description": "Estuvo acompañado por su mamá Celia, sus hermanos Matías, Rodrigo y María Sol, y también su esposa Antonela Roccuzzo.\nDespués del mediodía, salieron del lugar y el avión privado de la familia está preparado en el aeropuerto.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/deportes/lionel-messi-despidio-papa-jorge-junto-familia-amigos-intima-ceremonia-rosario_0_xmArmjFOi6.html",
+      "image": "https://www.clarin.com/img/2026/08/09/XAFuMoNHE_1200x630__1.jpg",
+      "pubDate": "2026-08-09T15:36:07.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Programa envía abogados voluntarios a tribunales de inmigración de EEUU para asistir a personas",
+      "description": "En Sacramento, un programa de abogados voluntarios asiste a inmigrantes sin representación en tribunales, vitales ante la política de deportación masiva.\nLa falta de abogados agrava la situación de miles de inmigrantes; solo el 19% logra asilo sin representación legal, frente al 47% con un defensor.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/programa-envia-abogados-voluntarios-a-tribunales-de-inmigracion-de-eeuu-para-asistir-a-personas_0_ZVkt4UJs6U.html",
+      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
+      "pubDate": "2026-08-09T15:30:06.000Z",
+      "emojisString": "⚖️ 🇺🇸"
     },
     {
       "title": "Cuán común es el \"turismo de nacimientos\" por el que Trump quiere recortar la ciudadanía directa por nacer en EE.UU.",
@@ -54,44 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c797/live/7af5fb10-9325-11f1-a7ab-8b30adf0800a.jpg",
       "pubDate": "2026-08-09T15:27:04.000Z",
       "emojisString": "🏛️ 🇺🇸"
-    },
-    {
-      "title": "El árbitro argentino que se retiró",
-      "description": "Ariel Penel, de 47 años, le puso fin a su carrera arbitral. Había llegado a Primera en 2014.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-primera/ariel-penel-retiro-arbitro-futbol-profesional_0_9u6LwcbasN.html",
-      "image": "https://www.ole.com.ar/images/2025/11/12/8rhhZ0Vt6_1200x630__1.jpg",
-      "pubDate": "2026-08-09T15:23:51.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Karina Milei activa campaña bonaerense de La Libertad Avanza con una cumbre en la Casa Rosada",
-      "description": "La hermana de Javier Milei recibirá este lunes a los senadores y diputados bonaerenses en Casa Rosada a la espera de la definición del calendario electoral en la provincia.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/karina-milei-activa-campana-bonaerense-la-libertad-avanza-una-cumbre-la-casa-rosada-n6308701",
-      "image": "https://media.ambito.com/p/45c0daf7d9bbb962b1c84713a44ebf04/adjuntos/239/imagenes/043/570/0043570894/1200x675/smart/javier-milei-y-karinajpg.png",
-      "pubDate": "2026-08-09T15:12:00.000Z",
-      "emojisString": "🏛️ 🗳️ 💻"
-    },
-    {
-      "title": "Netanyahu anuncia el rechazo de Israel al plan de 15 puntos para Gaza propuesto por Trump",
-      "description": "El primer ministro de Israel declaró que su ejército no se retiraría de Gaza hasta que Hamás \"verdaderamente\" se desarmara.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c935wn3yxrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/06c0/live/8df702a0-93e7-11f1-8231-7d4e2048054e.jpg",
-      "pubDate": "2026-08-09T15:07:24.000Z",
-      "emojisString": "💻 💥 🇺🇸"
-    },
-    {
-      "title": "Javier Milei redobló la apuesta: volvió a apuntar contra Lula y respaldó las duras críticas de un congresista de EEUU",
-      "description": "El Presidente replicó en redes sociales un mensaje del republicano Carlos Giménez, quien calificó al mandatario brasileño de \"criminal comunista corrupto y convicto\". El gesto se produce en medio de una nueva escalada de tensión diplomática entre Argentina y Brasil.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/javier-milei-redoblo-la-apuesta-volvio-apuntar-contra-lula-y-respaldo-las-duras-criticas-un-congresista-eeuu-n6308723",
-      "image": "https://media.ambito.com/p/6f3530c52b23608a21a431f3cfeca765/adjuntos/239/imagenes/043/559/0043559145/1200x675/smart/lula-da-silva-javier-milei.jpg",
-      "pubDate": "2026-08-09T15:05:50.000Z",
-      "emojisString": "🏛️ 💻 🇺🇸"
     }
   ],
   "count": 10,
-  "updated": "2026-08-09T15:45:06.314Z"
+  "updated": "2026-08-09T16:12:45.415Z"
 }
