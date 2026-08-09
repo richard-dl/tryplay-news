@@ -2,40 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "Tensión en Ecuador: hinchas de Barcelona intentaron invadir la cancha ",
-      "description": "Simpatizantes del club en el que milita el Pipa Benedetto quisieron ingresar al campo de juego y generaron una demora de 20 minutos durante el encuentro. Mirá el video.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/informacion-general/barcelona-ecuador-incidentes-hinchas-cancha-invasion_0_xktIFEVUVJ.html",
-      "image": "https://www.ole.com.ar/images/2026/08/09/YZECSVnL__1200x630__1.jpg",
-      "pubDate": "2026-08-09T16:11:23.000Z",
+      "title": "Capitán del Ejército advierte sobre los arrestos del ICE: “Es difícil tener credibilidad como líder”",
+      "description": "Conoce por qué un capitán del Ejército cuestionó los arrestos del ICE tras la detención del padre de un soldado que apoyó operativos fronterizos.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/capitan-del-ejercito-advierte-sobre-los-arrestos-del-ice-es-dificil-tener-credibilidad-como-lider-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/Z6ACFRBZWFGRZISSFWOLYPZSXE.png?auth=cdaf783e69943e218e00aa0ebe0f1f18f909a4c074ad125cb9a6cee38b06de59&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-09T16:51:40.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Un estudio en Australia relacionó la alimentación con presas enteras con conductas más silvestres en leones cautivos",
-      "description": "La investigación de la Universidad de Adelaida y Monarto Safari Park siguió a tres machos adultos y halló ciclos de ingesta y ayuno similares a los observados fuera del zoológico",
+      "title": "Esta podría ser la alineación de México en los Juegos Olímpicos de Los Ángeles 2028",
+      "description": "Gilberto Mora, Obed Vargas y Elías Montiel entre la lista de jugadores que buscarían la tercera presea olímpica para México en futbol",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/ciencia-america/2026/08/09/un-estudio-en-australia-relaciono-la-alimentacion-con-presas-enteras-con-conductas-mas-silvestres-en-leones-cautivos/",
-      "image": "https://www.infobae.com/resizer/v2/S3V3J75DJVFEDEHW6BY4MCN7G4.png?auth=247ff0a63d22056a71c6efaaec2c9f8fb9b1e64953046c83b20dc9a7918ca705&smart=true&width=2752&height=1536",
-      "pubDate": "2026-08-09T16:08:40.000Z",
-      "emojisString": "💻 📚"
+      "link": "https://www.infobae.com/mexico/deportes/2026/08/09/esta-podria-ser-la-alineacion-de-mexico-en-los-juegos-olimpicos-de-los-angeles-2028/",
+      "image": "https://www.infobae.com/resizer/v2/46J52IL2QRFE5OKG272WXQ2Q7M.JPG?auth=94d97de3767dd92ab1f5dbd3ea44a1c5ce6440ebfe13a1955b1c82732afc569f&smart=true&width=4020&height=2649",
+      "pubDate": "2026-08-09T16:50:40.000Z",
+      "emojisString": "🏅"
     },
     {
-      "title": "Continúa la fecha 4 del Torneo Clausura: la agenda de partidos del domingo",
-      "description": "Además del clásico entre San Lorenzo y Huracán, jugarán Gimnasia-Barracas y Defensa-Newell’s (17:45). Más tarde, cerrarán la jornada Argentinos-Racing (20.15)",
+      "title": "Una ciudad del norte de California declaró el estado de emergencia tras un ciberataque que afectó el sistema 911 y otros servicios clave",
+      "description": "La ofensiva digital obligó a reorganizar la respuesta pública local e interrumpió áreas sensibles de la administración, en medio de una investigación con participación federal",
       "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/09/continua-la-fecha-4-del-torneo-clausura-la-agenda-de-partidos-del-domingo/",
-      "image": "https://www.infobae.com/resizer/v2/F2VK3MS5JJHZLMDO5LHRZA37RU.jpg?auth=d2e3e0b87aef01ddf641a0b22b779dbf97387c7dae29de7af4397811e8b17c61&smart=true&width=1536&height=864",
-      "pubDate": "2026-08-09T16:08:35.000Z",
-      "emojisString": "💻"
+      "link": "https://www.infobae.com/estados-unidos/2026/08/09/una-ciudad-del-norte-de-california-declaro-el-estado-de-emergencia-tras-un-ciberataque-que-afecto-el-sistema-911-y-otros-servicios-clave/",
+      "image": "https://www.infobae.com/resizer/v2/UPVW55R3MNB45CJ4V5PZFHTVPE.png?auth=b3f637634008d7516207a063990cb4fd7e3b84fcd3d56ec83c1ba780ae73cff0&smart=true&width=1188&height=668",
+      "pubDate": "2026-08-09T16:50:35.000Z",
+      "emojisString": "💻 💥"
     },
     {
-      "title": "Anselmino se volvió a lesionar en Chelsea, salió al borde del llanto y recibió el consuelo de Xabi Alonso",
-      "description": "El defensor argentino sufrió una nueva molestia muscular en el amistoso con Johor Darul Takzim y tuvo que ser reemplazado en su quinto partido al hilo con los Blues.",
+      "title": "El futbolista argentino detenido por ICE será trasladado a un centro de máxima seguridad en Florida",
+      "description": "Matías Pourrain permanece detenido desde el jueves y su abogada pidió una fianza de entre 3.000 y 5.000 dólares para recuperar la libertad.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/el-futbolista-argentino-detenido-ice-sera-trasladado-un-centro-maxima-seguridad-florida-n6308739",
+      "image": "https://media.ambito.com/p/d37edb041461016cf71e60ef3c989da7/adjuntos/239/imagenes/043/569/0043569454/1200x675/smart/matias-pourrain.jpg",
+      "pubDate": "2026-08-09T16:50:00.000Z",
+      "emojisString": "💵 🚨 💻"
+    },
+    {
+      "title": "El gesto de Boca con sus socios con las entradas para la Sudamericana",
+      "description": "El equipo del Vasco Arruabarrena recibirá este martes a Recoleta, por la ida de los octavos de final de la Copa, nuevamente en el Palacio Ducó.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/aaron-anselmino-chelsea-lesion-xabi-alonso_0_x1e7MNxiXR.html",
-      "image": "https://www.ole.com.ar/images/2026/08/09/qwfc8F-EC_1200x630__1.jpg",
-      "pubDate": "2026-08-09T16:05:25.000Z",
-      "emojisString": "💻"
+      "link": "https://www.ole.com.ar/boca-juniors/entradas-boca-copa-sudamericana-recoleta-gesto-hinchas_0_l5lgCa62du.html",
+      "image": "https://www.ole.com.ar/images/2026/08/09/vKGpKljpG_1200x630__1.jpg",
+      "pubDate": "2026-08-09T16:49:30.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "Increíble historia: Coudet es el padrino de Nacho Russo, el verdugo de River",
+      "description": "En el 2000, Chacho fue elegido por Miguel Ángel Russo para ser padrino de Nacho, su hijo.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/river-plate/river-plate-tigre-nacho-russo_0_bLk9NsI9m9.html",
+      "image": "https://www.ole.com.ar/images/2026/08/09/SScsmV5yE_1200x630__1.jpg",
+      "pubDate": "2026-08-09T16:47:06.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
       "title": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy  ",
@@ -43,55 +61,37 @@
       "source": "La Nación",
       "link": "https://www.lanacion.com.ar/deportes/futbol/la-despedida-de-jorge-messi-mensajes-repercusiones-y-ultimas-noticias-del-papa-de-lionel-messi-hoy-nid09082026/",
       "image": "https://resizer.glanacion.com/resizer/v2/RMA3B7LCDJFK7OZT3GDJ7SWZ4U.JPG?auth=dedaf7b8f1750c474b37403d4bcfabb060412837b0bf809efe946fa68406b191&smart=true&width=1862&height=1397",
-      "pubDate": "2026-08-09T16:02:31.000Z",
+      "pubDate": "2026-08-09T16:42:38.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "El consumo no repunta: las ventas minoristas pyme cayeron 3,8% en julio y acumulan siete meses en baja",
-      "description": "Las ventas retrocedieron también 2,1% frente a junio y acumularon una contracción del 2,7% en los primeros siete meses del año, según CAME. El mayor peso de las tarifas sobre los ingresos y la pérdida de poder adquisitivo profundizaron la cautela de los consumidores.",
+      "title": "Lionel Messi despide a su papá Jorge en un íntimo encuentro familiar en Rosario",
+      "description": "El futbolista estuvo junto a su madre Celia Cuccittini, sus hermanos Matías, Rodrigo y María Sol, y Antonela Roccuzzo durante la ceremonia privada.",
       "source": "Ámbito",
-      "link": "https://www.ambito.com/economia/el-consumo-no-repunta-las-ventas-minoristas-pyme-cayeron-38-julio-y-acumulan-siete-meses-baja-n6308733",
-      "image": "https://media.ambito.com/p/00e1020f695a45711da43c08bf473988/adjuntos/239/imagenes/041/720/0041720896/rebajas-descuentos-promociones-consumo-comercios.jpg",
-      "pubDate": "2026-08-09T16:02:00.000Z",
-      "emojisString": "💵"
-    },
-    {
-      "title": "La mora total de los argentinos se quintuplicó en 18 meses y supera el 30% fuera de los bancos",
-      "description": "La Universidad Austral y EcoGo advirtieron que la mora total consolidada en personas físicas, que incluye el crédito del sistema financiero y de proveedores no financieros, acumuló en junio 20 meses de crecimiento",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/la-mora-total-de-los-argentinos-se-quintuplico-en-18-meses-y-supera-el-30-fuera-de-los-bancos-nid09082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/SXRI3HDGRRFFDOHM5ROWOTDPMY.jpg?auth=5aae986406170f4393cfded1795a476a69a3260663915cfb9b4dacdb16264cec&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-09T15:50:08.000Z",
-      "emojisString": "💵 📊 📚"
-    },
-    {
-      "title": "Lionel Messi despidió a su papá Jorge junto a su familia y amigos en una íntima ceremonia en Rosario",
-      "description": "Estuvo acompañado por su mamá Celia, sus hermanos Matías, Rodrigo y María Sol, y también su esposa Antonela Roccuzzo.\nDespués del mediodía, salieron del lugar y el avión privado de la familia está preparado en el aeropuerto.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/deportes/lionel-messi-despidio-papa-jorge-junto-familia-amigos-intima-ceremonia-rosario_0_xmArmjFOi6.html",
-      "image": "https://www.clarin.com/img/2026/08/09/XAFuMoNHE_1200x630__1.jpg",
-      "pubDate": "2026-08-09T15:36:07.000Z",
+      "link": "https://www.ambito.com/informacion-general/lionel-messi-despide-su-papa-jorge-un-intimo-encuentro-familiar-rosario-n6308734",
+      "image": "https://media.ambito.com/p/9573c0f6b77920f576022c2dc2a77888/adjuntos/239/imagenes/043/570/0043570910/messi-despide-su-papa.jpg",
+      "pubDate": "2026-08-09T16:38:00.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "Programa envía abogados voluntarios a tribunales de inmigración de EEUU para asistir a personas",
-      "description": "En Sacramento, un programa de abogados voluntarios asiste a inmigrantes sin representación en tribunales, vitales ante la política de deportación masiva.\nLa falta de abogados agrava la situación de miles de inmigrantes; solo el 19% logra asilo sin representación legal, frente al 47% con un defensor.",
+      "title": "Tragedia en Nueva York: mueren una mujer y una beba al volcar una lancha cerca la Estatua de la Libertad",
+      "description": "Las víctimas cayeron al agua tras el accidente que se produjo el sábado por la noche.\nTenía 27 años y 5 meses de edad.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/programa-envia-abogados-voluntarios-a-tribunales-de-inmigracion-de-eeuu-para-asistir-a-personas_0_ZVkt4UJs6U.html",
-      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
-      "pubDate": "2026-08-09T15:30:06.000Z",
-      "emojisString": "⚖️ 🇺🇸"
+      "link": "https://www.clarin.com/internacional/tragedia-nueva-york-mueren-mujer-beba-volcar-lancha-cerca-estatua-libertad_0_2S35vIkDvA.html",
+      "image": "https://www.clarin.com/img/2020/07/20/8YogQV80G_1200x630__1.jpg",
+      "pubDate": "2026-08-09T16:20:46.000Z",
+      "emojisString": "💻 🚗"
     },
     {
-      "title": "Cuán común es el \"turismo de nacimientos\" por el que Trump quiere recortar la ciudadanía directa por nacer en EE.UU.",
-      "description": "El presidente Donald Trump emitió esta semana nuevas órdenes ejecutivas destinadas a poner fin al llamado \"turismo de nacimiento\" en EE.UU. ¿En qué consiste este fenómeno y cuán frecuente es realmente?",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cly83k3x1y4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c797/live/7af5fb10-9325-11f1-a7ab-8b30adf0800a.jpg",
-      "pubDate": "2026-08-09T15:27:04.000Z",
-      "emojisString": "🏛️ 🇺🇸"
+      "title": "Mario Casas, a sus 40 años: “Desayuno café y una banana, voy al gimnasio y corro 10 kilómetros” \n",
+      "description": "El actor explicó cómo organiza sus comidas antes de entrenar. \nTambién contó qué hábitos modificó al acercarse a los 40.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/mario-casas-40-anos-desayuno-cafe-banana-voy-gimnasio-corro-10-kilometros_0_FnbEROsUgB.html",
+      "image": "https://www.clarin.com/img/2026/07/24/b8u0F4Jw-_1200x630__1.jpg",
+      "pubDate": "2026-08-09T16:01:34.000Z",
+      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-08-09T16:12:45.415Z"
+  "updated": "2026-08-09T16:53:37.355Z"
 }
