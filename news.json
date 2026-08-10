@@ -2,49 +2,76 @@
   "success": true,
   "data": [
     {
-      "title": "Javier Milei y sus medidas, en vivo: un nuevo foco de conflicto con Brasil y los desafíos del Gobierno en el Congreso",
-      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-nuevo-foco-de-conflicto-con-brasil-y-los-desafios-del-gobierno-nid10082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/MF4ZG2SVSFDCHNBDBTWDPJSG54.jpg?auth=945dacdf768af723cda4bb49773617272de0e9ade75fc038719913ebfa326ebc&smart=true&width=941&height=626",
-      "pubDate": "2026-08-10T18:12:02.000Z",
-      "emojisString": "🏛️ 💥 🇧🇷"
-    },
-    {
-      "title": "La visa sigue vigente pero el pasaporte venció: el documento que la CBP dice que hay que llevar para ingresar a EE.UU.",
-      "description": "Conoce qué exige la CBP para viajar con una visa válida en un pasaporte vencido y qué documento adicional debes presentar al ingresar a EE.UU.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/la-visa-sigue-vigente-pero-el-pasaporte-vencio-el-documento-que-la-cbp-dice-que-hay-que-llevar-para-nid10082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EDZRXO372ZFOBHDRKCLKUK66RY.jpg?auth=1ad376010497e4f191dea312c405487da736b93f9fcd418eaddacae2bddb8365&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-10T18:12:00.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Fueron campeones y hoy están sin trabajo: los entrenadores que ven el fútbol argentino por TV",
-      "description": "Dieron la vuelta olímpica en esta década pero están sin club. Los casos de Gallardo, Battaglia, Costas, De Felippe, la dupla Orsi-Gomez y Hugo Ibarra.",
+      "title": "Inédito: mide 2,08 metros, jugó 11 años en la NBA y ahora quiere entrar a la liga femenina",
+      "description": "Enes Kanter Freedom, ex pivote de Boston Celtics, anunció que se postulará para el Draft 2027 de la liga femenina y cuestionó las reglas de elegibilidad de la liga.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-primera/entrenadores-campeones-decada-trabajo-gallardo-battaglia-ibarra-costas-felippe-orsi-gomez_0_71H27hYVN4.html",
-      "image": "https://www.ole.com.ar/images/2026/08/09/grfiC16jb_1200x630__1.jpg",
-      "pubDate": "2026-08-10T18:11:48.000Z",
-      "emojisString": "⚽ 🏅 💻"
+      "link": "https://www.ole.com.ar/basquet/enes-kanter-freedom-nba-jugar-wnba-postular-draft-2027_0_5MuajfiYlU.html",
+      "image": "https://www.ole.com.ar/images/2026/08/10/6QB2syluP_1200x630__1.jpg",
+      "pubDate": "2026-08-10T19:16:03.000Z",
+      "emojisString": "🏀"
     },
     {
-      "title": "Cierres preventivos e inspecciones en algunas de las principales vías de Colombia tras el temblor en Colombia: la ANI tomó medidas",
-      "description": "Los equipos técnicos verifican la operación de vías estratégicas, con revisiones en la Bogotá-Villavicencio y en el proyecto Tercer Carril Bogotá-Girardot, donde se evaluaron el túnel Sumapaz y el puente Mariano Ospina",
+      "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 10 de agosto",
+      "description": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-10-agosto-n6308869",
+      "image": "https://media.ambito.com/p/d808fff7a92951aa484c440660aa33a3/adjuntos/239/imagenes/042/894/0042894181/mercados-finanzas-vivo-acciones-bolsas-inversiones-bonos-dolar-tasas-cedears.jpg",
+      "pubDate": "2026-08-10T19:15:00.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Debutó en River, seguiría como titular y subió un motivador posteo por el mal momento del equipo",
+      "description": "Los del Chacho Coudet buscarán su primer triunfo del semestre este miércoles contra Independiente Santa Fe, por la Sudamericana.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/river-plate/river-tobias-andrada-refuerzo-debut-tigre-independiente-santa-fe-posteo_0_OWdYLZQVnX.html",
+      "image": "https://www.ole.com.ar/images/2026/08/10/Z-Q5xYi2w_1200x630__1.jpg",
+      "pubDate": "2026-08-10T19:14:33.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "Gobierno Trump confirmó que está listo para ayudar a Colombia tras temblor de 7,4: “Está monitoreando de cerca el gran terremoto”",
+      "description": "El secretario de Estado de Estados Unidos, Marco Rubio, comunicó que se activó líneas de atención tras el terremoto",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/08/10/cierres-preventivos-e-inspecciones-en-algunas-de-las-principales-vias-de-colombia-tras-el-temblor-en-colombia-la-ani-tomo-medidas/",
-      "image": "https://www.infobae.com/resizer/v2/ID5OLOF7BJEL3JGKHLCQMAZ434.JPG?auth=f144afcfdf1a0b06e19f70e5cacf539624c7c61160961e34e85b64097322c775&smart=true&width=3887&height=2630",
-      "pubDate": "2026-08-10T18:08:40.000Z",
+      "link": "https://www.infobae.com/colombia/2026/08/10/gobierno-trump-confirmo-que-esta-listo-para-ayudar-a-colombia-tras-temblor-de-74-esta-monitoreando-de-cerca-el-gran-terremoto/",
+      "image": "https://www.infobae.com/resizer/v2/JKKVFF7MTZHK5OLB53KO5GGQP4.jpg?auth=f4d6d407e327f47a131115ea47d39b4f9164a9aed6a981a6edee0f1156224098&smart=true&width=1920&height=1280",
+      "pubDate": "2026-08-10T19:12:08.000Z",
+      "emojisString": "🏛️ 💻 🌊"
+    },
+    {
+      "title": "Anne Hathaway presume su embarazo con un atrevido conjunto y divide opiniones en redes sociales: “Muy de mal gusto”",
+      "description": "La actriz apareció en la premiere de “The End of Oak Street” con un conjunto de Atelier Prabal Gurung y vaqueros de tiro bajo",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/entretenimiento/2026/08/10/anne-hathaway-presume-su-embarazo-con-un-atrevido-conjunto-y-divide-opiniones-en-redes-sociales-muy-de-mal-gusto/",
+      "image": "https://www.infobae.com/resizer/v2/TKC7XBCDO5HR7MNH7UDFCFDD3M.jpg?auth=e89181ce54f76648511aa064ea36f879c64e832868b1457db140118f8052e452&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-10T19:11:58.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Los alquileres en CABA subieron hasta 35% en el último año: cuánto cuesta un dos ambientes en cada barrio",
-      "description": "El relevamiento del segundo trimestre del organismo estadístico porteño mostró valores promedio de $764.485 para las unidades de esta categoría y diferencias importantes según la zona. Saavedra y Núñez registraron los precios más elevados, mientras que Constitución y Floresta quedaron entre los más",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/economia/2026/08/10/los-alquileres-en-caba-subieron-hasta-35-en-el-ultimo-ano-cuanto-cuesta-un-dos-ambientes-en-cada-barrio/",
-      "image": "https://www.infobae.com/resizer/v2/AFYDKIU3M5HRNCEUSLHWAJUU2M.jpg?auth=b9b849374023a16d0a38bf8ce9cb738e140ba3b95e235f2834921892c1047658&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-10T18:08:18.000Z",
-      "emojisString": "💻"
+      "title": "Tragedia en Colombia: Abelardo De la Espriella confirmó que hay al menos 111 muertos por el sismo de 7,4 grados",
+      "description": "El temblor se registró alrededor de las 7.30 (hora local) y tuvo una profundidad de 82 kilómetros. Las autoridades continúan con los operativos y el presidente declaró la emergencia. Por el sismo hay un apagón en las regiones afectadas.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/mundo/fuerte-sismo-74-grados-colombia-n6308971",
+      "image": "https://media.ambito.com/p/faf53a1912040505a0c3cd2b2bd576e3/adjuntos/239/imagenes/043/571/0043571795/terremoto-colombia.jpg",
+      "pubDate": "2026-08-10T19:11:00.000Z",
+      "emojisString": "🏛️ 💻 🌊"
+    },
+    {
+      "title": "Alerta migrantes: el DHS revoca 175.000 visas durante el gobierno de Trump",
+      "description": "El gobierno de Trump revocó 175.000 visas a extranjeros tras detectar delitos graves, conductas peligrosas y amenazas a la seguridad nacional. Descubre los detalles de este endurecimiento migratorio que incluye la revisión de redes sociales y la expulsión de personas con antecedentes criminales.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/alerta-migrantes-el-dhs-revoca-175000-visas-durante-el-gobierno-de-trump-nid10082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/6QSDEXCECBBXTPNMEX3K7B3WDY.JPG?auth=8f022cd737b090b4db8087bd95fb8e1362e1de2c4c4007e4beea4f37fb8633e1&smart=true&width=4132&height=2755",
+      "pubDate": "2026-08-10T19:07:33.000Z",
+      "emojisString": "🏛️ 💻 🇺🇸"
+    },
+    {
+      "title": "Fuerte terremoto de 7,4 en Colombia, EN VIVO: el temblor sacudió a todo el país hoy, 10 de agosto ",
+      "description": "El epicentro se registró en San José del Palmar, en el departamento del Chocó, a unos 280 kilómetros al oeste de Bogotá, y afectó a gran parte del territorio; se registraron al menos 111 muertos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/el-mundo/fuerte-terremoto-de-74-en-colombia-en-vivo-el-temblor-sacudio-a-todo-el-pais-hoy-10-de-agosto-nid10082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/76UPYUQEZ5D37LP24HUPU23TPI.jpeg?auth=e3449bceaa39cd0d62edd71ae01d0d5d4e3b6c490682035533f632b0dfa828e6&smart=true&width=1600&height=1066",
+      "pubDate": "2026-08-10T19:07:28.000Z",
+      "emojisString": "💻 🌊 🚗"
     },
     {
       "title": "Un fuerte terremoto de magnitud 7,4 golpea el occidente de Colombia, causando decenas de muertos e importantes daños materiales ",
@@ -52,46 +79,19 @@
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/cly5720pnz4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3675/live/26362e70-94e6-11f1-8d2f-451ff8544cca.jpg",
-      "pubDate": "2026-08-10T18:07:18.000Z",
+      "pubDate": "2026-08-10T18:58:54.000Z",
       "emojisString": "⚽ 💻 🌊"
     },
     {
-      "title": "River va por el título de la Liga Federal: cuándo es y cómo ver la final vs. Mitre",
-      "description": "El Millonario y el Auriazul, ya ascendidos a la Liga Argentina de Básquet, se enfrentarán por el trofeo de la categoría en una definición a partido único.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/basquet/ver-bartolome-mitre-rivel-plate-titulo-campeon-liga-federal-basquet_0_TqzbTC5JL5.html",
-      "image": "https://www.ole.com.ar/images/2026/08/08/ZsmRiMIRe_1200x630__1.jpg",
-      "pubDate": "2026-08-10T18:06:53.000Z",
-      "emojisString": "⚽ 🏀 💻"
-    },
-    {
-      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente tuvo un gesto de apoyo con Federico Sturzenegger en medio de las internas por el fracaso de la Ley de Tierras",
-      "description": "El mandatario reposteó un mensaje del ministro y le sumó su tradicional sigla de \"todo marcha acorde al plan\".\nKarina Milei reúne a los legisladores bonaerenses para definir la estrategia de La Libertad Avanza en la Provincia.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/politica/javier-milei-medidas-vivo-karina-milei-recibe-legisladores-bonaerenses-rosada-definir-estrategia-provincia_0_HUOibdKXdf.html",
-      "image": "https://www.clarin.com/img/2025/05/30/nXegJWX29_1200x630__1.jpg",
-      "pubDate": "2026-08-10T18:06:17.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "Acompañamiento Social: quiénes cobran $78.000 en agosto por ANSES y son ex Potenciar Trabajo",
-      "description": "El programa fue prorrogado y seguirá vigente, en principio, hasta abril de 2028.\nEstá destinado a personas en situación de vulnerabilidad que cumplen los requisitos establecidos.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/acompanamiento-social-cobran-78000-agosto-anses-ex-potenciar-trabajo_0_ZLyaTgpzBw.html",
-      "image": "https://www.clarin.com/img/2025/08/06/_m_JdDd3M_1200x630__1.jpg",
-      "pubDate": "2026-08-10T18:06:00.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Tragedia en Colombia: al menos 82 muertos y destrozos en varias ciudades por un sismo de 7,4 grados",
-      "description": "El temblor se registró alrededor de las 7.30 (hora local) y tuvo una profundidad de 82 kilómetros. Las autoridades continúan con los operativos y el presidente Espriella declaró la emergencia. Por el sismo hay un apagón en las regiones afectadas.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/mundo/fuerte-sismo-74-grados-colombia-n6308971",
-      "image": "https://media.ambito.com/p/faf53a1912040505a0c3cd2b2bd576e3/adjuntos/239/imagenes/043/571/0043571795/terremoto-colombia.jpg",
-      "pubDate": "2026-08-10T17:58:00.000Z",
-      "emojisString": "🏛️ 💻 🌊"
+      "title": "El fenómeno El Niño se extenderá hasta el comienzo del otoño 2027: el factor determinante que definirá su impacto en Argentina",
+      "description": "La prolongación del fenómeno climático representa una hoja de ruta con doble filo para los países del cono sur. El acoplamiento entre el océano y la atmósfera, proceso a través del cual el calor acumulado en el Pacífico altera la circulación de las masas de aire a escala global, ha comenzado a manif",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/ciencia/el-fenomeno-el-nino-se-extendera-hasta-el-comienzo-del-otono-a50-2027-el-factor-que-definira-su-impacto-en-argentina.phtml",
+      "image": "https://fotos.perfil.com/2026/08/10/trim/540/304/el-fenomeno-de-climatico-nino-2301318.jpg",
+      "pubDate": "2026-08-10T18:48:00.000Z",
+      "emojisString": "🌤️"
     }
   ],
   "count": 10,
-  "updated": "2026-08-10T18:13:35.695Z"
+  "updated": "2026-08-10T19:17:39.382Z"
 }
