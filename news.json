@@ -2,67 +2,40 @@
   "success": true,
   "data": [
     {
-      "title": "Karina Milei activó el armado bonaerense de LLA con una reunión con legisladores en Casa Rosada",
-      "description": "La secretaria general de la Presidencia encabezó dos encuentros con senadores y diputados provinciales de La Libertad Avanza, en medio de la reorganización del oficialismo de cara a las próximas elecciones.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/karina-milei-activo-el-armado-bonaerense-lla-una-reunion-legisladores-casa-rosada-n6309231",
-      "image": "https://media.ambito.com/p/3cdeae49e108f378bfd22107d350fbe1/adjuntos/239/imagenes/043/222/0043222646/karina-milei-nueva-york.jpg",
-      "pubDate": "2026-08-10T22:26:00.000Z",
+      "title": "Karina Milei reunió a los legisladores bonaerenses e inauguró la campaña electoral contra Kicillof ",
+      "description": "Los dirigentes locales le presentaron una serie de proyectos que tienen en carpeta, como desalojos exprés y prohibir los celulares en las cárceles. Además, se anunció la inauguración de la sede central del partido en la provincia de Buenos Aires",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/politica/2026/08/10/karina-milei-reunio-a-los-legisladores-bonaerenses-e-inauguro-la-campana-electoral-contra-kicillof/",
+      "image": "https://www.infobae.com/resizer/v2/XOFUCQO2T5AEDNWXVW6MOTIMVU.jpg?auth=6f348882097bdb64d99db1334a5a0f01234611df7f13441d81672cb1ceb9de80&smart=true&width=2560&height=1706",
+      "pubDate": "2026-08-10T23:04:47.000Z",
       "emojisString": "🏛️ 🗳️ 💻"
     },
     {
-      "title": "Qué programas de ayuda hay para pequeños negocios en Miami-Dade y cómo solicitarlos",
-      "description": "El condado activó un plan integral que unifica financiamiento, capacitación, compras públicas y apoyo en permisos",
+      "title": "YPF le vendió la mayoría accionaria de Metrogas a Edenor por USD 780 millones",
+      "description": "La petrolera estatal avanzó con la venta de su participación de 70% en la compañía que distribuye gas a 2,4 millones de usuarios en CABA y el Gran Buenos Aires",
       "source": "Infobae",
-      "link": "https://www.infobae.com/estados-unidos/2026/08/09/que-programas-de-ayuda-y-credito-hay-para-pequenos-negocios-en-miami-dade-y-como-solicitarlos/",
-      "image": "https://www.infobae.com/resizer/v2/PF2OOEPBCRBCHL45NXNPVUZ6BM.png?auth=efba2f8906a814c720f59740f5ba624be2009fe0f102c5286e833fa40de462ae&smart=true&width=1188&height=787",
-      "pubDate": "2026-08-10T22:25:05.000Z",
-      "emojisString": "💵 💻"
-    },
-    {
-      "title": "Suprema Corte tendrá la última palabra sobre el plan turístico de Mahahual",
-      "description": "El Máximo Tribunal analiza si las modificaciones al plan deben tratarse como una norma general o como un acto de autoridad",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/10/suprema-corte-tendra-la-ultima-palabra-sobre-el-plan-turistico-de-mahahual/",
-      "image": "https://www.infobae.com/resizer/v2/I4ICX64YJVGDJH24ZLS3565FJE.jpg?auth=7cc737ec74610d09cf94ef1d65656f00ae57797d2421384d7cce08acb6085cfc&smart=true&width=1920&height=1472",
-      "pubDate": "2026-08-10T22:25:03.000Z",
-      "emojisString": "⚖️"
-    },
-    {
-      "title": "Ecuador imputa a un exministro y otras 6 personas en el caso del asesinato del candidato presidencial Fernando Villavicencio",
-      "description": "La fiscalía ecuatoriana cere que los acusados, entre ellos el exministro José Serrano,  tuvieron un papel indirecto en el asesinato de Villavicencio.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/ckgdlp0rn0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4de/live/4cc53a50-9404-11f1-a10f-45ed743c6e4b.jpg",
-      "pubDate": "2026-08-10T22:24:50.000Z",
-      "emojisString": "🗳️ ⚖️ 🚨"
-    },
-    {
-      "title": "¿Del error al banco?: Quinteros analiza reemplazar a Rey",
-      "description": "Tras la macana que se mandó, Rodrigo podría salir para que Mele debute este miércoles por los octavos de final de la Copa Argentina. Los detalles.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/independiente/independiente-gustavoquinteros-santiagomele-rodrigorey-copaargentina_0_PPgg4oQGfw.html",
-      "image": "https://www.ole.com.ar/images/2025/10/03/PHqE_Vg2E_1200x630__1.jpg",
-      "pubDate": "2026-08-10T22:23:33.000Z",
-      "emojisString": "⚽ 💵"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: un nuevo foco de conflicto con Brasil y los desafíos del Gobierno en el Congreso",
-      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-un-nuevo-foco-de-conflicto-con-brasil-y-los-desafios-del-gobierno-nid10082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/MF4ZG2SVSFDCHNBDBTWDPJSG54.jpg?auth=945dacdf768af723cda4bb49773617272de0e9ade75fc038719913ebfa326ebc&smart=true&width=941&height=626",
-      "pubDate": "2026-08-10T22:23:11.000Z",
-      "emojisString": "🏛️ 💥 🇧🇷"
-    },
-    {
-      "title": "Carla Villa, de 101 años: “Me levanto a las 7.30 y desayuno café con galletas”",
-      "description": "La oriunda de Milán se volvió una figura clave de la longevidad en la capital de la moda de Italia; en una entrevista reveló sus secretos para superar el centenario",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/carla-villa-de-101-anos-me-levanto-a-las-730-y-desayuno-cafe-con-galletas-nid10082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/IYVEXFCPUNC6XGTRS2PNTHOPOI.png?auth=d377456bb3d91a761328859670ef319f023a701119aafcc85e953630f8a19974&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-10T22:23:01.000Z",
+      "link": "https://www.infobae.com/economia/2026/08/10/ypf-le-vendio-la-mayoria-accionaria-de-metrogas-a-edenor-por-usd-780-millones/",
+      "image": "https://www.infobae.com/resizer/v2/M2O5RBC475B3DPQZFFCWYQ3Y5M.jpg?auth=4b4fd4500f334d314e387ead839107c615b08fd3649ebbab1322eb42f0c345b8&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-10T23:02:51.000Z",
       "emojisString": "💻"
+    },
+    {
+      "title": "El Gobierno se puso a disposición de las autoridades colombianas tras el terremoto y expresó su solidaridad",
+      "description": "El canciller Pablo Quirno aseguró que la Argentina mantiene contacto con la representación consular en el país y sigue de cerca la situación tras el fuerte sismo, que dejó al menos 111 muertos y numerosos heridos de gravedad",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/el-gobierno-se-puso-a-disposicion-de-las-autoridades-colombianas-tras-el-terremoto-y-expreso-su-nid10082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/TJJGXPGWBRBCXNYOMEJ5S5JBWA.jpg?auth=ae06a54735765fa4246a019f2319c4a8f7bc7ed47bde2df913475eefecaddb07&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-10T23:02:50.000Z",
+      "emojisString": "🏛️ 💻 🌊"
+    },
+    {
+      "title": "Esta es la ruta aérea de la Argentina elegida como la más turbulenta del mundo ",
+      "description": "Un informe internacional analizó miles de trayectos y aeropuertos; según se informó en LN+, una conexión corta en Sudamérica encabeza el ranking por una combinación de factores naturales",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/esta-es-la-ruta-aerea-de-la-argentina-elegida-como-la-mas-turbulenta-del-mundo-nid09082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/PWMRXK4WEZECHJ4EA4Y2KIICT4?auth=fa5c0eb7afc839ea6d18f17fd8d6761a70bc5d7b93fcec3a08d5ed55df72a857&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-10T23:02:00.000Z",
+      "emojisString": "📰"
     },
     {
       "title": "Tras el terremoto en Colombia, se suspendió el partido entre River e Independiente Santa Fe por Copa Sudamericana",
@@ -70,28 +43,55 @@
       "source": "Ámbito",
       "link": "https://www.ambito.com/deportes/tras-el-terremoto-colombia-se-suspendio-el-partido-river-e-independiente-santa-fe-copa-sudamericana-n6309233",
       "image": "https://media.ambito.com/p/7980cf5e8b489f3461975df7befdaa25/adjuntos/239/imagenes/043/380/0043380056/1200x675/828x425:848x445/coudet.jpg",
-      "pubDate": "2026-08-10T22:22:00.000Z",
+      "pubDate": "2026-08-10T23:01:00.000Z",
       "emojisString": "⚽ 💻 🌊"
     },
     {
-      "title": "Facundo Tello vuelve a dirigir tras Francia - Marruecos: va a Copa Argentina",
-      "description": "El referí internacional fue designado para Independiente - Atlético Tucumán, el próximo miércoles en el Marcelo Bielsa de Rosario.",
+      "title": "YPF tuvo el mejor trimestre de su historia: sus ganancias saltaron casi 200% impulsadas por el precio del petróleo",
+      "description": "La petrolera alcanzó ingresos brutos récord y casi triplicó su ganancia frente al trimestre anterior. La escalada en el valor del crudo, el crecimiento del shale y una mejora mayor a la esperada en refinación impulsaron los resultados, mientras la compañía volvió a reducir su deuda.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/finanzas/ypf-tuvo-el-mejor-trimestre-su-historia-sus-ganancias-saltaron-casi-200-impulsadas-el-precio-del-petroleo-n6309236",
+      "image": null,
+      "pubDate": "2026-08-10T22:56:00.000Z",
+      "emojisString": "📊 💻"
+    },
+    {
+      "title": "Jugó la Libertadores y tuvo una curiosa reacción: el argentino que ¿celebró la salida de su entrenador?",
+      "description": "Barcelona de Ecuador confirmó que César Farías dejó de ser el DT y el defensor Luca Sosa realizó un llamativo comentario.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/copa-argentina/facundotello-copaargentina-independiente-atleticotucuman-cuartosdefinal_0_mgeLZLRHM7.html",
-      "image": "https://www.ole.com.ar/images/2026/07/09/7B0yxRKWX_1200x630__1.jpg",
-      "pubDate": "2026-08-10T22:16:18.000Z",
+      "link": "https://www.ole.com.ar/fuera-de-juego/barcelona-guayaquil-jugador-argentino-luca-sosa-celebro-salida-entrenador-cesar-farias_0_zfgW2PsZbK.html",
+      "image": "https://www.ole.com.ar/images/2026/08/10/Ci3lDk4zh_1200x630__1.jpg",
+      "pubDate": "2026-08-10T22:55:09.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "Con Salas en duda, Independiente Rivadavia regresa al Maracaná",
+      "description": "La Lepra mendocina vuelve al mítico estadio para enfrentar a Fluminense por los octavos de final de la Copa Libertadores.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/independiente-rivadavia/maracana-fluminense-libertadores_0_HX1IeteRMA.html",
+      "image": "https://www.ole.com.ar/images/2026/04/15/XYHMK-GZC_1200x630__1.jpg",
+      "pubDate": "2026-08-10T22:44:24.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "El vocero presidencial admitió un desvío de fondos para mantener el superávit y desató denuncias y criticas al Gobierno",
-      "description": "Una gran suma de dinero recaudado para Vialidad fue redirigida del Sistema Vial Integrado (Sisvial) al Ministerio de Economía, según confirmó el propio portavoz Adrián Ravier.\nLa suma denunciada sería superior a un billón de pesos.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/politica/vocero-presidencial-admitio-desvio-fondos-mantener-superavit-desato-denuncias-criticas-gobierno_0_uabNwj5E5B.html",
-      "image": "https://www.clarin.com/img/2026/04/17/a48uhQQiL_1200x630__1.jpg",
-      "pubDate": "2026-08-10T22:04:17.000Z",
-      "emojisString": "💵 📊 🏛️"
+      "title": "La IA sólo puede ser culpable de haber llegado tarde",
+      "description": "“La tecnología no creó ninguna de nuestras crisis cognitivas. Llegó tarde a la escena y amplificó lo que encontró”, dice la autora. Y lo que encontró fue, desde mediados del siglo XX, sociedades integradas por personas veloces “en el procesamiento visual y pobres en el desarrollo del pensamiento y l",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/opinion/la-ia-solo-puede-ser-culpable-de-haber-llegado-tarde.phtml",
+      "image": "https://fotos.perfil.com/2024/08/16/trim/540/304/alumnos-usando-celular-20240816-1855603.jpg",
+      "pubDate": "2026-08-10T22:37:25.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "OpenAI suspende parte del desarrollo de Astra para reforzar la ciberseguridad",
+      "description": "El fabricante de ChatGPT afirmó el viernes que no puede descartar que el nuevo modelo aún sin lanzar, alcance el umbral crítico de ciberseguridad. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/bloomberg/bc-openai-suspende-parte-del-desarrollo-de-astra-para-reforzar-la-ciberseguridad.phtml",
+      "image": "https://fotos.perfil.com/2026/06/01/trim/540/304/openai-2251592.jpg",
+      "pubDate": "2026-08-10T22:35:00.000Z",
+      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-08-10T22:29:50.949Z"
+  "updated": "2026-08-10T23:07:53.841Z"
 }
