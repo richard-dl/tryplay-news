@@ -2,40 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 10 de agosto: asesinan a balazos a joven en calles de la colonia Morelos, en la alcaldía Cuauhtémoc ",
-      "description": "Sigue las noticias más importantes en el país sobre los acontecimientos violentos con Infobae México",
+      "title": "México confirma evaluación por parte de agencia de EEUU para mantener la categoría 1 en seguridad aérea",
+      "description": "Esta evaluación tiene como finalidad verificar el cumplimiento de los estándares de seguridad",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/10/juan-carlos-valencia-vs-ivan-archivaldo-guzman-similitudes-y-diferencias-entre-los-lideres-del-cjng-y-los-chapitos-2/",
-      "image": "https://www.infobae.com/resizer/v2/OJ6GDAECYFGZXGQI3AKHOWDXYI.jpg?auth=1257ea59ae0408de517fcf5b1eaa60cd5249d045f7ec4705982c39afd1e782b5&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-11T03:09:13.000Z",
-      "emojisString": "🚨 💻"
+      "link": "https://www.infobae.com/mexico/2026/08/11/mexico-confirma-evaluacion-por-parte-de-agencia-de-eeuu-para-mantener-la-categoria-1/",
+      "image": "https://www.infobae.com/resizer/v2/ZCYUT2YV5BDOXDJE4TN3KBV7BY.png?auth=5a2b42c207f9d3b50b3fc2b74a9747c40bdc114950deb93847f4509820bfbef3&smart=true&width=1918&height=1280",
+      "pubDate": "2026-08-11T04:34:00.000Z",
+      "emojisString": "💻 🇺🇸"
     },
     {
-      "title": "EN VIVO | Bloqueos en carreteras, accidente viales y manifestaciones hoy 10 de agosto: cierran volcadura en la México-Puebla",
-      "description": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
+      "title": "Javier Milei y sus medidas, en vivo: los acuerdos del Gobierno de cara a 2027 y la agenda legislativa en Diputados",
+      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-los-acuerdos-del-gobierno-de-cara-a-2027-y-la-agenda-legislativa-nid11082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/Y7MCQG24MFEWBOBIKXJOEDHHXI.jpg?auth=6149726376ce7ef60297486a241ad8fa475cc75a11cd997d897f2df08ee63076&smart=true&width=2835&height=1697",
+      "pubDate": "2026-08-11T04:32:46.000Z",
+      "emojisString": "🏛️"
+    },
+    {
+      "title": "Fuerte terremoto de 7,4 en Colombia, EN VIVO: el temblor sacudió a todo el país hoy, 10 de agosto ",
+      "description": "El epicentro se registró en San José del Palmar, en el departamento del Chocó, a unos 280 kilómetros al oeste de Bogotá, y afectó a gran parte del territorio; se registraron al menos 111 muertos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/el-mundo/fuerte-terremoto-de-74-en-colombia-en-vivo-el-temblor-sacudio-a-todo-el-pais-hoy-10-de-agosto-nid10082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/76UPYUQEZ5D37LP24HUPU23TPI.jpeg?auth=e3449bceaa39cd0d62edd71ae01d0d5d4e3b6c490682035533f632b0dfa828e6&smart=true&width=1600&height=1066",
+      "pubDate": "2026-08-11T04:31:48.000Z",
+      "emojisString": "💻 🌊 🚗"
+    },
+    {
+      "title": "Más de 130 muertos, 570 heridos, viviendas y vías dañadas y aeropuertos cerrados, las dramáticas cifras que deja hasta ahora el terremoto en Colombia",
+      "description": "Las labores de rescate se intensifican en las zonas afectadas mientras el Estado despliega recursos de emergencia y la población enfrenta riesgos de desórdenes civiles y pérdidas millonarias",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/10/en-vivo-bloqueos-en-carreteras-accidente-viales-y-manifestaciones-hoy-10-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/O7CEMJM5LFFXBGTUW5MZP2AQ3E.png?auth=a1a75dedc693b73c069e2620f59349d736fed7d4cd0effd9128119e1de359942&smart=true&width=571&height=310",
-      "pubDate": "2026-08-11T03:08:47.000Z",
-      "emojisString": "💻 🚗"
+      "link": "https://www.infobae.com/colombia/2026/08/11/mas-de-130-muertos-570-heridos-viviendas-y-vias-danadas-y-aeropuertos-cerrados-las-dramaticas-cifras-que-deja-hasta-ahora-el-terremoto-en-colombia/",
+      "image": "https://www.infobae.com/resizer/v2/TY3JVNMR5BDGRB4BWV64TRDRSM.JPG?auth=1f1cdfc9063ab921b4c760071c94452963d9451a7f9511f1d839c734812c49db&smart=true&width=4032&height=2821",
+      "pubDate": "2026-08-11T04:24:18.000Z",
+      "emojisString": "💻 🌊 🚗"
     },
     {
-      "title": "Cartas de lectores: Extranjeros sí...y no, pymes, endeudamiento ",
-      "description": "",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/opinion/carta-de-lectores/cartas-de-lectores-extranjeros-siy-no-pymes-endeudamiento-nid11082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZGIRVXEWUFGNFIIOMVBIF74EFQ.jpg?auth=ef033a336576679208ad3b157746d37969fd6fc6dafff36d384d1852d57140bf&smart=true&width=1133&height=837",
-      "pubDate": "2026-08-11T03:05:00.000Z",
-      "emojisString": "📰"
+      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este martes 11 agosto de 2026",
+      "description": "El SMN anticipa para este martes temperaturas entre 4°C y 11°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-martes-11-agosto-2026_0_gg7yyfno9f.html",
+      "image": "https://www.clarin.com/img/2025/04/30/Hm-nGLi3-_1200x630__1.jpg",
+      "pubDate": "2026-08-11T03:40:14.000Z",
+      "emojisString": "💻 🌤️"
     },
     {
-      "title": "De la fiesta en el piso 40 a la investigación contra “Lelo” Pérez, el vendedor de autos acusado de lavar dinero en dos torres de Rosario",
-      "description": "Los fiscales federales de la Procunar y la Procelac lo investigan por realizar fuertes inversiones en el sector de la construcción sin fondos justificados; este hombre tenía relación con narcos “pesados” de la ciudad",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/seguridad/de-la-fiesta-en-el-piso-40-a-la-investigacion-contra-lelo-perez-el-vendedor-de-autos-que-esta-nid11082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/RXRH3GW5ZRH3VJ6TUDFW2CMOJE.png?auth=461ada9f61497342ac1ad0efae87a48d3a070e08dd339b0989b4eb65ce042834&smart=true&width=800&height=533",
-      "pubDate": "2026-08-11T03:05:00.000Z",
-      "emojisString": "⚖️"
+      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este martes 11 agosto de 2026",
+      "description": "El pronóstico extendido durante la jornada.\n¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-martes-11-agosto-2026_0_8xs5Ljrixr.html",
+      "image": "https://www.clarin.com/img/2025/04/30/U9tfxH6Bd_1200x630__1.jpg",
+      "pubDate": "2026-08-11T03:39:51.000Z",
+      "emojisString": "💻 🌤️"
     },
     {
       "title": "Gobernadores norteños se reúnen en Misiones: reclamos regionales, dialoguistas que mostraron los dientes y un anfitrión que rompió",
@@ -65,33 +83,15 @@
       "emojisString": "💻 🏥"
     },
     {
-      "title": "Alta Gracia inaugura este jueves la quinta edición del Festival Monumental Sierras de Cine",
-      "description": "El festival de cine y artes audiovisuales se desarrollará del 13 al 16 de agosto, con entrada libre y gratuita en el Cine Teatro Monumental Sierras. La actividad central será la presencia de Lucrecia Martel, quien presentará su documental \"Nuestra Tierra\". Leer más",
+      "title": "Juicio por facturas truchas: un acusado contó que cobraba fondos estatales hasta en una peluquería",
+      "description": "Dos acusados aseguraron que desconocían las maniobras y describieron cómo cobraban obras financiadas con fondos públicos. La suegra del contador Walter Pasko negó haber autorizado las facturas investigadas. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/alta-gracia-inaugura-este-jueves-la-quinta-edicion-del-festival-monumental-sierras-de-cine.phtml",
-      "image": "https://fotos.perfil.com/2026/08/11/trim/540/304/previa-del-festival-de-cine-en-alta-gracia-2301951.jpg",
-      "pubDate": "2026-08-11T02:53:03.000Z",
-      "emojisString": "💻 🎬"
-    },
-    {
-      "title": "Qué se sabe del terremoto de magnitud 7,4 que causó más de un centenar de muertos y graves daños en Colombia",
-      "description": "El sismo tuvo su epicentro en el departamento del Chocó y golpeó con dureza distintas localidades del occidente del país, incluidas Cali, Manizales, Pereira y Quibdó.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cjd4824d9ljo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ead/live/0a0d6600-9518-11f1-81fa-698cd3f8ac68.jpg",
-      "pubDate": "2026-08-11T02:30:47.000Z",
-      "emojisString": "⚽ 💻 🌊"
-    },
-    {
-      "title": "Gran Hermano, Generación Dorada: quién fue eliminado, esta lunes 10 de agosto",
-      "description": "Un importante participante dejó el certamen por decisión del público.\nAhora solo quedan 9 jugadoras en competencia.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/fama/gran-hermano-generacion-dorada-eliminado-lunes-10-agosto_0_49BmbAR5DS.html",
-      "image": "https://www.clarin.com/img/2026/08/10/OVn-63A-2_1200x630__1.jpg",
-      "pubDate": "2026-08-11T02:26:53.000Z",
-      "emojisString": "💻"
+      "link": "https://www.perfil.com/noticias/nea/juicio-por-facturas-truchas-un-acusado-conto-que-cobraba-fondos-estatales-hasta-en-una-peluqueria.phtml",
+      "image": "https://fotos.perfil.com/2026/08/11/trim/540/304/fernando-ayala-y-walter-pasko-los-principales-acusados-2301957.jpg",
+      "pubDate": "2026-08-11T02:53:40.000Z",
+      "emojisString": "💵 ⚖️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-11T03:10:44.601Z"
+  "updated": "2026-08-11T04:38:25.225Z"
 }
