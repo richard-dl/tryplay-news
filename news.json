@@ -2,22 +2,40 @@
   "success": true,
   "data": [
     {
-      "title": "Adiós a la computadora: 3 de cada 5 personas en el mundo usan el celular para todo aumentando riesgos",
-      "description": "Quienes tienen entre 18 y 28 años de edad, usan hoy más el teléfono celular para estudiar, trabajar y entretenerse",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/08/12/adios-a-la-computadora-3-de-cada-5-personas-en-el-mundo-usan-el-celular-para-todo-aumentando-riesgos/",
-      "image": "https://www.infobae.com/resizer/v2/CRLMVCZOOLUZY2YMKZDY5F7RPM.jpg?auth=1816ca5f93e56369924a19138d06d626a15136f4dcbf147576085d9937ac0b7f&smart=true&width=5817&height=3915",
-      "pubDate": "2026-08-12T16:44:56.000Z",
-      "emojisString": "💻 📱 🇧🇷"
+      "title": "El hijo del Pupi Zanetti firmó su primer contrato con el Inter",
+      "description": "Toto, el menor de los hijos de Javier y de Paula de la Fuente, quedó formalmente vinculado al Neroazzurro, donde su papá es vicepresidente.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/italia/hijo-pupi-zanetti-firmo-primer-contrato-inter_0_WY22gbiVF8.html",
+      "image": "https://www.ole.com.ar/images/2026/08/12/-QZpylxcy_1200x630__1.jpg",
+      "pubDate": "2026-08-12T17:50:50.000Z",
+      "emojisString": "🏛️"
     },
     {
-      "title": "EN VIVO | Fuerte temblor de 7,4 se sintió en Colombia el 10 de agosto: suben a 239 los muertos, 3.755 los heridos y 287 los desaparecidos ",
-      "description": "A las 7:34 a. m. del lunes 10 de agosto, un sismo prolongado se sintió en gran parte del país. Las autoridades desplegaron equipos para evaluar los daños y los organimismo de emergencia siguen entregando malas noticias sobre el número de fallecidos",
+      "title": "Laurita Fernández a pleno verano en Italia: playa, atardeceres y paseos con amigas ",
+      "description": "La bailarina estuvo de vacaciones en Europa y eligió pasar unos días en Cinque Terre, conociendo los pueblos que están en la montaña mientras disfrutó de las jornadas estivales",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/",
-      "image": "https://www.infobae.com/resizer/v2/UY5FAQ2MRZDHJH4GTEITLASBXA.JPG?auth=fd744849dd12979dd5034d7fb2243d127dcce4b15da27d9e31cc717a94ee4ca3&smart=true&width=3758&height=2501",
-      "pubDate": "2026-08-12T16:44:32.000Z",
-      "emojisString": "💻 🌊 🚗"
+      "link": "https://www.infobae.com/teleshow/2026/08/12/laurita-fernandez-a-pleno-verano-en-italia-playa-atardeceres-y-paseos-con-amigas/",
+      "image": "https://www.infobae.com/resizer/v2/53FY4Y37K5C3BFNVVH75PDX7XM.png?auth=5b3203747bbd47c69760254469ff0d97def3083e8b7e9777ddb3b11aec462605&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-12T17:50:49.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Eclipse solar total hoy, en directo | La Luna ya ha proyectado su sombra total sobre Alaska y comienza a tapar el Sol parcialmente en España, en vivo",
+      "description": "España mira al cielo para contemplar un espectáculo único, eso sí no exento de riesgo: ha de hacerse con gafas homologadas",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/08/12/eclipse-solar-total-en-directo-a-que-hora-se-vera-en-cada-ciudad-y-su-recorrido-desde-galicia-a-baleares/",
+      "image": "https://www.infobae.com/resizer/v2/NIQB3XPR6VDILJALWPOZUU3A24.JPG?auth=90c24d8e72db363acc1c268668ed06aff442cb89510db018d0bf02833668a8a0&smart=true&width=5472&height=3648",
+      "pubDate": "2026-08-12T17:50:30.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "A qué hora de EE.UU. es el eclipse solar total de hoy que se podrá ver en vivo en la transmisión de la NASA",
+      "description": "Consulta a qué hora se verá el eclipse solar en EE.UU., cuándo comienza la transmisión de la NASA y qué ciudades tendrán mayor cobertura.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/a-que-hora-de-eeuu-es-el-eclipse-solar-total-de-hoy-que-se-podra-ver-en-vivo-en-la-transmision-de-la-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/S5LBDFPOG5CDNP5UZLWW5K6N3E.png?auth=a037d1d5e4da7b25a82b568b8ed7edc76eb81b0759f8bf5f049acbe558c21dd3&smart=true&width=880&height=495",
+      "pubDate": "2026-08-12T17:49:16.000Z",
+      "emojisString": "📰"
     },
     {
       "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 12 de agosto",
@@ -25,73 +43,55 @@
       "source": "Ámbito",
       "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-12-agosto-n6309798",
       "image": "https://media.ambito.com/p/986825a022020c83c343901b57867707/adjuntos/239/imagenes/042/979/0042979358/mercados-finanzas-vivo-acciones-bolsas-inversiones-bonos-dolar-tasas-cedears.jpg",
-      "pubDate": "2026-08-12T16:44:00.000Z",
+      "pubDate": "2026-08-12T17:49:00.000Z",
       "emojisString": "💵 💻"
     },
     {
-      "title": "La esposa de Jorge Ferraresi lo designó en un cargo municipal tras la renuncia a la intendencia de Avellaneda",
-      "description": "El exjefe comunal será “jefe de Asesoramiento Institucional”, puesto en el que lo oficializó la actual intendenta Magdalena Sierra; quiere ser candidato a gobernador; la oposición denuncia que cobraría un sueldo de $10.000.000 por mes",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 12 de agosto, minuto a minuto",
+      "description": "La divisa oficial opera a $1515 para la venta en el Banco Nación; el dólar blue cotiza a $1540 para esa operación; qué pasa con el MEP y el CCL",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/la-esposa-de-jorge-ferraresi-lo-designo-en-un-cargo-municipal-tras-la-renuncia-a-la-intendencia-de-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HAJ7VZFQWFCSPO5II2Q2UIU7QY.jfif?auth=1fbb307c9bef9c12aa230f59f180763cbc1bfa4ce9e188642edae72e13712183&smart=true&width=1067&height=710",
-      "pubDate": "2026-08-12T16:43:36.000Z",
-      "emojisString": "🗳️ 💻"
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/36KKQDRO4FFFLC4MZSW44FTLLA.jpg?auth=5d30c391ec7688e0cdbd5a3863b16e8d363be5fa1336fca7524247f26855d15c&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-12T17:47:44.000Z",
+      "emojisString": "💵 💻"
     },
     {
-      "title": "El curioso dilema del PSG campeón con sus arqueros",
-      "description": "El ruso Safonov, el francés Chevalier y ahora el japonés Suzuki. Pese al dominio a nivel europeo, el equipo de Luis Enrique lleva tres mercados consecutivos con movimientos fuertes en un puesto que todavía no encontró estabilidad.",
+      "title": "De figura contra Argentina en el Mundial a compañero de Lautaro Martínez en el Inter de Milán\n",
+      "description": "Djed Spence, uno de los futbolistas más destacados de Inglaterra en la última Copa del Mundo, llega al conjunto Neroazzurri y jugará con el Toro.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/francia/paris-saint-germain-arqueros-dilema-luis-enrique_0_mZilq38Jjf.html",
-      "image": "https://www.ole.com.ar/images/2026/08/12/nqoLHAF-t_1200x630__1.jpg",
-      "pubDate": "2026-08-12T16:41:36.000Z",
-      "emojisString": "📊"
+      "link": "https://www.ole.com.ar/futbol-internacional/italia/figura-vs-argentina-mundial-inglaterra-companero-lautaro-martinez-djed-spence-fichaje-mercado-pases_0_RJL2eHaQl5.html",
+      "image": "https://www.ole.com.ar/images/2026/08/12/8xNybP9Os_1200x630__1.jpg",
+      "pubDate": "2026-08-12T17:45:05.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
-      "title": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
-      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-12T16:41:00.000Z",
-      "emojisString": "🏛️ 💻"
+      "title": "Cita del día de Robin Williams: \"Antes pensaba que lo peor de la vida era terminar solo. No lo es. Lo peor es acabar con gente que te hace sentir solo\"",
+      "description": "Nos recuerda que estar rodeado de gente no es lo mismo que sentirse conectado a ella.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/cita-dia-robin-williams-pensaba-peor-vida-terminar-solo-peor-acabar-gente-hace-sentir-solo_0_hzAFFq6DI3.html",
+      "image": "https://www.clarin.com/img/2020/09/01/LLLYT90N3_1200x630__1.jpg",
+      "pubDate": "2026-08-12T17:32:21.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "Havanna perdió $747 millones en el segundo trimestre y sus ventas cayeron 9,7%",
-      "description": "Entre abril y junio, la venta de Alfajores, Galletitas y Havannets cayó 3,1% en volumen y 4,9% en facturación real. La compañía atribuyó parte del retroceso a la estacionalidad de las exportaciones y al corrimiento de Pascuas.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/negocios/havanna-perdio-747-millones-el-segundo-trimestre-y-sus-ventas-cayeron-97-n6310011",
-      "image": "https://media.ambito.com/p/a723cf484b4c45bcced3db943d8c04f0/adjuntos/239/imagenes/042/582/0042582703/alfajor-havanna-dubai-2jpg.jpg",
-      "pubDate": "2026-08-12T16:40:00.000Z",
+      "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, miércoles 12 de agosto",
+      "description": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-miercoles-12-agosto_0_rjFbVBv8KA.html",
+      "image": "https://www.clarin.com/img/2020/09/07/KwJToH8X1_1200x630__1.jpg",
+      "pubDate": "2026-08-12T17:32:00.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Ronaldinho se mete en la pelea por adquirir el equipo de básquet del Monaco con una oferta millonaria",
-      "description": "El astro brasileño presentó una propuesta para quedarse con el conjunto de la pelota naranja de los Rojiblancos, quienes atraviesan una grave crisis financiera.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/basquet/ronaldinho-se-mete-pelea-as-monaco-oferta-millonaria_0_hyp68TxdTl.html",
-      "image": "https://www.ole.com.ar/images/2026/08/12/JPPgEStKG_1200x630__1.jpg",
-      "pubDate": "2026-08-12T16:35:40.000Z",
-      "emojisString": "🏀 💵 💻"
-    },
-    {
-      "title": "Nonpalidece celebra sus 30 años con un show de 30 canciones y una entrada de 30 mil pesos",
-      "description": "La banda referente del reggae latinoamericano cumple 30 años y lo festeja con una propuesta tan simbólica como concreta: 30 canciones elegidas por sus seguidores y entradas a $30.000. “Seguimos pensando el arte como militancia”, afirmó Néstor Ramljak. Leer más",
+      "title": "Por qué el proyecto de falsas denuncias por violencia de género de Carolina Losada \"desincentiva a buscar ayuda en la justicia”",
+      "description": "La abogada especializada en género, Patricia Sotile explicó: “Lo primero que vemos es que no es un proyecto contra las falsas denuncias, es un proyecto que castiga denunciar”. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cultura/nonpalidece-celebra-sus-30-anos-con-un-show-de-30-canciones-y-una-entrada-de-30-mil-pesos-a42.phtml",
-      "image": "https://fotos.perfil.com/2026/08/12/trim/540/304/nonpalidece-celebra-sus-30-anos-2302852.jpg",
-      "pubDate": "2026-08-12T16:30:00.000Z",
-      "emojisString": "💵 💻 🎵"
-    },
-    {
-      "title": "Ni Palermo ni Recoleta: el barrio porteño donde hay cuatro interesados por cada propiedad en venta",
-      "description": "Un informe reveló cuáles son las zonas de la Ciudad de Buenos Aires donde la demanda inmobiliaria supera a la oferta y qué atributos encarecen el metro cuadrado. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/sociedad/ni-palermo-ni-recoleta-el-barrio-porteno-donde-hay-cuatro-interesados-por-cada-propiedad-en-venta.phtml",
-      "image": "https://fotos.perfil.com/2026/08/12/trim/540/304/barrio-de-colegiales-2303020.jpg",
-      "pubDate": "2026-08-12T16:30:00.000Z",
-      "emojisString": "💻"
+      "link": "https://www.perfil.com/noticias/masperfil/falsas-denuncias-por-violencia-de-genero-este-proyecto-desincentiva-a-quienes-necesitan-buscar-ayuda-en-el-sistema-de-justicia.phtml",
+      "image": "https://fotos.perfil.com/2026/08/12/trim/540/304/violencia-de-genero-2303163.jpg",
+      "pubDate": "2026-08-12T17:31:21.000Z",
+      "emojisString": "⚖️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-12T16:51:05.955Z"
+  "updated": "2026-08-12T17:53:16.254Z"
 }
