@@ -2,40 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "La tercera nominación en La Casa de los Famosos México 2026: alianzas este 12 de agosto en vivo",
-      "description": "Sigue todos los encuentros, peleas, chismes, nominaciones y demás retos del reality de Televisa transmitido 24/7 en ViX+",
+      "title": "Estado de las reservas del agua en los embalses españoles hoy jueves 13 de agosto",
+      "description": "El Ministerio para la Transición Ecológica y el Reto Demográfico ha actualizado su más reciente boletín sobre los estatus de los embalses de agua en España",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/13/la-tercera-nominacion-en-la-casa-de-los-famosos-mexico-2026-alianzas-este-12-de-agosto-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/JOSELIJYGVCEBDOJGPNPH7SIBY.png?auth=1b07dd0236356ceea01a10663b94d48778bfe334665d766133308a41c022d8a1&smart=true&width=2752&height=1536",
-      "pubDate": "2026-08-13T03:36:18.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Atropello masivo en la Feria de la Manzana de Zacatlán deja 11 heridos",
-      "description": "El conductor fue detenido tras arrollar a varios asistentes de la Feria de la Manzana en Zacatlán",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/13/atropello-masivo-en-la-feria-de-la-manzana-de-zacatlan-deja-11-heridos/",
-      "image": "https://www.infobae.com/resizer/v2/UHZOYNTN2NFGRJJSP3XANT2WQU.jpeg?auth=bef474fd1a9bac7ba16d1f9fb2a49512218099bb8bf35b81d99a093d587ac089&smart=true&width=623&height=298",
-      "pubDate": "2026-08-13T03:35:46.000Z",
-      "emojisString": "🚨 💻"
-    },
-    {
-      "title": "Casas sustentables: cuánto cuesta construir con paneles solares en Argentina",
-      "description": "Si bien depende del tamaño de la propiedad y de la energía requerida, la inversión hoy ronda entre los US$2000 y los US$10.000, sin contar baterías",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/propiedades/casas-sustentables-cuanto-cuesta-construir-con-paneles-solares-en-argentina-nid06082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HVLMWDXYSVCYVLTAL2JQBXOHO4.jpg?auth=9d66b350a773569b2a84e217d175deae95263fcbdc726df2e3e43eb147edb4da&smart=true&width=2000&height=1330",
-      "pubDate": "2026-08-13T03:35:39.000Z",
+      "link": "https://www.infobae.com/espana/2026/08/13/estado-de-las-reservas-del-agua-en-los-embalses-espanoles-hoy-jueves-13-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/55GWGNA3P5FU7HG3GDJQXQYQPY.png?auth=840a5ef91692078cdccc658a4cb14f69eb0e9c3ca28fe1d42e116ab4cec04148&smart=true&width=5000&height=3327",
+      "pubDate": "2026-08-13T05:16:10.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Qué es el house hacking: la estrategia de los propietarios para ganar más dinero ",
-      "description": "Es una de las opciones que tienen los dueños para sacar rédito de su propia vivienda al momento de alquilarla por ambientes",
+      "title": "Cotización del euro frente al dólar hoy 13 de agosto",
+      "description": "La cotización de la moneda europea varía constantemente",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/08/13/cotizacion-del-euro-frente-al-dolar-hoy-13-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&smart=true&width=800&height=538",
+      "pubDate": "2026-08-13T05:15:52.000Z",
+      "emojisString": "💵"
+    },
+    {
+      "title": "Transportistas en EEUU que recibieron reembolsos de aranceles están trasladándolos a los clientes",
+      "description": "Transportistas como FedEx y UPS están devolviendo aranceles a clientes tras la anulación de tarifas por la Corte Suprema de EE.UU. en febrero.\nGrandes minoristas, en cambio, planean usar los reembolsos para reducir precios, mientras enfrentan demandas colectivas por aranceles indirectos.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/transportistas-en-eeuu-que-recibieron-reembolsos-de-aranceles-estan-trasladandolos-a-los-clientes_0_1saSQwVZ1d.html",
+      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
+      "pubDate": "2026-08-13T04:50:04.000Z",
+      "emojisString": "🇺🇸"
+    },
+    {
+      "title": "La nueva imagen de la NASA: el telescopio James Webb revela con mayor detalle la Nebulosa del León",
+      "description": "Descubre la nueva imagen de la NASA: el James Webb muestra con mayor detalle la Nebulosa del León, situada a unos 5000 años luz de la Tierra.",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/que-es-el-house-hacking-la-estrategia-de-los-propietarios-para-ganar-mas-dinero-nid08082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/W46W5DNQORD3RG37F5FZUHTM3Y.jpg?auth=4fcc15d7578d0ee79c6b9141456e5450c6fe399428ca9652cee12e7afa0f662c&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-13T03:34:49.000Z",
+      "link": "https://www.lanacion.com.ar/ciencia/la-nueva-imagen-de-la-nasa-el-telescopio-james-webb-revela-con-mayor-detalle-la-nebulosa-del-leon-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/BLCF4IZAT5HEPFNCZTQ4K64DLQ.jpg?auth=bc87d6db21f9130a6bf11322e71eef1c9ec74e50ac362a7214c567757ff0b757&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-13T04:46:00.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Adriana Baravalle es la nueva secretaria de Innovación en reemplazo de Darío Genua",
+      "description": "Así lo pudo confirmar LA NACION de fuentes al tanto; su nombramiento sale por un decreto ya firmado; según fuentes de la Casa Rosada, al jefe de Gabinete se la presentó Martín Migoya, CEO de Globant",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/adriana-baravalle-es-la-nueva-secretaria-de-innovacion-en-reemplazo-del-caputista-dario-genua-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/BSXEEI3PV5B7XIYLIEVELIMPNM.jpg?auth=29c1b160da294249e45d59e4f529575bf47578f182789be217259ef7d80a13dd&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-13T04:32:08.000Z",
       "emojisString": "💻"
+    },
+    {
+      "title": "Rafael Santandreu, psicólogo, sobre el insomnio: “Podemos volver a dormir bien sin pastillas, mediante un entrenamiento mental específico”",
+      "description": "El autor del libro 'Dormir cuando no puedes dormir' alerta de que medir el sueño con relojes inteligentes puede convertirse en una obsesión y acabar siendo una de las causas del insomnio.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/rafael-santandreu-psicologo-insomnio-podemos-volver-dormir-bien-pastillas-mediante-entrenamiento-mental-especifico_0_gqnJWi39Er.html",
+      "image": "https://www.clarin.com/img/2026/08/12/o57vrSZne_1200x630__1.jpg",
+      "pubDate": "2026-08-13T04:28:29.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Diputados se preparan para el pacto Mercosur-Unión Europea y arman un frente común para amigarse con Brasil",
+      "description": "En un plenario clave, los legisladores debatieron cómo proteger a la industria local ante la inminente llegada del acuerdo. En paralelo, frente a los chispazos de Milei con Lula, el diputado Eduardo Valdés confirmó que oficialismo y oposición trabajan juntos en un documento para que regrese el embaj",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/politica/el-congreso-activa-un-frente-diplomatico-propio-empuja-el-tratado-mercosur-ue-y-busca-reconstruir-el-vinculo-roto-con-brasil.phtml",
+      "image": "https://fotos.perfil.com/2026/08/13/trim/540/304/comision-diputados-mercosur-ue-y-conflicto-brasil-2303673.jpg",
+      "pubDate": "2026-08-13T04:11:00.000Z",
+      "emojisString": "🏛️ 💻 🇧🇷"
+    },
+    {
+      "title": "\"¡No, Marruecos no!\": el dilema de qué hacer con los niños no acompañados que llegaron a Ceuta y que España no sabe a quién devolver",
+      "description": "Días después de la irrupción masiva de extranjeros en la ciudad española en el norte de África, cientos de menores no acompañados deambulan por sus calles.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cly9p3lgw6no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d465/live/b9fcee70-96c9-11f1-84b5-a91dca2f15f3.jpg",
+      "pubDate": "2026-08-13T03:48:00.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "La inesperada decisión de Kicillof, Massa y Máximo Kirchner que pone en un gravísimo aprieto a Milei",
+      "description": "El peronismo sorprendió a todos con una jugada estratégica que coloca a Milei en una situación delicadísima. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/politica/la-inesperada-decision-de-kicillof-massa-y-maximo-kirchner-que-pone-en-un-gravisimo-aprieto-a-milei.phtml",
+      "image": "https://fotos.perfil.com/2026/03/07/trim/540/304/070326massakicillofmaximokirchnernag-2198354.jpg",
+      "pubDate": "2026-08-13T03:20:24.000Z",
+      "emojisString": "🏛️"
     },
     {
       "title": "Cambios en el Gabinete: Adriana Baravalle fue designada como secretaria de Innovación, Ciencia y Tecnología de la Nación",
@@ -45,53 +90,8 @@
       "image": "https://media.ambito.com/p/a9ff955217c89828462c4b94dd25d607/adjuntos/239/imagenes/043/579/0043579592/1200x675/smart/adriana-baravalle.png",
       "pubDate": "2026-08-13T03:14:26.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Clima hoy en Esteban Echeverría, Buenos Aires: el pronóstico del tiempo para este jueves 13 agosto de 2026",
-      "description": "El SMN anticipa para este jueves temperaturas entre 5°C y 11°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-esteban-echeverria-buenos-aires-pronostico-tiempo-jueves-13-agosto-2026_0_p6td4wQPM2.html",
-      "image": "https://www.clarin.com/img/2025/04/30/ocaRtzj4M_1200x630__1.jpg",
-      "pubDate": "2026-08-13T03:12:59.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Clima hoy en Embalse, Córdoba: el pronóstico del tiempo para este jueves 13 agosto de 2026",
-      "description": "El SMN anticipa para este jueves temperaturas entre 5°C y 11°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-embalse-cordoba-pronostico-tiempo-jueves-13-agosto-2026_0_JpKVTRIQfF.html",
-      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg",
-      "pubDate": "2026-08-13T03:12:58.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "El 94% de los alumnos llega a sexto grado sin repetir, pero la mitad no alcanza los conocimientos básicos",
-      "description": "El nuevo Índice de Resultados Escolares revela fuertes diferencias entre la permanencia en la escuela y los aprendizajes adquiridos durante la primaria. Córdoba se ubica en el segundo puesto a nivel nacional, con un IRE del 61%, detrás de la Ciudad de Buenos Aires, que alcanza el 67%. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/el-94-de-los-alumnos-llega-a-sexto-grado-sin-repetir-pero-la-mitad-no-alcanza-los-conocimientos-basicos.phtml",
-      "image": "https://fotos.perfil.com/2026/08/12/trim/540/304/casi-el-100-de-los-alumnos-llega-a-sexto-grado-sin-repetir-pero-el-50-no-aprende-2303551.jpg",
-      "pubDate": "2026-08-13T03:01:00.000Z",
-      "emojisString": "💻 📚"
-    },
-    {
-      "title": "Juan Santiago, de Santex: \"Las empresas tienen que entender que la IA por sí sola no va a mejorar sus negocios\"",
-      "description": "El CEO y fundador de la tecnológica Santex tiene una mirada crítica sobre el fenómeno de la inteligencia artificial. Habla de una \"dictadura\" en la velocidad de los cambios y de la necesidad de poner al ser humano en el centro de la transformación tecnológica.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/negocios/juan-santiago-las-empresas-tienen-que-entender-que-la-ia-si-sola-no-va-mejorar-sus-n6310038",
-      "image": "https://media.ambito.com/p/b413c48ec8e019154cdbd663f8c33d87/adjuntos/239/imagenes/043/578/0043578219/1200x675/smart/juan-santiago-santex-3.jpg",
-      "pubDate": "2026-08-13T03:00:00.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Para cerrar el estadio: el espectacular golazo en Cruzeiro vs Flamengo por la Copa Libertadores",
-      "description": "Keny Arroyo hizo pasar de largo a un defensor y la clavó al ángulo. Mirá el video.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/video-golazo-cruzeiro-flamengo-copa-libertadores_0_j3QWL5tdrL.html",
-      "image": "https://www.ole.com.ar/images/2026/08/12/b9HnLmU4f_1200x630__1.jpg",
-      "pubDate": "2026-08-13T02:01:11.000Z",
-      "emojisString": "⚽"
     }
   ],
   "count": 10,
-  "updated": "2026-08-13T03:37:45.453Z"
+  "updated": "2026-08-13T05:21:48.547Z"
 }
