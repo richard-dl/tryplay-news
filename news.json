@@ -2,40 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Prepárese antes de salir: Este es el pronóstico del clima en Valencia este 15 de agosto",
-      "description": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+      "title": "Un dogo argentino tiró al piso a una jubilada con bastón, el dueño del perro falleció antes de la condena y su heredera deberá pagar $20 millones",
+      "description": "Ocurrió en Vicente López en 2022. El animal se abalanzó sobre la mujer y le provocó una fractura. Aunque la causa penal por lesiones se archivó en 2024 tras el fallecimiento del demandado, la Justicia civil condenó a su sucesora y a la aseguradora a afrontar la indemnización",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/2026/08/15/preparese-antes-de-salir-este-es-el-pronostico-del-clima-en-valencia-este-15-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/XW2EASZJSJFPTL4AW32U4U3FLA.png?auth=4208b117b9f7319fe4651ea425ad4071dd076b89adc5b485a8fc406475e05121&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-15T03:20:52.000Z",
+      "link": "https://www.infobae.com/judiciales/2026/08/15/un-dogo-argentino-tiro-al-piso-a-una-jubilada-con-baston-el-dueno-del-perro-fallecio-antes-de-la-condena-y-su-heredera-debera-pagar-20-millones/",
+      "image": "https://www.infobae.com/resizer/v2/KJLTMWPVIZHM7LQQQ5AYLQTAZY.jpg?auth=6e81b4f2105e783fc9b20888902396a6fc8cdac0e1f9dbc92bf88bd0d28ade03&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-15T03:57:27.000Z",
+      "emojisString": "⚖️ 💻"
+    },
+    {
+      "title": "Estancias, millones y aviones: la lista bienes del decomiso de Lázaro Báez por sus condenas en Ruta del dinero y Vialidad",
+      "description": "La Justicia continúa revisando propiedades y activos para remitirlos a la Corte Suprema, tras quedar firmes las sentencias por lavado y defraudación al Estado",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/judiciales/2026/08/15/estancias-millones-y-aviones-la-lista-bienes-del-decomiso-de-lazaro-baez-por-sus-condenas-en-ruta-del-dinero-y-vialidad/",
+      "image": "https://www.infobae.com/resizer/v2/53X5ZJXJZJBIPNS5K2CUN5ZJV4.jpg?auth=feb1f13efbec1f4b5f84ab76fe8ef9a4ae817d9bdafa17d15263ad9a558069a3&smart=true&width=1920&height=1079",
+      "pubDate": "2026-08-15T03:56:52.000Z",
+      "emojisString": "⚖️ 💻 🚗"
+    },
+    {
+      "title": "LN WEEK 2da. edición: conocé todos los beneficios y promociones para ahorrar, informarte y resolver tus comidas en la semana",
+      "description": "Hasta el 21 de agosto, estará vigente la 2da. edición LN WEEK; habrá promociones especiales para acceder a LA NACION, Club LA NACION y Foodit; una oportunidad única para mantenerte actualizado con noticias, beneficios y el mejor contenido gastronómico",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/salud/ln-week-2da-edicion-conoce-todos-los-beneficios-y-promociones-para-ahorrar-informarte-y-resolver-tus-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/UEUIRX7BUJGHFJUS5Y4G2JTZIM.jpg?auth=29fad47825c457e1573930edae26837bd2aa4d8d08a04ebded8fbf7de741a04c&smart=true&width=1174&height=880",
+      "pubDate": "2026-08-15T03:50:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "La tapa del Diario PERFIL del sábado 15 de agosto de 2026",
+      "description": "Los principales títulos de la edición 2.164. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/actualidad/la-tapa-del-diario-perfil-del-sabado-15-de-agosto-de-2026.phtml",
+      "image": "https://fotos.perfil.com/2026/08/15/trim/540/304/la-tapa-del-diario-perfil-del-sabado-15-de-agosto-de-2026-2305228.jpg",
+      "pubDate": "2026-08-15T03:40:30.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Estados Unidos y China llevan su guerra a Vaca Muerta, la Hidrovía y la Patagonia",
+      "description": "La disputa entre Washington y Beijing por la influencia tecnológica mundial ingresó de lleno en el país. Huawei quedó en el centro de la controversia por su participación en proyectos de CALF en Neuquén, mientras EE.UU. reclama “redes de confianza” para proteger los datos vinculados con Vaca Muerta.",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/columnistas/estados-unidos-y-china-llevan-su-guerra-a-vaca-muerta-la-hidrovia-y-la-patagonia-por-carlos-burgueno.phtml",
+      "image": "https://fotos.perfil.com/2026/08/15/trim/540/304/150826guerrerostemesg-2305235.jpg",
+      "pubDate": "2026-08-15T03:40:17.000Z",
+      "emojisString": "⚽ 💻 💥"
+    },
+    {
+      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este sábado 15 agosto de 2026",
+      "description": "El SMN anticipa para este sábado temperaturas entre 11°C y 15°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-sabado-15-agosto-2026_0_nXIwKzMful.html",
+      "image": "https://www.clarin.com/img/2025/04/30/ceMHVSe3W_1200x630__1.jpg",
+      "pubDate": "2026-08-15T03:40:01.000Z",
       "emojisString": "💻 🌤️"
     },
     {
-      "title": "Clima: temperatura y probabilidad de lluvia para Puerto Vallarta este 15 de agosto",
-      "description": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/15/clima-temperatura-y-probabilidad-de-lluvia-para-puerto-vallarta-este-15-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-15T03:20:31.000Z",
+      "title": "Actualizaciones del Uscis: cuáles son los formularios con más de 180 días que podrían digitalizarse",
+      "description": "Conoce qué cambia con la nueva regla de Uscis sobre e-filing y cuándo la agencia podrá exigir que ciertos formularios migratorios se presenten en línea.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/actualizaciones-del-uscis-cuales-son-los-formularios-con-mas-de-180-dias-que-podrian-digitalizarse-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2FG5RKR7MJAPDDR2UXXOZXD7XA.jpg?auth=93281125156accc348d96513085da084c6aa0a9629d7cf67143770c67e4a1cac&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-15T03:40:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este sábado 15 agosto de 2026",
+      "description": "El pronóstico extendido durante la jornada.\n¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-sabado-15-agosto-2026_0_1fEx7TPrJu.html",
+      "image": "https://www.clarin.com/img/2025/04/30/ceMHVSe3W_1200x630__1.jpg",
+      "pubDate": "2026-08-15T03:39:38.000Z",
       "emojisString": "💻 🌤️"
     },
     {
-      "title": "Un recuerdo para  G.K. Chesterton, autor de una obra inmensa",
-      "description": "",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/ideas/un-recuerdo-para-gk-chesterton-autor-de-una-obra-inmensa-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/WFDVDQRX5NBLFDJOETJITON25Q.jpeg?auth=7f552390edea6beb08cc73d42055331977e72faf61ebcdb0903d95777a152507&smart=true&width=1200&height=722",
-      "pubDate": "2026-08-15T03:15:00.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Milei, frente al fantasma del peronista “digerible”",
-      "description": "El camino a las elecciones ya empezó; no sobra nada y la urgencia empuja a negociar, y acaso a postergar proyectos",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/opinion/milei-frente-al-fantasma-del-peronista-digerible-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HDSXF3KTAZCI7ATQWTZNNNLAZE.jpg?auth=4e1dcdae5b7be85fad290423c11a2683c123ada73803b92a7b75d3479a5a3e8f&smart=true&width=5638&height=3759",
-      "pubDate": "2026-08-15T03:15:00.000Z",
-      "emojisString": "🏛️ 🗳️ 💻"
+      "title": "Los \"buenos términos\" de los barras",
+      "description": "En plenas instalaciones de los clubes, llevaron su presencia amenazante ante los jugadores de San Lorenzo y Racing. Los protagonistas los aceptan, por temor o complacencia.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/opinion/barras-amenazante-buenos-terminos-san-lorenzo-racing_0_FXthuTPuRr.html",
+      "image": "https://www.ole.com.ar/images/2026/08/15/5Cfn9pr_a_1200x630__1.jpg",
+      "pubDate": "2026-08-15T03:36:13.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Vojvoda tras una nueva derrota de Racing: el momento difícil, estar unidos y qué pasó con la barra",
@@ -45,53 +90,8 @@
       "image": "https://www.ole.com.ar/images/2026/08/14/zEPUtfvpz_1200x630__1.jpg",
       "pubDate": "2026-08-15T03:05:15.000Z",
       "emojisString": "📰"
-    },
-    {
-      "title": "Lindor y Jared Young conectan jonrones y Mets vencen a Nacionales por 4-1",
-      "description": "El conjunto de Nueva York superó a Washington 4-1, con jonrones de Lindor y Young, destacando su racha positiva en agosto.\nEl triunfo incluyó el primer éxito de Pintaro en las Grandes Ligas y un salvamento clave de Senga en la novena entrada.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/lindor-y-jared-young-conectan-jonrones-y-mets-vencen-a-nacionales-por-4-1_0_LBxmfn9eGl.html",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg",
-      "pubDate": "2026-08-15T03:00:04.000Z",
-      "emojisString": "🇺🇸"
-    },
-    {
-      "title": "Javier Milei acelera la agenda del segundo semestre y prepara su regreso al Congreso con el Presupuesto 2027",
-      "description": "La economía y la eliminación de las PASO son los objetivos del Gobierno. Para que los proyectos lleguen a destino, la Casa Rosada ya puso en marcha las negociaciones electorales y, en paralelo, conceden proyectos a los aliados. El oficialismo apunta a tener una definición sobre las primarias en dos",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/javier-milei-acelera-la-agenda-del-segundo-semestre-y-prepara-su-regreso-al-congreso-el-presupuesto-2027-n6311034",
-      "image": "https://media.ambito.com/p/bf569c5378b2c44d27aabc69190b64e8/adjuntos/239/imagenes/043/336/0043336773/1200x675/3252x1062:3272x1082/javier-milei-karina-milei-congreso.jpg",
-      "pubDate": "2026-08-15T03:00:00.000Z",
-      "emojisString": "📊 🏛️ 💻"
-    },
-    {
-      "title": "Emprendedores argentinos desarrollaron una plataforma de \"inteligencia comercial\" para potenciar ventas en cadenas y franquicias",
-      "description": "Growalty convierte los datos que genera la interacción con los clientes en acciones comerciales para aumentar la recurrencia, recuperar compradores y fortalecer el vínculo con las marcas. Opera en siete mercados de América latina y Europa.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/negocios/emprendedores-argentinos-desarrollaron-una-plataforma-inteligencia-comercial-potenciar-ventas-cadenas-y-franquicias-n6310989",
-      "image": "https://media.ambito.com/p/5a3e5339652ed9046507117e9ac45517/adjuntos/239/imagenes/041/409/0041409060/1200x675/smart/franquicias.png",
-      "pubDate": "2026-08-15T03:00:00.000Z",
-      "emojisString": "📊 💻"
-    },
-    {
-      "title": "Dan Miró, abogado: “Si tu valija se retrasa, guarda todos los tickets de los gastos que hagas porque podrás reclamarlos”",
-      "description": "La huelga en el aeropuerto de El Prat vuelve a poner el foco en los derechos de los pasajeros ante retrasos, cancelaciones y problemas con el equipaje.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/dan-miro-abogado-maleta-retrasa-guarda-tickets-gastos-hagas-podras-reclamarlos_0_Zp7rJ5xSdG.html",
-      "image": "https://www.clarin.com/img/2026/08/13/XSwRO8DSJ_1200x630__1.jpg",
-      "pubDate": "2026-08-15T02:57:00.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Grecia: evacúan a turistas en barco por los incendios ",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/internacional/grecia-evacuan-a-turistas-en-barco-por-los-incendios.phtml",
-      "image": "https://fotos.perfil.com/2026/08/15/trim/540/304/15082026greciafuegoincendiocedocg-2305217.jpg",
-      "pubDate": "2026-08-15T02:55:00.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-15T03:21:36.391Z"
+  "updated": "2026-08-15T04:02:04.274Z"
 }
