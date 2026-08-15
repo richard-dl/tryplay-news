@@ -2,39 +2,66 @@
   "success": true,
   "data": [
     {
-      "title": "Normalidad en las fronteras españolas de Ceuta y Melilla con Marruecos",
-      "description": "",
+      "title": "Seguros tras terremoto: SURA aclara que damnificados tienen dos años para reclamar",
+      "description": "El presidente de Sura explicó cómo deben actuar quienes tienen pólizas de vivienda, carro, salud o locales comerciales afectados por el sismo",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/15/normalidad-en-las-fronteras-espanolas-de-ceuta-y-melilla-con-marruecos/",
-      "image": null,
-      "pubDate": "2026-08-15T09:16:02.000Z",
+      "link": "https://www.infobae.com/colombia/2026/08/15/seguros-tras-terremoto-sura-aclara-que-damnificados-tienen-dos-anos-para-reclamar/",
+      "image": "https://www.infobae.com/resizer/v2/GVT7JHLYNJCM3AB2Q3WE2LQGME.JPG?auth=86a40540998fcf98dbac8776e515f5178e08ae6d2fd5104e49cce24a417e21b2&smart=true&width=5900&height=3933",
+      "pubDate": "2026-08-15T09:43:39.000Z",
+      "emojisString": "🏛️ 💻 🌊"
+    },
+    {
+      "title": "Abogados en EE.UU. coinciden: los migrantes que deben preocuparse por el ICE en los aeropuertos",
+      "description": "Conoce qué migrantes enfrentan mayor riesgo de detención por ICE en aeropuertos de EE.UU. y qué documentación recomiendan llevar los abogados.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/abogados-en-eeuu-coinciden-los-migrantes-que-deben-preocuparse-por-el-ice-en-los-aeropuertos-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2E6PWEANQRB4PB5LALGNU3ZMCY.jpg?auth=074c180f38e003433675e5fefada161a84dfc31849cd9450e27f4a6dd4c80d94&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-15T09:40:00.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "María Pérez y Paul McGrath consiguen dos oros para España en Marcha en la final de Birmingham con un bonito gesto de Pérez con su competidora y amiga íntima",
-      "description": "La marcha volvió a acudir al rescate de España en un gran evento de atletismo y María Pérez y Paul McGrath se han proclamado campeones en la media maratón en una prueba de nueva inscripción en el programa",
+      "title": "Boca Juniors visita a Platense en Vicente López por la quinta fecha del Torneo Clausura: hora, TV y formaciones",
+      "description": "El Xeneize y el Calamar concentran su mirada en la Copa Libertadores, pero no pueden dejar escapar puntos en el plano local. Desde las 21:15 por TNT Sports",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/deportes/2026/08/15/el-bonito-gesto-de-maria-perez-con-su-competidora-y-amiga-intima-durante-la-final-de-marcha-atletica-del-europeo-de-birmingham/",
-      "image": "https://www.infobae.com/resizer/v2/Q3Z6WWN3XVBSVKOFR5CXSS7UIE.JPG?auth=c369042b18acda87cc04ec30d941e05649933801c6b08d9b57d6395ef6fc546d&smart=true&width=2300&height=1533",
-      "pubDate": "2026-08-15T09:15:57.000Z",
-      "emojisString": "💻"
+      "link": "https://www.infobae.com/deportes/2026/08/15/boca-juniors-visita-a-platense-en-vicente-lopez-por-la-quinta-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
+      "image": "https://www.infobae.com/resizer/v2/V6MLCMDFNNGG5BAWUK3LSVXLTQ.png?auth=60a645049f2625b23b7eca782843ba3eec59eb922b50dfa888cb63a7b084c212&smart=true&width=2752&height=1536",
+      "pubDate": "2026-08-15T09:39:52.000Z",
+      "emojisString": "⚽"
     },
     {
-      "title": "Las inversiones favoritas del mercado tras la temporada de balances",
-      "description": "Los analistas destacan cuáles son las acciones con mayor potencial de suba para los próximos meses",
+      "title": "En Florida: la carretera que cruza 113 millas de océano y se siente como conducir sobre el agua",
+      "description": "Descubre cuánto mide la Overseas Highway de Florida, cuántos puentes cruza y cómo el antiguo ferrocarril dio origen a esta ruta sobre el mar.",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/negocios/las-inversiones-favoritas-del-mercado-tras-la-temporada-de-balances-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/V6GWD4WTT5E2PA5JXWGLQEVHYA.jpg?auth=ac1933342fc8dbe9555bc321dc8566573426b020f2d9a194eed6ee85f2596352&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-15T09:14:00.000Z",
-      "emojisString": "📊 💻"
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/en-florida-la-carretera-que-cruza-113-millas-de-oceano-y-se-siente-como-conducir-sobre-el-agua-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/DAAUDTE5UFGZTOK4N35QL3FKUY.png?auth=848d4b0b09f1d2c0bbeb8770729723f731ae84ff4ced4140fec8018bbae14a3a&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-15T09:31:00.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "No espere, itere",
-      "description": "La verdadera ventaja aparece cuando la tecnología obliga a repensar procesos, capacidades y formas de trabajar",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/negocios/no-espere-itere-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/Z3QCYWVH2VBYBFH35A3D6I3VUA.JPG?auth=0f71db87178647ceeac2e769f484a62556d39aaa377084f1e542a93a6100c7f8&smart=true&width=2000&height=1334",
-      "pubDate": "2026-08-15T09:14:00.000Z",
+      "title": "Con sus lluvias abundantes y olas de calor, El Niño obliga a redefinir las estrategias de manejo",
+      "description": "Se prevén tormentas fuertes y precipitaciones extraordinarias en primavera en algunas regiones del país.\nSu mayor intensidad se hará sentir hacia finales del verano y en el otoño de 2027.\n\n.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/rural/lluvias-abundantes-olas-calor-nino-obliga-redefinir-estrategias-manejo_0_htEzMK1A2A.html",
+      "image": "https://www.clarin.com/img/2023/10/19/hybhWYy-J_1200x630__1.jpg",
+      "pubDate": "2026-08-15T09:14:55.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Fuerte terremoto de magnitud 7,7 sacudió Indonesia: hay 38 muertos",
+      "description": "Un sismo de magnitud 7,7 sacudió la isla de Flores y las autoridades advirtieron sobre la posibilidad de un tsunami, aunque luego se desactivó el alerta. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/internacional/fuerte-terremoto-de-magnitud-77-sacudio-indonesia-y-encendio-la-alerta-por-tsunami.phtml",
+      "image": "https://fotos.perfil.com/2026/08/14/trim/540/304/sismo-indonesia-2305174.png",
+      "pubDate": "2026-08-15T09:12:00.000Z",
+      "emojisString": "💻 🌊 🚗"
+    },
+    {
+      "title": "Terapia para ser el DJ de tu propia playlist ",
+      "description": "",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/buena-vida/terapia-para-ser-el-dj-de-tu-propia-playlist_0_ui9SKixo9t.html",
+      "image": "https://www.clarin.com/img/2023/05/11/c0KYPxorg_1200x630__1.jpg",
+      "pubDate": "2026-08-15T09:03:06.000Z",
       "emojisString": "💻"
     },
     {
@@ -45,24 +72,6 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4688/live/e00be1c0-9840-11f1-947d-d1a5ea77d69a.jpg",
       "pubDate": "2026-08-15T08:52:18.000Z",
       "emojisString": "💻 🌊 🚗"
-    },
-    {
-      "title": "China opta por la soja de EE.UU en vez de la brasileña\n",
-      "description": "El acuerdo entre Trump y Xi Jinping no impide que EE.UU y China compitan permanentemente entre sí.\nChina y EEUU buscan institucionalizar la relación bilateral, lo que parece ser el esbozo de una organización política mundial de rasgos estatales.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/rural/china-opta-soja-eeuu-vez-brasilena_0_j2ncSEdubK.html",
-      "image": "https://www.clarin.com/img/2026/08/12/VRdLTh7iB_1200x630__1.jpg",
-      "pubDate": "2026-08-15T08:39:04.000Z",
-      "emojisString": "⚽ 💻 🇺🇸"
-    },
-    {
-      "title": "¿Qué tienen en común una vaca y un auto de Fórmula 1?",
-      "description": "La lechería ha cambiado mucho más rápido que la imagen que la sociedad tiene de ella. \nPuertas adentro de los tambos, la tecnología permite optimizar la producción y reducir el impacto ambiental.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/rural/comun-vaca-auto-formula-1_0_pC7kPLGjTr.html",
-      "image": "https://www.clarin.com/img/2019/11/21/t526LexU_1200x630__1.jpg",
-      "pubDate": "2026-08-15T08:39:04.000Z",
-      "emojisString": "🏎️ 💻"
     },
     {
       "title": "Clima en Ciudad de Buenos Aires: inestabilidad con lloviznas intermitentes y una máxima de 15°C",
@@ -81,17 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/91e0/live/b48adf40-91ee-11f1-a577-f5d49b610922.jpg",
       "pubDate": "2026-08-15T07:58:22.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "“Hay que ser conscientes de nuestra propia sombra”",
-      "description": "A días del estreno, Gabriel Calderón habla de Brecht, los intereses que mueven a sus personajes, las instituciones públicas y una obra que, casi un siglo después, vuelve a resultar inquietantemente actual. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/espectaculos/hay-que-ser-conscientes-de-nuestra-propia-sombra.phtml",
-      "image": "https://fotos.perfil.com/2026/08/15/trim/540/304/15082026gabrielcalderonprensagzajuanjobruzzag-2305272.jpg",
-      "pubDate": "2026-08-15T07:54:02.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-15T09:19:18.783Z"
+  "updated": "2026-08-15T09:48:04.128Z"
 }
