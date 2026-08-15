@@ -2,22 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "El incendio de las Landas, en Francia, se ha reactivado y ya ha quemado 1.600 hectáreas",
+      "title": "Denuncias de mala praxis y falta de atención: la Justicia allanó la Clínica Mar del Plata y secuestró historias clínicas",
+      "description": "La Justicia secuestró historias clínicas de tres pacientes en una causa que investiga una muerte y dos denuncias por presunto abandono de persona, en medio del conflicto salarial que atraviesa la institución",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/sociedad/policiales/2026/08/15/denuncias-de-mala-praxis-y-falta-de-atencion-la-justicia-allano-la-clinica-mar-del-plata-y-secuestro-historias-clinicas/",
+      "image": "https://www.infobae.com/resizer/v2/MIKQQ7TFG5EBHBZGG7AZJZQ7C4.jpg?auth=53a39211b23933d662a84be57d88012fbe1c391c2889532236af0dc75c6133fb&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-15T08:15:54.000Z",
+      "emojisString": "⚖️ 💻 💥"
+    },
+    {
+      "title": "Detienen a 14 personas por comercializar perros con amputaciones ilegales de orejas y rabo en toda España",
       "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/15/el-incendio-de-las-landas-en-francia-se-ha-reactivado-y-ya-ha-quemado-1600-hectareas/",
-      "image": null,
-      "pubDate": "2026-08-15T07:46:14.000Z",
+      "link": "https://www.infobae.com/america/agencias/2026/08/15/detienen-a-14-personas-por-comercializar-perros-con-amputaciones-ilegales-de-orejas-y-rabo-en-toda-espana/",
+      "image": "https://www.infobae.com/resizer/v2/GJN5JO5GORDM3MJROA22FU4NVE.jpg?auth=520e7b646eab9559d2dded6bfc121c909a441462f3dedbff944f07342453dd5d&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-15T08:15:54.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Resultado Sinuano Noche hoy 14 de agosto",
-      "description": "Entérese de los detalles de los números seleccionados en esta jornada nocturna",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/08/15/resultado-sinuano-noche-hoy-14-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/H6H7QEJ52BA2XEVYTWT5RA6VLQ.png?auth=2b0e2bcc7839ac505c13c2cb87fe36202e998003f3916c1641f4fa7c4b15c6b7&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-15T07:46:00.000Z",
+      "title": "La semilla, seca y comestible, que cuida y fortalece la masa muscular ",
+      "description": "El nutricionista Diego Sívori visitó los estudios de LN+ para analizar el contenido calórico de algunos alimentos y desterró varios mitos instalados",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/la-semilla-seca-y-comestible-que-cuida-y-fortalece-la-masa-muscular-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HVIYV6JW7FAFVDULD7VKC5WFUY.jpg?auth=bcb0de32bbc762618a3486f79bb57e9c130ff0dc4d5c8e3058d3b603676de12b&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-15T08:00:00.000Z",
       "emojisString": "📰"
+    },
+    {
+      "title": "La ola de protestas que logró frenar la primera granja comercial de pulpos del mundo en España",
+      "description": "Se han abandonado los planes para la primera granja de pulpos del mundo. Mientras tanto, varias naciones y estados de EE.UU. están prohibiendo la cría de pulpos.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c86nv9l6dlwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/91e0/live/b48adf40-91ee-11f1-a577-f5d49b610922.jpg",
+      "pubDate": "2026-08-15T07:58:22.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "El desafío de crear nuevas audiencias",
+      "description": "Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/espectaculos/el-desafio-de-crear-nuevas-audiencias.phtml",
+      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
+      "pubDate": "2026-08-15T07:44:37.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Los herederos Blaquier ganarían una suma millonaria con la subasta de obras maestras",
+      "description": "Cuadros de Van Gogh, Paul Cézanne, Edgar Degas, Camille Pissarro, Pierre-Auguste Renoir que forman parte de la colección de Nelly Arrieta y Carlos Pedro Blaquier podrían dejar de pertenecer a la familia en caso que sus cinco herederos –Charlie, Mimi, Santiago, Jandry e Ignacio–idirectos los rematen.",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/protagonistas/los-herederos-blaquier-ganarian-una-suma-millonaria-con-la-subasta-de-obras-maestras.phtml",
+      "image": "https://fotos.perfil.com/2026/08/15/trim/540/304/15082026blaquiercedocg-2305271.jpg",
+      "pubDate": "2026-08-15T07:40:21.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Florida comenzará a probar “autos voladores” antes de fin de 2026: dónde se harán los vuelos",
@@ -29,12 +65,12 @@
       "emojisString": "💻 🏥"
     },
     {
-      "title": "El actor judicial incomprendido",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/opinion/el-actor-judicial-incomprendido-por-ezequiel-kostenwein.phtml",
-      "image": "https://fotos.perfil.com/2025/06/27/trim/540/304/logo-perfil--2051264.png",
-      "pubDate": "2026-08-15T07:30:15.000Z",
+      "title": "Lara Ferreiro, psicóloga: \"Luis de la Fuente construyó una vida privada estable que es su protección frente al estrés\"\n",
+      "description": "La licenciada pone el foco en el entorno familiar que el seleccionador sostuvo durante años.\nSu manera de gestionar la presión también aparece en la relación que construyó con el vestuario.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/lara-ferreiro-psicologa-luis-fuente-construyo-vida-privada-estable-proteccion-frente-estres_0_vVZTaTrcik.html",
+      "image": "https://www.clarin.com/img/2026/08/10/WpOzH1Utx_1200x630__1.jpg",
+      "pubDate": "2026-08-15T07:31:03.000Z",
       "emojisString": "💻"
     },
     {
@@ -47,33 +83,6 @@
       "emojisString": "💻 🌤️ 🏥"
     },
     {
-      "title": "Condenados por las redes",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/opinion/condenados-por-las-redes-por-nicolas-mendive.phtml",
-      "image": "https://fotos.perfil.com/2025/06/27/trim/540/304/logo-perfil--2051264.png",
-      "pubDate": "2026-08-15T07:28:10.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Un ataque israelí mata a 7 en Líbano, atacan 2 petroleros en Ormuz y más noticias de Oriente Medio",
-      "description": "Un ataque aéreo en Líbano, realizado por Israel, dejó siete fallecidos, destacándose como uno de los más graves desde la tregua con Hezbollah.\nEn el estrecho de Ormuz, dos embarcaciones fueron atacadas, afectando el tránsito marítimo en una zona clave para el comercio energético global.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/un-ataque-israeli-mata-a-7-en-libano-atacan-2-petroleros-en-ormuz-y-mas-noticias-de-oriente-medio_0_n4TnwvvV0x.html",
-      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
-      "pubDate": "2026-08-15T07:20:08.000Z",
-      "emojisString": "💻 💥"
-    },
-    {
-      "title": "Conrado Estol, neurólogo: “Para mantener la mente activa a los 80 hay que hacer lo mismo que a los 40″ ",
-      "description": "En una entrevista exclusiva para LA NACION, el reconocido neurólogo enumeró los pasos a seguir para envejecer de forma saludable; advirtió sobre la necesidad de abandonar el concepto tradicional de vejez",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-para-mantener-la-mente-activa-a-los-80-hay-que-hacer-lo-mismo-que-a-los-40-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/YDOHXNUKQ5CSFC3MT7RYVC7NGI.jpg?auth=2daa04796944198e6bc020fc28227ab7e6a1858c09f0d06363a108feff168bf2&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-15T07:00:00.000Z",
-      "emojisString": "🏥"
-    },
-    {
       "title": "\"La presión y las amenazas no están funcionando\": el dilema de cómo tratar al Talibán para generar un cambio en Afganistán",
       "description": "Cinco años después de que los talibanes regresaran al poder, muchos se preguntan si a Occidente le quedan bazas para negociar.",
       "source": "BBC Mundo",
@@ -81,17 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b87/live/bfbfc780-9848-11f1-a407-098135ee0b7b.jpg",
       "pubDate": "2026-08-15T04:05:29.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Los \"buenos términos\" de los barras",
-      "description": "En plenas instalaciones de los clubes, llevaron su presencia amenazante ante los jugadores de San Lorenzo y Racing. Los protagonistas los aceptan, por temor o complacencia.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/opinion/barras-amenazante-buenos-terminos-san-lorenzo-racing_0_FXthuTPuRr.html",
-      "image": "https://www.ole.com.ar/images/2026/08/15/5Cfn9pr_a_1200x630__1.jpg",
-      "pubDate": "2026-08-15T03:36:13.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-15T07:50:14.068Z"
+  "updated": "2026-08-15T08:19:00.619Z"
 }
