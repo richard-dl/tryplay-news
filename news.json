@@ -2,13 +2,49 @@
   "success": true,
   "data": [
     {
-      "title": "La disyuntiva de hierro del macrismo",
-      "description": "",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/opinion/la-disyuntiva-de-hierro-del-macrismo-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/SKIMZM6YDZCGLHCWWAH3B2RDPY.jpg?auth=964dffff7082813c8b26b89b799540af0f14a8eb29faeb6d8f0f31486b7bdb41&smart=true&width=1200&height=800",
-      "pubDate": "2026-08-15T10:43:52.000Z",
+      "title": "Video: el descontento de los hinchas de Racing luego de la caída ante Banfield",
+      "description": "El equipo que comanda Juan Pablo Vojvoda registró su tercera derrota consecutiva en el Torneo Clausura y recibió la reprobación de su gente en el Cilindro.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/racing/racing-hinchas-banfield-enojo-video-clausura_0_bzNxGuXHPL.html",
+      "image": "https://www.ole.com.ar/images/2026/08/15/84DrpJPck_1200x630__1.jpg",
+      "pubDate": "2026-08-15T11:12:54.000Z",
       "emojisString": "📰"
+    },
+    {
+      "title": "En un duelo clave por la cima de la MLS, el Inter Miami de Messi visitará a Nashville SC: hora, TV y formaciones",
+      "description": "Las Garzas se enfrentarán al líder de la Conferencia Este y podrían quedar como los únicos punteros en caso de ganar. Transmitirá Apple TV desde las 21:30",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/deportes/2026/08/15/en-un-duelo-clave-por-la-cima-de-la-mls-el-inter-miami-de-messi-visitara-a-nashville-sc-hora-tv-y-formaciones/",
+      "image": "https://www.infobae.com/resizer/v2/BGMEND6R7NHLZCCQZCKPLTFBBE.JPG?auth=3a0bf733777f842d12772f0654fb75196485812d522cb2c285f51ed51807c300&smart=true&width=2485&height=1398",
+      "pubDate": "2026-08-15T11:10:12.000Z",
+      "emojisString": "⚽ 💻 📱"
+    },
+    {
+      "title": "Un terremoto de magnitud 7,7 sacudió la costa de Indonesia y disparó una alerta por tsunami",
+      "description": "El sismo tuvo su epicentro en la isla de Flores, al este del país asiático, a una profundidad de 10 kilómetros; las autoridades confirmaron al menos 38 muertes",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/el-mundo/un-terremoto-de-magnitud-77-sacudio-la-costa-de-indonesia-y-disparo-una-alerta-por-tsunami-nid14082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/OZEWFYNMFFHYBJYNC7VX4A2M4A.png?auth=16bc9e2122121b99f8b9728fdad767a1b5be82c305f197e54d99fb8b63b957c2&smart=true&width=1029&height=666",
+      "pubDate": "2026-08-15T11:07:41.000Z",
+      "emojisString": "💻 🌊 🚗"
+    },
+    {
+      "title": "Marruecos frustra un intento de alcanzar Ceuta de cientos de migrantes subsaharianos mientras la zona fronteriza amanece tranquila",
+      "description": "Fuentes de Seguridad marroquíes indicaron a EFE que el incidente se registró en una zona montañosa, en las afueras de Castillejos y al suroeste de Ceuta.",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/08/15/marruecos-frustra-un-intento-de-alcanzar-ceuta-de-cientos-de-migrantes-subsaharianos/",
+      "image": "https://www.infobae.com/resizer/v2/KKPZEHQE25EJJLBES4FRGFKTDA.jpg?auth=ca3c0379227624ff1aac80766028059bf71925f47b1fe44ae1f3d0a3e55c4163&smart=true&width=4030&height=2687",
+      "pubDate": "2026-08-15T11:07:04.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "La pyme familiar que hizo el cambio generacional y encontró del otro lado del mundo un aliado para crecer",
+      "description": "Carolina Serrani y su esposo Leonardo Ruiz se hicieron cargo de la fábrica de implementos rurales de madera que había fundado su padre y hoy ofrece productos de acero galvanizado de una firma australiana",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/economia/campo/ganaderia/la-pyme-familiar-que-hizo-el-cambio-generacional-y-hace-tres-anos-encontro-del-otro-lado-del-mundo-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/BISRW5KL4FFLRFQV3EM3IBBSSE.jpg?auth=3153d4b19ba2bceccdb20d848f7d6c197d7d6cb51889f9d773ebcb68f5262ee2&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-15T10:49:56.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "San Lorenzo recibe a Unión: una final en plena crisis",
@@ -20,57 +56,21 @@
       "emojisString": "💻"
     },
     {
-      "title": "Un sismo de magnitud 5,2 golpeó el sur de España y provocó destrozos en Granada",
-      "description": "El temblor ocurrió de madrugada y su epicentro se ubicó un kilómetro al suroeste de Otura; se reportaron daños en casas y edificios, pero no hubo víctimas fatales",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/el-mundo/un-sismo-de-magnitud-52-golpeo-el-sur-de-espana-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/OXGX2FABB5DJPJUKYJARVOMRP4.png?auth=48383883955b352dfc53be25bc495b2e11b058d42b5823d330031827d98b4101&smart=true&width=1013&height=631",
-      "pubDate": "2026-08-15T10:41:46.000Z",
-      "emojisString": "⚽ 🌊"
-    },
-    {
-      "title": "Meta, TikTok, YouTube y Snap enfrentan juicios en EE. UU. por adicción infantil: qué hay de nuevo",
-      "description": "Una corte federal rechazó la inmunidad de las plataformas digitales y dio vía libre a miles de reclamos por salud mental juvenil. El avance de los litigios expone a las multinacionales tecnológicas a sanciones millonarias y a cambios en el diseño de sus productos",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/estados-unidos/2026/08/15/meta-tiktok-google-youtube-y-snap-enfrentan-juicios-en-ee-uu-por-adiccion-infantil-que-hay-de-nuevo/",
-      "image": "https://www.infobae.com/resizer/v2/BNO57UI7L5BOJK5QYDIGX7DLBI.jpeg?auth=2947ada0e95509f772c4df72cd3761aa1a2e4ef302fa0b563ae3624898590a28&smart=true&width=2816&height=1536",
-      "pubDate": "2026-08-15T10:36:05.000Z",
-      "emojisString": "⚖️ 💻 🏥"
-    },
-    {
-      "title": "La autopista Illia hacia el norte quedó cerrada por obras viales: qué desvíos tomar",
-      "description": "El corte al tránsito se aplicó desde anoche a las 22 hasta mañana al mediodía, en dirección a la provincia de Buenos Aires. Es por el avance de la obra del Paso Bajo Nivel y Anillo Peatonal Pampa",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/sociedad/2026/08/14/la-autopista-illia-hacia-el-norte-quedara-cerrada-desde-esta-noche-por-obras-viales-que-desvios-tomar/",
-      "image": "https://www.infobae.com/resizer/v2/XF3RH4KKTRD2LEVBGTZ6GLBVRE.jpg?auth=340a15e966b6c8cda17bf7e505065fa52d5269c3827726a2dd6317dfc3392cb7&smart=true&width=1920&height=1280",
-      "pubDate": "2026-08-15T10:35:56.000Z",
-      "emojisString": "💻 🚗"
-    },
-    {
-      "title": "Atlético de Madrid oficializó la llegada de Cuti Romero",
-      "description": "El Colchonero llegó a un acuerdo con el Tottenham y sumó al defensor de la Selección Argentina a sus filas hasta 2031.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/espana/cuti-romero-atletico-madrid-refuerzo-tottenham_0_Oke443pgMF.html",
-      "image": "https://www.ole.com.ar/images/2026/08/15/--o_OCkiH_1200x630__1.jpg",
-      "pubDate": "2026-08-15T10:33:43.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Vendió su casa por 112.000 euros para vivir en una autocaravana y teletrabajar; ahora asegura que ahorra hasta 400 euros al mes",
-      "description": "La venta de la casa, la compra del vehículo y el comienzo de los viajes transformaron por completo la forma de vivir de este desarrollador web autónomo francés.",
+      "title": "Dólar hoy en Venezuela: precio y cotización de la divisa este sábado 15 de agosto de 2026",
+      "description": "Mirá la cotización del dólar en Venezuela, su variación y los valores de referencia.\nCómo es la tendencia de la moneda estadounidense en lo que va del año.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/vendio-casa-112000-euros-vivir-autocaravana-teletrabajar-ahora-asegura-ahorra-400-euros-mes_0_908wbRaXQg.html",
-      "image": "https://www.clarin.com/img/2026/08/14/tROn5a_TQ_1200x630__1.jpg",
-      "pubDate": "2026-08-15T10:33:07.000Z",
-      "emojisString": "💻"
+      "link": "https://www.clarin.com/economia/dolar-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-sabado-15-de-agosto-de-2026_0_AcnTtS3wxK.html",
+      "image": "https://www.clarin.com/img/2020/04/23/UIgMX6Usc_1200x630__1.jpg",
+      "pubDate": "2026-08-15T10:40:14.000Z",
+      "emojisString": "💵 💻"
     },
     {
-      "title": "Ethereum hoy: cotización y precio del ETH este sábado 15 de agosto de 2026",
-      "description": "El valor actualizado de la segunda criptomoneda más importante por capitalización.\nOrigen e historia de Ethereum.",
+      "title": "Dólar hoy en Uruguay: precio y cotización de la divisa este sábado 15 de agosto de 2026",
+      "description": "Mirá la cotización del dólar en Uruguay, su variación y los valores de referencia.\nCómo es la tendencia de la moneda estadounidense en lo que va del año.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-sabado-15-de-agosto-de-2026_0_Ufzu5yqDmS.html",
-      "image": "https://www.clarin.com/img/2022/11/09/-fXyWJ1iQ_1200x630__1.jpg",
-      "pubDate": "2026-08-15T10:30:02.000Z",
+      "link": "https://www.clarin.com/economia/dolar-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-sabado-15-de-agosto-de-2026_0_pPu3I2k7Te.html",
+      "image": "https://www.clarin.com/img/2020/03/04/XTskgx7L_1200x630__1.jpg",
+      "pubDate": "2026-08-15T10:40:13.000Z",
       "emojisString": "💵 💻"
     },
     {
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-15T10:45:56.177Z"
+  "updated": "2026-08-15T11:13:41.161Z"
 }
