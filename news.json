@@ -2,21 +2,48 @@
   "success": true,
   "data": [
     {
-      "title": "Denuncias de mala praxis y falta de atención: la Justicia allanó la Clínica Mar del Plata y secuestró historias clínicas",
-      "description": "La Justicia secuestró historias clínicas de tres pacientes en una causa que investiga una muerte y dos denuncias por presunto abandono de persona, en medio del conflicto salarial que atraviesa la institución",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/sociedad/policiales/2026/08/15/denuncias-de-mala-praxis-y-falta-de-atencion-la-justicia-allano-la-clinica-mar-del-plata-y-secuestro-historias-clinicas/",
-      "image": "https://www.infobae.com/resizer/v2/MIKQQ7TFG5EBHBZGG7AZJZQ7C4.jpg?auth=53a39211b23933d662a84be57d88012fbe1c391c2889532236af0dc75c6133fb&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-15T08:15:54.000Z",
-      "emojisString": "⚖️ 💻 💥"
-    },
-    {
-      "title": "Detienen a 14 personas por comercializar perros con amputaciones ilegales de orejas y rabo en toda España",
+      "title": "Marruecos frustra un intento de alcanzar Ceuta de cientos de migrantes subsaharianos",
       "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/15/detienen-a-14-personas-por-comercializar-perros-con-amputaciones-ilegales-de-orejas-y-rabo-en-toda-espana/",
-      "image": "https://www.infobae.com/resizer/v2/GJN5JO5GORDM3MJROA22FU4NVE.jpg?auth=520e7b646eab9559d2dded6bfc121c909a441462f3dedbff944f07342453dd5d&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-15T08:15:54.000Z",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/15/marruecos-frustra-un-intento-de-alcanzar-ceuta-de-cientos-de-migrantes-subsaharianos/",
+      "image": null,
+      "pubDate": "2026-08-15T08:47:17.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Investigan la muerte violenta de un hombre en un domicilio en Málaga",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/15/investigan-la-muerte-violenta-de-un-hombre-en-un-domicilio-en-malaga/",
+      "image": null,
+      "pubDate": "2026-08-15T08:47:00.000Z",
+      "emojisString": "🚗"
+    },
+    {
+      "title": "Tadej Pogačar: \"Cuando era pequeño soñaba con estar en el Tour de Francia, nunca imaginé que ganaría uno, y mucho menos cinco\"",
+      "description": "Alcanzó el récord de cinco consagraciones que compartían Jacques Anquetil, Eddy Merckx, Bernard Hinault y Miguel Induráin.\nConfirmó que intentará llegar a otro hito en la Vuelta a España.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/tadej-pogacar-pequeno-sonaba-tour-francia-imagine-ganaria_0_Z2BgoUNNrS.html",
+      "image": "https://www.clarin.com/img/2026/08/13/4KfbGQuJA_1200x630__1.jpg",
+      "pubDate": "2026-08-15T08:33:04.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "El boxeo desembarca en La Cúpula de Flavio Mendoza: una eliminatoria mundialista y seis peleas con títulos en juego",
+      "description": "El moderno recinto inaugurado en el Casino de Buenos Aires recibirá este sábado el Festival Nocaut a las Drogas de la AMB.\nMaximiliano Robledo enfrentará al invicto ghanés John Laryea en busca de acercarse a un combate por el título mundial pluma.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/deportes/boxeo-desembarca-cupula-flavio-mendoza-eliminatoria-mundialista-peleas-titulos-juego_0_cQKKhUVWbZ.html",
+      "image": "https://www.clarin.com/img/2026/08/12/dL05p_2V6_1200x630__1.jpg",
+      "pubDate": "2026-08-15T08:31:03.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Los autos que no pasan la inspección del DMV en Nueva York si no cambian el airbag: reparación y remolque son gratis",
+      "description": "Conoce qué autos no pueden pasar la inspección del DMV en Nueva York por airbags Takata y cómo acceder a reparación y remolque gratuitos.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/los-autos-que-no-pasan-la-inspeccion-del-dmv-en-nueva-york-si-no-cambian-el-airbag-reparacion-y-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/TFH5IR5DSRBDFHKRGLR5UP2DQY.jpg?auth=25b156a3cba0d6f88e39c1b12103f59dcc3e22069fa57107c16d1f44c6dda634&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-15T08:25:00.000Z",
       "emojisString": "💻"
     },
     {
@@ -29,6 +56,15 @@
       "emojisString": "📰"
     },
     {
+      "title": "Clima en Ciudad de Buenos Aires: inestabilidad con lloviznas intermitentes y una máxima de 15°C",
+      "description": "El pronóstico para la Ciudad de Buenos Aires y el AMBA prevé una jornada marcada por la humedad elevada y lloviznas dispersas que impactarán en la rutina del fin de semana. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/clima/clima-en-ciudad-de-buenos-aires-inestabilidad-con-lloviznas-intermitentes-y-una-maxima-de-15c.phtml",
+      "image": "https://fotos.perfil.com/2026/06/11/trim/540/304/clima-buenos-aires-2259398.jpg",
+      "pubDate": "2026-08-15T08:00:00.000Z",
+      "emojisString": "🌤️"
+    },
+    {
       "title": "La ola de protestas que logró frenar la primera granja comercial de pulpos del mundo en España",
       "description": "Se han abandonado los planes para la primera granja de pulpos del mundo. Mientras tanto, varias naciones y estados de EE.UU. están prohibiendo la cría de pulpos.",
       "source": "BBC Mundo",
@@ -38,49 +74,13 @@
       "emojisString": "💻"
     },
     {
-      "title": "El desafío de crear nuevas audiencias",
-      "description": "Leer más",
+      "title": "“Hay que ser conscientes de nuestra propia sombra”",
+      "description": "A días del estreno, Gabriel Calderón habla de Brecht, los intereses que mueven a sus personajes, las instituciones públicas y una obra que, casi un siglo después, vuelve a resultar inquietantemente actual. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/espectaculos/el-desafio-de-crear-nuevas-audiencias.phtml",
-      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
-      "pubDate": "2026-08-15T07:44:37.000Z",
+      "link": "https://www.perfil.com/noticias/espectaculos/hay-que-ser-conscientes-de-nuestra-propia-sombra.phtml",
+      "image": "https://fotos.perfil.com/2026/08/15/trim/540/304/15082026gabrielcalderonprensagzajuanjobruzzag-2305272.jpg",
+      "pubDate": "2026-08-15T07:54:02.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Los herederos Blaquier ganarían una suma millonaria con la subasta de obras maestras",
-      "description": "Cuadros de Van Gogh, Paul Cézanne, Edgar Degas, Camille Pissarro, Pierre-Auguste Renoir que forman parte de la colección de Nelly Arrieta y Carlos Pedro Blaquier podrían dejar de pertenecer a la familia en caso que sus cinco herederos –Charlie, Mimi, Santiago, Jandry e Ignacio–idirectos los rematen.",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/protagonistas/los-herederos-blaquier-ganarian-una-suma-millonaria-con-la-subasta-de-obras-maestras.phtml",
-      "image": "https://fotos.perfil.com/2026/08/15/trim/540/304/15082026blaquiercedocg-2305271.jpg",
-      "pubDate": "2026-08-15T07:40:21.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Florida comenzará a probar “autos voladores” antes de fin de 2026: dónde se harán los vuelos",
-      "description": "Descubre dónde Florida probará autos voladores antes de fin de 2026 y cómo el plan apunta a taxis aéreos y transporte médico de urgencia.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/florida/florida-comenzara-a-probar-autos-voladores-antes-de-fin-de-2026-donde-se-haran-los-vuelos-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/KEDGUCBMSBH2BFNZKLOTKQLEIE.jpg?auth=02e8e73215476c6ea5da9121710a8d9893ff82e3ad614b8a85804cdfabab08d8&smart=true&width=2159&height=1439",
-      "pubDate": "2026-08-15T07:35:00.000Z",
-      "emojisString": "💻 🏥"
-    },
-    {
-      "title": "Lara Ferreiro, psicóloga: \"Luis de la Fuente construyó una vida privada estable que es su protección frente al estrés\"\n",
-      "description": "La licenciada pone el foco en el entorno familiar que el seleccionador sostuvo durante años.\nSu manera de gestionar la presión también aparece en la relación que construyó con el vestuario.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/lara-ferreiro-psicologa-luis-fuente-construyo-vida-privada-estable-proteccion-frente-estres_0_vVZTaTrcik.html",
-      "image": "https://www.clarin.com/img/2026/08/10/WpOzH1Utx_1200x630__1.jpg",
-      "pubDate": "2026-08-15T07:31:03.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Harry Hospitalier, experto en eficiencia energética: “Este verano, la gente prefiere ventiladores de techo con motor DC porque consumen menos y son más silenciosos”",
-      "description": "Frente al calor, cada vez se valoran más las soluciones que permiten mantener la casa fresca sin depender tanto del aire acondicionado ni disparar el consumo eléctrico.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/harry-hospitalier-experto-eficiencia-energetica-verano-gente-prefiere-ventiladores-techo-motor-dc-consumen-silenciosos_0_OI19gwNkWW.html",
-      "image": "https://www.clarin.com/img/2026/08/14/XF2h-byiX_1200x630__1.jpg",
-      "pubDate": "2026-08-15T07:29:03.000Z",
-      "emojisString": "💻 🌤️ 🏥"
     },
     {
       "title": "\"La presión y las amenazas no están funcionando\": el dilema de cómo tratar al Talibán para generar un cambio en Afganistán",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-15T08:19:00.619Z"
+  "updated": "2026-08-15T08:53:18.283Z"
 }
