@@ -2,22 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "¿Qué pasa si cae un rayo en un avión? Un piloto responde",
-      "description": "Tomás, comandante de avión, asegura que es el transporte más seguro del mundo y el miedo de algunos pasajeros viene de no entender lo que pasa a bordo",
+      "title": "Santander cierra esta semana la compra de Webster para crecer en Estados Unidos",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/2026/08/16/que-pasa-si-cae-un-rayo-en-un-avion-un-piloto-responde/",
-      "image": "https://www.infobae.com/resizer/v2/UJEE7PAEL5H5PDVQZSJEZ46KCY.jpg?auth=3d393ab747eea42cd1b38272489628f5f84767bc7d97bd25e3f4938e8530aa6c&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-16T07:53:26.000Z",
+      "link": "https://www.infobae.com/america/agencias/2026/08/16/santander-cierra-esta-semana-la-compra-de-webster-para-crecer-en-estados-unidos/",
+      "image": "https://www.infobae.com/resizer/v2/FEUUV4J4RFDSJCJS3RMMRUBNAI.jpg?auth=24d3be88ea9659e28987f21084ee912d2c8238448fb4eba8d1c62abe34adf512&smart=true&width=1920&height=1280",
+      "pubDate": "2026-08-16T08:30:56.000Z",
+      "emojisString": "🇺🇸"
+    },
+    {
+      "title": "Triplex de la Once: jugada ganadora y resultado del sorteo 1",
+      "description": "Con las loterías de Juegos Once no solo tienes la opción de ganar varios euros en premios, sino que parte del dinero recaudado se destina a beneficios sociales",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/08/16/triplex-de-la-once-jugada-ganadora-y-resultado-del-sorteo-1/",
+      "image": "https://www.infobae.com/resizer/v2/MD4AYR437JHUZJ4UDXSNC7SWOQ.jpg?auth=9373ada40c7889ac1110ad60d61ff114d610a3b3b30cb27ace0b1bcc93c7aead&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-16T08:30:52.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Créditos hipotecarios: el Gobierno busca la forma de activar la financiación para la compra de propiedades",
+      "description": "Tras la recuperación de 2024, los desembolsos perdieron fuerza; Caputo analiza usar recursos del FGS para resolver la falta de fondeo de largo plazo",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-el-gobierno-busca-la-forma-de-activar-la-financiacion-para-la-compra-de-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/RKATJ2MSZRFYTGXI42AXSOXILY.JPG?auth=4d81495f429a9dcd5ad09b4de31739098356505f8e88caf66a93de45369738fe&smart=true&width=8192&height=5464",
+      "pubDate": "2026-08-16T08:12:00.000Z",
+      "emojisString": "💵 🏛️ 💻"
+    },
+    {
+      "title": "Cruce de datos y detección de fraudes migratorios: el trasfondo de seguridad detrás de la digitalización del Uscis",
+      "description": "Descubre cómo la digitalización del Uscis refuerza controles de seguridad y facilita la detección de fraudes en solicitudes migratorias.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/cruce-de-datos-y-deteccion-de-fraudes-el-trasfondo-de-seguridad-detras-de-la-digitalizacion-del-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/PIFX4PIWC5ASHDMVBTSSWYYTCQ.jpg?auth=d97b3316d7e04757408ef6a582dbcab42ebfd1723604b6ad77c2ca7450c0ad81&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-16T08:11:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
+      "description": "A medida que Japón depende cada vez más de los trabajadores extranjeros, también se enfrenta al reto de cómo integrar nuevas culturas y religiones.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cn4n1522kygo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d861/live/94358a00-89a2-11f1-a7ab-8b30adf0800a.jpg",
+      "pubDate": "2026-08-16T08:01:58.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Manzanedo de Valdueza (León) amanece de luto por la muerte de dos vecinas en la riada",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/16/manzanedo-de-valdueza-leon-amanece-de-luto-por-la-muerte-de-dos-vecinas-en-la-riada/",
-      "image": null,
-      "pubDate": "2026-08-16T07:47:52.000Z",
-      "emojisString": "💻 🚗"
+      "title": "Mariana, cuidadora venezolana en España: \"En mi país era maestra, ganaba 500 dólares al mes, aquí gano 1.400 euros en 8 horas y no tengo que trabajar en mi casa\"",
+      "description": "Una maestra venezolana dejó su profesión y emigró a España en busca de mejores oportunidades.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/mariana-cuidadora-venezolana-espana-pais-maestra-ganaba-500-dolares-mes-gano-1400-euros-8-horas-trabajar-casa_0_DkNzEAIIWx.html",
+      "image": "https://www.clarin.com/img/2026/08/14/8aGDQK3ww_1200x630__1.jpg",
+      "pubDate": "2026-08-16T08:01:19.000Z",
+      "emojisString": "💵 💻"
     },
     {
       "title": "Organizaciones sanitarias alertan por la flexibilización del vapeo",
@@ -38,40 +74,13 @@
       "emojisString": "⚽ 💻 📚"
     },
     {
-      "title": "La FIFA difundió la Ref Cam de la final del Mundial: de los reclamos de Enzo Fernández y Messi al gol de España",
-      "description": "La casa madre del fútbol publicó la grabación de la cámara que portó el árbitro esloveno Slavko Vinčić en el partido decisivo de la última Copa del Mundo",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-difundio-la-ref-cam-de-la-final-del-mundial-de-los-reclamos-de-enzo-fernandez-y-messi-al-gol-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/AE2SELFG6VGB3EG7MMJXVKZISE.png?auth=9e59b91741f48aa7bf4aa88bd25ffbf641d44b4fa79bee9bb05b5146d4263800&smart=true&width=1059&height=704",
-      "pubDate": "2026-08-16T07:28:21.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Jugadores de Patronato fueron agredidos por sus hinchas tras haber perdido contra Colón de Santa Fe",
-      "description": "El plantel del conjunto lleva 11 partidos sin conocer la victoria y está penúltimo en el Grupo B de la Primera Nacional",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/jugadores-de-patronato-fueron-agredidos-por-sus-hinchas-tras-haber-perdido-contra-colon-de-santa-fe-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/N26TYZI4VZHTDIWISIHCJUSHNM.jpg?auth=93f61871bc5a906dfe3e12bf9700cc93a6313019913b7cff76bd5a2e774dd716&smart=true&width=1200&height=900",
-      "pubDate": "2026-08-16T07:03:17.000Z",
+      "title": "Valentina, 26 años, vive en Finlandia: “Aquí es muy común comer carne de reno, aunque sea un animal muy representativo. Yo no la he probado porque soy vegetariana, pero dicen que está muy buena”",
+      "description": "Valentina es una de las elfas traviesas y alegres que transforman la ilusión de las más de más de 500.000 turistas que viajan cada año a Laponia, en Finlandia, para visitar a Papá Noel.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/valentina-26-anos-vive-finlandia-comun-comer-carne-reno-animal-representativo-probado-vegetariana-dicen-buena_0_zYR7nlhaBI.html",
+      "image": "https://www.clarin.com/img/2026/08/15/_GZZbeapy_1200x630__1.jpg",
+      "pubDate": "2026-08-16T07:29:19.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Qué significa el proverbio chino: \"La gema no se puede pulir sin fricción, ni el hombre perfeccionarse sin pruebas\"",
-      "description": "La frase que habla del valor formativo de las dificultades.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/significa-proverbio-chino-gema-puede-pulir-friccion-hombre-perfeccionarse-pruebas_0_0uaB4SMPv7.html",
-      "image": "https://www.clarin.com/img/2026/07/10/FCGP-78l3_1200x630__1.jpg",
-      "pubDate": "2026-08-16T07:01:19.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Sun Tzu, filósofo chino: \"Si haces que los adversarios no sepan el lugar y la fecha de la batalla, siempre puedes vencer\"",
-      "description": "El estratega y pensador de la antigua China reflexiona sobre la incertidumbre y el valor de la información.\nEl desafío de la imprevisibilidad en una sociedad hiperconectada.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/sun-tzu-filosofo-chino-haces-adversarios-sepan-lugar-fecha-batalla-siempre-puedes-vencer_0_luPeHyDfGR.html",
-      "image": "https://www.clarin.com/img/2026/08/15/_wzsB3Fg2_1200x630__1.jpg",
-      "pubDate": "2026-08-16T07:01:19.000Z",
-      "emojisString": "🇨🇳"
     },
     {
       "title": "Del pacto con Mauricio Macri a la unidad del PJ: el tablero de 2027 empieza a tomar color",
@@ -81,17 +90,8 @@
       "image": "https://media.ambito.com/p/061eccdd124966ce90c4e79f42283abc/adjuntos/239/imagenes/041/182/0041182009/milei-macrijpg.jpg",
       "pubDate": "2026-08-16T03:00:00.000Z",
       "emojisString": "🏛️"
-    },
-    {
-      "title": "Empresas al límite: ya se iniciaron 153 procedimientos preventivos de crisis en lo que va del año",
-      "description": "Son datos oficiales obtenidos a través de un pedido de acceso a la información pública realizado por Ámbito, que la Secretaría de Trabajo respondió de manera parcial.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/economia/empresas-al-limite-ya-se-iniciaron-153-procedimientos-preventivos-crisis-lo-que-va-del-ano-n6311163",
-      "image": "https://media.ambito.com/p/249ace8d07422465399ef5c73ea570ff/adjuntos/239/imagenes/042/115/0042115609/1200x675/smart/empresas-crisis.png",
-      "pubDate": "2026-08-16T03:00:00.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-16T08:00:53.612Z"
+  "updated": "2026-08-16T08:45:09.666Z"
 }
