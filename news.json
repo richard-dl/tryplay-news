@@ -2,67 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "La destrucción de fuego, en imágenes: el incendio de Niebla (Huelva) está estabilizado, pero el de Las Peñas de Riglos (Huesca) sigue descontrolado con mil vecinos desalojados",
-      "description": "Las llamas han afectado 38.000 hectáreas en Andalucía antes de estar bajo el control de los servicios de extinción mientras que en Aragón han calcinado, al menos, 15.000",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/2026/08/16/la-destruccion-de-fuego-en-imagenes-el-incendio-de-niebla-huelva-esta-estabilizado-pero-el-de-las-penas-de-riglos-huesca-sigue-descontrolado-con-mil-vecinos-desalojados/",
-      "image": "https://www.infobae.com/resizer/v2/MS4JS2MMHBGTDLTVOZL42KCOE4.jpg?auth=521f3265ba89b4fe73a003472cec1279c50a51006df9ef39d20eb8185fa53b02&smart=true&width=1280&height=854",
-      "pubDate": "2026-08-16T09:51:34.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "El mapa de peligrosidad de Estados Unidos sobre España que la sitúa por encima de Senegal: recomienda extremar la precaución en Ceuta y alerta por terrorismo",
-      "description": "El presidente estadounidense utilizó la tragedia en el enclave español para atacar a Europa y reivindicar su política de deportaciones masivas",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/2026/08/16/el-mapa-de-peligrosidad-de-estados-unidos-sobre-espana-recomienda-maxima-precaucion-en-ceuta-y-situa-su-nivel-al-mismo-que-senegal/",
-      "image": "https://www.infobae.com/resizer/v2/WD65UO3YE5BMFENW6XBG33IEQM.jpg?auth=11f0861b79d60592254b8a88804b8701944ee6058fc3ff82fad8491a9fd814cb&smart=true&width=1920&height=1280",
-      "pubDate": "2026-08-16T09:48:54.000Z",
-      "emojisString": "🏛️ 💻 🇺🇸"
-    },
-    {
-      "title": "Por qué la sexualidad en la vejez es un tema poco aceptado",
-      "description": "La cultura enseñó que a partir de cierta edad el cuerpo deja de ser territorio de placer. \n¿Por qué se desexualiza por completo a los adultos mayores, como si el deseo fuera patrimonio solo de cuerpos firmes?\nUna mirada abarcativa sobre un tema tabú.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/viva/sexualidad-vejez-tema-aceptado_0_ww5QbvnQEj.html",
-      "image": "https://www.clarin.com/img/2023/03/23/DxWS5UHXL_1200x630__1.jpg",
-      "pubDate": "2026-08-16T09:07:22.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Miles de migrantes perderán Medicaid el 1º de octubre en Illinois, pero algunos conservarán la cobertura",
-      "description": "Illinois excluye a miles de migrantes del Medicaid el 1.° de octubre, pero menores de 19 años y ciertos grupos conservan la cobertura médica.",
+      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 16 de agosto",
+      "description": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/miles-de-migrantes-perderan-medicaid-el-1-de-octubre-en-illinois-pero-algunos-conservaran-la-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/E5ZOH5PZ6JE3ZGBKMS22Y27IDM.jpg?auth=012bd3057d0f26e67157853472ad0824808952c9ddeb11df032d1e2da8a2bbaa&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-16T09:06:00.000Z",
-      "emojisString": "🏥"
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-16-de-agosto-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/LFKLDTX2ERDPXINOXQIY2DDNQY.JPG?auth=3e956729cebdc63b37a81d4d5f0a85dca849992d542a8c759c9e7c84eca8279e&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-16T10:18:00.000Z",
+      "emojisString": "💵"
     },
     {
-      "title": "Un curioso incidente y muchas lecciones",
-      "description": "",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/opinion/curioso-incidente-muchas-lecciones_0_mCq0WLfTXc.html",
-      "image": "https://www.clarin.com/img/2026/08/15/cWbzhLJCW_1200x630__1.jpg",
-      "pubDate": "2026-08-16T09:03:21.000Z",
-      "emojisString": "📰"
+      "title": "Jalisco: así quedó el precio de la gasolina hoy sábado 15 de agosto",
+      "description": "El precio de los carburantes en el país puede cambiar debido a diversos factores como el valor del dólar en el tipo de cambio, impuestos y la logística para el traslado",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/16/jalisco-asi-quedo-el-precio-de-la-gasolina-hoy-sabado-15-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/6NUTLUQRYVHCBJQ7HUJKEHJVOA.jpg?auth=663a3822d70c158a01430fb0aa7acc996edbf6d7a8bd451eaf579c1a42ae4da2&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-16T10:17:55.000Z",
+      "emojisString": "💵 💻"
     },
     {
-      "title": "Partidos de HOY, domingo 16 de agosto: agenda, horario y por dónde ver fútbol EN VIVO\n",
-      "description": "Un día con todo: hay acción del Torneo Clausura, con River enfrentando a Argentinos Juniors, se define la Community Shield, hay acción de La Liga de España y mucho más. ¡Mirá!",
+      "title": "A hablar en la cancha: River y la reacción que espera ante Argentinos",
+      "description": "Luego de una semana con un control de daños inteligente para remarcar que las tres patas están unidas, River deberá cortar la mala racha ante un entonado Argentinos.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-domingo-16-agosto-horario-ver-futbol-vivo-tv-online-formaciones_0_3UIpsza8yV.html",
-      "image": "https://www.ole.com.ar/images/2026/07/25/cEsuFMzqK_1200x630__1.jpg",
-      "pubDate": "2026-08-16T09:01:21.000Z",
+      "link": "https://www.ole.com.ar/river-plate/river-plate-argentinos-juniors-torneo-clausura_0_FL5tRinYiM.html",
+      "image": "https://www.ole.com.ar/images/2026/08/15/cb28wwMo7_1200x630__1.jpg",
+      "pubDate": "2026-08-16T10:17:53.000Z",
       "emojisString": "⚽"
     },
     {
-      "title": "Las aspiraciones imperialistas de Erdogan y la estrategia que inquieta cada vez más a Occidente",
-      "description": "Apalancada en la figura de Erdogan, Ankara busca establecer una narrativa que la convierta en el eje imprescindible entre Europa, Rusia, el Golfo árabe y África",
+      "title": "¿Cuál es el precio de la gasolina hoy domingo 16 de agosto en Jalisco?",
+      "description": "El precio de los carburantes en el país puede cambiar debido a diversos factores como el valor del dólar en el tipo de cambio, impuestos y la logística para el traslado",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/16/cual-es-el-precio-de-la-gasolina-hoy-domingo-16-de-agosto-en-jalisco/",
+      "image": "https://www.infobae.com/resizer/v2/6NUTLUQRYVHCBJQ7HUJKEHJVOA.jpg?auth=663a3822d70c158a01430fb0aa7acc996edbf6d7a8bd451eaf579c1a42ae4da2&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-16T10:17:38.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Hay alerta amarilla por tormentas, vientos y nevadas para este domingo 16 de agosto: las provincias afectadas",
+      "description": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/el-mundo/las-aspiraciones-imperialistas-de-erdogan-y-la-estrategia-que-inquieta-cada-vez-mas-a-occidente-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/MAV45KQRDBD5DKHVSP2POYUQKU.jpg?auth=73d9afad0757fde328848fbe1f8c1b0b5a3737db604bac7ff2ee23ca4e272a41&smart=true&width=5000&height=3333",
-      "pubDate": "2026-08-16T09:00:01.000Z",
+      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-tormentas-vientos-y-nevadas-para-este-domingo-16-de-agosto-las-provincias-nid15082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/LFEE2SNMDNBIJC3EDE73FLOLPU.png?auth=d72324a66f5b8e2531b39e46bd61c7fb3b5f6533d520155bf48c60078f981e81&smart=true&width=913&height=634",
+      "pubDate": "2026-08-16T10:15:50.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "\"Me hice un escáner que tomó 2.000 fotos de mi cuerpo y aprendí una inesperada lección sobre mi piel\"",
+      "description": "En Reino Unido cada vez más personas se someten a escáneres corporales para detectar enfermedades anticipadamente, pero no todos los médicos confían en los resultados.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c4gk0xj241jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7154/live/5b1506b0-86a0-11f1-a0b6-435e4178a497.png",
+      "pubDate": "2026-08-16T10:06:24.000Z",
+      "emojisString": "🏥"
+    },
+    {
+      "title": "MK Ultra, el programa secreto de la CIA que buscaba controlar la mente humana ",
+      "description": "En un intento por controlar la mente humana, durante dos décadas, la CIA drogó, aisló y sometió a electroshocks a personas sin su consentimiento.\nEl programa nunca consiguió reprogramar a nadie, pero dejó víctimas, muertes y expedientes desaparecidos.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/mk-ultra-programa-secreto-cia-buscaba-controlar-mente-humana_0_fYdVCZTfSY.html",
+      "image": "https://www.clarin.com/img/2026/08/11/raTQt0-AD_1200x630__1.jpg",
+      "pubDate": "2026-08-16T10:01:23.000Z",
+      "emojisString": "💻 🚗"
+    },
+    {
+      "title": "A qué hora juegan Los Leones vs. Japón y dónde ver el partido de hoy EN VIVO por el Mundial de hockey 2026",
+      "description": "Después del empate de Las Leonas, será el turno de que el seleccionado masculino haga su debut en la Copa del Mundo de Países Bajos y Bélgica. Seguilo en Olé.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/hockey/hora-juegan-leones-vs-japon-mundial-hockey-2026-ver-partido-hoy-vivo_0_sWGsDq2IjD.html",
+      "image": "https://www.ole.com.ar/images/2026/08/15/AYcSxzU0__1200x630__1.jpg",
+      "pubDate": "2026-08-16T10:01:23.000Z",
       "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Ona Carbonell, exnadadora olímpica, 36 años: “No sé correr y no tengo el suelo pélvico preparado; camino una hora cuesta arriba y hago yoga y pilates”",
+      "description": "La doble medallista olímpica reivindica más investigación sobre maternidad y deporte tras vivir en primera persona el embarazo durante su carrera.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/ona-carbonell-exnadadora-olimpica-36-anos-correr-suelo-pelvico-preparado-camino-hora-cuesta-arriba-hago-yoga-pilates_0_qfKEfytE0w.html",
+      "image": "https://www.clarin.com/img/2026/08/15/VJzndfkW__1200x630__1.jpg",
+      "pubDate": "2026-08-16T09:31:22.000Z",
+      "emojisString": "🏅"
     },
     {
       "title": "¿Existió Homero? El misterio que rodea al autor de \"La Odisea\"",
@@ -72,26 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4acd/live/4afa90a0-966e-11f1-b2ab-0dd01740f9f6.jpg",
       "pubDate": "2026-08-16T08:56:49.000Z",
       "emojisString": "📰"
-    },
-    {
-      "title": "Las dudas de los gobernadores sobre el desdoblamiento de las elecciones en 2027",
-      "description": "Mientras sigue el debate sobre la conveniencia o no de seguir con las PASO la mayoría de las provincias todavía no definieron si acompañarán la elección nacional o si armarán su propio cronograma para elegir autoridades locales.  Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/politica/las-dudas-de-los-gobernadores-sobre-el-desdoblamiento-de-las-elecciones-en-2027.phtml",
-      "image": "https://fotos.perfil.com/2026/07/11/trim/540/304/milei-gobernadores-tucuman-2280464.jpg",
-      "pubDate": "2026-08-16T08:35:00.000Z",
-      "emojisString": "🗳️ 💻"
-    },
-    {
-      "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
-      "description": "A medida que Japón depende cada vez más de los trabajadores extranjeros, también se enfrenta al reto de cómo integrar nuevas culturas y religiones.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cn4n1522kygo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d861/live/94358a00-89a2-11f1-a7ab-8b30adf0800a.jpg",
-      "pubDate": "2026-08-16T08:01:58.000Z",
-      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-08-16T09:58:11.588Z"
+  "updated": "2026-08-16T10:23:43.088Z"
 }
