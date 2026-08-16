@@ -2,21 +2,48 @@
   "success": true,
   "data": [
     {
-      "title": "Fue una de las máxima promesas del fútbol argentino, lo apodaron el “nuevo Messi” y vive un calvario por sus lesiones",
-      "description": "Pedro de la Vega, que brilló en Lanús antes de irse a jugar a la MLS, no podrá jugar hasta 2027 tras perderse toda la temporada",
+      "title": "Bultos en la lengua: qué los causa y cuándo conviene consultar",
+      "description": "Aunque muchas lesiones son pasajeras y benignas, odontólogos advierten que algunas pueden persistir, doler o señalar un problema de salud que requiere evaluación profesional",
       "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/16/fue-una-de-las-maxima-promesas-del-futbol-argentino-lo-apodaron-el-nuevo-messi-y-vive-un-calvario-por-sus-lesiones/",
-      "image": "https://www.infobae.com/resizer/v2/YHE4CCRTQVCSJDXMDO7JQK44UM.jpg?auth=6b954bb64e426eaf456adbbf1c5ce943ae59d41e368ed71d404dff68ec76141e&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-16T11:08:49.000Z",
+      "link": "https://www.infobae.com/salud/2026/08/16/bultos-en-la-lengua-que-los-causa-y-cuando-conviene-consultar/",
+      "image": "https://www.infobae.com/resizer/v2/G2O6QSTRXBC6RPUCYZGY53UZIU.png?auth=0b91cb9d3eb33eece0b8c011afb63ab6ad21e357402d0580f1106cbd01bc13f6&smart=true&width=2752&height=1536",
+      "pubDate": "2026-08-16T11:28:31.000Z",
+      "emojisString": "🏥"
+    },
+    {
+      "title": "Paliza de los Rayados de Almeyda con tres gritos argentinos",
+      "description": "Monterrey aplastó 6-1 al Juárez y se trepó a lo más alto de la tabla en el fútbol mexicano. Ocampos, Orellano y Corcho Rodríguez anotaron en el equipo del Pelado.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/america/paliza-rayados-monterrey-pelado-matias-almeyda-goles-argentinos_0_iB9K2I31jc.html",
+      "image": "https://www.ole.com.ar/images/2026/08/16/pulrvoQbP_1200x630__1.jpg",
+      "pubDate": "2026-08-16T11:28:04.000Z",
       "emojisString": "⚽"
     },
     {
-      "title": "Tensión entre Irán y Qatar: Teherán acusó a Doha de bloquear la investigación sobre sus tres pilotos presuntamente capturados",
-      "description": "El régimen persa denuncia demoras para autorizar una misión de expertos en el terreno y reclama la liberación de los pilotos. Las autoridades qataríes, no obstante, niegan tener retenidos a los aviadores",
+      "title": "La prensa marroquí afirma que la expulsión de los periodistas de RTVE y EFE fue una medida de “reciprocidad” por las restricciones impuestas por España",
+      "description": "El aparato mediático marroquí niega que sea un ataque a la libertad de prensa",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/mundo/2026/08/16/tension-entre-iran-y-qatar-teheran-acuso-a-doha-de-bloquear-la-investigacion-sobre-sus-tres-pilotos-presuntamente-capturados/",
-      "image": "https://www.infobae.com/resizer/v2/B2KLNLIXSNHL7GJPYREJR7BJ7A.jpg?auth=eb420b0bbc7b0a58edcb3833457eb5277e5aba49adb1a2ca2d191bd1d909d69c&smart=true&width=1920&height=1280",
-      "pubDate": "2026-08-16T11:02:11.000Z",
+      "link": "https://www.infobae.com/espana/2026/08/16/la-prensa-marroqui-afirma-que-la-expulsion-de-los-periodistas-de-rtve-y-efe-fue-una-medida-de-reciprocidad-por-las-restricciones-de-espana/",
+      "image": "https://www.infobae.com/resizer/v2/2GX6VWTQLJEEHBXV4LPWZDOQFE.JPG?auth=a2af3a71d3fadece9d82fd1883974dc1334773148a7ebebcff7287e01a0be4b2&smart=true&width=2892&height=1929",
+      "pubDate": "2026-08-16T11:27:36.000Z",
+      "emojisString": "💥"
+    },
+    {
+      "title": "Santiago Lange, la leyenda del deporte que celebra el oro olímpico que lo transformó: “Ahora lo valoro más”",
+      "description": "Río 2016 marcó para siempre al velista que en su sexto Juego coronó una trayectoria notable, junto a Cecilia Carranza Saroli. El tiempo le permitió tomar dimensión de lo que habían conseguido y lo rememoran",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/vela/santiago-lange-la-leyenda-del-deporte-que-celebra-el-oro-olimpico-que-lo-transformo-ahora-lo-valoro-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/G4T4G4GV5FBSHCHQFZGLJYFRGU.JPG?auth=5fc70fe8502652d3fdbc0ad7650e2f702a21467de34779cb27d0429e93a89e86&smart=true&width=2500&height=1667",
+      "pubDate": "2026-08-16T11:24:43.000Z",
+      "emojisString": "🏅 💻"
+    },
+    {
+      "title": "La ley SB 1332 que aplica una marca obligatoria en las licencias de conducir y la tarjeta de identidad en Florida",
+      "description": "Conoce qué cambia en Florida con la SB 1332: una nueva ley marcará las licencias de los “ofensores de carrera” y reforzará el registro",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/la-ley-sb-1332-que-aplica-una-marca-obligatoria-en-las-licencias-de-conducir-y-la-tarjeta-de-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/45J6Q5UO3VEKPE32CBOFDDC7XY.jpg?auth=29f8e55f23abbd44b03e80aa2268ba4ccde65f83712e26114b458b685e5e18d1&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-16T11:24:00.000Z",
       "emojisString": "💻"
     },
     {
@@ -29,69 +56,42 @@
       "emojisString": "💻"
     },
     {
-      "title": "El DMV de Nueva York advierte por este trámite de la licencia de conducir: el certificado que no aceptará",
-      "description": "Verifica qué certificados no acepta el DMV de Nueva York y cómo encontrar autoescuelas autorizadas tras los cargos contra un operador de Albany.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/el-dmv-de-nueva-york-advierte-por-este-tramite-de-la-licencia-de-conducir-el-certificado-que-no-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/47AL6JZGBZCCTNANN5K6YP2U2U.jpg?auth=23375137e8aa95fa6824699b4c52f5e63939fa958361e07de0138a5e25d79d87&smart=true&width=2000&height=1333",
+      "title": "Moria Casán cumple 80 años: vanguardia, provocación y la invención de un mito viviente",
+      "description": "De la mítica calle Corrientes a una serie en Netflix, Ana María Casanova construyó una carrera sin filtros que desafió los mandatos de época y la transformó en la figura más libre del espectáculo argentino.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/espectaculos/moria-casan-cumple-80-anos-vanguardia-provocacion-y-la-invencion-un-mito-viviente-n6310846",
+      "image": "https://media.ambito.com/p/2105d3a017c543bd3d1ddde34df55dbb/adjuntos/239/imagenes/043/582/0043582674/1200x675/smart/moria-casan.jpg",
       "pubDate": "2026-08-16T11:00:00.000Z",
-      "emojisString": "💻 📚"
+      "emojisString": "💻 🎬"
     },
     {
-      "title": "Funcionaba frente al cementerio de Recoleta: significativa reducción de los embargos de los responsables de un prostíbulo",
-      "description": "Así se dispuso en un reciente fallo de la Cámara Federal que revirtió una medida ordenada por el juez federal Sebastián Casanello",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/seguridad/funcionaba-frente-al-cementerio-de-recoleta-significativa-reduccion-de-los-embargos-de-los-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/VGAVT2KBZRCYZNVRWQUG6VC7Z4.jpg?auth=c5d2eb66154e2db0929dfe8ea513ebe85ca3825b2d4db8b380329fc7847e03b6&smart=true&width=1360&height=910",
-      "pubDate": "2026-08-16T11:00:00.000Z",
-      "emojisString": "⚖️"
-    },
-    {
-      "title": "La \"manguera de la muerte\": la falla técnica que desató la tragedia del fentanilo ",
-      "description": "La Justicia habría establecido el momento exacto en que ocurrió la contaminación. \nLos técnicos y los dueños de HLB Pharma lo supieron. \nPero igual decidieron seguir produciendo la droga.",
+      "title": "Euro hoy en Uruguay: precio y cotización de la divisa este domingo 16 de agosto de 2026",
+      "description": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia.\nCómo es la tendencia de la moneda europea en lo que va del año.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/sociedad/la-manguera-de-la-muerte-la-falla-tecnica-que-desato-la-tragedia-del-fentanilo_0_rwzOLSboL4.html",
-      "image": "https://www.clarin.com/img/2026/03/26/gAEbeD8Cv_1200x630__1.jpg",
-      "pubDate": "2026-08-16T10:35:24.000Z",
-      "emojisString": "⚖️ 💻 🚗"
+      "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-domingo-16-de-agosto-de-2026_0_VQ3nyuy31M.html",
+      "image": "https://www.clarin.com/img/2018/08/29/B1sEYYBv7_1200x630__1.jpg",
+      "pubDate": "2026-08-16T10:45:14.000Z",
+      "emojisString": "💵 💻"
     },
     {
-      "title": "La lección de Lewis Hamilton, siete veces campeón de la Fórmula 1:  \"Sé tú y no olvides quién eres\"",
-      "description": "En una publicación en Instagram, el heptacampeón del mundo reflexionó sobre no olvidar de quiénes somos.\nLo hizo luego de su mala temporada en 2025, en la que no consiguió los objetivos propuestos con la escudería Ferrari.",
+      "title": "Euro hoy en Perú: precio y cotización de la divisa este domingo 16 de agosto de 2026",
+      "description": "Mirá la cotización del euro en Perú, su variación y los valores de referencia.\nCómo es la tendencia de la moneda europea en lo que va del año.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/leccion-lewis-hamilton-veces-campeon-formula-1-olvides_0_V1fdvqTDGe.html",
-      "image": "https://www.clarin.com/img/2026/08/12/CksqZIzDR_1200x630__1.jpg",
-      "pubDate": "2026-08-16T10:31:24.000Z",
-      "emojisString": "🏎️"
+      "link": "https://www.clarin.com/economia/euro-hoy-en-peru-precio-y-cotizacion-de-la-divisa-este-domingo-16-de-agosto-de-2026_0_KUAtHjw430.html",
+      "image": "https://www.clarin.com/img/2020/10/07/V8Hxgsjgi_1200x630__1.jpg",
+      "pubDate": "2026-08-16T10:45:13.000Z",
+      "emojisString": "💵 💻"
     },
     {
-      "title": "A hablar en la cancha: River y la reacción que espera ante Argentinos",
-      "description": "Luego de una semana con un control de daños inteligente para remarcar que las tres patas están unidas, River deberá cortar la mala racha ante un entonado Argentinos.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/river-plate/river-plate-argentinos-juniors-torneo-clausura_0_FL5tRinYiM.html",
-      "image": "https://www.ole.com.ar/images/2026/08/15/cb28wwMo7_1200x630__1.jpg",
-      "pubDate": "2026-08-16T10:17:53.000Z",
-      "emojisString": "⚽"
-    },
-    {
-      "title": "\"Me hice un escáner que tomó 2.000 fotos de mi cuerpo y aprendí una inesperada lección sobre mi piel\"",
-      "description": "En Reino Unido cada vez más personas se someten a escáneres corporales para detectar enfermedades anticipadamente, pero no todos los médicos confían en los resultados.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c4gk0xj241jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7154/live/5b1506b0-86a0-11f1-a0b6-435e4178a497.png",
-      "pubDate": "2026-08-16T10:06:24.000Z",
-      "emojisString": "🏥"
-    },
-    {
-      "title": "Por qué Elvis Presley sigue facturando millones y domina la cultura pop a casi medio siglo de su muerte",
-      "description": "El 16 de agosto de 1977 fallecía en Memphis la estrella que revolucionó la música moderna. Lejos de apagarse con el tiempo, su legado atraviesa un fenómeno de vigencia comercial sin precedentes impulsado por el streaming, el cine y el turismo masivo.\r\n Leer más",
+      "title": "Kicillof insiste con su agenda federal: visitará a Capitanich en Chaco",
+      "description": "El gobernador bonaerense creó el Movimiento Derecho al Futuro y su objetivo es recorrer varias provincias para sumar respaldos a sus intenciones de ser candidato presidencial en 2027 por el peronismo. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/efemerides/por-que-elvis-presley-sigue-facturando-millones-y-domina-la-cultura-pop-a-casi-medio-siglo-de-su-muerte-a50.phtml",
-      "image": "https://fotos.perfil.com/2026/08/14/trim/540/304/elvis-presley-13082026-2304417.jpg",
-      "pubDate": "2026-08-16T10:00:00.000Z",
-      "emojisString": "💻 🎬 🎵"
+      "link": "https://www.perfil.com/noticias/politica/kicillof-inaugura-su-agenda-federal-con-una-visita-a-capitanich-en-chaco.phtml",
+      "image": "https://fotos.perfil.com/2026/07/31/trim/540/304/axel-kicillof-2295128.jpg",
+      "pubDate": "2026-08-16T10:17:00.000Z",
+      "emojisString": "🗳️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-16T11:13:30.080Z"
+  "updated": "2026-08-16T11:34:04.180Z"
 }
