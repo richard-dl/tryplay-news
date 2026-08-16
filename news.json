@@ -2,6 +2,42 @@
   "success": true,
   "data": [
     {
+      "title": "Intento de robo en Neuquén: una mujer encontró a un delincuente en el baño de su casa y lo encerró",
+      "description": "El episodio ocurrió durante la mañana del sábado. El sospechoso, de 35 años, fue demorado y quedó a disposición de la Fiscalía",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/sociedad/policiales/2026/08/16/intento-de-robo-en-neuquen-una-mujer-encontro-a-un-delincuente-en-el-bano-de-su-casa-y-lo-encerro/",
+      "image": "https://www.infobae.com/resizer/v2/TYHLCTTII5CGLPDB6GJGIRCM3A.png?auth=5f1920e738e4c684dc2f51e99d3a325dd80eb0e2fdccbef08d3dca125e449404&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-16T07:35:27.000Z",
+      "emojisString": "⚖️ 🚨"
+    },
+    {
+      "title": "Una veintena de seísmos durante la noche en Granada, la mitad sentidos por la población",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/16/una-veintena-de-seismos-durante-la-noche-en-granada-la-mitad-sentidos-por-la-poblacion/",
+      "image": null,
+      "pubDate": "2026-08-16T07:32:14.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "La FIFA difundió la Ref Cam de la final del Mundial: de los reclamos de Enzo Fernández y Messi al gol de España",
+      "description": "La casa madre del fútbol publicó la grabación de la cámara que portó el árbitro esloveno Slavko Vinčić en el partido decisivo de la última Copa del Mundo",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-fifa-difundio-la-ref-cam-de-la-final-del-mundial-de-los-reclamos-de-enzo-fernandez-y-messi-al-gol-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/AE2SELFG6VGB3EG7MMJXVKZISE.png?auth=9e59b91741f48aa7bf4aa88bd25ffbf641d44b4fa79bee9bb05b5146d4263800&smart=true&width=1059&height=704",
+      "pubDate": "2026-08-16T07:28:21.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Devoto: el hijo de Romina reveló cómo era la relación de sus padres",
+      "description": "Sebastián, uno de los hijos de Romina Calvo y Walter Verón, contó cómo atraviesa la familia las horas posteriores al crimen. Aseguró que había recomendado a sus padres que se separaran, habló de las discusiones por problemas económicos y negó que Pitty La Numeróloga recibiera dinero de su madre.\r\n L",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/policia/devoto-el-hijo-de-romina-revelo-como-era-la-relacion-de-sus-padres.phtml",
+      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/16082026rominacalvocedocg-2305656.jpg",
+      "pubDate": "2026-08-16T07:08:09.000Z",
+      "emojisString": "🗳️ 🚨 💻"
+    },
+    {
       "title": "Jugadores de Patronato fueron agredidos por sus hinchas tras haber perdido contra Colón de Santa Fe",
       "description": "El plantel del conjunto lleva 11 partidos sin conocer la victoria y está penúltimo en el Grupo B de la Primera Nacional",
       "source": "La Nación",
@@ -11,67 +47,31 @@
       "emojisString": "💻"
     },
     {
-      "title": "La campaña presidencial en Brasil comienza con Flávio Bolsonaro y Lula da Silva en un empate técnico",
-      "description": "Un 4% de indecisos mantiene abierta la definición que se podría conocer en una eventual segunda vuelta. Este domingo, los candidatos inician su carrera con eventos partidarios y llamados a la militancia",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/america-latina/2026/08/16/la-campana-presidencial-en-brasil-comienza-con-flavio-bolsonaro-y-lula-da-silva-en-un-empate-tecnico-de-cara-a-las-elecciones/",
-      "image": "https://www.infobae.com/resizer/v2/5P4BKO4WWVHZTIYLKLHPTGGYU4.jpg?auth=265101858b4800f6c06df7687d25bf3026435e7faf4ab7ca55222ddb627e282e&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-16T07:02:11.000Z",
-      "emojisString": "🗳️ 💻 🇧🇷"
+      "title": "Qué significa el proverbio chino: \"La gema no se puede pulir sin fricción, ni el hombre perfeccionarse sin pruebas\"",
+      "description": "La frase que habla del valor formativo de las dificultades.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/significa-proverbio-chino-gema-puede-pulir-friccion-hombre-perfeccionarse-pruebas_0_0uaB4SMPv7.html",
+      "image": "https://www.clarin.com/img/2026/07/10/FCGP-78l3_1200x630__1.jpg",
+      "pubDate": "2026-08-16T07:01:19.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "Filipinas pidió explicaciones al régimen chino tras la detención de un centenar de sus ciudadanos",
-      "description": "El titular del Ministerio de Defensa, Gilberto Teodoro Jr., reclamó respuestas a Beijing por la retención de alrededor de cien personas presuntamente en situación irregular dentro del gigante asiático",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/mundo/2026/08/16/filipinas-pidio-explicaciones-al-regimen-chino-tras-la-detencion-de-un-centenar-de-sus-ciudadanos/",
-      "image": "https://www.infobae.com/resizer/v2/CQM4EKUEFJA4DCTVGWLXTJOSNQ.jpg?auth=e942ce4e8c153a279ac562ea77ee96761fc3f2a025685313d048df7c02079797&smart=true&width=3440&height=2288",
-      "pubDate": "2026-08-16T07:01:41.000Z",
+      "title": "Sun Tzu, filósofo chino: \"Si haces que los adversarios no sepan el lugar y la fecha de la batalla, siempre puedes vencer\"",
+      "description": "El estratega y pensador de la antigua China reflexiona sobre la incertidumbre y el valor de la información.\nEl desafío de la imprevisibilidad en una sociedad hiperconectada.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/sun-tzu-filosofo-chino-haces-adversarios-sepan-lugar-fecha-batalla-siempre-puedes-vencer_0_luPeHyDfGR.html",
+      "image": "https://www.clarin.com/img/2026/08/15/_wzsB3Fg2_1200x630__1.jpg",
+      "pubDate": "2026-08-16T07:01:19.000Z",
       "emojisString": "🇨🇳"
     },
     {
-      "title": "Una argentina fue detenida en Japón por intentar ingresar casi un kilo de cocaína oculto en su cuerpo",
-      "description": "Rosa Micaela Kipildor (30) fue sometida a una radiografía tras despertar sospechas de los agentes aduaneros; según declaró, había recibido los paquetes en Brasil y esperaba cobrar US$7000 por transportarlos",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/una-argentina-fue-detenida-en-japon-por-intentar-ingresar-casi-un-kilo-de-cocaina-oculto-en-su-nid15082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/CIERNOPK2FCVXKKFLNIJRWF5AA.jpg?auth=7e78f6d4a3232f2edefb519bc23ae27b7161ab236a9f28eaed2ab82677db2079&smart=true&width=1200&height=800",
-      "pubDate": "2026-08-16T07:00:44.000Z",
-      "emojisString": "🚨 🇧🇷"
-    },
-    {
-      "title": "Créditos en dólares: alertan por un riesgo de descalce",
-      "description": "Leer más",
+      "title": "Guías alimentarias: la evidencia sin territorio se vuelve imposición",
+      "description": "Lo que se presenta como consenso científico puede convertirse en un acto de poder cuando se aplica sin considerar los cuerpos, culturas y disparidad que pretende ordenar.\r\n Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/creditos-en-dolares-alertan-por-un-riesgo-de-descalce.phtml",
-      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/160826luistotocaputomecong-2305651.jpg",
-      "pubDate": "2026-08-16T06:39:30.000Z",
-      "emojisString": "💵"
-    },
-    {
-      "title": "Diputados misioneros se reagrupan detrás de Passalacqua",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/politica/diputados-misioneros-se-reagrupan-detras-de-passalacqua.phtml",
-      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/160826rovirapassalacquaxg-2305649.jpg",
-      "pubDate": "2026-08-16T06:38:00.000Z",
-      "emojisString": "🏛️"
-    },
-    {
-      "title": "El sector aguacatero mexicano celebra el reinicio de las exportaciones a EEUU pero el miedo continúa",
-      "description": "La reanudación de exportaciones de aguacate desde Michoacán tras un paro de seguridad devuelve la actividad a las huertas y empacadoras.\nEl despliegue militar y las detenciones alivian al sector, aunque persisten temores por la violencia y las extorsiones en la región.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/el-sector-aguacatero-mexicano-celebra-el-reinicio-de-las-exportaciones-a-eeuu-pero-el-miedo-continua_0_HLu6gsNvDV.html",
-      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
-      "pubDate": "2026-08-16T06:30:10.000Z",
-      "emojisString": "💻 💥 🇺🇸"
-    },
-    {
-      "title": "Víctor Algra, veterinario: “En un perro de 5 kilos, 750 gramos de más ya son sobrepeso y 1,5 kilos pueden convertirlo en obeso”",
-      "description": "El experto avisa que el exceso de peso en perros y gatos es mucho más frecuente de lo que parece y no siempre se detecta a simple vista.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/victor-algra-veterinario-perro-5-kilos-750-gramos-sobrepeso-15-kilos-pueden-convertirlo-obeso_0_6q47d0ubT1.html",
-      "image": "https://www.clarin.com/img/2026/08/15/Sw1gjlgVr_1200x630__1.jpg",
-      "pubDate": "2026-08-16T06:29:18.000Z",
-      "emojisString": "💵"
+      "link": "https://www.perfil.com/noticias/elobservador/guias-alimentarias-la-evidencia-sin-territorio-se-vuelve-imposicion.phtml",
+      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
+      "pubDate": "2026-08-16T06:58:11.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Del pacto con Mauricio Macri a la unidad del PJ: el tablero de 2027 empieza a tomar color",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-16T07:09:07.968Z"
+  "updated": "2026-08-16T07:43:33.500Z"
 }
