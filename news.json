@@ -2,65 +2,83 @@
   "success": true,
   "data": [
     {
-      "title": "Temblor de 7,4 en Colombia el 10 de agosto EN VIVO: 289 fallecidos de acuerdo con los últimos reportes",
-      "description": "La Unidad Nacional para la Gestión del Riesgo de Desastres dio a conocer las más recientes cifras que dejó el terremoto del 10 de agosto. Los heridos rozan los 4.000 y a la fecha hay 143 desaparecidos",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/08/14/temblor-de-74-en-colombia-el-10-de-agosto-se-actualizo-el-numero-de-fallecidos-en-todo-el-pais/",
-      "image": "https://www.infobae.com/resizer/v2/SSARK4BHEZAW5ETJBKNVELV4LA.JPG?auth=0520efebf045684580501469ce5e652adebdec5cdc968ccc3f862b4950e83eae&smart=true&width=4392&height=2928",
-      "pubDate": "2026-08-16T03:27:07.000Z",
-      "emojisString": "💻 🌊"
-    },
-    {
-      "title": "12 frases de Arruabarrena tras el empate de Boca: por qué salió Paredes y cuándo convocará a Enner Valencia",
-      "description": "El entrenador resaltó la muestra de carácter del equipo para reponerse al gol de Platense y llegar a la igualdad final a través de Miguel Merentiel",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/16/12-frases-de-arruabarrena-tras-el-empate-de-boca-por-que-salio-paredes-y-cuando-convocara-a-enner-valencia/",
-      "image": "https://www.infobae.com/resizer/v2/Q5GN5VAG75FJVGELQF3M2TNEIQ.JPG?auth=10f7ef9c6875ec4f87eda45f0794bd8eb98c0808d42ac8513e014c5b9a4c3f0f&smart=true&width=4056&height=2282",
-      "pubDate": "2026-08-16T03:20:26.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Ida y vuelta",
+      "title": "Al menos un muerto y cuatro heridos en un tiroteo en Lexington (EEUU)",
       "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/america/agencias/2026/08/16/al-menos-un-muerto-y-cuatro-heridos-en-un-tiroteo-en-lexington-eeuu/",
+      "image": null,
+      "pubDate": "2026-08-16T04:15:21.000Z",
+      "emojisString": "🚗 🇺🇸"
+    },
+    {
+      "title": "Nashville consolida el liderato de la MLS e Inter Miami entra en crisis de resultados",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/16/nashville-consolida-el-liderato-de-la-mls-e-inter-miami-entra-en-crisis-de-resultados/",
+      "image": null,
+      "pubDate": "2026-08-16T04:15:18.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "La quinta del ñato",
+      "description": "Un balazo lo paró / en Thames y Triunvirato / se mudó a un barrio vecino: / el de la quinta del ñato”\n(Del tango El Títere)",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/lifestyle/ida-y-vuelta-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/K5GDQIJFYFFTVIQNSKHYIUWMHQ.jpg?auth=b91e8b0fd138ff8447e77e31933ca03ba8c2612cfc518a9757d7e279d60adf67&smart=true&width=3000&height=2000",
-      "pubDate": "2026-08-16T03:15:00.000Z",
+      "link": "https://www.lanacion.com.ar/opinion/la-quinta-del-nato-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/VORRFLPXCVB6NAPDGGIAXAPZUA.JPG?auth=5ff5bfd582d5c7319fc15f78d143b58e1c7a37594e7d82ec5301fc741203d11f&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-16T04:05:00.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Milei, Macri y el riesgo del peronismo",
-      "description": "",
+      "title": "Newsom firmó una nueva ley en California que modifica varios trámites del DMV: más licencias digitales",
+      "description": "Newsom firmó la ley SB 169 en California: qué trámites del DMV cambian y cómo acceder a la licencia digital",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/opinion/milei-macri-y-el-riesgo-del-peronismo-nid16082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/4UYEA6TDPRDMJGTD7EHSYBGURA.jpg?auth=3dcf706921296c95a1971d5d493f8e80f2ec91134043ad0b05a9c7a12fb9331f&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-16T03:15:00.000Z",
-      "emojisString": "🏛️"
+      "link": "https://www.lanacion.com.ar/estados-unidos/california/newsom-firmo-una-nueva-ley-en-california-que-modifica-varios-tramites-del-dmv-mas-licencias-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2FUJAR22GFG5NNZPJD6SBZRZOU.jpg?auth=781cb384c9ec3c2b4ca4c59523c9e0b589a0009423573e5c397ccf02ba0f925d&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-16T04:01:00.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "La fuga del penal de Ezeiza en el Día del Niño: el trágico destino de los evadidos",
-      "description": "Trece presos escaparon de la cárcel de máxima seguridad a través de un boquete abierto en la celda 22, después de varios días de festejos y actividades dentro del penal. Entre ellos había miembros del poderoso PCC brasileño, asaltantes de blindados y expertos escapistas. La evasión provocó la renunc",
+      "title": "Alianza militar en Medio Oriente: surge una nueva arquitectura de seguridad",
+      "description": "El acuerdo logrado en la Meca entre Arabia Saudita, Turquía y Pakistán para establecer un pacto de defensa mutua representa el más importante reordenamiento militar de las últimas décadas entre los países árabes. Surgió a raíz de los ataques de Irán contra las potencias del Golfo y la desconfianza f",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/policia/la-fuga-del-penal-de-ezeiza-en-el-dia-del-nino-el-tragico-destino-de-los-evadidos.phtml",
-      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/16082026complejopenitenciariocedocg-2305607.jpg",
-      "pubDate": "2026-08-16T03:05:32.000Z",
-      "emojisString": "🇧🇷"
+      "link": "https://www.perfil.com/noticias/internacional/alianza-militar-en-medio-oriente-surge-una-nueva-arquitectura-de-seguridad.phtml",
+      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/16082026turquiaarabiasauditapakistanafpg-2305614.jpg",
+      "pubDate": "2026-08-16T03:54:26.000Z",
+      "emojisString": "⚽ 💻 💥"
     },
     {
-      "title": "Misiorowski frena a los Dodgers y los Cerveceros ganan por 4-1",
-      "description": "El conjunto de Milwaukee se impuso 4-1 a los angelinos con sólida actuación de Misiorowski y jonrones de Ortiz y Contreras.\nOrtiz y Contreras destacaron con batazos claves, mientras Ashby cerró el juego asegurando el triunfo con su primer salvamento.",
+      "title": "La retórica de campaña de Trump irrita a Irán: “Ormuz es iraní” ",
+      "description": "Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/internacional/la-retorica-de-campana-de-trump-irrita-a-iran-ormuz-es-irani.phtml",
+      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/16082026portavionescedocg-2305615.jpg",
+      "pubDate": "2026-08-16T03:50:01.000Z",
+      "emojisString": "🗳️ 🇺🇸"
+    },
+    {
+      "title": "Clima hoy en San Fernando, Buenos Aires: el pronóstico del tiempo para este domingo 16 agosto de 2026",
+      "description": "El SMN anticipa para este domingo temperaturas entre 12°C y 18°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
       "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/misiorowski-frena-a-los-dodgers-y-los-cerveceros-ganan-por-4-1_0_1i5I37vR3k.html",
-      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg",
-      "pubDate": "2026-08-16T03:00:04.000Z",
-      "emojisString": "📰"
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-san-fernando-buenos-aires-pronostico-tiempo-domingo-16-agosto-2026_0_yPCQWJkPUy.html",
+      "image": "https://www.clarin.com/img/2025/04/30/rO0rSQA0W_1200x630__1.jpg",
+      "pubDate": "2026-08-16T03:21:41.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Clima hoy en San Lorenzo, Santa Fe: el pronóstico del tiempo para este domingo 16 agosto de 2026",
+      "description": "El SMN anticipa para este domingo temperaturas entre 11°C y 18°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-san-lorenzo-santa-fe-pronostico-tiempo-domingo-16-agosto-2026_0_vccYEtdzH1.html",
+      "image": "https://www.clarin.com/img/2025/04/30/wQXHTTuRr_1200x630__1.jpg",
+      "pubDate": "2026-08-16T03:21:40.000Z",
+      "emojisString": "💻 🌤️"
     },
     {
       "title": "Del pacto con Mauricio Macri a la unidad del PJ: el tablero de 2027 empieza a tomar color",
       "description": "El Gobierno recompone puentes con el PRO mientras el peronismo ensaya la unidad y defiende las PASO. Macri vuelve a cotizar, Kicillof aparece como el rival que prefieren los libertarios y las terceras vías buscan espacio. La paradoja: Milei y el PJ quieren derrotarse, pero también se necesitan.",
       "source": "Ámbito",
       "link": "https://www.ambito.com/politica/del-pacto-mauricio-macri-la-unidad-del-pj-el-tablero-2027-empieza-tomar-color-n6311257",
-      "image": "https://media.ambito.com/p/a6e17360824efad638ca572ccfb1edb3/adjuntos/239/imagenes/043/207/0043207819/1200x675/smart/mileiyb.jpg",
+      "image": "https://media.ambito.com/p/061eccdd124966ce90c4e79f42283abc/adjuntos/239/imagenes/041/182/0041182009/milei-macrijpg.jpg",
       "pubDate": "2026-08-16T03:00:00.000Z",
       "emojisString": "🏛️"
     },
@@ -72,26 +90,8 @@
       "image": "https://media.ambito.com/p/249ace8d07422465399ef5c73ea570ff/adjuntos/239/imagenes/042/115/0042115609/1200x675/smart/empresas-crisis.png",
       "pubDate": "2026-08-16T03:00:00.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Brett Christophers: “La tierra es de los activos que se están privatizando más en todo el mundo” ",
-      "description": "El economista político y geógrafo británico, profesor en la Universidad de Uppsala, Suecia, es uno de los principales analistas del capitalismo rentista: la lógica según la cual controlar activos escasos, antes que producir o innovar, se volvió la forma más rentable de generar ingresos en economías",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/periodismopuro/brett-christophers-la-tierra-es-de-los-activos-que-se-estan-privatizando-mas-en-todo-el-mundo-por-jorge-fontevecchia.phtml",
-      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/16082026brettchristopherspablocuarterolog-2305589.jpg",
-      "pubDate": "2026-08-16T02:55:00.000Z",
-      "emojisString": "📊 💻 📚"
-    },
-    {
-      "title": "Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española",
-      "description": "Más de 11.000 personas permanecen enterradas, sin identificar, en fosas comunes de España. Pero una de las más complicadas de encontrar es la del poeta universal de Granada.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c78gxlj1e55o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b12f/live/78498880-9732-11f1-bbb3-ebc49f706d46.jpg",
-      "pubDate": "2026-08-16T02:51:43.000Z",
-      "emojisString": "💥"
     }
   ],
   "count": 10,
-  "updated": "2026-08-16T03:31:25.657Z"
+  "updated": "2026-08-16T04:20:08.948Z"
 }
