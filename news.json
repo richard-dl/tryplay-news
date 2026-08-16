@@ -2,22 +2,31 @@
   "success": true,
   "data": [
     {
-      "title": "Previsión del clima en Lima para antes de salir de casa este 16 de agosto",
-      "description": "La diversidad climatológica en Perú es tal que se tienen identificados 38 estados del tiempo a lo largo del país",
+      "title": "La destrucción de fuego, en imágenes: el incendio de Niebla (Huelva) está estabilizado, pero el de Las Peñas de Riglos (Huesca) sigue descontrolado con mil vecinos desalojados",
+      "description": "Las llamas han afectado 38.000 hectáreas en Andalucía antes de estar bajo el control de los servicios de extinción mientras que en Aragón han calcinado, al menos, 15.000",
       "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/08/16/prevision-del-clima-en-lima-para-antes-de-salir-de-casa-este-16-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/HJVIU5ZLNBADXIRV3MPQ5G3MFY.png?auth=2bc867aa3facc4a314a0266e722aa1fb898378cd8dc2d09e6ac8d5650f5760ff&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-16T09:31:51.000Z",
-      "emojisString": "🌤️"
+      "link": "https://www.infobae.com/espana/2026/08/16/la-destruccion-de-fuego-en-imagenes-el-incendio-de-niebla-huelva-esta-estabilizado-pero-el-de-las-penas-de-riglos-huesca-sigue-descontrolado-con-mil-vecinos-desalojados/",
+      "image": "https://www.infobae.com/resizer/v2/MS4JS2MMHBGTDLTVOZL42KCOE4.jpg?auth=521f3265ba89b4fe73a003472cec1279c50a51006df9ef39d20eb8185fa53b02&smart=true&width=1280&height=854",
+      "pubDate": "2026-08-16T09:51:34.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "Las riadas mantienen cortados los accesos a tres pueblos de la comarca del Bierzo (León)",
-      "description": "",
+      "title": "El mapa de peligrosidad de Estados Unidos sobre España que la sitúa por encima de Senegal: recomienda extremar la precaución en Ceuta y alerta por terrorismo",
+      "description": "El presidente estadounidense utilizó la tragedia en el enclave español para atacar a Europa y reivindicar su política de deportaciones masivas",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/16/las-riadas-mantienen-cortados-los-accesos-a-tres-pueblos-de-la-comarca-del-bierzo-leon/",
-      "image": null,
-      "pubDate": "2026-08-16T09:31:34.000Z",
-      "emojisString": "💻"
+      "link": "https://www.infobae.com/espana/2026/08/16/el-mapa-de-peligrosidad-de-estados-unidos-sobre-espana-recomienda-maxima-precaucion-en-ceuta-y-situa-su-nivel-al-mismo-que-senegal/",
+      "image": "https://www.infobae.com/resizer/v2/WD65UO3YE5BMFENW6XBG33IEQM.jpg?auth=11f0861b79d60592254b8a88804b8701944ee6058fc3ff82fad8491a9fd814cb&smart=true&width=1920&height=1280",
+      "pubDate": "2026-08-16T09:48:54.000Z",
+      "emojisString": "🏛️ 💻 🇺🇸"
+    },
+    {
+      "title": "Por qué la sexualidad en la vejez es un tema poco aceptado",
+      "description": "La cultura enseñó que a partir de cierta edad el cuerpo deja de ser territorio de placer. \n¿Por qué se desexualiza por completo a los adultos mayores, como si el deseo fuera patrimonio solo de cuerpos firmes?\nUna mirada abarcativa sobre un tema tabú.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/viva/sexualidad-vejez-tema-aceptado_0_ww5QbvnQEj.html",
+      "image": "https://www.clarin.com/img/2023/03/23/DxWS5UHXL_1200x630__1.jpg",
+      "pubDate": "2026-08-16T09:07:22.000Z",
+      "emojisString": "📰"
     },
     {
       "title": "Miles de migrantes perderán Medicaid el 1º de octubre en Illinois, pero algunos conservarán la cobertura",
@@ -29,22 +38,13 @@
       "emojisString": "🏥"
     },
     {
-      "title": "Venta de Metrogas: Edenor espera que se amplíe la concesión y varias empresas siguen el caso muy de cerca",
-      "description": "La adquisición por parte de la eléctrica quedó condicionada a que el Gobierno extienda hasta 2047 la licencia de la mayor distribuidora de gas del país.\nLa decisión forma parte de un proceso más amplio que alcanza a las empresas surgidas de la privatización de los 90’.",
+      "title": "Un curioso incidente y muchas lecciones",
+      "description": "",
       "source": "Clarín",
-      "link": "https://www.clarin.com/energia-y-mineria/venta-metrogas-edenor-espera-amplie-concesion-varias-empresas-siguen-caso-cerca_0_9zmVMoliyH.html",
-      "image": "https://www.clarin.com/img/2026/08/15/BAk1IYRT8_1200x630__1.jpg",
-      "pubDate": "2026-08-16T09:01:24.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "Cómo fueron los últimos instantes de la vida de José de San Martín y la \"fatiga de la muerte\"",
-      "description": "El 17 de agosto de 1850 fue un día desapacible en Boulogne Sur Mer, Francia. \nDespués de almorzar, el general San Martín se sintió mal y a las 3 de la tarde murió. \nEn su testamento pedía descansar en Buenos Aires.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/viva/ultimos-instantes-vida-jose-san-martin-fatiga-muerte_0_MFgCEDVIXc.html",
-      "image": "https://www.clarin.com/img/2024/08/16/0NabdnNoy_1200x630__1.jpg",
-      "pubDate": "2026-08-16T09:01:24.000Z",
-      "emojisString": "💻 🚗"
+      "link": "https://www.clarin.com/opinion/curioso-incidente-muchas-lecciones_0_mCq0WLfTXc.html",
+      "image": "https://www.clarin.com/img/2026/08/15/cWbzhLJCW_1200x630__1.jpg",
+      "pubDate": "2026-08-16T09:03:21.000Z",
+      "emojisString": "📰"
     },
     {
       "title": "Partidos de HOY, domingo 16 de agosto: agenda, horario y por dónde ver fútbol EN VIVO\n",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-16T09:39:18.128Z"
+  "updated": "2026-08-16T09:58:11.588Z"
 }
