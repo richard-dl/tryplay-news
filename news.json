@@ -2,22 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Karol G y Bruno Mars paralizan Los Ángeles: Estrenaron colaboración y grabaron el  video musical en vivo en el SoFi Stadium.",
-      "description": "La actuación, que nadie en el estadio anticipaba, se produjo en la segunda de tres noches consecutivas que la colombiana ofrece en Inglewood, en el marco de su gira mundial ‘Viajando Por El Mundo - Tropitour’",
+      "title": "Dos heridos tras estrellarse una avioneta de una escuela de pilotos en un campo de cereal de Viana (Navarra)",
+      "description": "Los dos ocupantes, que se encontraban conscientes cuando llegaron los servicios de emergencia, han sufrido traumatismos de diversa consideración y han sido trasladados a hospitales de Pamplona y Logroño",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/08/16/karol-g-y-bruno-mars-paralizan-los-angeles-estrenaron-colaboracion-y-grabaron-el-video-musical-en-vivo-en-el-sofi-stadium/",
-      "image": "https://www.infobae.com/resizer/v2/5244SCMRSNAQNDPVWY7ADSPIPI.JPG?auth=8de12d092f84446509473a8ed9ae6d92cc1edd9addc1f7410a5047cb13b5ade2&smart=true&width=5500&height=3594",
-      "pubDate": "2026-08-16T13:41:45.000Z",
+      "link": "https://www.infobae.com/espana/2026/08/16/dos-heridos-tras-estrellarse-una-avioneta-de-una-escuela-de-pilotos-en-un-campo-de-cereal-de-viana-navarra/",
+      "image": "https://www.infobae.com/resizer/v2/LJBYGVSZ4RFPXIOOBJFMA2ZZ4U.jpg?auth=e2f91c99b2bba32287a3853ff894132bfddb2e0ff04cd5bc0a3cfbd340272704&smart=true&width=1920&height=1280",
+      "pubDate": "2026-08-16T13:57:57.000Z",
+      "emojisString": "💻 🏥 📚"
+    },
+    {
+      "title": "El tremendo nocaut técnico de Esteban Ribovics sobre la leyenda Edson Barboza y el pedido por una pelea con un Top 15",
+      "description": "El salteño demostró toda su furia y brilló en la velada de UFC 330, en los Estados Unidos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/ufc/el-tremendo-nocaut-tecnico-de-esteban-ribovics-sobre-la-leyenda-edson-barboza-y-el-pedido-por-una-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/F27QRCJRNJE57PGZTLCXBTF3EY.jpg?auth=3c6b341b72be0d8d0462f1c475204bba2cec7869bb9021c6ee87034624fc5942&smart=true&width=6540&height=4360",
+      "pubDate": "2026-08-16T13:57:14.000Z",
+      "emojisString": "💻 🇺🇸"
+    },
+    {
+      "title": "Tras seis años en Uber, fundó una fintech que ayuda a los trabajadores a jubilarse y ya cautivó a inversores",
+      "description": "Ana Mahony fundó Addition Wealth, una plataforma que cobra una suscripción a las empresas para ofrecer a los empleados asesoría financiera gratuita con inteligencia artificial y expertos fiduciarios",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/tecno/2026/08/16/tras-seis-anos-en-uber-fundo-una-fintech-que-ayuda-a-los-trabajadores-a-jubilarse-y-ya-cautivo-a-inversores/",
+      "image": "https://www.infobae.com/resizer/v2/JWMN25BIORA2RB54KJE4MUS5GU.jpg?auth=a15209a38ea40b5bd6b0125638134b43e3974c7e6ba7e006571387935281f10c&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-16T13:57:08.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "China cambia el mapa del comercio: un buque viaja a Europa por el Ártico y evita el mar Rojo",
+      "description": "El portacontenedores Dubai Tower inició un recorrido por el norte de Rusia que evita el mar Rojo y reduce significativamente los tiempos de navegación.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/mundo/china-cambia-el-mapa-del-comercio-un-buque-viaja-europa-el-artico-y-evita-el-mar-rojo-n6311310",
+      "image": "https://media.ambito.com/p/daf878f45be4c3163da66dcb0205cb42/adjuntos/239/imagenes/043/584/0043584888/1200x675/smart/buque-chino.jpg",
+      "pubDate": "2026-08-16T13:55:00.000Z",
+      "emojisString": "💻 🇨🇳"
+    },
+    {
+      "title": "Se enamoraron y luego violaron la ley para comprobar que no eran hermanos",
+      "description": "Una pareja francesa, ambos concebidos mediante donación de esperma, desea tener hijos. Pero dado que las pruebas de ADN caseras son ilegales, ¿cómo pueden estar seguros de que no están emparentados?",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cpd7p215jyqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fdb4/live/19d6c650-9697-11f1-ae4a-f77081ebc98e.png",
+      "pubDate": "2026-08-16T13:53:45.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "En el Día del Niño, tres generaciones cuentan detalles de su infancia: cambios impactantes y necesidades que perduran",
+      "description": "El fútbol, los juegos de mesa y los viajes en familia aparecen como recuerdos valiosos; en el Día del Niño, el análisis de los especialistas",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/de-la-pelota-de-goma-a-los-juegos-virtuales-como-disfrutaron-su-infancia-tres-generaciones-nid16082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GQ6LCKLVAJGITN2VECNCNXMCFQ.jpg?auth=65a49749b32f8a9fbdd5950a74ec62efdbbb00ae4795c0439c70f8a932a75e17&smart=true&width=3000&height=2000",
+      "pubDate": "2026-08-16T13:51:40.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "Naldy Saldaña descarta regresar a La Bella Luz pese a propuesta de Óscar Junior: “No me sentí respaldada”",
-      "description": "La cantante aseguró que pese a que La Bella Luz decidió tomar cartas en el asunto, no está en sus planes volver a la orquesta, pero agradece la oportunidad",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/08/16/naldy-saldana-descarta-regresar-a-la-bella-luz-pese-a-propuesta-de-oscar-junior-no-me-senti-respaldada/",
-      "image": "https://www.infobae.com/resizer/v2/OSY3M4H7VJFKRCEAUMIIIDDOQ4.jpg?auth=25ed347d0b16a177539febbb409eff94a0e3f61c937f103cc224715df60dca08&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-16T13:41:17.000Z",
-      "emojisString": "🎵"
+      "title": "El Cristo Redentor cumple un mes cerrado y crece la incertidumbre sobre su reapertura",
+      "description": "Vialidad Nacional continúa con los trabajos para recuperar la circulación en la zona cordillerana, luego del intenso temporal que acumuló hasta cuatro metros de nieve. Las condiciones meteorológicas y el riesgo de avalanchas mantienen restringido el acceso a Las Cuevas.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/informacion-general/el-cristo-redentor-cumple-un-mes-cerrado-y-crece-la-incertidumbre-su-reapertura-n6311314",
+      "image": "https://media.ambito.com/p/8fc8d9df69bb88f73cf8a3a3fb0d789f/adjuntos/239/imagenes/043/251/0043251680/paso-cristo-redentor.jpg",
+      "pubDate": "2026-08-16T13:49:00.000Z",
+      "emojisString": "💻 🚗"
     },
     {
       "title": "Arsenal y Manchester City chocan por la Community Shield y abren la temporada inglesa",
@@ -27,24 +72,6 @@
       "image": "https://www.ole.com.ar/images/2026/08/16/fcj26btTw_1200x630__1.jpg",
       "pubDate": "2026-08-16T13:40:11.000Z",
       "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Jerónimo, el hijo de Julián Weich que se alejó de los lujos y construyó su propia casa sustentable en Córdoba",
-      "description": "Jerónimo “Momo” Weich levantó junto a su pareja su propia vivienda en Los Hornillos; a través de sus redes sociales detalló todo el proceso de realización",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/espectaculos/asi-es-la-casa-sustentable-del-hijo-de-julian-weich-en-cordoba-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/OYKKWHSSKVEJPASYBHTY6FOUDM.png?auth=2deae775ae047bc2ae76535802d8ee052465ee5d84f568cc062344ff59831d68&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-16T13:34:58.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Dylan, albañil argentino en Australia: “Después de 8 horas de trabajo, nos vamos a casa con 320 dólares”",
-      "description": "A través de un video, el hombre mostró parte de su rutina laboral en Oceanía y explicó cuánto puede llegar a ganar; descubrí los detalles en la nota",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/lifestyle/dylan-albanil-argentino-que-trabaja-en-australia-despues-de-8-horas-de-trabajo-nos-vamos-a-casa-con-nid13082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/6KBKXK5GFBD65MILQKOCXPMCZY.jpg?auth=b998d557be87df6980d3f9207c03c06a9ba5788534cd7e07062f7ebbf4f33722&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-16T13:34:30.000Z",
-      "emojisString": "💵 💻"
     },
     {
       "title": "Siguen las negociaciones entre Aston Villa y Juventus por Dibu Martínez",
@@ -63,35 +90,8 @@
       "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/impuestos-2305663.jpg",
       "pubDate": "2026-08-16T13:04:05.000Z",
       "emojisString": "⚖️"
-    },
-    {
-      "title": "Milei se enfrenta a sí mismo",
-      "description": "Pese al bajón del Presidente en la gestión y en las encuestas, no aparece nadie en la oposición que hoy pueda capitalizar su mal momento. La mira en la reelección. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/opinion/milei-se-enfrenta-a-si-mismo.phtml",
-      "image": "https://fotos.perfil.com/2026/08/16/trim/540/304/milei-2305662.jpg",
-      "pubDate": "2026-08-16T13:02:16.000Z",
-      "emojisString": "🏛️"
-    },
-    {
-      "title": "Día del Niño: juguetes bajo escombros, la vida de los chicos en guerra",
-      "description": "En el Día de la Niñez, la historia de Yosyp muestra que mientras millones de chicos celebran con juegos y abrazos, 1 de cada 5 niños y niñas en el mundo crece bajo la amenaza de las bombas, el desplazamiento y el miedo.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/mundo/dia-nino-juguetes-escombros-vida-chicos-guerra_0_wDPck6Pr4t.html",
-      "image": "https://www.clarin.com/img/2023/11/02/ItTkyXXsk_1200x630__1.jpg",
-      "pubDate": "2026-08-16T13:01:26.000Z",
-      "emojisString": "💻 💥"
-    },
-    {
-      "title": "Saques de 200 km/h y fortaleza mental: así Thiago Tirante venció a Novak Djokovic en el histórico batacazo del Masters 1000 de Cincinnati",
-      "description": "El platense venció al N°5 del mundo en el Masters 1000 de Cincinnati y dejó golpes que sorprendieron al serbio durante el partido.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/deportes/saques-200-kmh-y-fortaleza-mental-asi-thiago-tirante-vencio-novak-djokovic-el-historico-batacazo-del-masters-1000-cincinnati-n6311293",
-      "image": "https://media.ambito.com/p/c7219b8f9681f239f260de7bfa267db6/adjuntos/239/imagenes/043/584/0043584815/1200x675/smart/thiago-tirantes.jpg",
-      "pubDate": "2026-08-16T12:59:00.000Z",
-      "emojisString": "⚽ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-16T13:43:09.556Z"
+  "updated": "2026-08-16T13:59:45.036Z"
 }
