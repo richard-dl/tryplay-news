@@ -2,13 +2,49 @@
   "success": true,
   "data": [
     {
-      "title": "Se viene una semana con “ciclogénesis de alto impacto” que traerá 48 horas de tormentas fuertes, actividad ecléctrica, ráfagas y un brusco cambio en el pronóstico: las zonas afectadas",
-      "description": "Tras una seguidilla de precipitaciones en el AMBA debido a la presencia de una masa de baja presión, se esperan lluvias aisladas; el pronóstico del tiempo extendido",
+      "title": "Neymar, la primera víctima en Brasil de una nueva regla para evitar demoras",
+      "description": "El crack brasileño se vio obligado a dejar la cancha durante un minuto, luego de que el arquero del Santos pidiera atención médica. Los motivos de esta curiosa situación.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/neymar-confederacionbrasilenadefutbol-brasileirao-santos-gabrielbrazao-arquero_0_2t3aP96wAl.html",
+      "image": "https://www.ole.com.ar/images/2026/08/17/sKIUbgZAu_1200x630__1.jpg",
+      "pubDate": "2026-08-17T11:47:13.000Z",
+      "emojisString": "🏥 🇧🇷"
+    },
+    {
+      "title": "La llave de la Copa Argentina: se definen otros tres clasificados a cuartos de final",
+      "description": "Esta semana hay tres partidos, con cinco equipos de Primera. Hasta acá, Atlético Tucumán es el único que pasó de octavos.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/copa-argentina/copa-argentina-2026-llave-octavos-final_0_bTHaQcXmEh.html",
+      "image": "https://www.ole.com.ar/images/2026/08/12/dW_MnVwco_1200x630__1.jpg",
+      "pubDate": "2026-08-17T11:43:45.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "La huella del CJNG en Costa Rica: de grafitis con el nombre de “El Mencho” a una tonelada de cocaína incautada ",
+      "description": "Costa Rica se convirtió en una pieza clave de las rutas que conectan la cocaína sudamericana con Europa y Estados Unidos",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/17/la-huella-del-cjng-en-costa-rica-de-grafitis-con-el-nombre-de-el-mencho-a-una-tonelada-de-cocaina-incautada/",
+      "image": "https://www.infobae.com/resizer/v2/7CGPGMZHGZDIBBTVMWTJ6PL52U.jpg?auth=74e629b61238eb91db5c697141ff9d3dfcc1c6fb668d625991959e182e64cfb3&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-17T11:42:06.000Z",
+      "emojisString": "🇺🇸"
+    },
+    {
+      "title": "Así luce Robert De Niro a los 83 años",
+      "description": "El protagonista de clásicos del cine estadounidense atraviesa una etapa marcada por reconocimientos, exposición pública y foco sobre su vida personal",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/entretenimiento/2026/08/17/asi-luce-robert-de-niro-a-los-83-anos/",
+      "image": "https://www.infobae.com/resizer/v2/XDT2OFUS2VBLTHPALPTAWBWXR4.jpg?auth=785c6fb3c53310417faaea35276f7877b161ad1a551712d4c256b136080ce24c&smart=true&width=3600&height=2400",
+      "pubDate": "2026-08-17T11:41:37.000Z",
+      "emojisString": "🎬"
+    },
+    {
+      "title": "Coudet se cruzó con un periodista tras el triunfo de River: “Puse mi cabeza sobre la mesa”",
+      "description": "Fue luego de que un cronista partidario dijera que el DT se había tomado las derrotas con “cierta liviandad”",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/se-viene-una-semana-con-ciclogenesis-de-alto-impacto-que-traera-48-horas-de-tormentas-fuertes-nid17082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/GPMUIK7HNRDZBK2RDLL7UGVWI4.png?auth=fc5567314f7a3cbc6367cb91fadd557a6e09f1ba935192122eb2d029245e1aec&smart=true&width=1032&height=664",
-      "pubDate": "2026-08-17T11:13:27.000Z",
-      "emojisString": "💻 🌤️"
+      "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/coudet-se-cruzo-con-un-periodista-tras-el-triunfo-de-river-puse-mi-cabeza-sobre-la-mesa-nid17082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/JM5QOZB53RGILGNDAZG7CFQHN4.JPG?auth=438a909c8452edd6e1f8eb4a8e564378122178b5d67a2c578609761786628a02&smart=true&width=2000&height=1332",
+      "pubDate": "2026-08-17T11:36:26.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
       "title": "Masivo apagón de luz en La Plata, Tolosa y Gonnet por un incendio en una estación transformadora de energía",
@@ -16,82 +52,46 @@
       "source": "La Nación",
       "link": "https://www.lanacion.com.ar/sociedad/masivo-apagon-de-luz-en-la-plata-tolosa-y-gonnet-por-un-incendio-en-una-estacion-transformadora-de-nid17082026/",
       "image": "https://resizer.glanacion.com/resizer/v2/FQSRL54KARFBNNH5YFU6KUDLQY.jpg?auth=cf16185758eaefccea3ec70ef19fad23494a07908dcecf895596ba98985d8252&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-17T11:13:14.000Z",
+      "pubDate": "2026-08-17T11:36:12.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Vence el plazo de 60 días que Trump le dio a Irán: “El objetivo principal es y será siempre que no pueda tener arma nuclear”",
-      "description": "El Memorando de Entendimiento cumple dos meses sin que una salida definitiva al conflicto se vislumbre con claridad. Las exigencias del régimen persa y las condiciones de Washington conforman un escenario dominado por la incertidumbre geopolítica y económica",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/mundo/2026/08/17/vence-el-plazo-de-60-dias-que-trump-le-dio-a-iran-el-objetivo-principal-es-y-sera-siempre-que-no-pueda-tener-arma-nuclear/",
-      "image": "https://www.infobae.com/resizer/v2/KDVCTGN4JRGTXHVDIJKPFIVQA4.JPG?auth=f56ca3713f826127620e38f341594a3cb439d3e1af3d461da01c77092c5aa457&smart=true&width=5500&height=3667",
-      "pubDate": "2026-08-17T11:12:50.000Z",
-      "emojisString": "💻 💥 🇺🇸"
+      "title": "Mercados atentos a la Fed: suben las bolsas asiáticas y el petróleo vuelve a ceder pese a la tensión en Ormuz",
+      "description": "Las acciones asiáticas operaron mayoritariamente en alza mientras los inversores recalibran las expectativas sobre las tasas de interés en Estados Unidos. El petróleo, en cambio, retrocedió tras las subas del viernes, aunque la continuidad del conflicto en medio oriente mantiene bajo presión al merc",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/economia/mercados-atentos-a-la-fed-suben-las-bolsas-asiaticas-y-el-petroleo-vuelve-a-ceder-pese-a-la-tension-en-ormuz-a40.phtml",
+      "image": "https://fotos.perfil.com/2025/09/04/trim/540/304/BC-bancos-regionales-de-eeuu-venden-acciones-para-cubrir-perdidas-en-bonos-NK.jpg",
+      "pubDate": "2026-08-17T11:30:00.000Z",
+      "emojisString": "📊 💻 💥"
     },
     {
-      "title": "Noche de agresiones en Gran Hermano: el fuerte cruce entre Sol Abraham y Tamara Paganini ",
-      "description": "La circulación de videos editados generó confusión sobre el incidente. Tras la aclaración de Santiago del Moro se difundió el material íntegro",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/teleshow/2026/08/17/noche-de-agresiones-en-gran-hermano-el-fuerte-cruce-entre-sol-abraham-y-tamara-paganini/",
-      "image": "https://www.infobae.com/resizer/v2/BJVIOW3C2VHXDCGMZJFNBE56CY.jpg?auth=f0cc58959893cccbc9eaab0391ab19792c5fb4639d206f80f134d38580b89b7b&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-17T11:10:50.000Z",
-      "emojisString": "💻"
+      "title": "El incendio de una central eléctrica provocó un gran apagón en La Plata",
+      "description": "El siniestro se inició durante la madrugada en Tolosa y habría provocado la explosión de un transformador de Edelap. El corte afectó a distintos barrios de La Plata, Ensenada, City Bell, Gorina y Gonnet, mientras bomberos y fuerzas de seguridad trabajaban en la zona.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/informacion-general/el-incendio-una-central-electrica-provoco-un-gran-apagon-la-plata-n6311506",
+      "image": "https://media.ambito.com/p/d23d579da2f9f653af51bc82cf859f07/adjuntos/239/imagenes/043/585/0043585502/1200x675/642x299:662x319/apagon-tolosa.jpg",
+      "pubDate": "2026-08-17T11:29:00.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "La llave de la Sudamericana: día, hora y TV de las revanchas con Boca, River y Tigre",
-      "description": "Boca y Tigre buscan el pase de fase, mientras que River abre su serie con Independiente Santa Fe.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/octavos-final-revanchas-sudamericana-llave-boca-river_0_fEXPTuMm4t.html",
-      "image": "https://www.ole.com.ar/images/2026/07/30/RjGr_KG1X_1200x630__1.jpg",
-      "pubDate": "2026-08-17T11:06:17.000Z",
-      "emojisString": "⚽ 🎬"
+      "title": "Murió la actriz Hayden Panettiere, estrella de las series \"Héroes\" y \"Nashville\"",
+      "description": "Su padre, Skip, confirmó la noticia y destacó el impacto que tuvo la intérprete en quienes la conocieron. A lo largo de su vida, ella también contó públicamente sus dificultades personales.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/espectaculos/murio-la-actriz-hayden-panettiere-estrella-las-series-heroes-y-nashville-n6311508",
+      "image": "https://media.ambito.com/p/a494d5b200fa15a59716b9e8932750e7/adjuntos/239/imagenes/043/585/0043585501/hayden-panettiere.jpg",
+      "pubDate": "2026-08-17T11:26:00.000Z",
+      "emojisString": "💻 🎬"
     },
     {
-      "title": "\"La culpa del sobreviviente\": los retos de dar ayuda psicológica a las víctimas de los terremotos de Colombia y Venezuela",
-      "description": "Más de 6.000 personas murieron en los dos terremotos que azotaron a Venezuela el 24 de junio. Y más de 280 muertos dejó el terremoto que sacudió a Colombia el 10 de agosto. Especialistas en psicología y salud mental se enfrentan al desafío de brindarles apoyo a los sobrevivientes, algunos de los cua",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cp8x411l3d6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2b5/live/24c043f0-956d-11f1-8b14-5d44448d174a.jpg",
-      "pubDate": "2026-08-17T11:04:46.000Z",
-      "emojisString": "💻 🌊 🏥"
-    },
-    {
-      "title": "Los goleadores de Boca que más castigaron a River",
-      "description": "El Superclásico siempre ha sido escenario de grandes actuaciones, y el Xeneize tiene a sus propios verdugos que dejaron huella en la historia del club.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/boca-juniors/boca-goleadores-river-superclasico-valentim-palermo-cherro_0_wNYfHuMnRZ.html",
-      "image": "https://www.ole.com.ar/images/2012/05/20/SJI5hE8-Z_1200x630.jpg",
-      "pubDate": "2026-08-17T11:01:39.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Terremoto de 7.4 en Colombia hoy, EN VIVO: todas las noticias del sismo este lunes 17 de agosto",
-      "description": "La cifra oficial de muertos ya asciende a 289 personas y hay 143 desaparecidos.\nEn muchos edificios terminaron los intentos de rescatar sobrevivientes, y los vecinos se organizan para recuperar recuerdos entre los escombros.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/mundo/terremoto-74-colombia-hoy-vivo-todas-noticias-sismo-lunes-17-agosto_0_QblQPGraSJ.html",
-      "image": "https://www.clarin.com/img/2026/08/17/qg96E9yRW_1200x630__1.jpg",
-      "pubDate": "2026-08-17T10:57:33.000Z",
-      "emojisString": "💻 🌊 🚗"
-    },
-    {
-      "title": "Eligieron el pueblo más bello del mundo y está en Italia",
-      "description": "La revista de viajes estadounidense Condé Nast Traveler sitúa al pueblito en el primer puesto entre los 20 lugares más interesantes para los viajeros\nLa revista destaca sus playas, su iglesia, las mayólicas, el patrimonio cultural y el paisaje.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/eligieron-pueblo-bello-mundo-italia_0_FKG5cmtCbA.html",
-      "image": "https://www.clarin.com/img/2026/08/16/twSevOvjh_1200x630__1.jpg",
-      "pubDate": "2026-08-17T10:47:55.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Quién era el rapero Tupac Shakur, cómo fue asesinado y por qué 30 años después el crimen sigue sin esclarecerse",
-      "description": "Han pasado tres décadas desde la muerte de Tupac, y desde entonces, su figura no ha hecho más que crecer.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c0rdxzg102zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c02e/live/4872dd60-9a29-11f1-90d9-9d833c0912f2.jpg",
-      "pubDate": "2026-08-17T10:45:48.000Z",
-      "emojisString": "🚨 🚗"
+      "title": "Incendio en una estación transformadora provocó un masivo apagón en La Plata, Tolosa y Gonnet",
+      "description": "El fuego se inició cerca de las 3 de la madrugada en una instalación ubicada en Tolosa. Al menos cuatro dotaciones de bomberos trabajaban durante la mañana para controlar las llamas, mientras amplios sectores permanecían sin suministro eléctrico.\r\n Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/sociedad/incendio-en-una-estacion-transformadora-provoco-un-masivo-apagon-en-la-plata-tolosa-y-gonnet.phtml",
+      "image": "https://fotos.perfil.com/2026/08/17/trim/540/304/incendio-tolosa-2305903.jpg",
+      "pubDate": "2026-08-17T11:20:01.000Z",
+      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-08-17T11:18:56.817Z"
+  "updated": "2026-08-17T11:48:06.543Z"
 }
