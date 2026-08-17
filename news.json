@@ -2,31 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Masivo apagón luz en La Plata, Tolosa y Gonnet por un incendio en una estación transformadora de energía",
-      "description": "El siniestro comenzó alrededor de las 3 de la madrugada en 9 entre 527 y 528 y en el lugar trabajaron al menos cuatro dotaciones de bomberos que, según la empresa Edelap, ya controlaron las llamas",
+      "title": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
+      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/masivo-apagon-de-luz-en-la-plata-tolosa-y-gonnet-por-un-incendio-en-una-estacion-transformadora-de-nid17082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/UOFAWVEELNHOVAYHL4CZL7HHOM.jpeg?auth=655753d616e7b32f85e4832ed24525796835fc32c37df8f003c5ffecffdae162&smart=true&width=1360&height=910",
-      "pubDate": "2026-08-17T13:19:35.000Z",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/LUWO4QSRI5H4NN5M7WXC2D3PXU.JPG?auth=b8c922de007a18d12ff6514305bb85dd01930536d0e3de79a9907721b0b351c8&smart=true&width=3212&height=2141",
+      "pubDate": "2026-08-17T13:54:34.000Z",
+      "emojisString": "🏛️"
+    },
+    {
+      "title": "EN VIVO | La Mañanera de la presidenta Claudia Sheinbaum hoy lunes 17 de agosto",
+      "description": "La mandataria mexicana informa sobre temas de relevancia nacional e internacional y responde a preguntas de la prensa en su conferencia",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/17/la-mananera-de-la-presidenta-claudia-sheinbaum-hoy-lunes-17-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/GSNGWJZQGZH6XBUAC2MBC7NVAE.jpg?auth=6a8698b16b760d98b5c34a4635bf8a32562017620bd7ef7cbcfa1a3a53f12856&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-17T13:54:08.000Z",
+      "emojisString": "🏀 💻"
+    },
+    {
+      "title": "¿Qué está pasando en el Metro y Metrobús hoy 17 de agosto?: línea 7 con marcha lenta por retiro de un tren",
+      "description": "Información y actualización del servicio de transporte público en la capital este lunes en vivo minuto a minuto",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/17/que-esta-pasando-en-el-metro-y-metrobus-hoy-17-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/63N4KLQRJJGNPCL3PXLEXKRT5I.jpg?auth=5b974c7d9dd84eb986c40c202322e8e9cbc26b5777d3d33f5b2208bb858e73aa&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-17T13:53:55.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "¿Esta es la patria que soñó San Martín?",
-      "description": "Las cartas y documentos del prócer destacan su defensa del pueblo, su ética y su respeto por las instituciones de un país libre",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/opinion/2026/08/17/esta-es-la-patria-que-sono-san-martin/",
-      "image": "https://www.infobae.com/resizer/v2/HXAHYILLGJEFPELUHJCR46CSCQ.jpg?auth=906895730b0628318e02aa396113279c63b99266f4fffdfce43267a2e634182c&smart=true&width=5500&height=3942",
-      "pubDate": "2026-08-17T13:18:36.000Z",
+      "title": "Las últimas horas de Hayden Panettiere: cómo fue encontrada, qué reveló la policía y sus últimos mensajes",
+      "description": "La actriz murió el domingo a los 36 años en Carolina del Sur; mientras continúa la investigación para determinar la causa, se conocieron nuevos detalles del llamado al 911",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/las-ultimas-horas-de-hayden-panettiere-como-fue-encontrada-que-revelo-la-policia-y-sus-ultimos-nid17082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/RQ5U7ZZ6BBGNNEU5VZTM46WFCA.jpg?auth=245d87ffb79db591a83eb16905e7636a11b40c5e53273a3afef247abdd124fb1&smart=true&width=5000&height=3236",
+      "pubDate": "2026-08-17T13:53:18.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "El Banco de Corrientes lanzó créditos para el campo: hasta 48 meses de plazo y subsidio de tasa",
+      "description": "La medida busca impulsar el capital de trabajo, la retención de vientres y la infraestructura rural. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/nea/el-banco-de-corrientes-lanzo-creditos-para-el-campo-hasta-48-meses-de-plazo-y-subsidio-de-tasa.phtml",
+      "image": "https://fotos.perfil.com/2026/08/17/trim/540/304/creditos-del-banco-de-corrientes-2305943.jpg",
+      "pubDate": "2026-08-17T13:44:14.000Z",
+      "emojisString": "💵"
+    },
+    {
+      "title": "Sobra mes al salario: el 60% de los argentinos agota sus ingresos antes del día 20",
+      "description": "Los sueldos mejoran en términos nominales, pero no acompaña el poder de compra. Casi la mitad de los trabajadores está en búsqueda de otros empleos para incrementar sus ingresos.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/economia/sobra-mes-al-salario-el-60-los-argentinos-agota-sus-ingresos-antes-del-dia-20-n6311532",
+      "image": "https://media.ambito.com/p/acb15ae676a1182d85a308de203e6e55/adjuntos/239/imagenes/043/585/0043585667/1200x675/866x433:886x453/salarios-ingresos-sueldo.jpg",
+      "pubDate": "2026-08-17T13:41:59.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Trump ordena reducir ejercicios militares de EE.UU. con Corea del Sur por su negativa a participar en la guerra con Irán ",
+      "description": "La decisión de Trump de reducir la colaboración con Seúl se produjo después de que Corea del Sur rechazara recientemente su apoyo a su esfuerzo bélico en Irán.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cjd44v2eg40o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2386/live/b9e94ee0-99c8-11f1-b2ab-0dd01740f9f6.jpg",
+      "pubDate": "2026-08-17T13:39:57.000Z",
+      "emojisString": "💥 🇺🇸"
+    },
+    {
+      "title": "Corrientes apuesta a la obra pública y proyecta generar 13.000 empleos con inversiones estratégicas",
+      "description": "El ministro Jorge Meza ratificó la decisión del Gobierno provincial de sostener la infraestructura para preservar el empleo local.  Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/nea/corrientes-apuesta-a-la-obra-publica-y-proyecta-generar-13000-empleos-con-inversiones-estrategicas.phtml",
+      "image": "https://fotos.perfil.com/2026/08/17/trim/540/304/obras-en-corrientes-2305941.jpg",
+      "pubDate": "2026-08-17T13:33:49.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "Por qué Hayden Panettiere no tenía la custodia de su hija con Wladimir Klitschko: “Fue lo más desgarrador que tuve que hacer en mi vida”",
+      "description": "\"Me parte el corazón pensar que alguien pueda creer que yo entregaría a mi hija sin más y que no me importaría\", sostuvo frente a las críticas. \nDepresión posparto, adicciones y crisis de pareja: los motivos de una decisión más que difícil.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/hayden-panettiere-custodia-hija-wladimir-klitschko-desgarrador-hacer-vida_0_QI51Xh8zQO.html",
+      "image": "https://www.clarin.com/img/2026/08/17/wRoyYFt4W_1200x630__1.jpg",
+      "pubDate": "2026-08-17T13:17:09.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "Greenpeace reclama 1.000 millones anuales para prevenir incendios cada vez más extremos",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/17/greenpeace-reclama-1000-millones-anuales-para-prevenir-incendios-cada-vez-mas-extremos/",
-      "image": null,
-      "pubDate": "2026-08-17T13:17:42.000Z",
-      "emojisString": "📰"
     },
     {
       "title": "Correa y su dupla de élite con Almada: \"Podría estar en cualquier gigante de Europa...\"",
@@ -36,62 +90,8 @@
       "image": "https://www.ole.com.ar/images/2026/08/16/bOZoP4khw_1200x630__1.jpg",
       "pubDate": "2026-08-17T13:16:28.000Z",
       "emojisString": "⚽"
-    },
-    {
-      "title": "Julián Álvarez: la semana bajo las órdenes de Simeone, el \"libérenlo\" de redes sociales y ¿suplente para el debut en LaLiga?",
-      "description": "El atacante argentino completó sus primeros siete días de entrenamiento con el Atlético mientras el interés del Barcelona por hacerse con su pase sigue en pie.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/espana/julian-alvarez-atletico-madrid-entrenamiento_0_h6QkpB6F3l.html",
-      "image": "https://www.ole.com.ar/images/2026/08/17/8AG78l-E1_1200x630__1.jpg",
-      "pubDate": "2026-08-17T13:15:03.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
-      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/LUWO4QSRI5H4NN5M7WXC2D3PXU.JPG?auth=b8c922de007a18d12ff6514305bb85dd01930536d0e3de79a9907721b0b351c8&smart=true&width=3212&height=2141",
-      "pubDate": "2026-08-17T13:14:11.000Z",
-      "emojisString": "🏛️"
-    },
-    {
-      "title": "Una muerte conmociona a la universidad de Cambridge: acusaciones de plagio, denuncias de acoso y una \"vorágine racista\"",
-      "description": "Las acusaciones de plagio formuladas contra Jason Arday, el profesor negro más joven en la historia de la institución, lo indujeron a la muerte. Ahora el caso continúa.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/mundo/una-muerte-conmociona-la-universidad-cambridge-acusaciones-plagio-denuncias-acoso-y-un-voragine-racista-n6311554",
-      "image": "https://media.ambito.com/p/aae671a09e323aa07b5c0f286293050e/adjuntos/239/imagenes/043/585/0043585671/1200x675/smart/cambridge.jpg",
-      "pubDate": "2026-08-17T13:06:00.000Z",
-      "emojisString": "💻 📚 🚗"
-    },
-    {
-      "title": "Shein prevé una valoración de u$s25.000 millones en su salida a bolsa",
-      "description": "Genera expectativa la salida al mercado de la empresa de moda rápida china. Sin embargo, la valoración es menor a la que se esperaba. Las causas.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/finanzas/shein-preve-una-valoracion-us25000-millones-su-salida-bolsa-n6311549",
-      "image": "https://media.ambito.com/p/5074db01104bcdf3cd97ffc29ae1ccf5/adjuntos/239/imagenes/042/848/0042848737/shein.jpg",
-      "pubDate": "2026-08-17T13:00:00.000Z",
-      "emojisString": "📊 🇨🇳"
-    },
-    {
-      "title": "'El Niño' está activo y desde el Servicio Meteorológico Nacional advierten cuando tendría “fuerza considerable”",
-      "description": "De acuerdo con las mediciones técnicas más recientes, durante las últimas semanas se registró una marcada expansión de las anomalías cálidas desde las costas sudamericanas hacia el Pacífico central. En la denominada región Niño 1+2.\r\n Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/clima/el-nino-ya-se-encuentra-activo-y-desde-el-servicio-meteorologico-nacional-advirtieron-cuando-podria-alcanzar-fuerza-considerable.phtml",
-      "image": "https://fotos.perfil.com/2026/06/08/trim/540/304/el-nino-08062026-2256315.jpg",
-      "pubDate": "2026-08-17T12:30:00.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "La epidemia de ébola se propaga a una velocidad nunca antes vista en RD Congo: \"Mata una persona cada 30 minutos\"",
-      "description": "El brote se convirtió en el más mortífero en la historia del país este lunes, cuando la cifra de víctimas ascendió a 2.325.\nMuchos pacientes mueren antes de llegar a los centros médicos y en Bunia, epicentro de la crisis, casi no hay medidas de prevención.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/mundo/epidemia-ebola-rd-congo-propaga-velocidad-vista-mata-persona-30-minutos_0_oYqOh6Td9v.html",
-      "image": "https://www.clarin.com/img/2026/08/14/cTEttDZ23_1200x630__1.jpg",
-      "pubDate": "2026-08-17T12:27:54.000Z",
-      "emojisString": "💻 🏥"
     }
   ],
   "count": 10,
-  "updated": "2026-08-17T13:22:11.807Z"
+  "updated": "2026-08-17T13:59:25.563Z"
 }
