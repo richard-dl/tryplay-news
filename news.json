@@ -2,31 +2,31 @@
   "success": true,
   "data": [
     {
-      "title": "El Decano visita a Estudiantes (RC)",
-      "description": "Tras golear a Independiente en Copa Argentina, Atletico Tucumán quiere extender su buen momento. Seguilo en Olé.",
+      "title": "DANA Aníbal golpea el Perú y el gobierno activa el COEN con presencia de ministros en las regiones más afectadas",
+      "description": "Keiko Fujimori encabezó una reunión de gabinete en el Centro de Operaciones de Emergencia Nacional para supervisar los operativos de atención en Arequipa, Moquegua, Tacna y Lima Sur",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/peru/2026/08/17/dana-anibal-golpea-el-peru-y-el-gobierno-activa-el-coen-con-presencia-de-ministros-en-las-regiones-mas-afectadas/",
+      "image": "https://www.infobae.com/resizer/v2/BK5BGO32QBEL5OQONHWNLIQ3OU.JPG?auth=c13c7296ce404ee07ef2ca062597d610426c354172c9a343b3b58c28bd005ebc&smart=true&width=5500&height=3667",
+      "pubDate": "2026-08-17T17:18:07.000Z",
+      "emojisString": "⚽ 🏛️ 💻"
+    },
+    {
+      "title": "Un hombre agrede a un periodista de Ceuta tras confundirlo con un migrante marroquí: el trabajador iba a cubrir la concentración contra la ministra de Inclusión",
+      "description": "El periodista de ‘El Pueblo de Ceuta’, que ha cubierto todo el conflicto desde el 30 de julio, ha denunciado los hechos ante las autoridades policiales",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/08/17/un-hombre-agrede-a-un-periodista-de-ceuta-tras-confundirlo-con-un-migrante-marroqui-el-trabajador-iba-a-cubrir-la-concentracion-contra-la-ministra-de-inclusion/",
+      "image": "https://www.infobae.com/resizer/v2/AJIRBQC6T5GZ7AC5HEZDTDXNF4.jpg?auth=fc2bb4ee4a42d65d63bfc4567bceb54f46dde54084e4bff91e3c0c37859de075&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-17T17:17:48.000Z",
+      "emojisString": "🚨 💻 💥"
+    },
+    {
+      "title": "Otro revés para Infantino: la Federación Escocesa le retiró el apoyo para las elecciones de la FIFA en 2027",
+      "description": "La entidad se sumó a sus pares de Inglaterra, Irlanda y Gales, entre las tantas Federaciones que ya confirmaron su decisión de no votar por el actual presidente de la casa madre del fútbol.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/atletico-tucuman/decano-visita-estudiantes-rc_0_meps0RbN5m.html",
-      "image": "https://www.ole.com.ar/images/2026/08/12/q2PYroeCx_1200x630__1.jpg",
-      "pubDate": "2026-08-17T16:52:33.000Z",
-      "emojisString": "⚽ 💻 📚"
-    },
-    {
-      "title": "¿Qué está pasando en el Metro y Metrobús hoy 17 de agosto?: líneas 7 y 1 del MB presentan retrasos",
-      "description": "Información y actualización del servicio de transporte público en la capital este lunes en vivo minuto a minuto",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/17/que-esta-pasando-en-el-metro-y-metrobus-hoy-17-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/63N4KLQRJJGNPCL3PXLEXKRT5I.jpg?auth=5b974c7d9dd84eb986c40c202322e8e9cbc26b5777d3d33f5b2208bb858e73aa&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-17T16:50:10.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Guatemala conmemora con fervor cívico el Día de su Bandera Nacional",
-      "description": "La conmemoración de este 17 de agosto también pone la mirada en el origen del emblema patrio, creado por decreto durante el gobierno de Miguel García Granados y convertido después en una fecha nacional",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/guatemala/2026/08/17/guatemala-conmemora-con-fervor-civico-el-dia-de-su-bandera-nacional/",
-      "image": "https://www.infobae.com/resizer/v2/NF3W2K6S4VE63OMEAQUSGZHMZE.jpg?auth=ce37d2a500b3c0e207ce44d44686891cd6793f72026dafd04d55fea3c68cf04b&smart=true&width=1140&height=570",
-      "pubDate": "2026-08-17T16:48:45.000Z",
-      "emojisString": "🏛️"
+      "link": "https://www.ole.com.ar/futbol-internacional/gianniinfantino-fifa-uefa-elecciones2027-federacionescocesa_0_TJ8hWbGOxR.html",
+      "image": "https://www.ole.com.ar/images/2026/08/17/nnLHqJ1Ur_1200x630__1.jpg",
+      "pubDate": "2026-08-17T17:17:01.000Z",
+      "emojisString": "⚽ 🏛️ 🗳️"
     },
     {
       "title": "Las Leonas vencieron por 3 a 2 a Alemania en el Mundial de hockey sobre césped",
@@ -34,64 +34,64 @@
       "source": "La Nación",
       "link": "https://www.lanacion.com.ar/deportes/hockey/las-leonas-vencieron-por-3-a-2-a-alemania-en-el-mundial-de-hockey-sobre-cesped-nid17082026/",
       "image": "https://resizer.glanacion.com/resizer/v2/NIWAG52JR5GFZFRLWHMWGYCRXI.jpg?auth=f91c9bf139dc68fd31d385c08ed3d812bf539fbc702a6b596fa78fb34875529f&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-17T16:48:22.000Z",
+      "pubDate": "2026-08-17T17:16:18.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "La campaña ya empezó (las operaciones también)",
-      "description": "De cara a las elecciones, el oficialismo y la oposición comenzaron sus estrategias",
+      "title": "De una cocina con Estrella Michelin y el Día del Pinot Noir a una noche de vermú y papas fritas: planes para salir esta semana ",
+      "description": "Las propuestas se desplegarán del 17 al 22 de agosto en Palermo, Villa Crespo y Chacarita; habrá encuentros entre cocineros, vinos argentinos, promociones, coctelería y DJ sets",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/la-campana-ya-empezo-las-operaciones-tambien-nid17082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/3YVEAS2AYFCRVCXMWHY73AAWPE.jpg?auth=d32281141c1bccd0c50c12b927c679af29d1bcd224497371a2370121d7dd8ea4&smart=true&width=4337&height=2891",
-      "pubDate": "2026-08-17T16:39:11.000Z",
-      "emojisString": "🗳️ 💻"
+      "link": "https://www.lanacion.com.ar/que-sale/de-una-cocina-con-estrella-michelin-y-el-dia-del-pinot-noir-a-una-noche-de-vermu-y-papas-fritas-nid17082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZEY2ZHKUCJGINFBJ3I2IU6VVUU.jpg?auth=3d9a230e38dc89e9b159d6a30eef978f1857499963aaec43ea77fd48c7c44eb0&smart=true&width=3648&height=3648",
+      "pubDate": "2026-08-17T17:14:48.000Z",
+      "emojisString": "🎬"
     },
     {
-      "title": "Hace 90 años, el Teatro Ópera abría sus puertas con Rapsodia en azul y un corto de Walt Disney",
-      "description": "En el marco de los festejos, la periodista e investigadora urbana Mariela Blanco fue reconocida por su trayectoria dedicada a investigar y difundir el patrimonio arquitectónico y cultural de Buenos Aires.  Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cultura/el-teatro-opera-90-anos-atras-abria-sus-puertas-con-la-interpretacion-de-rapsodia-en-azul-y-un-cortometraje-de-walt-disney.phtml",
-      "image": "https://fotos.perfil.com/2026/08/14/trim/540/304/el-teatro-opera-celebro-sus-90-anos-2304766.jpg",
-      "pubDate": "2026-08-17T16:30:00.000Z",
-      "emojisString": "💻"
+      "title": "Neuquén abre licitación por 15 áreas de Vaca Muerta: quiénes participan, cómo definen ganadores y las aclaraciones de último momento",
+      "description": "Neuquén abrirá el miércoles las ofertas por 15 áreas de Vaca Muerta, con Continental entre los interesados y un esquema que combina inversión, regalías, bono y participación de GyP.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/energia/neuquen-abre-licitacion-15-areas-vaca-muerta-quienes-participan-como-definen-ganadores-y-las-aclaraciones-ultimo-momento-n6311634",
+      "image": "https://media.ambito.com/p/fe98288eb1aea3e075e1dacb77bd9c1b/adjuntos/239/imagenes/043/586/0043586225/vaca-muerta-neuquen-15-areas-licitacion.png",
+      "pubDate": "2026-08-17T16:56:00.000Z",
+      "emojisString": "🚗"
     },
     {
-      "title": "Filtraciones, cocheras y ruidos: los motivos por los que más se pelean los vecinos",
-      "description": "Un análisis de casi 20.000 reclamos revela qué problemas generan más disputas. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/sociedad/filtraciones-cocheras-y-ruidos-los-motivos-por-los-que-mas-se-pelean-los-vecinos.phtml",
-      "image": "https://fotos.perfil.com/2026/08/14/trim/540/304/conflicto-de-vecinos-2304707.jpg",
-      "pubDate": "2026-08-17T16:29:00.000Z",
+      "title": "El paraguayo que volvió a la Premier League y se convirtió en récord para su país",
+      "description": "Julio Enciso firmó por cinco años con Ipswich, que desembolsó cerca de 30 millones de euros por su ficha.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/inglaterra/enciso-ipswich-inglaterra-traspaso-30-millones-record_0_zR7kY6mCvZ.html",
+      "image": "https://www.ole.com.ar/images/2026/08/17/ACEvItQVW_1200x630__1.jpg",
+      "pubDate": "2026-08-17T16:55:31.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "El flojísimo presente de Hinestroza, el delantero que casi llega a Boca: cero goles en 2026 y peleando el descenso con Vasco",
-      "description": "El delantero colombiano, que estuvo cerca de firmar con el Xeneize en febrero, no logra destacarse en el conjunto brasileño, donde cada vez tiene menos minutos.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/america/marino-hinestroza-boca-vasco-da-gama-brasil-presente-goles_0_Bxc5SZ3ryC.html",
-      "image": "https://www.ole.com.ar/images/2026/08/17/xe7CoqiCA_1200x630__1.jpg",
-      "pubDate": "2026-08-17T16:21:59.000Z",
-      "emojisString": "⚽ 💻 🇧🇷"
+      "title": "Estuvo tres días desaparecido y lo encontraron enterrado en el patio de la casa de su pareja",
+      "description": "El cuerpo José Andino (60) fue hallado en una vivienda de la ciudad de San Nicolás. Tenía múltiples golpes en la cabeza.\nPor el crimen fue detenida su pareja, 30 años menor, quien confesó el ataque ante la policía.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/policiales/dias-desaparecido-encontraron-enterrado-patio-casa-pareja_0_8s9wyNXT07.html",
+      "image": "https://www.clarin.com/img/2026/08/17/Mc3ul9Oft_1200x630__1.jpg",
+      "pubDate": "2026-08-17T16:54:23.000Z",
+      "emojisString": "⚽ 🚨 💥"
     },
     {
-      "title": "Bob Dylan, 85 años: \"Una persona tiene éxito si se levanta por la mañana y se acuesta por la noche y entre medias hace lo que le gusta\"",
-      "description": "El músico es una de las figuras más influyentes de la historia de la música.",
+      "title": "El ritual de la cinta amarilla en la puerta: para qué sirve y por qué muchos lo están haciendo",
+      "description": "Es una tendencia que gana fuerza en redes para renovar las energías del hogar.\nQué representa este gesto según las tradiciones de abundancia y cómo se coloca correctamente.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/bob-dylan-85-anos-persona-exito-levanta-manana-acuesta-noche-medias-hace-gusta_0_nT59xlaMRC.html",
-      "image": "https://www.clarin.com/img/2026/08/17/nuCsAm6OO_1200x630__1.jpg",
-      "pubDate": "2026-08-17T16:13:14.000Z",
-      "emojisString": "💻 🎵"
-    },
-    {
-      "title": "Después de 34 días de cierre, mañana abren solo para camiones el paso Cristo Redentor hacia Chile",
-      "description": "Son cerca de 5.000 camiones los que aguardan cerca de la frontera.\nLas restricciones y cómo será la circulación.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/sociedad/despues-34-dias-cierre-manana-abren-solo-camiones-paso-cristo-redentor-chile_0_LS3DaoNJws.html",
-      "image": "https://www.clarin.com/img/2026/08/17/dYuFRcc1p_1200x630__1.jpg",
-      "pubDate": "2026-08-17T16:13:03.000Z",
+      "link": "https://www.clarin.com/informacion-general/ritual-cinta-amarilla-puerta-sirve-haciendo_0_TjmRyrJVZz.html",
+      "image": "https://www.clarin.com/img/2026/07/31/pzXG9lGvl_1200x630__1.jpg",
+      "pubDate": "2026-08-17T16:52:11.000Z",
       "emojisString": "💻"
+    },
+    {
+      "title": "Paro universitario: docentes vuelven a las medidas de fuerza por el financiamiento educativo",
+      "description": "Los docentes y personal no docente profundizan el plan de lucha contra el Gobierno en reclamo del cumplimiento de la ley de Financiamiento Universitario y una recomposición salarial.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/politica/paro-universitario-docentes-vuelven-las-medidas-fuerza-el-financiamiento-educativo-n6311640",
+      "image": "https://media.ambito.com/p/7588852133d6d6bf160151653c0ef700/adjuntos/239/imagenes/043/577/0043577914/1200x675/smart/paro-universitario-1.jpg",
+      "pubDate": "2026-08-17T16:43:58.000Z",
+      "emojisString": "💵 🏛️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-17T16:53:39.833Z"
+  "updated": "2026-08-17T17:20:38.891Z"
 }
