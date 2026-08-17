@@ -2,31 +2,76 @@
   "success": true,
   "data": [
     {
-      "title": "Cómo estará el tiempo durante el feriado en el AMBA: lluvia, humedad y alerta en 10 provincias",
-      "description": "Las condiciones meteorológicas del fin de semana persistirán al menos hasta el martes. El miércoles podría llegar el alivio y se podrán ver algunos rayos del sol. Continúan las nevadas en la zona cordillerana y hay alerta naranja",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/sociedad/2026/08/17/como-estara-el-tiempo-durante-el-feriado-en-el-amba-lluvia-humedad-y-alerta-en-10-provincias/",
-      "image": "https://www.infobae.com/resizer/v2/5UOXVS6MP5GU7MR7K24NOQQXWM.png?auth=03b00abc7532e3fb6daea302588583f2f2832395583b8fd1b4ca0a3e232fab9e&smart=true&width=1408&height=768",
-      "pubDate": "2026-08-17T08:48:51.000Z",
-      "emojisString": "💻 🌤️"
+      "title": "En un traslado sin precedentes, 30 felinos dejan el exzoo de Luján rumbo a dos santuarios en el exterior",
+      "description": "El megaoperativo es liderado por la organización Four Paws; la mitad de los ejemplares viajarán a Denver y la otra mitad, a Sudáfrica",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/en-un-traslado-sin-precedentes-30-felinos-dejan-el-exzoo-de-lujan-rumbo-a-dos-santuarios-en-el-nid17082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2UNRK5XN65DOXLELVNIWXDPP4A.JPG?auth=44483f2a00cb150b44fa2f64b5a3bf409a6a4f2956b818f62d20710e64464664&smart=true&width=4335&height=2894",
+      "pubDate": "2026-08-17T09:41:52.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "Los reyes trasladan sus condolencias a los familiares del militar fallecido en el incendio",
+      "title": "Preservar el agua",
+      "description": "Un precioso recurso vital que es necesario cuidar",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/opinion/preservar-el-agua-nid17082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/UXM2ZYFS5BGOFEVGUF5BDC3G2Y.jpg?auth=28dd6b78d1330c90bdc19aaedfb864c9f128a81f8e77599a3d137282af446e60&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-17T09:34:28.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Mónica García ve cansancio en el entorno de Ayuso pese a que ella se sienta impune",
       "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/17/los-reyes-trasladan-sus-condolencias-a-los-familiares-del-militar-fallecido-en-el-incendio/",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/17/monica-garcia-ve-cansancio-en-el-entorno-de-ayuso-pese-a-que-ella-se-sienta-impune/",
       "image": null,
-      "pubDate": "2026-08-17T08:47:17.000Z",
+      "pubDate": "2026-08-17T09:33:23.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Barcelona rinde un emocionado homenaje a las víctimas en el noveno aniversario del 17A",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/17/barcelona-rinde-un-emocionado-homenaje-a-las-victimas-en-el-noveno-aniversario-del-17a/",
+      "image": null,
+      "pubDate": "2026-08-17T09:33:06.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "La soja cambia de escenario: el USDA abre nuevas oportunidades y Sudamérica toma el protagonismo",
+      "description": "Menor rendimiento, pero más superficie: el balance estadounidense quedó más holgado de lo esperado.\nSudamérica vuelve al centro de la escena mientras se acerca la nueva campaña",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/rural/soja-cambia-escenario-usda-abre-nuevas-oportunidades-sudamerica-toma-protagonismo_0_PaVNnWb2nR.html",
+      "image": "https://www.clarin.com/img/2021/05/12/404a_NdUi_1200x630__1.jpg",
+      "pubDate": "2026-08-17T09:13:38.000Z",
+      "emojisString": "🗳️ 💻"
+    },
+    {
+      "title": "\"Están aniquilando los corderos\": la impotencia de una productora por el ataque de pumas en su campo",
+      "description": "Animales salvajes acechan a los campos del partido de Necochea generando graves ataques y pérdidas.\nLos corderos son las principales víctimas.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/rural/aniquilando-corderos-impotencia-productora-ataque-pumas-campo_0_JEm2yU3C68.html",
+      "image": "https://www.clarin.com/img/2026/08/15/kCqlhzoyj_1200x630__1.jpg",
+      "pubDate": "2026-08-17T09:11:38.000Z",
       "emojisString": "💻 💥"
     },
     {
-      "title": "Elecciones en California 2026: Becerra aventaja por 18 puntos a Hilton en la última encuesta por la gobernación",
-      "description": "Xavier Becerra lidera con 55% frente al 37% de Steve Hilton en la encuesta de UC Berkeley para gobernador de California en noviembre de 2026",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/california/elecciones-en-california-2026-becerra-aventaja-por-18-puntos-a-hilton-en-la-ultima-encuesta-por-la-nid17082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TISTOQNHNZF35JKQLQN4EUPE7A.png?auth=6f2dc764eab5a0e2da6a4f66586a60ec46a7cf4da240fb5ae931d5bbfbb1d31c&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-17T08:39:00.000Z",
-      "emojisString": "🗳️ 💻"
+      "title": "Partidos de HOY, lunes 17 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+      "description": "Se cierra la quinta fecha del Torneo Clausura, sigue la actividad en el Ascenso, siguen los primeros partidos de la temporada europea y más. ¡Mirá!",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-lunes-17-agosto-horario-ver-futbol-vivo-tv-online_0_3ZtGAxs41R.html",
+      "image": "https://www.ole.com.ar/images/2026/07/30/Zx1Yzueh4_1200x630__1.jpg",
+      "pubDate": "2026-08-17T09:01:38.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "A qué hora juegan Las Leonas vs. Alemania por el Mundial de hockey 2026 y dónde ver el partido de hoy EN VIVO",
+      "description": "Tras el empate con Estados Unidos, el seleccionado femenino saldrá a la cancha contra las teutones y con la necesidad de ganar. Seguilo en Olé.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/hockey/hora-juegan-leonas-vs-alemania-mundial-hockey-2026-ver-partido-hoy-vivo_0_7GbiIjqWYs.html",
+      "image": "https://www.ole.com.ar/images/2026/08/15/zehINdR5N_1200x630__1.jpg",
+      "pubDate": "2026-08-17T09:01:37.000Z",
+      "emojisString": "⚽ 💻 🇺🇸"
     },
     {
       "title": "Encuesta: a 176 años de la muerte de San Martín, el 66% cree que la defensa de la patria está menos presente en el Gobierno",
@@ -45,53 +90,8 @@
       "image": "https://fotos.perfil.com/2026/08/12/trim/540/304/mauricio-macri-y-karina-milei-2303574.jpg",
       "pubDate": "2026-08-17T08:25:00.000Z",
       "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "9 cosas que aconsejan que hagas a partir de los 40 para aumentar tu longevidad",
-      "description": "Cómo te cuides en esta etapa de la vida puede influir en tu envejecimiento.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/buena-vida/9-cosas-aconsejan-hagas-partir-40-aumentar-longevidad_0_KkvCFnTTAj.html",
-      "image": "https://www.clarin.com/img/2026/07/29/sPOESWQTz_1200x630__1.jpg",
-      "pubDate": "2026-08-17T08:01:35.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Apps de citas (y otras ideas) para mayores de 50: cómo funciona cada una",
-      "description": "De Tinder a Facebook Parejas, cuáles son las plataformas para conocer gente en adultos mayores.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/relaciones/apps-citas-ideas-mayores-50-funciona_0_nBhOFz8o53.html",
-      "image": "https://www.clarin.com/img/2024/03/20/G543i02Lr_1200x630__1.jpg",
-      "pubDate": "2026-08-17T08:01:35.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Javier Milei y sus medidas, en vivo: el discurso en el acto homenaje a San Martín y el armado electoral de cara al 2027",
-      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-discurso-en-el-acto-homenaje-a-san-martin-y-el-armado-nid17082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/LUWO4QSRI5H4NN5M7WXC2D3PXU.JPG?auth=b8c922de007a18d12ff6514305bb85dd01930536d0e3de79a9907721b0b351c8&smart=true&width=3212&height=2141",
-      "pubDate": "2026-08-17T08:00:00.000Z",
-      "emojisString": "🏛️"
-    },
-    {
-      "title": "Javier Milei retomará la agenda pública en el acto de homenaje a José de San Martín junto a todo el Gabinete",
-      "description": "El Presidente reaparecerá tras varios días de bajo perfil y dará un discurso por cadena nacional junto al jefe de Gobierno porteño, Jorge Macri.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/javier-milei-retomara-la-agenda-publica-el-acto-homenaje-jose-san-martin-junto-todo-el-gabinete-n6311318",
-      "image": "https://media.ambito.com/p/34e96f7dfc874497613c7dc75c49304f/adjuntos/239/imagenes/043/302/0043302296/1200x675/919x569:939x589/milei-amcham.jpeg",
-      "pubDate": "2026-08-17T03:02:00.000Z",
-      "emojisString": "🏛️"
-    },
-    {
-      "title": "Wall Street: bajan la inflación, las ventas y las chances de una suba de tasas de la Fed y el rally suma récords",
-      "description": "Pese a la tensión en Medio Oriente, la bolsa estadounidense extiende su racha. La desaceleración de los precios y del consumo redujo las apuestas por una suba de tasas, mientras los balances empresariales mantienen firme el optimismo. Sin embargo, la presión sobre los bonos del Tesoro, el déficit fi",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/economia/wall-street-bajan-la-inflacion-las-ventas-y-las-chances-una-suba-tasas-la-fed-y-el-rally-suma-records-n6311395",
-      "image": "https://media.ambito.com/p/0e836136971e1732e4fdba0e1440b334/adjuntos/239/imagenes/043/498/0043498116/1200x675/1138x736:1158x756/wall-street-nyse-nasdaq-dow-jones-mercados.jpg",
-      "pubDate": "2026-08-17T03:00:00.000Z",
-      "emojisString": "💵 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-17T08:59:03.740Z"
+  "updated": "2026-08-17T09:45:55.196Z"
 }
