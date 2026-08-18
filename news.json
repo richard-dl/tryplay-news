@@ -2,49 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Magaly Medina se burla del comunicado de Janet Barboza por Teletón y Ethel Pozo: “Tú eres la última rueda del coche”",
-      "description": "La periodista se refirió al mensaje que compartió la conductora de América Hoy luego de que Ethel Pozo revelara que la retiraron de Teletón por sus excompañeros de programa",
+      "title": "La CBF repudia amenazas contra el presidente del Corinthians",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/08/18/magaly-medina-se-burla-del-comunicado-de-janet-barboza-por-teleton-y-ethel-pozo-tu-eres-la-ultima-rueda-del-coche/",
-      "image": "https://www.infobae.com/resizer/v2/A6MYRHYXBFC5NOQVX2OGLJ2IMA.jpg?auth=b107fb4364733f5c62fa5e4152d71c66ad856db32f45c23b2c38d5df4ef8cf8e&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-18T19:51:11.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/america/agencias/2026/08/18/la-cbf-repudia-amenazas-contra-el-presidente-del-corinthians/",
+      "image": null,
+      "pubDate": "2026-08-18T20:16:34.000Z",
+      "emojisString": "🏛️ 💻"
     },
     {
-      "title": "Juicio por la muerte de Maradona, en vivo: un perito aseguró que los medicamentos que tomaba Diego generaban riesgo cardíaco",
-      "description": "El toxicólogo Carlos Damin explicó que tres de los psicofármacos prescriptos exigían controles cardiológicos de rutina y aseguró que esos estudios no se realizaron. También declaró el nefrólogo Hernán Trimarchi",
+      "title": "La deuda pública aumentó en julio por la política de cobertura para pagar próximos vencimientos",
+      "description": "La Administración Central hizo operaciones financieras por USD 35.009 millones y el stock subió en USD 6.064 millones antes de ajustes, pero diferencias de cambio y de valuación determinaron una suba final en el mes de USD 10.530 millones",
       "source": "Infobae",
-      "link": "https://www.infobae.com/sociedad/policiales/2026/08/18/juicio-por-la-muerte-de-maradona-en-vivo-las-ultimas-noticias-de-hoy-18-de-agosto-minuto-a-minuto/",
-      "image": "https://www.infobae.com/resizer/v2/YD6NEM2SCVFE7I6YUHV7CMBJ3A.jpg?auth=8117b5361716b7a54b08ed56a56b885630033df5a594e9cf77aad5b3205f64cd&smart=true&width=1920&height=1079",
-      "pubDate": "2026-08-18T19:51:04.000Z",
-      "emojisString": "⚖️ 🚗"
+      "link": "https://www.infobae.com/economia/2026/08/18/la-deuda-publica-aumento-en-julio-por-la-politica-de-cobertura-para-pagar-proximos-vencimientos/",
+      "image": "https://www.infobae.com/resizer/v2/ZXRHEW3KC5A6JDWYDVKA5GHM3Q.JPG?auth=9f0f860056ca95c36b27318637b100e4cb46482af6db221e4cd9abf44cc51ba1&smart=true&width=5500&height=3667",
+      "pubDate": "2026-08-18T20:16:31.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Globant nombra un nuevo CEO para liderar su negocio de servicios nativos de IA",
+      "description": "Sarab Narang estará a cargo del crecimiento de Glob.AI, con foco en acelerar la adopción de inteligencia artificial en las empresas",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/tecnologia/globant-nombra-un-nuevo-ceo-para-liderar-su-negocio-de-servicios-nativos-de-ia-nid18082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/XMMRJYZ37VHUDNQU2M52LEGZQM.jpg?auth=c3648bbcf32b06cc37dd79fe5060259161e1e77883197e45af2fb65fc7e2ce81&smart=true&width=299&height=299",
+      "pubDate": "2026-08-18T20:15:41.000Z",
+      "emojisString": "📊 💻"
+    },
+    {
+      "title": "La fiscalía investiga a Cerimedo como el autor intelectual del ataque a su pareja en Bolivia: es el principal acusado ",
+      "description": "Fuentes de la causa dijeron a LA NACION que por el momento no manejan otra hipótesis; la víctima lo señaló como el responsable; él declarará hoy y, después, el juez decidirá si le dicta la prisión preventiva; ordenaron nuevas medidas de prueba",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/la-fiscalia-avanza-contra-cerimedo-como-el-autor-intelectual-del-ataque-a-su-pareja-en-bolivia-es-el-nid18082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/I3X6TRMRIBFO3KNIQI6DVTSKWU.jpg?auth=c37eda51f491b036258924f7f3c2cac020909c9051bcef68e3161e0fbee9ce6c&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-18T20:15:02.000Z",
+      "emojisString": "⚖️ 💻 💥"
+    },
+    {
+      "title": "Recordadas peleas entre entrenadores del fútbol argentino en los últimos años",
+      "description": "Luego del escándalo protagonizado por Guillermo Barros Schelotto y Julio Vaccari en Vélez vs. Defensa, en Olé repasamos otros fuertes encontronazos entre detés locales.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-primera/peleas-entrenadores-futbol-argentino-vaccari-guillermo_0_PRX22GvJTP.html",
+      "image": "https://www.ole.com.ar/images/2026/08/18/tKn70R6D3_1200x630__1.jpg",
+      "pubDate": "2026-08-18T20:05:38.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "Líneas aéreas: se profundizó la contracción del mercado doméstico por la crisis económica y la caída de Flybondi",
+      "description": "La cantidad de pasajeros que volaron dentro del país cayó 7% interanual en julio, con 109.000 viajeros menos. La low cost perdió unos 250.000 pasajeros, pero Aerolíneas Argentinas y JetSmart solo pudieron absorber una parte.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/negocios/lineas-aereas-se-profundizo-la-contraccion-del-mercado-domestico-la-crisis-economica-y-la-caida-flybondi-n6312013",
+      "image": "https://media.ambito.com/p/d7749606e9324008329ff05b1ae50d61/adjuntos/239/imagenes/041/043/0041043228/1200x675/smart/aeroparque-finde-largojpg.jpg",
+      "pubDate": "2026-08-18T20:00:00.000Z",
+      "emojisString": "📊 💻"
     },
     {
       "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 18 de agosto",
       "description": "Conocé las cotizaciones dólar blue, el oficial, el MEP y el CCL.",
       "source": "Ámbito",
       "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-18-agosto-n6311797",
-      "image": "https://media.ambito.com/p/b06323ac6581410637918e1cf4af0077/adjuntos/239/imagenes/043/323/0043323248/1200x675/821x369:841x389/mercados-acciones-bolsas-cedear-inversiones-finanzas-vivo.jpg",
-      "pubDate": "2026-08-18T19:49:00.000Z",
+      "image": "https://media.ambito.com/p/a4c12f695e05fcbd9f0c1173a1e952d8/adjuntos/239/imagenes/043/560/0043560261/1200x675/2835x1094:2855x1114/mercados-finanzas-bolsas-acciones-inversiones-cedears-riesgo-pais-vivo.jpg",
+      "pubDate": "2026-08-18T19:56:00.000Z",
       "emojisString": "💵 💻"
     },
     {
-      "title": "Removieron a un juez federal que realizó expresiones antisemitas en redes sociales",
-      "description": "El jurado de enjuiciamiento lo apartó del cargo por mal desempeño en sus funciones",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/removieron-al-juez-federal-que-realizo-expresiones-antisemitas-en-redes-sociales-nid18082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EPO7S7X6ERAOVJNE2754JBTMHM.jpg?auth=bbb14d9150de0b29525592af47e1070fe8f056c41a768c6f98070e5570d97314&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-18T19:47:25.000Z",
-      "emojisString": "⚖️ 💻"
+      "title": "Dólar blue hoy: cerró a $1.555 este martes 18 de agosto",
+      "description": "La divisa norteamericana paralela cerró al alza la primera rueda cambiaria de la semana, presentando una suba de $10. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-martes-18-de-agosto-a50.phtml",
+      "image": "https://fotos.perfil.com/2026/08/01/trim/540/304/010826dolarxinhuag-2295651.jpg",
+      "pubDate": "2026-08-18T19:55:00.000Z",
+      "emojisString": "💵 💻"
     },
     {
-      "title": "Milei celebró el dato de la inflación mayorista: “Y al final, julio empezó con cero” ",
-      "description": "El mandatario también elogió a Luis Caputo, quien destacó que la cifra es “la menor para un mes de julio desde el año 2019”",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/milei-celebro-el-dato-de-la-inflacion-mayorista-y-al-final-julio-empezo-con-cero-nid18082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/DM24QNC22FFRDPYZDADVD2H25Y.jpg?auth=785d3333a597a0b2ef279aa6754c241a7dc61e43d243361cae6b1d3b213d1d94&smart=true&width=1213&height=910",
-      "pubDate": "2026-08-18T19:45:24.000Z",
-      "emojisString": "💵 🏛️"
+      "title": "A cuánto cerró el euro blue hoy, 18 de agosto",
+      "description": "La cotiza europea informal cierra al alza la primer rueda cambiaria de la semana, presentando una suba de $11. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-18-de-agosto-a50.phtml",
+      "image": "https://fotos.perfil.com/2026/03/23/trim/540/304/a-cuanto-cerro-el-euro-blue-hoy-2208160.jpg",
+      "pubDate": "2026-08-18T19:52:00.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Santiago Cañizares, exarquero: \"Los futbolistas, salvo que sean hijos de jugadores, no están preparados para saber gestionar patrimonios\"",
@@ -54,44 +90,8 @@
       "image": "https://www.clarin.com/img/2021/05/20/pKPNTNDbX_1200x630__1.jpg",
       "pubDate": "2026-08-18T19:34:01.000Z",
       "emojisString": "💵 💻 📚"
-    },
-    {
-      "title": "Tambalean los bonos de EEUU y las tasas tocan niveles récord: por qué se disparó el nerviosismo en el mercado",
-      "description": "Un conjunto de factores, tanto estructurales como coyunturales, dispararon una venta masiva de los \"Treasuries\" que luego derramó sobre la deuda soberana de las principales economías del mundo.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/economia/tambalean-los-bonos-eeuu-y-las-tasas-tocan-niveles-record-que-se-disparo-el-nerviosismo-el-mercado-n6312044",
-      "image": "https://media.ambito.com/p/d33bfcf4405c95b1be237b8177384a07/adjuntos/239/imagenes/040/944/0040944942/1200x675/smart/mercados-acciones-finanzas-inversiones-wall-street.jpg",
-      "pubDate": "2026-08-18T19:34:00.000Z",
-      "emojisString": "📊 🌊 🇺🇸"
-    },
-    {
-      "title": "Condenaron a tres años y cuatro meses de prisión a un cura denunciado en Córdoba por abuso sexual",
-      "description": "El sacerdote Patricio Cruz Viale fue denunciado en 2024 por una fiel de su comunidad.\nEstuvo detenido en la cárcel de Bouwer y en los últimos meses cumplió prisión domiciliaria.\nUna prima también lo acusó de abuso.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/sociedad/condenaron-anos-meses-prision-cura-denunciado-cordoba-abuso-sexual_0_b6w7AIsBek.html",
-      "image": "https://www.clarin.com/img/2024/11/09/FFJmV4Wnl_1200x630__1.jpg",
-      "pubDate": "2026-08-18T19:29:04.000Z",
-      "emojisString": "🚨 💻 🚗"
-    },
-    {
-      "title": "Dos títulos de las Infantiles de River en un reconocido torneo juvenil organizado por Atlético Rafaela",
-      "description": "Las categorías 2017 y 2018 de la cantera de Núñez se lograron el campeonato con el estilo futbolístico marca registrada de los chicos del CARP.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/river-plate/river-infantiles-categoria-2017-2018-campeones_0_gVKKhuzXsc.html",
-      "image": "https://www.ole.com.ar/images/2026/08/18/91RjYI3jf_1200x630__1.jpg",
-      "pubDate": "2026-08-18T19:25:11.000Z",
-      "emojisString": "⚽"
-    },
-    {
-      "title": "El sacerdote Cruz Viale fue condenado a 3 años y 4 meses de prisión por abuso sexual simple",
-      "description": "El fiscal Luis Saragusti cambió la acusación inicial de abuso sexual gravemente ultrajante. El juez Nassiz coincidió con esa perspectiva. La querella había pedido ocho años de cárcel. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/caso-cruz-viale-el-fiscal-de-camara-pidio-36-anos-de-prision-con-una-acusacion-menor-a-la-inicial.phtml",
-      "image": "https://fotos.perfil.com/2026/08/18/trim/540/304/cruz-viale-2306457.jpg",
-      "pubDate": "2026-08-18T19:25:00.000Z",
-      "emojisString": "⚖️ 💻 🚗"
     }
   ],
   "count": 10,
-  "updated": "2026-08-18T19:56:09.747Z"
+  "updated": "2026-08-18T20:18:02.919Z"
 }
