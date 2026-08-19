@@ -2,67 +2,49 @@
   "success": true,
   "data": [
     {
-      "title": "Calidad del aire en Lota urbana este 19 de agosto de 2026",
-      "description": "Estas son algunas recomendaciones a considerar para el estado actual de la calidad del aire",
+      "title": "El ministro Jaime Andrés Beltrán se disculpó por su viaje a Santa Marta durante la emergencia por el terremoto: “Nunca han estado abandonados”",
+      "description": "El ministro de Vivienda es centro de críticas luego de las imágenes que se conocieron del funcionario en Santa Marta junto a su esposa, Paula Ramírez",
       "source": "Infobae",
-      "link": "https://www.infobae.com/noticias/2026/08/19/calidad-del-aire-en-lota-urbana-este-19-de-agosto-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-19T11:46:32.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/colombia/2026/08/19/el-ministro-jaime-andres-beltran-se-disculpo-por-su-viaje-a-santa-marta-durante-la-emergencia-por-el-terremoto-nunca-han-estado-abandonados/",
+      "image": "https://www.infobae.com/resizer/v2/PW52ZYXTCNABLAOJZSG7GGJ3HQ.png?auth=55682c6674bb580ed1763a79e928b11e21e79e4b8b65cd0a1fd8e105305c91de&smart=true&width=510&height=322",
+      "pubDate": "2026-08-19T12:27:29.000Z",
+      "emojisString": "💻 🌊"
     },
     {
-      "title": "Costa y Von der Leyen expresan su apoyo \"firme\" al TPI tras las sanciones de EEUU contra su presidenta",
-      "description": "",
+      "title": "Pesca artesanal peruana, los costos de un sector desarticulado",
+      "description": "Según estimaciones del propio sector pesquero, existen más de 23,000 embarcaciones artesanales registradas, aunque una parte de ellas opera al margen de las exigencias legales",
       "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/19/costa-y-von-der-leyen-expresan-su-apoyo-firme-al-tpi-tras-las-sanciones-de-eeuu-contra-su-presidenta/",
-      "image": "https://www.infobae.com/resizer/v2/3CNNCEAZYBE7JECVOJ7WINHYLU.jpg?auth=5afb88e57c2a9e03c9297ebe7e6f88e30bf0211dd8f35f430abcedc24529a5a6&smart=true&width=1920&height=1451",
-      "pubDate": "2026-08-19T11:46:31.000Z",
-      "emojisString": "🇺🇸"
+      "link": "https://www.infobae.com/peru/2026/08/19/pesca-artesanal-peruana-los-costos-de-un-sector-desarticulado/",
+      "image": "https://www.infobae.com/resizer/v2/A66USNOWBZCPRNSWLIM3UUNUO4.jpg?auth=6df87f3a2580a5a3ec2baf23d71ba418c34a7ca938445bb9a5e02dd3da07fca2&smart=true&width=1920&height=1006",
+      "pubDate": "2026-08-19T12:27:22.000Z",
+      "emojisString": "💻"
     },
     {
-      "title": "Multaron a un turista en Noruega por despertar a un oso polar con una sirena marítima",
-      "description": "Un hombre tuvo que pagar más de 5000 dólares por accionar una bocina de un crucero en el archipiélago de Svalbard; las autoridades consideraron que la acción fue perjudicial para la especie protegida",
+      "title": "Murió la madre de las dos hermanas de 21 y 19 años que fallecieron en el choque de la ruta 60",
+      "description": "Ariadna Tillar iba a bordo de la Volkswagen T-Cross que impactó contra otro automóvil el domingo por la noche; ya son cuatro las víctimas fatales del siniestro",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/el-mundo/multaron-a-un-turista-en-noruega-por-despertar-a-un-oso-polar-con-una-sirena-maritima-nid19082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/NJ23CJ3N3BHX7BMBBZIB2TMR4I.jpg?auth=d11bb10aa2e665eca1c638838a27076d0f37dcf3a04ccaf699974842a32e8cc0&smart=true&width=2048&height=1233",
-      "pubDate": "2026-08-19T11:44:50.000Z",
+      "link": "https://www.lanacion.com.ar/sociedad/murio-la-madre-de-las-dos-hermanas-de-21-y-19-anos-que-fallecieron-en-el-choque-de-la-ruta-60-nid19082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HG6EZRMZUZA6BC4RV6QG6HE7DQ.jpg?auth=989c0823a48a9451e8b0bf2bd224d004bf91ce8b2ec1a6fab42844bdcc44f559&smart=true&width=1360&height=910",
+      "pubDate": "2026-08-19T12:25:47.000Z",
+      "emojisString": "💻 🚗"
+    },
+    {
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 19 de agosto, minuto a minuto",
+      "description": "La divisa oficial operó a $1515 para la venta en el Banco Nación; el dólar blue cotizó a $1555 para esa operación; qué pasa con el MEP y el CCL",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid19082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HGBZWIHSVVDBVBCF23NUUJ2XLY.jpg?auth=40e09115afc78a149c92d253c6c6877abd691d700b49b22373bfe4895a7d234d&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-19T12:25:01.000Z",
       "emojisString": "💵 💻"
     },
     {
-      "title": "Resultado de las Leonas vs. Escocia: quién ganó el partido del Mundial 2026",
-      "description": "La selección argentina se impuso 2 a 0 en el Belfius Hockey Arena de Wavre y se clasificó a la siguiente instancia",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/hockey/resultado-de-las-leonas-vs-escocia-quien-gano-el-partido-del-mundial-2026-nid19082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/I5MI6FUR4FBLFOYOUIQ7IVSOXA.jpg?auth=4e422488097427895953cfe79fba1f31ebe9ed7f3f277141fb357d4a07e59d41&smart=true&width=4096&height=2731",
-      "pubDate": "2026-08-19T11:44:19.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Dólar y barrera de $1.500: cuál es la estrategia oficial que vuelve a tensionar las tasas y el mercado",
-      "description": "El mayorista volvió a $1.495 y el mercado sigue de cerca las intervenciones del Banco Central y el Tesoro. La contracara aparece en las tasas de interés y en un menor ritmo de compra de reservas durante agosto.",
+      "title": "El tránsito por el estrecho de Ormuz se ralentiza y aumenta la tensión en Medio Oriente",
+      "description": "Se trata de un relevo que arrojó la cantidad de buques en estas últimas semanas. Por esta vía pasaron buques de materias primas, un superpetrolero vacío y otros de diversos alcances.",
       "source": "Ámbito",
-      "link": "https://www.ambito.com/finanzas/dolar-y-barrera-1500-cual-es-la-estrategia-oficial-que-vuelve-tensionar-las-tasas-y-el-mercado-n6312275",
-      "image": "https://media.ambito.com/p/94329f95a8c489a18074ac76e7d1eba7/adjuntos/239/imagenes/043/416/0043416983/1200x675/smart/dolar-banco-central-bcra.jpg",
-      "pubDate": "2026-08-19T11:43:00.000Z",
-      "emojisString": "💵 📊 💻"
-    },
-    {
-      "title": "A cuánto cotiza el dólar blue hoy, miércoles 19 de agosto",
-      "description": "El mercado cambiario abre una nueva rueda sin variaciones en la cotización informal y los tipos de cambio financieros, mientras la mirada sigue puesta en la brecha con el dólar oficial y el comportamiento del riesgo país. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-dolar-blue-hoy-miercoles-19-de-agosto-a50.phtml",
-      "image": "https://fotos.perfil.com/2026/07/21/trim/540/304/dolares-2288378.jpg",
-      "pubDate": "2026-08-19T11:37:00.000Z",
-      "emojisString": "💵 📊 💻"
-    },
-    {
-      "title": "A cuánto cotiza el euro blue hoy, 19 de agosto",
-      "description": "En el inicio de la rueda, las cotizaciones del euro y del dólar concentran las miradas de los operadores en el plaza local, mientras los bancos y los canales de información ajustan sus pizarras para seguir el comportamiento del mercado paralelo, el esquema oficial y las referencias para consumos en",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-19-de-agosto-a50.phtml",
-      "image": "https://fotos.perfil.com/2026/01/27/trim/540/304/a-cuanto-cerro-el-euro-blue-hoy-2176303.jpg",
-      "pubDate": "2026-08-19T11:35:00.000Z",
-      "emojisString": "💵 📊 💻"
+      "link": "https://www.ambito.com/mundo/el-transito-el-estrecho-ormuz-se-ralentiza-y-aumenta-la-tension-medio-oriente-n6312279",
+      "image": null,
+      "pubDate": "2026-08-19T12:21:00.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este miércoles 19 de agosto",
@@ -70,28 +52,46 @@
       "source": "Ámbito",
       "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-miercoles-19-agosto-n6312269",
       "image": "https://media.ambito.com/p/e8141c0682bf6fceb4d73f3d187680c3/adjuntos/239/imagenes/043/411/0043411160/1200x675/1814x962:1834x982/mercados-finanzas-bolsas-acciones-merval-adr-cedears-vivo-riesgo-pais.jpg",
-      "pubDate": "2026-08-19T11:30:00.000Z",
+      "pubDate": "2026-08-19T12:21:00.000Z",
       "emojisString": "💵 💻"
     },
     {
-      "title": "\"Haber perdido a mi esposo me duele más que haber perdido mi mano derecha\": el testimonio de Nayarit Colmenares, la mujer amputada tras los terremotos en Venezuela",
-      "description": "Nayarit busca recursos para dotarse de una prótesis biónica que le permita volver a pintar y dibujar, después de autorizar a sus médicos a que le cortaran el brazo debido a los efectos del síndrome de aplastamiento.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c8en2r3z61wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c4b8/live/9e5c7660-9bbd-11f1-ae8a-8d57110c5ba6.jpg",
-      "pubDate": "2026-08-19T11:11:27.000Z",
-      "emojisString": "🌊 🏥"
+      "title": "Fuerte carta de \"Chiqui\" Tapia por las teorías conspirativas sobre la final: \"De tratar de traidores a los jugadores no se vuelve\"",
+      "description": "El presidente de la AFA cuestionó a quienes acusaron a la Selección argentina de haberse \"entregado\" en el partido definitorio y reclamó que pidan disculpas por las versiones. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/deportes/fuerte-carta-de-chiqui-tapia-por-las-teorias-conspirativas-sobre-la-final-de-tratar-de-traidores-a-los-jugadores-no-se-vuelve.phtml",
+      "image": "https://fotos.perfil.com/2026/08/07/trim/540/304/chiqui-tapia-2299855.jpg",
+      "pubDate": "2026-08-19T12:14:00.000Z",
+      "emojisString": "⚽ 🏛️ 💻"
     },
     {
-      "title": "La increíble casa de acero y madera que se construye en 72 horas",
-      "description": "Se llama Villa Korup y se extiende a lo largo de tres alas alargadas.\nEs para crear suficiente espacio para satisfacer las necesidades de una familia de seis personas.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/increible-casa-acero-madera-construye-72-horas_0_4MHip8Ov5X.html",
-      "image": "https://www.clarin.com/img/2021/01/12/glZ3Ghjv1_1200x630__1.jpg",
-      "pubDate": "2026-08-19T11:03:45.000Z",
+      "title": "AUH de ANSES: cuánto se cobrará en septiembre con el nuevo aumento",
+      "description": "La Asignación Universal por Hijo tendrá una actualización del 2,11% desde septiembre. Cuáles serán los nuevos montos y cuánto recibirán efectivamente los beneficiarios. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/economia/auh-de-anses-cuanto-se-cobrara-en-septiembre-con-el-nuevo-aumento.phtml",
+      "image": "https://fotos.perfil.com/2025/10/21/trim/540/304/anses-2122797.jpg",
+      "pubDate": "2026-08-19T12:10:00.000Z",
       "emojisString": "💻"
+    },
+    {
+      "title": "Desafío a Zelenski en Ucrania: el exministro de Defensa reclama elecciones presidenciales en plena guerra",
+      "description": "Desde el estallido del conflicto en 2022, el país se encuentra bajo ley marcial, lo que implica la suspensión de las elecciones.\n\"La democracia no puede ser rehén de Rusia\", afirmó Mykhailo Fedorov, echado por Zelenski el mes pasado y reemplazado este miércoles por Yevhenii Khmara.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/mundo/desafio-zelenski-ucrania-exministro-defensa-reclama-elecciones-presidenciales-plena-guerra_0_B5qhK539Th.html",
+      "image": "https://www.clarin.com/img/2026/08/19/LRXMWr9Zd_1200x630__1.jpg",
+      "pubDate": "2026-08-19T12:08:26.000Z",
+      "emojisString": "🗳️ 💻 💥"
+    },
+    {
+      "title": "Nick Kyrgios dio positivo por cocaína y fue suspendido provisionalmente",
+      "description": "El tenista australiano quedó envuelto en un nuevo episodio que sacudió al circuito. Su palabra al respecto.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/tenis/nick-kyrgios-tenis-positivo-cocaina-suspension_0_leVzLpgtlq.html",
+      "image": "https://www.ole.com.ar/images/2026/01/03/loKr1TjUQ_1200x630__1.jpg",
+      "pubDate": "2026-08-19T12:06:01.000Z",
+      "emojisString": "🎾 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-19T11:48:18.565Z"
+  "updated": "2026-08-19T12:32:22.004Z"
 }
