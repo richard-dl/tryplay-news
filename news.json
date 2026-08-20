@@ -2,49 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Chubut: la Justicia reconoció como sujetos de derecho a 23 gatos rescatados y ordenó que no vuelvan con su dueño",
-      "description": "Los animales fueron hallados en una casa de Rawson, donde vivían hacinados, desnutridos y sin atención sanitaria. Tras completar su recuperación, quedaron de manera definitiva al cuidado de familias adoptivas. Otros 27 continúan bajo tratamiento veterinario",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/sociedad/policiales/2026/08/20/chubut-la-justicia-reconocio-como-sujetos-de-derecho-a-23-gatos-rescatados-y-ordeno-que-no-vuelvan-con-su-dueno/",
-      "image": "https://www.infobae.com/resizer/v2/PEHVZYZYSNBQJAY6DPPYSJJDG4.jpg?auth=7560b25d8e1c609e77fbf8b60b47adc5c7161805b82a84a9446207f7bcffd6ca&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-20T21:50:22.000Z",
-      "emojisString": "⚖️ 💻"
-    },
-    {
-      "title": "EN VIVO: Luis Galarreta y el gabinete de ministros presentaron la política general del gobierno en la Cámara de Diputados",
-      "description": "El premier detalla los objetivos del Ejecutivo en una sesión histórica que inauguró el nuevo formato de rendición de cuentas ante la Cámara de Diputados, sin voto de investidura de por medio",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/08/20/congreso-en-vivo-luis-galarreta-y-el-gabinete-de-ministros-presenta-la-politica-general-del-gobierno-en-la-camara-de-diputados/",
-      "image": "https://www.infobae.com/resizer/v2/4WPBDARYWFAAHIKFHGWAM3HG6I.png?auth=22e925f267bad6c9ad0cc4a4aa6057d729978124c4a5751b0dff3b0e916644a5&smart=true&width=2752&height=1536",
-      "pubDate": "2026-08-20T21:50:08.000Z",
-      "emojisString": "🏛️ 🗳️"
-    },
-    {
-      "title": "Al Caribe en avión privado: el viaje de Massa con su esposa y amigos en medio del retorno a la discusión electoral",
-      "description": "Después de la última cumbre peronista se fue una semana a Barbados, a donde llegó en un jet de Francisco De Narváez; salió desde Uruguay y regresó por Paraguay; quiénes lo acompañaron",
+      "title": "La escalada en la guerra entre Rusia y Ucrania vuelve a tensionar el mercado de granos",
+      "description": "Se trata de uno de los factores que, entre otros, hoy gravitan en el trigo y otros productos",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/al-caribe-en-avion-privado-el-viaje-de-massa-con-su-esposa-y-amigos-en-medio-del-retorno-a-la-nid20082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/5ITZBSCYB5HEDMQJOGVMQZ3LR4.jpg?auth=2a01f118632d65d274a24903950fba05ca87fed0c5576a9c1fa9b7f6fe3a7673&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-20T21:49:26.000Z",
-      "emojisString": "💻"
+      "link": "https://www.lanacion.com.ar/economia/campo/la-escalada-en-la-guerra-entre-rusia-y-ucrania-vuelve-a-tensionar-el-mercado-de-granos-nid20082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/L7DQDVN5OJFJVLK6QDZMJE2COI.jpg?auth=c627d793f64c11cde255820142516a4485a6633978e31bee7f398646454fbeac&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-20T22:15:49.000Z",
+      "emojisString": "📊 💻 💥"
     },
     {
-      "title": "Leonas y Leones, en el Mundial de hockey sobre césped: primera misión cumplida y a la búsqueda del gran zarpazo",
-      "description": "El sábado se enfrentarán con España e Inglaterra, respectivamente, por la segunda rueda de la cita en Países Bajos y Bélgica",
+      "title": "Temblor en Perú hoy, jueves 20 de agosto EN VIVO: magnitud y epicentro según los últimos reportes ",
+      "description": "Un sismo de magnitud 6,7 se registró en las últimas horas; por el momento, no se reportaron víctimas",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/hockey/leonas-y-leones-en-el-mundial-de-hockey-sobre-cesped-primera-mision-cumplida-y-a-la-busqueda-del-nid20082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/QPVMV2MLCNEU3C6IDDW7XXELTQ.jpg?auth=11ebc36887387bda50fde0a9ea17ce679b05f0f61e4feb147d0dd845c7701649&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-20T21:47:29.000Z",
-      "emojisString": "⚽ 💻"
+      "link": "https://www.lanacion.com.ar/el-mundo/temblor-en-peru-hoy-jueves-20-de-agosto-en-vivo-magnitud-y-epicentro-segun-los-ultimos-reportes-nid20082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/Z44KLUS55NHBLMZOXO4SSCYIHI.png?auth=288ff4733d37269eba0c6193f550e4cd47a8be448890355444e0ed771252e893&smart=true&width=598&height=192",
+      "pubDate": "2026-08-20T22:15:00.000Z",
+      "emojisString": "🌊"
     },
     {
-      "title": "Ferro incorporó a un jugador de un país atípico para el fútbol argentino",
-      "description": "El Verdolaga cerró un acuerdo con Delfines del Este de República Dominicana para que un futbolista de ese país, de apenas 17 años, arribe a Argentina al cumplir la mayoría de edad.",
+      "title": "Ministerio de Salud emite advertencia por ola de calor en República Dominicana",
+      "description": "La cartera sanitaria dominicana difundió pautas para reducir deshidratación y agotamiento, con énfasis en quienes trabajan o permanecen al aire libre, y pidió seguir los reportes oficiales sobre el clima",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/republica-dominicana/2026/08/20/ministerio-de-salud-emite-advertencia-por-ola-de-calor-en-republica-dominicana/",
+      "image": "https://www.infobae.com/resizer/v2/DSCDX3LYTFEJHGHA3ZDYRCC2QU.png?auth=7c95dbe021b9812a43b88ec500be51bd9b1431337d2fff229604886cf5f2680e&smart=true&width=2752&height=1536",
+      "pubDate": "2026-08-20T22:14:56.000Z",
+      "emojisString": "💻 🌤️ 🏥"
+    },
+    {
+      "title": "Exponen a presuntos montachoques responsables de perseguir a Vanessa Huppenkothen en la CDMX",
+      "description": "Tras ser localizado el vehículo investigado por la Secretaría de Seguridad Ciudadana, usuarios señalan tres nombres por las coincidencias en las placas",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/20/exponen-a-presuntos-montachoques-responsables-de-seguir-a-vanessa-huppenkothen-en-la-cdmx/",
+      "image": "https://www.infobae.com/resizer/v2/SKCSOZCLR5HFTOAYKOJCRC67BQ.png?auth=8059c496c4cc45d4bd5b5eb11589ea7c9a25f8d33deeb3fab5a369dbe15bd3f1&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-20T22:14:51.000Z",
+      "emojisString": "💻 🚗"
+    },
+    {
+      "title": "Ruso Rodríguez, el nuevo guardián de Banfield tras su recuperación",
+      "description": "Luego de su rotura de ligamentos y una larga recuperación, el arquero firma hasta 2027 y busca consolidarse en el equipo tras la salida de Facundo Sanguinetti.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-ascenso/ferro-republica-dominicana-delfines_0_vEGYoKqJ9P.html",
-      "image": "https://www.ole.com.ar/images/2026/08/20/R1myC3qKc_1200x630__1.jpg",
-      "pubDate": "2026-08-20T21:41:15.000Z",
-      "emojisString": "⚽"
+      "link": "https://www.ole.com.ar/banfield/diegorodriguez-banfield-futbol-primera-clausura_0_YBYrqJT2tZ.html",
+      "image": "https://www.ole.com.ar/images/2025/10/12/lrg2byTir_1200x630__1.jpg",
+      "pubDate": "2026-08-20T22:06:59.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Salen a la luz presuntos chats en la causa Cerimedo: la querella denuncia que el consultor pidió \"eliminar\" a su expareja",
+      "description": "La pericia al teléfono del ex asesor político reveló mensajes comprometedores horas antes de la audiencia por su prisión preventiva, que fue postergada para el viernes. Mientras la defensa de Nadia Beller aportó pruebas sobre la planificación del ataque, el acusado reapareció llorando en los tribuna",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/judiciales/fernando-cerimedo-seguira-detenido-suspendieron-la-audiencia-que-debia-definir-su-prision-preventiva-en-bolivia.phtml",
+      "image": "https://fotos.perfil.com/2024/11/23/trim/540/304/23112024fernandocerimedograssig-1917302.jpg",
+      "pubDate": "2026-08-20T22:06:00.000Z",
+      "emojisString": "💻 💥"
+    },
+    {
+      "title": "Independiente-Universidad de Chile: la barbarie que desató la crisis deportiva del Rojo",
+      "description": "El 20 de agosto de 2025 fue una de las peores noches del fútbol sudamericano, que derivó en la expulsión de Independiente en la Copa Sudamericana y, con el tiempo, el inicio de la crisis deportiva del club.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/independiente/independiente-chile-copa-sudamericana-crisis-rojo_0_8u6ZLbqJ3q.html",
+      "image": "https://www.ole.com.ar/images/2026/08/20/ZxVpcx2lH_1200x630__1.jpg",
+      "pubDate": "2026-08-20T22:05:54.000Z",
+      "emojisString": "⚽ 📚"
+    },
+    {
+      "title": "El gobierno bonaerense investigará a billeteras virtuales por prácticas abusivas en el otorgamiento de créditos",
+      "description": "El gobernador Axel Kicillof y el ministro de Producción, Augusto Costa, anunciaron nuevas acciones contra empresas de crédito digital por cláusulas abusivas, tasas usurarias y prácticas de acoso a deudores. Ya recibieron 2.240 denuncias contra Mercado Pago, Naranja, Ualá y Cencosud, entre otras.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/ambito-nacional/el-gobierno-bonaerense-investigara-billeteras-virtuales-practicas-abusivas-el-otorgamiento-creditos-n6313093",
+      "image": "https://media.ambito.com/p/252fc23954121541444a1cd7e39522ab/adjuntos/239/imagenes/042/452/0042452345/captura-axel-kicillof-conferenciajpg.jpg",
+      "pubDate": "2026-08-20T21:57:00.000Z",
+      "emojisString": "📊 🏛️ 💻"
+    },
+    {
+      "title": "Julia Oliva Cúneo será la primera rectora electa de la Universidad Provincial de Córdoba",
+      "description": "La dirigente llega a la elección con el respaldo de distintos sectores universitarios, políticos y gremiales. Su candidatura se consolidó tras una serie de acuerdos que derivaron en una lista única para el Rectorado y en consensos en varias facultades. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/cordoba/julia-oliva-cuneo-sera-la-primera-rectora-electa-de-la-universidad-provincial-de-cordoba.phtml",
+      "image": "https://fotos.perfil.com/2026/08/20/trim/540/304/julia-oliva-cuneo-2308613.jpg",
+      "pubDate": "2026-08-20T21:54:45.000Z",
+      "emojisString": "🗳️ 💻 🎬"
     },
     {
       "title": "Fernando Cerimedo rompió en llanto y habló por primera vez desde su detención: \"Quiero ver a mis hijos\"",
@@ -54,44 +90,8 @@
       "image": "https://media.ambito.com/p/9e12bc6d4aee0001b439f4fc9ce0df04/adjuntos/239/imagenes/043/594/0043594878/1200x675/smart/cerimedo-captura-detencion.jpeg",
       "pubDate": "2026-08-20T21:41:00.000Z",
       "emojisString": "🏛️ ⚖️ 🚨"
-    },
-    {
-      "title": "Mourinho, tajante: \"No ficharía a Lamine Yamal\"",
-      "description": "Fiel a su estilo, el DT portugués dijo que rechazaría al crack del Barcelona si se lo ofrecieran para el Real Madrid: \"Los míos son los mejores\".",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/espana/realmadrid-josemourinho-lamineyamal-ficharia-jugadores_0_5QHf5FudAp.html",
-      "image": "https://www.ole.com.ar/images/2026/08/10/yIBGw5uKK_1200x630__1.jpg",
-      "pubDate": "2026-08-20T21:40:37.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Patricia Bullrich afirmó que acompañaría la reelección de Jorge Macri en CABA si LLA llega a un acuerdo con el PRO",
-      "description": "La senadora nacional habló sobre las negociaciones entre libertarios y macristas a nivel nacional y su impacto en el territorio PRO. Reconoció la importancia del distrito, volvió a hablar de una hipotética candidatura pero afirmó que no tendría inconvenientes en acompañar al jefe de Gobierno si ambo",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/patricia-bullrich-afirmo-que-acompanaria-la-reeleccion-jorge-macri-caba-si-lla-llega-un-acuerdo-el-pro-n6313086",
-      "image": "https://media.ambito.com/p/86c6075c93c1533b9240524a7f9e339e/adjuntos/239/imagenes/043/361/0043361733/1200x675/smart/bullrich-y-jorge-macri.jpg",
-      "pubDate": "2026-08-20T21:37:00.000Z",
-      "emojisString": "🏛️ 🗳️ 💻"
-    },
-    {
-      "title": "Chaco podría tener hasta 500 kW subsidiados en verano: qué cambiará en las boletas",
-      "description": "El nuevo esquema que negocian Nación y el Norte Grande elevaría el límite subsidiado durante los meses de mayor calor. Secheep aseguró que quienes ya reciben el beneficio no tendrían que hacer ningún trámite adicional. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/nea/chaco-podria-tener-hasta-500-kw-subsidiados-en-verano-que-cambiara-en-las-boletas.phtml",
-      "image": "https://fotos.perfil.com/2026/01/26/trim/540/304/boleta-de-secheep-2175751.jpg",
-      "pubDate": "2026-08-20T21:18:17.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "Un fuerte terremoto de magnitud 7,2 sacude el sur de Perú",
-      "description": "El movimiento ocurrió a las 13:00 hora local con epicentro cerca de la localidad de Coracora, en la región de Ayacucho.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c62epjggd7mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/374a/live/044a9190-9cdc-11f1-8c2c-67800657f112.png",
-      "pubDate": "2026-08-20T21:14:31.000Z",
-      "emojisString": "🌊"
     }
   ],
   "count": 10,
-  "updated": "2026-08-20T21:52:01.468Z"
+  "updated": "2026-08-20T22:19:34.150Z"
 }
