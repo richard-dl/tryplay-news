@@ -2,58 +2,76 @@
   "success": true,
   "data": [
     {
-      "title": "Venezuela transformará escombros de los dos terremotos en insumos para la reconstrucción",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/21/venezuela-transformara-escombros-de-los-dos-terremotos-en-insumos-para-la-reconstruccion/",
-      "image": null,
-      "pubDate": "2026-08-21T23:15:46.000Z",
-      "emojisString": "🌊"
-    },
-    {
-      "title": "TikTok pagará 400 millones para resolver demanda por violar la privacidad de niños en EEUU",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/08/21/tiktok-pagara-400-millones-para-resolver-demanda-por-violar-la-privacidad-de-ninos-en-eeuu/",
-      "image": null,
-      "pubDate": "2026-08-21T23:15:22.000Z",
-      "emojisString": "🇺🇸"
-    },
-    {
-      "title": "Los fans del Olympique festejaron el título de España",
-      "description": "Los hinchas del club de Marsella armaron un mosaico gigante con la bandera del campeón del mundo. \"Viva Roja\", decía. Esto, pese a que fue el verdugo de Francia en la semi del Mundial.",
+      "title": "La actualidad de Julián en el Atlético: del repudio de los hinchas al respaldo de los dirigentes",
+      "description": "Madrid amaneció con banderas y carteles en contra del delantero argentino, que rechazó la posibilidad de ser transferido al Arsenal. \"Lo vamos a seguir cuidando\", dijo el CEO del club.",
       "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/francia/olympiquedemarsella-ligue1-parissaintgermain-racingdeestrasburgo_0_zOL2u5NCYt.html",
-      "image": "https://www.ole.com.ar/images/2026/08/21/XqiRXT5Rw_1200x630__1.jpg",
-      "pubDate": "2026-08-21T23:11:01.000Z",
+      "link": "https://www.ole.com.ar/futbol-internacional/julian-alvarez-atletico-madrid-barcelona_0_J4KplvqtY9.html",
+      "image": "https://www.ole.com.ar/images/2026/08/18/HJJUQALl2_1200x630__1.jpg",
+      "pubDate": "2026-08-21T23:45:48.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Donald Trump adelanta nuevo acuerdo comercial con México y afirma que será mejor para EEUU",
+      "description": "La próxima ronda de negociaciones del T-MEC se llevará a cabo en septiembre",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/21/donald-trump-adelanta-nuevo-acuerdo-comercial-con-mexico-y-afirma-que-sera-mejor-para-eeuu/",
+      "image": "https://www.infobae.com/resizer/v2/KIEAPXHNAZEEVB4IA2COL3UDMY.JPG?auth=389485710588939e3525cc8026c6ec3c8b86352661fe1dfc921ad307d8546112&smart=true&width=6000&height=4000",
+      "pubDate": "2026-08-21T23:41:35.000Z",
+      "emojisString": "💻 🇺🇸"
+    },
+    {
+      "title": "Di María despejó la dudas de retiro luego de su mensaje post eliminación de Copa Libertadores",
+      "description": "El jugador de Rosario Central aclaró sus dichos y aseguró que seguirá luchando “por todo lo que viene”; “yo no abandono”, aclaró",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/di-maria-despejo-la-dudas-de-retiro-luego-de-su-mensaje-post-eliminacion-de-copa-libertadores-nid21082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/T4JBDBQBKJGHHFLUCBGUEHCWBI.JPG?auth=d14c236e1941d0048df52eb90108259e5d4b2a310ee59fb65c9d413c2732be30&smart=true&width=2800&height=1867",
+      "pubDate": "2026-08-21T23:41:21.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "Tras la victoria de Unión ante Aldosivi, San Lorenzo empata con Estudiantes de Río Cuarto por el Torneo Clausura",
+      "description": "El Ciclón busca su segunda victoria consecutiva en el campeonato en Córdoba. Antes, el Tatengue festejó en Mar del Plata",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/deportes/2026/08/21/se-pone-en-marcha-la-fecha-6-del-torneo-clausura-con-dos-partidos-hora-tv-y-todo-lo-que-hay-que-saber/",
+      "image": "https://www.infobae.com/resizer/v2/UNOV22BSRZBEFKZPFJARUXGTKM.jpg?auth=14a0c6af532f8e25a09cc577d1debdff0ad64512f8bfacfd37965ea0f2143e04&smart=true&width=1023&height=575",
+      "pubDate": "2026-08-21T23:40:37.000Z",
+      "emojisString": "💻 📚"
+    },
+    {
+      "title": "ARA San Juan: la condena a un oficial naval se basó en que autorizó la navegación, a pesar de conocer las fallas del submarino",
+      "description": "El tribunal que sancionó al capitán Villamide con tres años de prisión, de ejecución condicional, dio a conocer los fundamentos de la sentencia; otros tres marinos fueron absueltos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/ara-san-juan-la-condena-a-un-oficial-naval-se-baso-en-que-autorizo-la-navegacion-a-pesar-de-conocer-nid21082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ECRC6SW5ABDRXJ4DHTBOKXP3AI.jpg?auth=ed6e11d4d5a695916c33a932b9aff45cf983f4b694a1b13af1e4ca4a61d13f44&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-21T23:39:34.000Z",
+      "emojisString": "⚖️ 💻"
+    },
+    {
+      "title": "Con bastante presencia argentina, los equipos de la semana de la Libertadores y la Sudamericana",
+      "description": "Siete argentinos aparecen en los 22 nombres que eligió la Conmebol como los mejores jugadores finalizados la vuelta de los octavos de final.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/bastante-presencia-argentina-equipos-semana-libertadores-sudamericana_0_X2lVXh6wo3.html",
+      "image": "https://www.ole.com.ar/images/2026/08/21/A5s8FocJU_1200x630__1.jpg",
+      "pubDate": "2026-08-21T23:35:13.000Z",
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "La NASA revela que hay un iceberg cinco veces más grande que el Central Park de Nueva York: está en la costa de Groenlandia",
-      "description": "Descubre qué reveló la NASA sobre el iceberg que recorrió más de 1000 kilómetros desde Groenlandia hasta el estrecho de Dinamarca.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/ciencia/la-nasa-revela-que-hay-un-iceberg-cinco-veces-mas-grande-que-el-central-park-de-nueva-york-esta-en-nid21082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EV4PKNG23FE35KKZCVZFVHQHZ4.jpg?auth=91f7098d1170657d54bca32592a3d2ea340d8c49a68fbe776461c19eeb78532d&smart=true&width=2000&height=1333",
+      "title": "Javier Milei ante empresarios: \"No hay elementos para culpar al Gobierno por la morosidad\"",
+      "description": "El Presidente vuelve a tomar contacto con el sector privado, al participar del acto de la entidad. Fuerte operativo de seguridad en los alrededores.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/politica/javier-milei-vuelve-hablar-empresarios-disertara-la-bolsa-comercio-rosario-n6313226",
+      "image": "https://media.ambito.com/p/47fd76b28c3466dcae3664dda10baa04/adjuntos/239/imagenes/043/597/0043597308/1200x675/600x200:620x220/milei-rosario.jpeg",
       "pubDate": "2026-08-21T23:11:00.000Z",
-      "emojisString": "💻"
+      "emojisString": "🏛️"
     },
     {
-      "title": "Conmoción en el automovilismo: murió un piloto vinculado a Ferrari el día en que cumplía 39 años",
-      "description": "Cédric Sbirrazzuoli falleció luego de una lucha contra el cáncer; es reconocido por sus triunfos en los campeonatos de resistencia y GT",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/conmocion-en-el-automovilismo-murio-un-piloto-vinculado-a-ferrari-el-dia-en-que-cumplio-39-anos-nid21082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/IMYSGERH2BBTLNUGTP5MYZIV2M.jpg?auth=4355e415e2d534c2e50648015722093f617ad30f59429a056692c1eb42db4c4e&smart=true&width=1170&height=1245",
-      "pubDate": "2026-08-21T23:10:42.000Z",
-      "emojisString": "🏎️ 💻"
-    },
-    {
-      "title": "Quién será el árbitro para la vuelta de River vs. Independiente Santa Fe",
-      "description": "",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/river-plate/river-plate-esteban-ostojich_0_xs4XIjsZ06.html",
-      "image": "https://www.ole.com.ar/images/2025/10/24/4C-a6hXhX_1200x630__1.jpg",
-      "pubDate": "2026-08-21T23:07:44.000Z",
-      "emojisString": "⚽"
+      "title": "Sin caja, la oportunidad está en la gestión y en la obra privada",
+      "description": "La directora del FMI “sostuvo que la estabilización macroeconómica constituye apenas el primer paso del camino y ubicó a la infraestructura entre los pilares indispensables para que la Argentina se desarrolle”, sostiene el autor. Qué posibilidades reales existen. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/opinion/sin-caja-la-oportunidad-esta-en-la-gestion-y-en-la-obra-privada.phtml",
+      "image": "https://fotos.perfil.com/2026/05/18/trim/540/304/vaca-muerta-2242267.jpg",
+      "pubDate": "2026-08-21T22:54:38.000Z",
+      "emojisString": "📰"
     },
     {
       "title": "Juicios laborales: la reforma aprobada este año no logra frenar la litigiosidad en los tribunales",
@@ -65,33 +83,15 @@
       "emojisString": "⚖️"
     },
     {
-      "title": "Lula-Trump: la vuelta al diálogo",
-      "description": "La conversación duró una hora y 20 minutos, e incluyó todos los puntos que habían generado tensiones entre ambos países. Leer más",
+      "title": "Economistas en RDEco analizaron el dólar a $1.800: qué pasaría con la inflación",
+      "description": "En “Ronda de economistas”, el analista financiero Alejandro Bianchi, el economista Miguel Ponce y la especialista en mercados Vanesa Plaza analizaron el escenario cambiario y financiero argentino. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/internacional/lula-trump-la-vuelta-al-dialogo.phtml",
-      "image": "https://fotos.perfil.com/2025/02/14/trim/540/304/lula-trump-1967625.jpg",
-      "pubDate": "2026-08-21T22:42:43.000Z",
-      "emojisString": "🇺🇸 🇧🇷"
-    },
-    {
-      "title": "Paula Bistagnino cuestionó los argumentos sobre la baja de la natalidad en RDI: \"No se puede adjudicar solamente al derecho al aborto\"",
-      "description": "En \"Ronda de investigación\", la periodista y licenciada en Ciencias de la Comunicación Paula Bistagnino analizó el avance de los sectores antiaborto y su vínculo con el Gobierno de Javier Milei. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/masperfil/milei-y-el-aborto-paula-bistagnino-advierte-sobre-una-avanzada-contra-la-ive.phtml",
-      "image": "https://fotos.perfil.com/2026/08/21/trim/540/304/milei-2309542.jpg",
-      "pubDate": "2026-08-21T22:40:36.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "Se viene una sesión maratónica en Diputados con la reforma del Banco Central, Inocencia Fiscal y la ley de Patentes",
-      "description": "El oficialismo confía que los aliados darán los votos para aprobar los tres proyectos.\nSe incluyeron propuestas de diputados aliados para garantizar la agenda del Gobierno.\nQuedó afuera el proyecto para derogar la ley impulsada por los K que creaba un tribunal en Santa Cruz.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/politica/viene-sesion-maratonica-diputados-reforma-banco-central-inocencia-fiscal-ley-patentes_0_flRhLhT2rv.html",
-      "image": "https://www.clarin.com/img/2026/06/27/okbSzIJvC_1200x630__1.jpg",
-      "pubDate": "2026-08-21T22:32:13.000Z",
-      "emojisString": "💵 🏛️ 🗳️"
+      "link": "https://www.perfil.com/noticias/masperfil/dolar-cepo-y-elecciones-2027-los-analistas-advierten-sobre-el-rumbo-de-la-economia.phtml",
+      "image": "https://fotos.perfil.com/2026/08/21/trim/540/304/pesos-argentinos-y-dolares-2309548.jpg",
+      "pubDate": "2026-08-21T22:52:35.000Z",
+      "emojisString": "💵 📊 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-21T23:16:36.478Z"
+  "updated": "2026-08-21T23:46:06.556Z"
 }
