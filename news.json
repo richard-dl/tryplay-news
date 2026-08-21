@@ -2,22 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "Niña Polaca rechaza la IA para componer, algo que para ellos supone una \"terapia personal\"",
+      "title": "En libertad los siete detenidos en el dispositivo para evitar más altercados en Lleida",
       "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/21/nina-polaca-rechaza-la-ia-para-componer-algo-que-para-ellos-supone-una-terapia-personal/",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/21/en-libertad-los-siete-detenidos-en-el-dispositivo-para-evitar-mas-altercados-en-lleida/",
       "image": null,
-      "pubDate": "2026-08-21T08:02:22.000Z",
+      "pubDate": "2026-08-21T08:46:31.000Z",
+      "emojisString": "🚨"
+    },
+    {
+      "title": "Un tercio de las páginas web publicadas tras la llegada de ChatGPT muestra indicios de autoría de IA, según estudio",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/america/agencias/2026/08/21/un-tercio-de-las-paginas-web-publicadas-tras-la-llegada-de-chatgpt-muestra-indicios-de-autoria-de-ia-segun-estudio/",
+      "image": "https://www.infobae.com/resizer/v2/TRQWN2S3MZE5JJHDKFYBMMT2O4.jpg?auth=429a8112fbe49169986f78e15ba884c0781e0af33a04a00fab41e800a3ba40cb&smart=true&width=1920&height=1280",
+      "pubDate": "2026-08-21T08:46:14.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "El temporal deja 75 incidentes en Baleares, principalmente por caídas de árboles",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/21/el-temporal-deja-75-incidentes-en-baleares-principalmente-por-caidas-de-arboles/",
-      "image": null,
-      "pubDate": "2026-08-21T08:02:06.000Z",
+      "title": "Fentanilo contaminado: alarma en el Gobierno por las menciones a Mario Lugones reveladas en la investigación",
+      "description": "Las llamadas telefónicas y los chats filtrados de las exjefas de la ANMAT y el INAME revelaron alusiones directas al ministro de Salud, Mario Lugones. El gobierno de Javier Milei sigue el caso de cerca, mientras el kirchnerismo apura en el Congreso una nueva ley para el organismo regulador de medica",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/politica/fentanilo-contaminado-alarma-gobierno-menciones-mario-lugones-investigacion.phtml",
+      "image": "https://fotos.perfil.com/2026/08/14/trim/540/304/el-ministro-de-salud-mario-lugones-quedo-en-el-centro-de-la-investigacion-por-el-caso-del-fentanilo-contaminado-tras-la-revelacion-de-chats-de-la-anmat-2305172.jpg",
+      "pubDate": "2026-08-21T08:30:00.000Z",
+      "emojisString": "🏛️ 🏥"
+    },
+    {
+      "title": "Encuesta: cuáles son los gobernadores con mejor y peor imagen",
+      "description": "CB Global Data midió a los 24 mandatarios. El neuquino, Rolando Figueroa, pasó del tercer al primer lugar, mientras Gildo Insfrán cayó al fondo de la tabla.\r\n Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/politica/encuesta-nacional-figueroa-desplazo-a-saenz-y-lidera-el-ranking-de-gobernadores-de-agosto.phtml",
+      "image": "https://fotos.perfil.com/2026/06/07/trim/540/304/070626gobernadorescedocg-2255740.jpg",
+      "pubDate": "2026-08-21T08:30:00.000Z",
       "emojisString": "📰"
+    },
+    {
+      "title": "El Gobierno incorporó la ludopatía a las funciones del Ministerio de Salud y redefinió el control de los alimentos",
+      "description": "La medida fue oficializada mediante el Decreto 771/2026, publicado este jueves en el Boletín Oficial. \nLa normativa redefine quién controla la cadena alimentaria y suma la prevención de las apuestas problemáticas entre las responsabilidades del Estado.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/politica/gobierno-incorporo-ludopatia-funciones-ministerio-salud-redefinio-control-alimentos_0_n4MUYQTPr6.html",
+      "image": "https://www.clarin.com/img/2024/07/15/ofoqqZ41A_1200x630__1.jpg",
+      "pubDate": "2026-08-21T08:03:02.000Z",
+      "emojisString": "🏛️ 💻 🏥"
+    },
+    {
+      "title": "Lucrecia Manzur va por la hazaña ante Amanda Serrano en una pelea que se verá gratis por TikTok",
+      "description": "La tucumana desafiará a la puertorriqueña por los títulos mundiales pluma de la AMB y la OMB.\nSu legendaria rival buscará convertirse en la mujer con más nocauts de la historia.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/deportes/lucrecia-manzur-va-hazana-amanda-serrano-pelea-vera-gratis-tiktok_0_YmKVpOKMhw.html",
+      "image": "https://www.clarin.com/img/2026/08/20/cyzS5uAna_1200x630__1.jpg",
+      "pubDate": "2026-08-21T08:00:36.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
       "title": "Estas son las nuevas formas de medir el colesterol y la prueba clave para detectar si están bien o mal los niveles  ",
@@ -38,24 +74,6 @@
       "emojisString": "🏛️ 💻"
     },
     {
-      "title": "Militares de EEUU y Corea del Sur concluyen maniobras antes, tras andanada de misiles norcoreanos",
-      "description": "Washington y Seúl reducen maniobras militares en un intento de distensión con Pyongyang, pero el Norte lanza misiles en respuesta.\nKim Yo Jong considera insuficiente el gesto de Trump, aunque deja abierta la puerta a futuras negociaciones si se obtienen mayores concesiones.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/militares-de-eeuu-y-corea-del-sur-concluyen-maniobras-antes-tras-andanada-de-misiles-norcoreanos_0_NfM1jAlgvC.html",
-      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
-      "pubDate": "2026-08-21T07:20:05.000Z",
-      "emojisString": "💻 💥 🇺🇸"
-    },
-    {
-      "title": "Trágico accidente aéreo en Alaska: ocho personas murieron tras el desplome de un  avión chárter que se estrelló cerca de una base de radar",
-      "description": "El Cessna 441 que partió desde Anchorage llevada dos pilotos y seis pasajeros, quienes fallecieron tras el fuerte impacto.\nLa abrupta caída de la aeronave se produjo cercana a una remota base de radar en el oeste de Alaska, según confirmó el ejército de Estados Unidos.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/tragico-accidente-aereo-alaska-personas-murieron-desplome-avion-charter-estrello-cerca-base-radar_0_9MIoCNfuXl.html",
-      "image": "https://www.clarin.com/img/2026/08/21/-jMz9DTe0_1200x630__1.jpg",
-      "pubDate": "2026-08-21T07:10:15.000Z",
-      "emojisString": "🚗 🇺🇸"
-    },
-    {
       "title": "Franco Colapinto en el GP de Países Bajos, hoy EN VIVO: horario de la práctica libre y la qualy para la Sprint y cómo ver la Fórmula 1",
       "description": "La Máxima regresa del receso este viernes, con la única tanda de ensayos y luego la clasificación para la Sprint por la 12ª fecha del Mundial en Zandvoort. Seguilo en Olé.",
       "source": "Olé",
@@ -63,24 +81,6 @@
       "image": "https://www.ole.com.ar/images/2026/07/24/LmvQIot3i_1200x630__1.jpg",
       "pubDate": "2026-08-21T07:00:34.000Z",
       "emojisString": "⚽ 🏎️ 💻"
-    },
-    {
-      "title": "Horror en Avellaneda: una mujer policía mató a su hija y luego se quitó la vida ",
-      "description": "La oficial fue hallada sin vida junto a su hija luego de que la Policía Bonaerense llegara al lugar por un llamado al 911. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/sociedad/horror-en-avellaneda-una-mujer-policia-mato-a-su-hija-y-luego-se-quito-la-vida.phtml",
-      "image": "https://fotos.perfil.com/2025/09/03/trim/540/304/policia-bonaerense-03092025-2092568.jpg",
-      "pubDate": "2026-08-21T06:30:34.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Los puntos claves y las frases más resonantes del discurso de Javier Milei en el Consejo de las Américas",
-      "description": "El Presidente defendió su gestión y se permitió frases como: \"Es cierto que desaparecen empresas, pero son empresas de 1 empleado, mientras abren otras de 10 empleados\". Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/politica/los-puntos-claves-y-las-frases-mas-resonantes-del-discurso-de-javier-milei-en-el-consejo-de-las-americas.phtml",
-      "image": "https://fotos.perfil.com/2026/08/20/trim/540/304/milei-2308657.jpg",
-      "pubDate": "2026-08-21T05:43:00.000Z",
-      "emojisString": "🏛️"
     },
     {
       "title": "Almirón, tras la eliminación de Central: \"Nos vamos muy tristes porque hicimos todos los méritos para pasar\"",
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-21T08:05:03.093Z"
+  "updated": "2026-08-21T08:55:58.486Z"
 }
