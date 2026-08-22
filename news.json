@@ -2,31 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este sábado 22 de agosto",
-      "description": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+      "title": "Incendios en Colombia EN VIVO: se reportan avances en el Tolima, pero cinco municipios siguen amenazados",
+      "description": "Desde el Ministerio del Interior se anunciaron avances significativos para detener las conflagraciones, confirmando que hasta el momento hay seis frentes que todavía intentan ser controlados por los equipos de bomberos",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/colombia/2026/08/21/incendios-en-tolima-en-vivo-hay-mas-de-22-conflagraciones-incluyendo-a-melgar/",
+      "image": "https://www.infobae.com/resizer/v2/4RMVXB4CYBCTFCW4RL7FCC37TU.jpg?auth=fbb893a32fd7d5a41f51d27e10f27d7b6f04cc119b261bf63622b8d934509fee&smart=true&width=8192&height=5464",
+      "pubDate": "2026-08-22T09:47:58.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Burgohondo (Ávila) recobra el aliento entre cenizas un mes después del grave incendio",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/22/burgohondo-avila-recobra-el-aliento-entre-cenizas-un-mes-despues-del-grave-incendio/",
+      "image": null,
+      "pubDate": "2026-08-22T09:46:22.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "La nueva salida ante el avance de la morosidad",
+      "description": "Con casi cinco millones de personas con deudas que no pueden pagar, bancos, y fintechs endurecen el acceso a los préstamos y empiezan a explorar alternativas respaldadas por dólares, acciones, bonos y otros activos",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-sabado-22-de-agosto-nid22082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/Y6OM5XZEONEFRC7AKCEI53D4QA.JPG?auth=99c193ae9b854c001805e21c98e9a5d7b301a5c05515c97735ec536a03e46e79&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-22T09:17:00.000Z",
+      "link": "https://www.lanacion.com.ar/economia/negocios/la-nueva-salida-ante-el-avance-de-la-morosidad-nid22082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/RBFWLKB4AZG5RE6COAOGFYFWOA.jpg?auth=60e2eb85cb744a6bae7e73a06c2684e6aa8580cf23831b35f3f3e35b0612e8e6&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-22T09:38:00.000Z",
       "emojisString": "💵"
     },
     {
-      "title": "Franco Colapinto largará 13° la carrera Sprint del Gran Premio de Países Bajos de la Fórmula 1: hora, TV y grilla de salida",
-      "description": "Antes de afrontar la clasificación general en Zandvoort, el argentino buscará escalar posiciones con su Alpine. Su compañero Pierre Gasly saldrá octavo. George Russell comenzará en la pole",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/22/franco-colapinto-largara-13-la-carrera-sprint-del-gran-premio-de-paises-bajos-de-la-formula-1-hora-tv-y-grilla-de-salida/",
-      "image": "https://www.infobae.com/resizer/v2/WJ4S5PUYDNCZ7IKYXSDJN6KSFM.JPG?auth=d37d9ed3fa3d2f1262e49e7ec20eb65d5345462bd0799dc36914398d67adfd35&smart=true&width=3201&height=1801",
-      "pubDate": "2026-08-22T09:10:55.000Z",
-      "emojisString": "🏎️"
+      "title": "Debe casi $16.000 millones: Lácteos Verónica se presentó en concurso de acreedores luego de meses muy difíciles ",
+      "description": "La empresa atravesaba un escenario complejo desde hace meses",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/economia/campo/debe-casi-16000-millones-lacteos-veronica-se-presento-en-concurso-de-acreedores-luego-de-meses-muy-nid21082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/S67MHYSGARBWDOTDAPCFLU7R7M.jpeg?auth=e8d56d45c2a4a6056a62d5d6ce6831a8647a72045e21a99c1897494ec15e123d&smart=true&width=900&height=600",
+      "pubDate": "2026-08-22T09:34:45.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "El Tribunal Supremo rechaza la solicitud del PP para que los ministros comparecieran en el Senado antes de acabar agosto tras la crisis de Ceuta",
-      "description": "La resolución del alto tribunal establece que no existe la urgencia legal suficiente",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/espana/2026/08/22/el-tribunal-supremo-rechaza-la-solicitud-del-pp-para-que-los-ministros-comparecieran-en-el-senado-antes-de-acabar-agosto-tras-la-crisis-de-ceuta/",
-      "image": "https://www.infobae.com/resizer/v2/TFCYHXVCKZBDBP4MPKPE34BQEY.JPG?auth=411e7a2dcaf239496d0d733b8d0718c4000544cc6575a148c9d239b84b6414c6&smart=true&width=5416&height=3611",
-      "pubDate": "2026-08-22T09:06:39.000Z",
-      "emojisString": "🏛️ ⚖️ 💻"
+      "title": "Qué descubrí cuando viajé de España a Nigeria para enfrentar al estafador que sedujo a mi madre",
+      "description": "Silvia se enamoró de quien creía que era un militar estadounidense que conoció online, pero que en verdad era un estafador de Nigeria. Su hijo, Carlos, viajó de Madrid a Lagos para buscarlo. Esto es lo que descubrió allí.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cj9dxw4wxwyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ad3/live/972c3440-9bf7-11f1-bbc9-198f60b94eaf.jpg",
+      "pubDate": "2026-08-22T09:23:23.000Z",
+      "emojisString": "💻 💥"
+    },
+    {
+      "title": "Buenos Aires a vuelo de pájaro: ¿por qué en la Ciudad hay cada vez más caranchos y menos gorriones?",
+      "description": "Se ven más aguiluchos, lechuzas y gavilanes mixtos.\nHasta las palomas son distintas.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/viva/buenos-aires-vuelo-pajaro-ciudad-vez-caranchos-gorriones_0_tCMgqGKBy3.html",
+      "image": "https://www.clarin.com/img/2026/08/21/iPbwV3sum_1200x630__1.jpg",
+      "pubDate": "2026-08-22T09:08:54.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "El poder del barro: por qué la cerámica volvió a estar de moda",
+      "description": "Moldear arcilla influye de manera directa en las ondas delta y theta que predominan en el cerebro durante el sueño profundo. \nEl tacto con el material maleable incide en aspectos físicos, psicológicos y cognitivos. \nEl Spinetta que dejó la música por la masa.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/historias/poder-barro-ceramica-volvio-moda_0_2SaXDfIK0J.html",
+      "image": "https://www.clarin.com/img/2026/07/30/ois4GrSbK_1200x630__1.jpg",
+      "pubDate": "2026-08-22T09:04:54.000Z",
+      "emojisString": "💻 🎵"
     },
     {
       "title": "Partidos de HOY, sábado 22 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
@@ -47,51 +83,15 @@
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "“La industria del lujo es resiliente; las marcas centenarias sobrevivieron a guerras mundiales”",
-      "description": "La relacionista pública Anabella Weber trabajó por años para grandes firmas internacionales y aprendió las bases de un concepto de excelencia que puede aplicarse también a un negocio pequeño o a la vida personal",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/conversaciones-de-domingo/la-industria-del-lujo-es-resiliente-las-marcas-centenarias-sobrevivieron-a-guerras-mundiales-nid22082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/AH5HG6T3GZBY5J2T6NIOUV4DB4.JPG?auth=3176734caef6b3e7527883e623a42939ed94ee14c25e287b30573d72ec003cc0&smart=true&width=2472&height=1648",
-      "pubDate": "2026-08-22T09:00:00.000Z",
-      "emojisString": "⚽ 💻 💥"
-    },
-    {
-      "title": "“Es mejor que terminemos la guerra ahora”, dice el presidente iraní",
-      "description": "Leer más",
+      "title": "Estados Unidos y Canadá, dos países vecinos en tensión tras no llegar a un acuerdo por los aranceles",
+      "description": "Trump le impone a uno de sus vecinos el 50% de aranceles. Canadá, que verá afectada sus exportaciones, piensa responder a esos gravámenes \"dólar a dólar\".  Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/internacional/es-mejor-que-terminemos-la-guerra-ahora-dice-el-presidente-irani.phtml",
-      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
-      "pubDate": "2026-08-22T08:35:27.000Z",
-      "emojisString": "🏛️ 💥"
-    },
-    {
-      "title": "Decenas de buques ya cruzan Ormuz",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/internacional/decenas-de-buques-ya-cruzan-ormuz.phtml",
-      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
-      "pubDate": "2026-08-22T08:26:50.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "La sequía de EE.UU abre una enorme oportunidad a la ganadería argentina",
-      "description": "La producción ganadera estadounidense está en retroceso y no llega a abastecer las necesidades de la demanda interna. \nArgentina deberá multiplicar por 2 su stock ganadero para producir en gran escala hacia el mayor mercado del mundo.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/rural/sequia-eeuu-abre-enorme-oportunidad-ganaderia-argentina_0_ffHdHVkNeh.html",
-      "image": "https://www.clarin.com/img/2025/08/07/C5Yvv7LoH_1200x630__1.jpg",
-      "pubDate": "2026-08-22T08:24:51.000Z",
-      "emojisString": "📊 💻"
-    },
-    {
-      "title": "Cambió vacas por búfalas y cuadruplicó la producción de carne por hectárea",
-      "description": "",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/rural/cambio-vacas-bufalas-cuadruplico-produccion-carne-hectarea_0_d20gODw3ri.html",
-      "image": "https://www.clarin.com/img/2026/08/20/nrJ9teGr6_1200x630__1.jpg",
-      "pubDate": "2026-08-22T08:24:51.000Z",
-      "emojisString": "📰"
+      "link": "https://www.perfil.com/noticias/internacional/estados-unidos-y-canada-dos-paises-vecinos-en-tension-tras-no-llegar-a-un-acuerdo-por-los-aranceles.phtml",
+      "image": "https://fotos.perfil.com/2026/08/19/trim/540/304/BC-trump-aplaza-a-ultima-hora-aranceles-a-canada-tras-acuerdo-preliminar-Ug.jpg",
+      "pubDate": "2026-08-22T08:43:00.000Z",
+      "emojisString": "💵 🇺🇸"
     }
   ],
   "count": 10,
-  "updated": "2026-08-22T09:20:02.949Z"
+  "updated": "2026-08-22T09:49:30.400Z"
 }
