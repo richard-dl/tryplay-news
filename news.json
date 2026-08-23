@@ -2,31 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "Resultado del Baloto y Revancha HOY: números ganadores del sábado 22 de agosto",
-      "description": "Enseguida los resultados del sorteo Baloto y averigüe si ha sido uno de los ganadores",
+      "title": "Precio de la gasolina en Jalisco este 23 de agosto",
+      "description": "El precio de los carburantes en el país puede cambiar debido a diversos factores como el valor del dólar en el tipo de cambio, impuestos y la logística para el traslado",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/08/23/baloto-y-revancha-numeros-ganadores-del-sabado-22-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/D5LPCOGR4JBQFJ2PPDOH3D2ZHU.png?auth=e8e7b951d6a003ae05e13ab330f941c3ed76f19112d01c7d2369281ae1c06382&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-23T09:56:04.000Z",
+      "link": "https://www.infobae.com/mexico/2026/08/23/precio-de-la-gasolina-en-jalisco-este-23-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/6NUTLUQRYVHCBJQ7HUJKEHJVOA.jpg?auth=663a3822d70c158a01430fb0aa7acc996edbf6d7a8bd451eaf579c1a42ae4da2&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-23T10:17:15.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "Puebla: este es el precio de la gasolina este 23 de agosto",
+      "description": "La Comisión Nacional de Energía es el organismo encargado de informar todos los días el precio de los carburantes en el país",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/08/23/puebla-este-es-el-precio-de-la-gasolina-este-23-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/NGOMXOHEH5HFPLLVMJCWBF63QM.jpg?auth=3d9dd252e303d70a3c49fa8ad0ad8103dc5fae4895167e03b01a722ced2290f1&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-23T10:16:54.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Media Maratón de Buenos Aires: a qué hora larga, recorrido y calles cortadas",
-      "description": "Con más de 31.000 corredores, la competencia de 21K se disputará desde las 8 en Palermo. Pondrá en escena a deportistas de élite, atletas amateurs y un esquema logístico que impactará sobre varias arterias porteñas",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/tendencias/2026/08/23/media-maraton-de-buenos-aires-a-que-hora-larga-recorrido-y-calles-cortadas/",
-      "image": "https://www.infobae.com/resizer/v2/XULVWZCNAREX5N65BJVRPBHSU4.jpg?auth=86d6c190ef3a30610e3de203510f440aa8bf2c2815f36ae2fc4339e4ce83e701&smart=true&width=1599&height=899",
-      "pubDate": "2026-08-23T09:52:09.000Z",
-      "emojisString": "🏅 💻"
+      "title": "A qué hora juega River vs. Vélez hoy, domingo 23 de agosto",
+      "description": "El encuentro correspondiente a la sexta fecha se disputa este domingo en el estadio Monumental con arbitraje de Darío Herrera",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-juega-river-vs-velez-hoy-domingo-23-de-agosto-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/JSGR2RP54NB7BI7IEUJKPI6NSQ.JPG?auth=121c3dfa7af3f075ccec2d0d4488d538bd7863ac0fc556e9c3046c7c5fc84236&smart=true&width=4317&height=2878",
+      "pubDate": "2026-08-23T10:10:06.000Z",
+      "emojisString": "⚽"
     },
     {
-      "title": "Partidos de hoy, domingo 23 de agosto: horarios y por dónde ver en vivo online",
-      "description": "En la agenda del día se destacan la continuidad de la sexta fecha del Torneo Clausura con las presentaciones de River y Boca",
+      "title": "Partidos de HOY, domingo 23 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
+      "description": "River vs. Vélez y Racing vs. Boca se roban todas las miradas en un superdomingo que combina partidos decisivos en el Torneo Clausura, choques imperdibles en Europa y acción de alto nivel en todo el continente.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-domingo-23-agosto-2026-agenda-ole-horario-ver-futbol-vivo-online_0_tVt5QVe9gm.html",
+      "image": "https://www.ole.com.ar/images/2026/08/22/PNaR0-7nt_1200x630__1.jpg",
+      "pubDate": "2026-08-23T10:01:09.000Z",
+      "emojisString": "⚽ 🚗"
+    },
+    {
+      "title": "Avanza el ICE en Florida: el condado donde la cooperación migratoria pone presión sobre la construcción y el turismo",
+      "description": "Conoce cómo la cooperación migratoria con ICE en el condado de Walton, Florida, genera presión sobre la construcción y el turismo local.",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-domingo-23-de-agosto-horarios-y-por-donde-ver-en-vivo-online-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EQAEI6POXVHZXL3KZWR4WQMUYI.JPG?auth=5e9363967ea4c0124e14b2d4b26e8d6f8ea7cd2e971b7123525a8f0c8f2c3943&smart=true&width=1998&height=1333",
-      "pubDate": "2026-08-23T09:48:06.000Z",
-      "emojisString": "⚽"
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/ice-en-florida-el-condado-donde-la-cooperacion-migratoria-pone-presion-sobre-la-construccion-y-el-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/TOXH7MW34JCKDLIX4L3U5UZRF4.jpg?auth=9d04153f9147d8a124014bde6ffa61d3c6ed8b88f9e2b6388c776a9dd959fd79&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-23T10:00:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "El campo que viene, en Visión 360°: producción, innovación y valor en la nueva economía",
+      "description": "El panorama del agro estará en la mesa de debate del ciclo de Clarín, que se transmitirá este martes a las 19 en Clarín.com.\nRepresentantes del sector repasarán las cuestiones vinculadas a la sustentabilidad y la competitividad.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/campo-viene-vision-360-produccion-innovacion-valor-nueva-economia_0_FwdHyGELVA.html",
+      "image": "https://www.clarin.com/img/2026/08/19/QMBHHSSMq_1200x630__1.jpg",
+      "pubDate": "2026-08-23T09:37:08.000Z",
+      "emojisString": "📊"
     },
     {
       "title": "Colapso carcelario: en diez años casi se duplicó la cantidad de presos en la Provincia",
@@ -38,21 +65,21 @@
       "emojisString": "🚨 💻"
     },
     {
+      "title": "Marc Márquez, 33 años: ''Me despierto a las 8 de la mañana. Desayuno avena o tostadas de pavo con aguacate y café y después entreno''",
+      "description": "El nueve veces campeón del mundo de MotoGP revelaba en una entrevista cómo en un día normal en su vida.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/marc-marquez-33-anos-despierto-8-manana-desayuno-avena-tostadas-pavo-aguacate-cafe-despues-entreno_0_G8KLRaHyri.html",
+      "image": "https://www.clarin.com/img/2026/08/18/tmTebieA4_1200x630__1.jpg",
+      "pubDate": "2026-08-23T09:29:08.000Z",
+      "emojisString": "📰"
+    },
+    {
       "title": "\"Nuestra amistad es tan fuerte que decidimos casarnos\": las amigas unidas por un vínculo platónico",
       "description": "Se conocieron cuando tenían 12 años y su amistad se fortaleció durante la pandemia de covid-19. Se describen como almas gemelas e insisten en que su relación no es sentimental.",
       "source": "BBC Mundo",
       "link": "https://www.bbc.com/mundo/articles/cj03lyl6jzvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/83a0/live/073bd510-9bdf-11f1-b109-879e35c24276.jpg",
       "pubDate": "2026-08-23T09:27:51.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Menos papeleo para propietarios en Florida: la ley HB 803 que cambia las reglas para reparaciones de una casa",
-      "description": "Conoce la ley HB 803 en Florida, que simplifica remodelaciones residenciales y elimina trámites para determinadas obras menores en viviendas.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/florida/menos-papeleo-para-propietarios-en-florida-la-ley-hb-803-que-cambia-las-reglas-para-reparaciones-de-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/IQUJILQY4VEYBNCIUTN4CVCIVY.jpg?auth=ba6ca28f02ed446a9fb09b35006b9b51531ad44e3eb39a1dcf9ba430a617bcf3&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-23T09:21:00.000Z",
       "emojisString": "💻"
     },
     {
@@ -63,35 +90,8 @@
       "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
       "pubDate": "2026-08-23T09:20:33.000Z",
       "emojisString": "⚖️ 💻"
-    },
-    {
-      "title": "Los infernales, la imbatible fuerza de gauchos creada por Martín Miguel de Güemes",
-      "description": "Fue creada en 1815 para “asegurar la independencia de nuestras Provincias Unidas y los sagrados derechos de la Patria”. \nLa integraban hombres “amigados con la escasez”. \nSerían quienes defenderían la frontera norte de las tropas españolas cuando San Martín encaró el cruce de los Andes.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/viva/infernales-imbatible-fuerza-gauchos-creada-martin-miguel-guemes_0_1EcpK7Wsuw.html",
-      "image": "https://www.clarin.com/img/2022/06/13/nrs3DzKEa_1200x630__1.jpg",
-      "pubDate": "2026-08-23T09:11:08.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Es oficial | El fiscal general de De Santis quiere elevar las penas de caza furtiva en terrenos privados de Florida",
-      "description": "James Uthmeier presentó un proyecto de ley para elevar las penas de caza furtiva en terrenos privados.\nEl fiscal cree que los cazadores ilegales deben ser confiscados de sus equipos e inhabilitados para cazar permanentemente.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/oficial-fiscal-general-santis-quiere-elevar-penas-caza-furtiva-terrenos-privados-florida_0_77DRe0eWNq.html",
-      "image": "https://www.clarin.com/img/2026/08/10/oxcUHqc-2_1200x630__1.jpg",
-      "pubDate": "2026-08-23T09:03:07.000Z",
-      "emojisString": "⚖️ 💻"
-    },
-    {
-      "title": "A qué hora corre Franco Colapinto hoy y dónde ver EN VIVO la carrera de F1 en Países Bajos",
-      "description": "El piloto de Alpine partirá 14° en Zandvoort y, por más que será difícil, tratará de llegar hasta la zona de puntos. Seguilo en Olé.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/autos/hora-corre-hoy-franco-colapinto-ver-vivo-carrera-f1-formula-1-paises-bajos-zandvoort_0_U8pmJV9tLk.html",
-      "image": "https://www.ole.com.ar/images/2026/08/22/3fCtou4lW_1200x630__1.jpg",
-      "pubDate": "2026-08-23T09:01:06.000Z",
-      "emojisString": "🏎️"
     }
   ],
   "count": 10,
-  "updated": "2026-08-23T09:58:43.724Z"
+  "updated": "2026-08-23T10:26:27.549Z"
 }
