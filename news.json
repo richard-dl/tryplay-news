@@ -2,22 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "La Huamantlada deja la primera víctima mortal en ocho años",
-      "description": "Un hombre de 29 años murió y al menos nueve personas resultaron heridas durante la Huamantlada 2026",
+      "title": "Tiroteo frente a la casa de Eduardo Duhalde: delincuentes intentaron robar una moto y se enfrentaron con la custodia",
+      "description": "Dos hombres armados abordaron a un motociclista de 60 años en Lomas de Zamora. Los custodios del ex presidente intervinieron y los sospechosos escaparon a pie. La víctima recibió un disparo en el omóplato y está fuera de peligro",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/23/la-huamantlada-deja-la-primera-victima-mortal-en-ocho-anos/",
-      "image": "https://www.infobae.com/resizer/v2/5SRTWB6VQRCX7AZRAQIZCYIRWU.jpg?auth=fc1fbeaa379f1fd6ae6bfb0cc32691790ce989774529e08eedfbe90916607569&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-23T23:11:53.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/sociedad/policiales/2026/08/23/tiroteo-frente-a-la-casa-de-eduardo-duhalde-delincuentes-intentaron-robar-una-moto-y-se-enfrentaron-con-la-custodia/",
+      "image": "https://www.infobae.com/resizer/v2/5NQFTL4RM5GZ5OUGHOCU3LGKUM.jpg?auth=930974e86eae51afc7eab1bf3ce5e56ef82af712f0cb5b38ccacfe8147884c96&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-23T23:32:49.000Z",
+      "emojisString": "🏛️ 💻"
     },
     {
-      "title": "Survivor México: quién gana el final de temporada hoy 23 de agosto",
-      "description": "Concluye la edición 2026 de este programa de supervivencia",
+      "title": "River Plate le gana a Vélez en el Monumental por la sexta fecha del Torneo Clausura",
+      "description": "En busca de su segunda victoria en el certamen local, el Millonario se enfrenta ante un Fortín que podría alcanzar la cima de la Tabla Anual. Transmite TNT Sports",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/23/survivor-mexico-quien-gana-el-final-de-temporada-hoy-23-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/WVOSQYCGVJA37A75DO242VHZG4.png?auth=eaba1135fbb4e58722fddf00849fb5e1fdfccc047ee4802c07eff87720ba7ab6&smart=true&width=2752&height=1536",
-      "pubDate": "2026-08-23T23:11:48.000Z",
-      "emojisString": "💻"
+      "link": "https://www.infobae.com/deportes/2026/08/23/river-plate-recibira-a-velez-en-el-monumental-por-la-sexta-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
+      "image": "https://www.infobae.com/resizer/v2/TP55PUKVMFAN5MO4SFHOCDA4MQ.JPG?auth=930f3ab6743afabd5cfd354c8a77e38ee47edbc3e9fc74a1463e3fa76c250441&smart=true&width=3784&height=2523",
+      "pubDate": "2026-08-23T23:32:32.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "River vs. Vélez, en vivo por el torneo Clausura: minuto a minuto del partido",
+      "description": "El duelo se juega en el estadio Monumental con el arbitraje de Darío Herrera",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-velez-en-vivo-por-el-torneo-clausura-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YYM25744NFDY3O27PINFHJBC7A.jpg?auth=d4c6f5015fe66b240b0f3fbfd33a357f8c90f3567e3745b2db5c71f62947e627&smart=true&width=6000&height=4000",
+      "pubDate": "2026-08-23T23:32:28.000Z",
+      "emojisString": "⚽"
+    },
+    {
+      "title": "El robo de una moto terminó con tiros en la puerta de la casa de Eduardo Duhalde en Lomas de Zamora",
+      "description": "La custodia del expresidente intervino ante el hurto y se enfrentó con los delincuentes; la víctima es un hombre de 60 años, que fue herido de bala; los sospechosos escaparon a pie y son buscados por la policía",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/seguridad/el-robo-de-una-moto-termino-con-tiros-en-la-casa-de-eduardo-duhalde-en-lomas-de-zamora-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/XO3EWU7R6VC7JMUAZAM562STJQ.JPG?auth=3c0877bb83b72e5bd894ba3c3648d043e50422448e3780e9d85b1546f89ea924&smart=true&width=1422&height=1066",
+      "pubDate": "2026-08-23T23:30:43.000Z",
+      "emojisString": "🏛️ 🚨 💻"
+    },
+    {
+      "title": "San Pablo, rival de Boca en la Sudamericana, perdió ante el último y lleva cuatro meses sin ganar en el Brasileirao\n",
+      "description": "El 0-1 ante Chapecoense extendió la mala racha del Tricolor a nivel local: son un total de 11 partidos sin festejos...",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/copa-america/san-pablo-rival-boca-sudamericana-meses-ganar-brasil-derrota-chapecoense-ultimo_0_dmFJtRWUKh.html",
+      "image": "https://www.ole.com.ar/images/2026/08/23/ZwPs4l7Bo_1200x630__1.jpg",
+      "pubDate": "2026-08-23T23:28:46.000Z",
+      "emojisString": "⚽ 🇧🇷"
+    },
+    {
+      "title": "Shelley Fabares, cantante de \"Johnny Angel\" y actriz de \"The Donna Reed Show\", muere a los 82 años",
+      "description": "Shelley Fabares, recordada actriz de TV, falleció a los 82 años en Los Ángeles. Destacó en \"The Donna Reed Show\" y \"Coach\". No se reveló la causa.\nFabares inició su carrera a los 10 años y trabajó con figuras como Elvis Presley. Luchó contra la insuficiencia hepática, superando un trasplante en 2000",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/shelley-fabares-cantante-de-johnny-angel-y-actriz-de-the-donna-reed-show-muere-a-los-82-anos_0_5drZq6rTXt.html",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+      "pubDate": "2026-08-23T23:10:09.000Z",
+      "emojisString": "💻 🎵"
     },
     {
       "title": "Los Leones ya conocen a sus posibles rivales si pasan a semis del Mundial",
@@ -26,33 +62,6 @@
       "link": "https://www.ole.com.ar/hockey/leones-conocen-posibles-rivales-pasan-semis-mundialargentina-define-lunes-india-logra-avanzar-semis-pasa-enfrentara-alemania-espana-domingo-terminaron-primero-segundo-zona-f_0_jnVUvZVgEr.html",
       "image": "https://www.ole.com.ar/images/2026/08/23/U_IqMg4_G_1200x630__1.jpg",
       "pubDate": "2026-08-23T23:09:50.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "River vs. Vélez, en vivo por el torneo Clausura: minuto a minuto del partido",
-      "description": "El duelo se juega en el estadio Monumental con el arbitraje de Darío Herrera",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/river-vs-velez-en-vivo-por-el-torneo-clausura-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/Z3LP6LZSAZA2TJVPBQERY2Z5N4.jpg?auth=594863ab4a776a8d54590a38efddc023110ce2af651fa5be3f8f77de71d7e829&smart=true&width=6000&height=4000",
-      "pubDate": "2026-08-23T23:08:50.000Z",
-      "emojisString": "⚽"
-    },
-    {
-      "title": "Avanza el ICE: detienen a una abuela con green card desde 2013 tras pasar siete meses en su país",
-      "description": "El ICE detuvo a una abuela con green card y caso cerrado por un juez tras ausentarse siete meses de EE.UU.; qué implica para los residentes permanentes",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/avanza-el-ice-detienen-a-una-abuela-con-green-card-desde-2013-tras-pasar-siete-meses-en-su-pais-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ICMKW3L7AVC4ZN6YILA6ETHNZY.png?auth=07ec11ab03cce141541116042a0018aaeb118038638218e4d1c1b4d5b251af8a&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-23T23:08:40.000Z",
-      "emojisString": "⚖️"
-    },
-    {
-      "title": "El Platense de Palermo no para: su alegría tras el triunfo ante Barracas y \"a pensar en la Copa Argentina\"",
-      "description": "El Titán habló luego de la victoria 2-1 ante el Guapo y ya puso el foco en los octavos que afrontará contra Instituto por el otro certamen nacional.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/platense/platense-palermo-triunfo-barracas-declaraciones-copa-argentina_0_ew1jn9cX9X.html",
-      "image": "https://www.ole.com.ar/images/2026/08/23/m8qyGpZGK_1200x630__1.jpg",
-      "pubDate": "2026-08-23T23:07:37.000Z",
       "emojisString": "⚽ 💻"
     },
     {
@@ -65,21 +74,12 @@
       "emojisString": "⚽ 💻"
     },
     {
-      "title": "Detuvieron a un hombre que atacó a su pareja con un hacha: descubrieron que tiene tres pedidos de captura por violencia sexual ",
-      "description": "Noemí Matamala, de 49 años, fue atacada y gravemente herida por Lucas Daniel Serrano, su pareja, en Neuquén.\nTras detenerlo, se comprobó que el agresor cuenta con un frondoso prontuario por crímenes contra mujeres en Chaco.",
+      "title": "Otra epidemia de la que tampoco se habla",
+      "description": "La OPS señala que mientras en el resto del mundo la tasa de suicidios baja, en las Américas crece. En Argentina, 2025 fue históricamente el peor año en ese registro.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/politica/detuvieron-hombre-ataco-pareja-hacha-descubrieron-pedidos-captura-violencia-sexual_0_Uu5S8Ou81W.html",
-      "image": "https://www.clarin.com/img/2026/08/23/b5nAR8xJj_1200x630__1.jpg",
-      "pubDate": "2026-08-23T22:20:36.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Incendio forestal provocado se acerca a la ciudad de Reno y obliga a evacuar a miles",
-      "description": "Un incendio forestal en Reno obliga a evacuar a miles mientras destruye viviendas. El gobernador declara emergencia y moviliza a la Guardia Nacional.\nFamilias pierden sus hogares y pertenencias. Los vientos cambiantes complican la contención del fuego, que sigue sin control en el noroeste de Nevada.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/incendio-forestal-provocado-se-acerca-a-la-ciudad-de-reno-y-obliga-a-evacuar-a-miles_0_sKapK69JEk.html",
-      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
-      "pubDate": "2026-08-23T22:20:05.000Z",
+      "link": "https://www.clarin.com/opinion/epidemia-habla_0_nPiKS5Jw8a.html",
+      "image": "https://www.clarin.com/img/2024/05/06/j3gue-C0E_1200x630__1.jpg",
+      "pubDate": "2026-08-23T22:52:17.000Z",
       "emojisString": "💻"
     },
     {
@@ -93,5 +93,5 @@
     }
   ],
   "count": 10,
-  "updated": "2026-08-23T23:14:15.465Z"
+  "updated": "2026-08-23T23:36:19.074Z"
 }
