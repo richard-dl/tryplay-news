@@ -2,40 +2,58 @@
   "success": true,
   "data": [
     {
-      "title": "Isaac del Toro se proclama como el nuevo campeón del Tour de Alemania",
-      "description": "El ciclista mexicano sigue sumando éxitos y suma un nuevo triunfo en Alemania, consolidando su nombre como uno de los mejores pedalistas del mundo",
+      "title": "Temblor hoy en México: casi 2 mil réplicas de sismo registrado en Chiapas",
+      "description": "Sigue en vivo todas las actualizaciones sobre movimientos telúricos a lo largo y ancho del país",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/23/isaac-del-toro-se-proclama-como-el-nuevo-campeon-del-tour-de-alemania/",
-      "image": "https://www.infobae.com/resizer/v2/KFAQR3XYVVCU3AYTLWLODJI6JM.JPG?auth=6b7e20ff22ae2f685d4f9db578db7485b7b6bb8bf07c782898e196926541e01e&smart=true&width=6000&height=4000",
-      "pubDate": "2026-08-23T14:33:35.000Z",
-      "emojisString": "💻"
+      "link": "https://www.infobae.com/mexico/2026/08/23/temblor-hoy-en-mexico-noticias-actividad-sismica-23-de-agosto-de-2026/",
+      "image": "https://www.infobae.com/resizer/v2/TTJSN7KHRZAXVGB25DWHTW4RHQ.jpg?auth=46d0f73f8765db9a837b316ec4f81ada4acb7f4550b2245bfb74b8504134bcee&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-23T14:56:31.000Z",
+      "emojisString": "💻 🌊"
     },
     {
-      "title": "Estado de emergencia en Villa El Salvador y Villa María del Triunfo para enfrentar lloviznas y aniegos",
-      "description": "El Ejecutivo decreta el estado de emergencia por 60 días en ambos distritos de Lima tras los estragos ocasionados por las lluvias persistentes. Se activan medidas urgentes, donaciones y acciones intersectoriales para la rehabilitación de viviendas y servicios",
+      "title": "Con palos y piedras, estudiantes golpearon a un presunto ladrón que habría entrado a robar a un colegio en Valledupar",
+      "description": "El hombre resultó gravemente herido y fue trasladado de urgencia a un centro médico tras la intervención de la Policía",
       "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/08/23/estado-de-emergencia-en-villa-el-salvador-y-villa-maria-del-triunfo-para-enfrentar-lloviznas-y-aniegos/",
-      "image": "https://www.infobae.com/resizer/v2/6XGGO26YSZGAXJAGFR2AWGTNCM.png?auth=4cffba451e8e91f0102aaaf7127719d70c756db2220a609b8968e371cb956b5c&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-23T14:32:14.000Z",
+      "link": "https://www.infobae.com/colombia/2026/08/23/con-palos-y-piedras-estudiantes-golpearon-a-un-presunto-ladron-que-habria-entrado-a-robar-a-un-colegio-en-valledupar/",
+      "image": "https://www.infobae.com/resizer/v2/ADOCG5VXA5BEDIQFSWP5GQ4MI4.jpg?auth=68bd49d312c84fa4527da2d5a1e75293ae56d5afe3a224c7ecf11dd0dbdecf2c&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-23T14:55:40.000Z",
+      "emojisString": "⚽ 💻 🏥"
+    },
+    {
+      "title": "Un terremoto de magnitud 5,9 sacudió Japón y dejó más de 30 heridos",
+      "description": "El sismo, que afectó a Tokio, provocó roturas de cañerías de agua y alteraciones en el transporte en algunas zonas; el mes pasado, otro temblor había provocado más de 300 heridos",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/el-mundo/terremoto-de-magnitud-59-deja-37-heridos-en-japon-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YUT2XAE3DRDH7DTY3R4HA44BWY.JPG?auth=7911811203fee8180921e0e2fc0558420017b24796b0c6fc0b25e56ff9b00229&smart=true&width=3968&height=2646",
+      "pubDate": "2026-08-23T14:49:34.000Z",
+      "emojisString": "🌊"
+    },
+    {
+      "title": "Hay alerta amarilla por frío extremo para este domingo 23 de agosto: las provincias afectadas",
+      "description": "El Servicio Meteorológico Nacional advirtió sobre temperaturas que pueden resultar peligrosas para los grupos de riesgo; en la Ciudad, la máxima será de 13 grados",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-para-este-domingo-23-de-agosto-las-provincias-afectadas-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/4LGFVBZGSZCD3OVKLSGXR2ULBY.png?auth=6a8eabccf3e750dd45a81c0e22167dc210eac49eec29b9efacf61eeceea4e980&smart=true&width=937&height=585",
+      "pubDate": "2026-08-23T14:48:53.000Z",
       "emojisString": "💻 🌤️"
     },
     {
-      "title": "Francisco “Bebu” Verón y Lucrecia Manzur ganaron prestigio pese a perder sus peleas",
-      "description": "La dupla argentina respondió en las principales carteleras estadounidenses ante los consagrados Hernández y Serrano",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/boxeo/francisco-bebu-veron-y-lucrecia-manzur-ganaron-prestigio-pese-a-perder-sus-peleas-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/UMDYA5TXY5C6RDYRYGV22LYVCY.jpg?auth=ee346a00e6ff7f077e419f2b9144513e40956eb1f1bd533ac775ed44bc313bca&smart=true&width=3514&height=2343",
-      "pubDate": "2026-08-23T14:30:23.000Z",
+      "title": "Nvidia alerta a sus clientes por aumentos de precios superiores al 15%",
+      "description": "Los nuevos valores se aplicarían a equipos entregados desde comienzos de 2027 e incluirían algunas de las plataformas más avanzadas de la compañía.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/tecnologia/nvidia-alerta-sus-clientes-aumentos-precios-superiores-al-15-n6313817",
+      "image": null,
+      "pubDate": "2026-08-23T14:45:00.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Ahorró durante una década y construyó una casa con bloques de plástico reciclado: “Mantienen la temperatura fresca cuando hace calor”",
-      "description": "Una mujer quiso ofrecerle a su hijo pequeño un lugar seguro donde vivir y, después de un arduo trabajo y la ayuda de una ONG, consiguió el sueño de un hogar propio",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/lifestyle/ahorro-durante-una-decada-y-construyo-una-casa-con-bloques-de-plastico-reciclado-mantienen-la-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/XUU4N5TDWZAF7CGB2YB62D7WCM.png?auth=7b79823736fdc2e891ccdcd2dde48e430d0deedaa0837d63e01705fb854bc088&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-23T14:24:48.000Z",
-      "emojisString": "🌤️"
+      "title": "Javier Milei pierde el voto joven: qué dicen las encuestas y cuánto puede costarle en las elecciones de 2027",
+      "description": "Distintas encuestas de opinión pública coinciden en que hay un deterioro del respaldo al Presidente en los segmentos de menos de 30 años. La economía, el empleo y la falta de expectativas aparecen entre las principales razones del desencanto.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/politica/javier-milei-pierde-el-voto-joven-que-dicen-las-encuestas-y-cuanto-puede-costarle-las-elecciones-2027-n6313815",
+      "image": "https://media.ambito.com/p/952661bf48522818153de1eec55938ea/adjuntos/239/imagenes/043/482/0043482974/jovenes-votando-milei.jpg",
+      "pubDate": "2026-08-23T14:19:00.000Z",
+      "emojisString": "📊 🏛️ 🗳️"
     },
     {
       "title": "Atlético de Madrid, con Julián Alvarez como suplente, vs Villarreal, por la Liga de España: minuto a minuto, en directo",
@@ -65,15 +83,6 @@
       "emojisString": "⚽"
     },
     {
-      "title": "Japón en alerta: un terremoto de magnitud 5,9 sacudió la región de Tokio y causó destrozos y varios heridos",
-      "description": "El movimiento generó daños en infraestructura y complicaciones en el servicio de transporte, mientras que un episodio registrado semanas atrás había dejado más de 300 personas afectadas.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/deportes/victor-montagliani-apunto-contra-gianni-infantino-y-cuestiono-la-fifa-n6313794",
-      "image": "https://media.ambito.com/p/bb67baffb90d9c06c4c98596a1b0fbfe/adjuntos/239/imagenes/043/598/0043598166/1200x675/smart/tokio-terremoto.jpg",
-      "pubDate": "2026-08-23T13:38:00.000Z",
-      "emojisString": "🌊"
-    },
-    {
       "title": "Dibu Martínez, afuera del debut del Aston Villa en la Premier League",
       "description": "Mientras se define su futuro, Unai Emery dejó al arquero argentino al margen del equipo para enfrentar al Brighton, en el inicio de una nueva temporada de la liga inglesa.",
       "source": "Olé",
@@ -81,17 +90,8 @@
       "image": "https://www.ole.com.ar/images/2026/08/23/bJNDKKx6d_1200x630__1.jpg",
       "pubDate": "2026-08-23T13:33:15.000Z",
       "emojisString": "📰"
-    },
-    {
-      "title": "Franco Colapinto fue sancionado y cayó al último puesto en el GP de Países Bajos",
-      "description": "Tras finalizar 12° en la carrera Sprint, el argentino no logró pasar a la Q3. Su compañero Gasly terminó 11°, a pesar de contar con mejoras especiales para su monoplaza.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/deportes/franco-colapinto-fue-sancionado-y-cayo-al-ultimo-puesto-el-gp-paises-bajos-n6313618",
-      "image": "https://media.ambito.com/p/51f55a3be104cb9d85443fcd2b103e01/adjuntos/239/imagenes/043/597/0043597538/1200x675/794x385:814x405/colapinto-gran-premio-paises-bajos.jpeg",
-      "pubDate": "2026-08-23T13:28:00.000Z",
-      "emojisString": "🏎️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-23T14:36:48.871Z"
+  "updated": "2026-08-23T14:59:05.531Z"
 }
