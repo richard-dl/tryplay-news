@@ -2,22 +2,40 @@
   "success": true,
   "data": [
     {
-      "title": "Estatus de la calidad del aire en Rancagua I este 23 de agosto de 2026",
-      "description": "Chile tiene 8 de las 10 ciudades sudamericanas con la peor calidad del aire, según IQ Air",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/noticias/2026/08/23/estatus-de-la-calidad-del-aire-en-rancagua-i-este-23-de-agosto-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-23T11:33:06.000Z",
-      "emojisString": "📰"
+      "title": "A qué hora juegan Racing vs. Boca y cómo ver hoy EN VIVO el Torneo Clausura",
+      "description": "La Academia de Vojvoda y el Xeneize de Arruabarrena disputan un nuevo clásico en el Cilindro de Avelleneda. Seguilo en Olé.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-primera/racing-vs-boca-torneo-clausura-hora-ver-tv-online-formaciones_0_3lzb7lAxps.html",
+      "image": "https://www.ole.com.ar/images/2026/08/23/U7-8Q9Pgo_1200x630__1.jpg",
+      "pubDate": "2026-08-23T11:55:39.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
-      "title": "Estatus de la calidad del aire en Puente Alto este 23 de agosto de 2026",
-      "description": "Estas son algunas sugerencias a considerar para el estado actual de la calidad del aire",
+      "title": "Proteínas que imitan la fibra, la nueva pista científica sobre la salud intestinal",
+      "description": "Trabajos publicados en PNAS y Nature Metabolism sugieren que ciertos componentes de origen vegetal pueden complementar la acción de otros nutrientes en la alimentación de las bacterias intestinales",
       "source": "Infobae",
-      "link": "https://www.infobae.com/noticias/2026/08/23/estatus-de-la-calidad-del-aire-en-puente-alto-este-23-de-agosto-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/EISOFTZNY5C2XLSABAS37P2ESM.jpg?auth=89cf1f7d48bf21a9a4b72f08071e8719fbbc0b2a6a6b4a1f36a17d090faa1314&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-23T11:32:49.000Z",
-      "emojisString": "💻"
+      "link": "https://www.infobae.com/salud/ciencia/2026/08/23/proteinas-que-imitan-la-fibra-la-nueva-pista-cientifica-sobre-la-salud-intestinal/",
+      "image": "https://www.infobae.com/resizer/v2/Q72EJUV6YFAXJAGE6FRXPP6ZXE.png?auth=a74734460920aff11711f66756921d365c4be9b950f8ef2effd29f3c52013fd0&smart=true&width=2752&height=1536",
+      "pubDate": "2026-08-23T11:50:37.000Z",
+      "emojisString": "💻 🏥"
+    },
+    {
+      "title": "Dónde ver Cuenta conmigo online: la película basada en un libro de Stephen King que cumple 40 años",
+      "description": "El autord dice que es la mejor adaptación de una obra suya y destacó que la película capturó la esencia emocional de su relato",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/tecno/2026/08/23/donde-ver-cuenta-conmigo-online-la-pelicula-basada-en-un-libro-de-stephen-king-que-cumple-40-anos/",
+      "image": "https://www.infobae.com/resizer/v2/3VTT43UGP5EOLG5IDBZAA5GHLU.jpg?auth=ed380fc80c48ca6921d3e3ac68b37f87128ca7b3f29e4291510c6845a60ee74f&smart=true&width=1920&height=960",
+      "pubDate": "2026-08-23T11:49:44.000Z",
+      "emojisString": "💻 🎬"
+    },
+    {
+      "title": "Terremoto de magnitud 5,9 deja 37 heridos en Japón",
+      "description": "El sismo también provocó roturas de tuberías de agua y alteraciones en el transporte en algunas zonas, informaron medios locales",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/el-mundo/terremoto-de-magnitud-59-deja-37-heridos-en-japon-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YUT2XAE3DRDH7DTY3R4HA44BWY.JPG?auth=7911811203fee8180921e0e2fc0558420017b24796b0c6fc0b25e56ff9b00229&smart=true&width=3968&height=2646",
+      "pubDate": "2026-08-23T11:47:26.000Z",
+      "emojisString": "🌊"
     },
     {
       "title": "Quién fue John Ponsonby, el diplomático británico que intercedió para la \"creación\" de Uruguay y Bélgica",
@@ -38,31 +56,22 @@
       "emojisString": "💻"
     },
     {
-      "title": "Mapa de cortes: qué calles están cortadas por la Media Maratón de Buenos Aires",
-      "description": "El evento deportivo incluyó restricciones en la circulación de calles y avenidas desde el sábado y hasta este domingo por la noche; cuáles son los barrios afectados",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/mapa-de-cortes-que-calles-estaran-cortadas-por-la-media-maraton-de-buenos-aires-nid22082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/JH3ASAO22RCOPK324UM4W65SPE.jpeg?auth=4562a30abe0a66682db3bffe6a7ba3eb6e9b681cffaaaadb8d8c1e26e0d54b27&smart=true&width=715&height=390",
-      "pubDate": "2026-08-23T11:21:57.000Z",
-      "emojisString": "💻"
+      "title": "Murió luego de estar preso 76 años y salvarse ocho veces de la pena de muerte",
+      "description": "Tenía 101 años y siempre negó haber cometido un asesinato por el que se lo acusaba.\nUn juez había dicho que su condena se basó solo en indicios mientras otra persona asumió la autoría del crimen.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/murio-luego-preso-76-anos-salvarse-veces-pena-muerte_0_jUVfcwvQY6.html",
+      "image": "https://www.clarin.com/img/2026/08/23/nlzYm0pla_1200x630__1.jpg",
+      "pubDate": "2026-08-23T11:14:49.000Z",
+      "emojisString": "⚖️ 🚨 🚗"
     },
     {
-      "title": "\"Éramos feministas sin saberlo\": Cecilia Pavón y Fernanda Laguna recuerdan Belleza y Felicidad",
-      "description": "En Belleza y Felicidad, autobiografía de una amistad, reconstruyen el proyecto artístico que impulsaron entre 1999 y 2001.\nEl libro combina memoria, cartas y reflexión sobre el nacimiento de una escena clave para el arte y la poesía independientes. \nEn esta entrevista recuerdan el feminismo intuitiv",
+      "title": "Murió a los 31, hizo de argentino y fue el primer latin lover: adelantó Párense de Manos y 100.000 personas fueron a su funeral\n",
+      "description": "Valentino fue el actor más deseado de Hollywood: escándalos, duelos y rumores sobre su sexualidad.\nLa historia de la primera estrella mundial que impuso moda y estilo: los hombres copiaban su look y las mujeres lo adoraban.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/cultura/feministas-saberlo-cecilia-pavon-fernanda-laguna-recuerdan-belleza-felicidad_0_R9xYVukrmE.html",
-      "image": "https://www.clarin.com/img/2026/08/10/WzC-dY64T_1200x630__1.jpg",
-      "pubDate": "2026-08-23T11:01:10.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Indignación en la India: una maestra cacheteó a un nene de primer grado y sucedió el peor final",
-      "description": "La maestra reprendió y abofeteó al nene de 6 años.\nLa Policía presentó una denuncia formal contra la escuela.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/indignacion-india-maestra-cacheteo-nene-primer-grado-sucedio-peor-final_0_EL0cWgPTzO.html",
-      "image": "https://www.clarin.com/img/2026/08/23/ZLPCS-zST_1200x630__1.jpg",
-      "pubDate": "2026-08-23T10:56:45.000Z",
-      "emojisString": "💻 📚"
+      "link": "https://www.clarin.com/espectaculos/murio-31-hizo-argentino-primer-latin-lover-adelanto-parense-manos-100000-personas-funeral_0_PdxSFyd81r.html",
+      "image": "https://www.clarin.com/img/2026/08/21/THXipSyOo_1200x630__1.jpg",
+      "pubDate": "2026-08-23T11:13:10.000Z",
+      "emojisString": "⚽ 💻 🎬"
     },
     {
       "title": "El presidente iraní reconoció que su país atraviesa \"numerosas dificultades\" por la guerra con Estados Unidos",
@@ -74,24 +83,15 @@
       "emojisString": "🏛️ 💥 🇺🇸"
     },
     {
-      "title": "Partidos de HOY, domingo 23 de agosto: agenda, horario y por dónde ver fútbol EN VIVO",
-      "description": "River vs. Vélez y Racing vs. Boca se roban todas las miradas en un superdomingo que combina partidos decisivos en el Torneo Clausura, choques imperdibles en Europa y acción de alto nivel en todo el continente.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-domingo-23-agosto-2026-agenda-ole-horario-ver-futbol-vivo-online_0_tVt5QVe9gm.html",
-      "image": "https://www.ole.com.ar/images/2026/08/22/PNaR0-7nt_1200x630__1.jpg",
-      "pubDate": "2026-08-23T10:01:09.000Z",
-      "emojisString": "⚽ 🚗"
-    },
-    {
-      "title": "Colapso carcelario: en diez años casi se duplicó la cantidad de presos en la Provincia",
-      "description": "Un informe de la Comisión Provincial por la Memoria advierte que a fines de 2025 había 63.934 personas detenidas y que la sobrepoblación en cárceles bonaerenses y alcaidías llegó al 116%. El organismo registró además más de 91 mil hechos de tortura, malos tratos y otras vulneraciones a los derechos",
+      "title": "Causa del fentanilo contaminado: Nélida Bisio ampliará su declaración ante la Justicia",
+      "description": "La extitular de ANMAT se presentará este lunes tras haberse negado a responder preguntas durante su primera indagatoria. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/policia/colapso-carcelario-en-diez-anos-casi-se-duplico-la-cantidad-de-presos-en-la-provincia.phtml",
-      "image": "https://fotos.perfil.com/2026/08/23/trim/540/304/23082026carcelcpmg-2309949.jpg",
-      "pubDate": "2026-08-23T09:35:24.000Z",
-      "emojisString": "🚨 💻"
+      "link": "https://www.perfil.com/noticias/politica/causa-del-fentanilo-contaminado-nelida-bisio-ampliara-su-declaracion-ante-la-justicia.phtml",
+      "image": "https://fotos.perfil.com/2026/01/06/trim/540/304/agustina-bisio-2164991.jpg",
+      "pubDate": "2026-08-23T10:27:00.000Z",
+      "emojisString": "⚖️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-23T11:36:47.750Z"
+  "updated": "2026-08-23T11:55:59.897Z"
 }
