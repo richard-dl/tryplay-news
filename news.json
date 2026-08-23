@@ -2,31 +2,40 @@
   "success": true,
   "data": [
     {
-      "title": "Belgrano recibe a Defensa y Justicia y busca la cima de la Zona B del Clausura",
-      "description": "El Pirata va por el triunfo que lo deje arriba en soledad en su grupo. Sarmiento le ganó 2-0 a Estudiantes de La Plata. El Platense de Palermo se impuso 2-1 a Barracas de visitante",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/23/sigue-la-sexta-fecha-del-torneo-clausura-con-tres-partidos-sarmiento-estudiantes-lp-barracas-platense-y-belgrano-defensa/",
-      "image": "https://www.infobae.com/resizer/v2/SKB3AQWV5FFOJINQEXJS3TRVNQ.jpg?auth=f6852f6f007a5e6630a5649243144b18695994f2228a51d07d57648f60253c07&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-23T19:54:00.000Z",
-      "emojisString": "⚖️ 💻 📚"
-    },
-    {
-      "title": "El histórico club italiano que inició gestiones para sumar a Icardi: las figuras argentinas con las que podría compartir equipo",
-      "description": "El delantero de 33 años es agente libre tras su paso por el Galatasaray de Turquía",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/23/el-historico-club-italiano-que-inicio-gestiones-para-sumar-a-icardi-las-figuras-argentinas-con-las-que-podria-compartir-equipo/",
-      "image": "https://www.infobae.com/resizer/v2/YHA3JUMJY5CAJBYJ3375BJVJPM.JPG?auth=24dd1a97f52e3387883cc6535db423f088dc4b9e40064ec884bdef0931b31c73&smart=true&width=4892&height=2752",
-      "pubDate": "2026-08-23T19:54:00.000Z",
+      "title": "Es migrante y dejó EE.UU. por Canadá: “Desde que estamos aquí, sentimos que ya no tenemos que luchar por un trato justo”",
+      "description": "Gemima Cadet vivió 16 años en Florida antes de cruzar la frontera con su madre tras la eliminación del TPS para haitianos.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/es-migrante-y-dejo-eeuu-por-canada-desde-que-estamos-aqui-sentimos-que-ya-no-tenemos-que-luchar-por-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/AUSK5QWZMVC7TPRMVUXVLVADO4?auth=eb66aa180b8a190686895fc1a7abd36f37a3934fc18be1501f1de512ed0b9872&smart=true&width=6000&height=4000",
+      "pubDate": "2026-08-23T20:16:41.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Del polémico penal a favor de Barracas Central al golazo del final para el festejo de Platense",
-      "description": "El equipo de Palermo lo dio vuelta y se impuso por 2-1 en la cancha del Guapo; el VAR intervino en la pena máxima sancionada por Mastrángelo",
+      "title": "Franco Colapinto terminó 14° en el Gran Premio de Países: una sanción muy discutible que arruinó su carrera",
+      "description": "Un “pase y siga” le impidió cosechar puntos. Su compañero de Alpine, Pierre Gasly, finalizó 10º y sumó un punto",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/del-polemico-penal-a-favor-de-barracas-central-al-golazo-del-final-para-el-festejo-de-platense-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/7USQ3B77QFGPTMMSYGQVQYXEYQ.png?auth=23a19e1c02119b4219efb3fe39798a960c085f221ecb45cb7444abf0a0baddc2&smart=true&width=1247&height=832",
-      "pubDate": "2026-08-23T19:51:16.000Z",
-      "emojisString": "⚽"
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-termino-14-en-el-gran-premio-de-paises-una-sancion-muy-discutible-que-arruino-su-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/JHKEOWGE25DAPIACM3KGEFPIXM.jpg?auth=d7fa1490893f474925d8a12c4ad5fd967b5bd31a1890d3ef2fbab8d5dc1e0ab1&smart=true&width=3072&height=2293",
+      "pubDate": "2026-08-23T20:16:19.000Z",
+      "emojisString": "🏎️"
+    },
+    {
+      "title": "Controvertido empresario argentino acompañó la campaña electoral de Fujimori, según ministro",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/america/agencias/2026/08/23/controvertido-empresario-argentino-acompano-la-campana-electoral-de-fujimori-segun-ministro/",
+      "image": null,
+      "pubDate": "2026-08-23T20:15:33.000Z",
+      "emojisString": "🗳️"
+    },
+    {
+      "title": "Soria y Ünal levantan al Getafe contra el Racing",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/america/agencias/2026/08/23/soria-y-unal-levantan-al-getafe-contra-el-racing/",
+      "image": "https://www.infobae.com/resizer/v2/R5YZ45A5FZFUNKZBRTGWCK3SX4.jpg?auth=2edcacc1501a1b31c83ce7cb36c113aee7478dfa43ea642e685eea1edcad0b96&smart=true&width=1920&height=1280",
+      "pubDate": "2026-08-23T20:15:20.000Z",
+      "emojisString": "💻"
     },
     {
       "title": "Video: el golazo de rabona de un argentino en la MLS",
@@ -38,15 +47,6 @@
       "emojisString": "⚽"
     },
     {
-      "title": "Una sucesión de irregularidades en la Legislatura unicameral incomodan al peronismo cordobés ",
-      "description": "Hace poco más de un año la aparición de una “empleada fantasma” abrió una polémica; ahora, denuncian la presencia de asesores con antecedentes penales",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/una-sucesion-de-irregularidades-en-la-legislatura-unicameral-incomodan-al-peronismo-cordobes-nid23082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/WVL267QF4BFAHGBCNI2IVV5DUI.jpg?auth=2ee5abccdbb135b0171707208fd8c25c732032c54dc5877109ad247155f35093&smart=true&width=591&height=443",
-      "pubDate": "2026-08-23T19:46:35.000Z",
-      "emojisString": "💻"
-    },
-    {
       "title": "¿Quiénes son los pilotos clasificados a la Copa de Oro del Turismo Carretera?",
       "description": "Se terminó la Etapa Regular del TC y ya quedaron definidos los aspirantes al título: esta edición de la Copa de Oro contará con 13 pilotos.",
       "source": "Olé",
@@ -54,6 +54,24 @@
       "image": "https://www.ole.com.ar/images/2026/08/23/8xNziURHc_1200x630__1.jpg",
       "pubDate": "2026-08-23T19:42:37.000Z",
       "emojisString": "⚽"
+    },
+    {
+      "title": "Se vuelve a reunir la mesa política PRO-LLA: el macrismo relativiza las recorridas de Karina Milei por la Ciudad\n",
+      "description": "Se prevé que el jueves se encuentren autoridades de ambos partidos, tras el primer encuentro en Casa Rosada.\nLa nueva cumbre se da después de que los libertarios encabezaran diferentes actividades en zonas donde gobierna el PRO.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/politica/vuelve-reunir-mesa-politica-pro-lla-macrismo-relativiza-recorridas-karina-milei-ciudad_0_aOKJJXnfYI.html",
+      "image": "https://www.clarin.com/img/2026/08/13/r7uk_MYts_1200x630__1.jpg",
+      "pubDate": "2026-08-23T19:35:43.000Z",
+      "emojisString": "🏛️"
+    },
+    {
+      "title": "Rey y conquistador, la serie sobre la  batalla que cambió la historia de Inglaterra hace mil años",
+      "description": "Esta coproducción disponible en Universal+ recrea la lucha entre dos candidatos al trono inglés.\nViolentos combates, intrigas, Harold de Wessex y Guillermo de Normandía, antiguos aliados, se enfrentan en 1066 en el combate de Hastings.\nPor qué vale la pena verla.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/espectaculos/rey-conquistador-serie-batalla-cambio-historia-inglaterra-hace-mil-anos_0_YsTCPx44z6.html",
+      "image": "https://www.clarin.com/img/2026/08/23/TJAjPn2oF_1200x630__1.jpg",
+      "pubDate": "2026-08-23T19:33:38.000Z",
+      "emojisString": "🗳️ 💻 🎬"
     },
     {
       "title": "Agenda económica de la semana: licitación de deuda, balances tecnológicos y Jackson Hole",
@@ -72,26 +90,8 @@
       "image": null,
       "pubDate": "2026-08-23T19:26:00.000Z",
       "emojisString": "🏎️ 🏛️ 🗳️"
-    },
-    {
-      "title": "Empeoró la salud del rey Harald, de 89 años, y hay extrema preocupación en Noruega",
-      "description": "El Palacio Real informó que empeoró el cuadro que atraviesa el monarca más longevo de Europa. \nPadece anemia hemolítica, un trastorno sanguíneo que provoca la destrucción anormalmente rápida de los glóbulos rojos.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/mundo/empeoro-salud-rey-harald-89-anos-extrema-preocupacion-noruega_0_fGA6lqOYCc.html",
-      "image": "https://www.clarin.com/img/2025/12/10/O9YtWS5Zs_1200x630__1.jpg",
-      "pubDate": "2026-08-23T18:56:04.000Z",
-      "emojisString": "💻 🏥"
-    },
-    {
-      "title": "Paula, 23 años: \"He durado un día en el trabajo. No voy a quedarme en un sitio donde no me gusta ni amargarme\"",
-      "description": "Paula Lapeña renunció a su empleo después de cumplir un solo día.\nLuego de despertarse llorando en la mañana siguiente, descubrió que no quería quedarse en un lugar que la hacía sentir mal.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/paula-23-anos-durado-dia-trabajo-voy-quedarme-sitio-gusta-amargarme_0_aIGTUSDUmh.html",
-      "image": "https://www.clarin.com/img/2026/08/23/6cbFb2n66_1200x630__1.jpg",
-      "pubDate": "2026-08-23T18:55:41.000Z",
-      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-08-23T19:56:43.485Z"
+  "updated": "2026-08-23T20:18:47.440Z"
 }
