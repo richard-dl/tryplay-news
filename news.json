@@ -2,40 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Elon Musk y sus hijos: cómo el magnate tecnológico creó una familia numerosa",
-      "description": "La historia familiar del empresario comienza con su matrimonio con Justine Wilson, a quien conoció durante su etapa universitaria en Canadá",
+      "title": "Sismo de magnitud 4.6 sacude en Socaire este domingo 23 de agosto",
+      "description": "Debido a su ubicación geográfica, Chile está expuesto a sufrir constantemente de este tipo de eventos sísmicos",
       "source": "Infobae",
-      "link": "https://www.infobae.com/tecno/2026/08/24/elon-musk-y-sus-hijos-como-el-magnate-tecnologico-creo-una-familia-numerosa/",
-      "image": "https://www.infobae.com/resizer/v2/HL4BKCMFEFDTHA363I43XGDK3A.JPG?auth=f440f108886f51bc3a1074505bcf88af7e15a3ee6e8fe882001a926937032170&smart=true&width=4000&height=2668",
-      "pubDate": "2026-08-24T03:28:40.000Z",
+      "link": "https://www.infobae.com/noticias/2026/08/24/sismo-de-magnitud-46-sacude-en-socaire-este-domingo-23-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/QN56SMYRTJG4XGT5ZM5NPJV6MU.jpg?auth=2b08bda76efa520115ae99fcfc410130a72056b4b564dcebb451d1cbc8c9a9b1&smart=true&width=1280&height=720",
+      "pubDate": "2026-08-24T04:16:17.000Z",
+      "emojisString": "🌊"
+    },
+    {
+      "title": "Sismo de magnitud 4.6 sacude en San Fabián este domingo 23 de agosto",
+      "description": "Chile es uno de los países con más actividad sísmica del mundo, por lo que es importante permanecer preparado ante cualquier movimiento telúrico",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/noticias/2026/08/24/sismo-de-magnitud-46-sacude-en-san-fabian-este-domingo-23-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/QN56SMYRTJG4XGT5ZM5NPJV6MU.jpg?auth=2b08bda76efa520115ae99fcfc410130a72056b4b564dcebb451d1cbc8c9a9b1&smart=true&width=1280&height=720",
+      "pubDate": "2026-08-24T04:15:59.000Z",
+      "emojisString": "🌊"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: el armado electoral y los proyectos económicos del Presidente",
+      "description": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-y-los-proyectos-economicos-del-presidente-nid24082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/4TBYV6RSW5AZJK5YJC7QY7KSNY.JPG?auth=64e851fee85e64bd8a1109316117e3dba35dd56283b507a7a0cb54b3db3b7199&smart=true&width=1305&height=979",
+      "pubDate": "2026-08-24T04:13:04.000Z",
+      "emojisString": "🏛️"
+    },
+    {
+      "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este lunes 24 agosto de 2026",
+      "description": "El SMN anticipa para este lunes temperaturas entre 2°C y 11°C.\nEl pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-lunes-24-agosto-2026_0_g4Nuusb5Z4.html",
+      "image": "https://www.clarin.com/img/2025/04/30/gTJX9Uxtf_1200x630__1.jpg",
+      "pubDate": "2026-08-24T03:40:09.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este lunes 24 agosto de 2026",
+      "description": "El pronóstico extendido durante la jornada.\n¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-lunes-24-agosto-2026_0_IPeG0HoGsM.html",
+      "image": "https://www.clarin.com/img/2025/04/30/f4xLaY8eq_1200x630__1.jpg",
+      "pubDate": "2026-08-24T03:39:46.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "Tras la pista de un fantasma: cómo la BBC localizó al jefe de espionaje fugitivo de Al Assad tras una búsqueda de meses",
+      "description": "Una libreta ayudó a dar con Hussam Luka, alias \"La Araña\", quien fue uno de los hombres más temidos de Siria durante la era de Bashar al\nAssad.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cy8e3696l7no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b4e/live/63614cc0-91c2-11f1-b2ab-0dd01740f9f6.png",
+      "pubDate": "2026-08-24T03:33:20.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "De la calle a 10 millones de seguidores: quién es Spidercholo",
-      "description": "El personaje surgió hace algunos años y se ha expandido",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/24/de-la-calle-a-10-millones-de-seguidores-quien-es-spidercholo/",
-      "image": "https://www.infobae.com/resizer/v2/MLKFVR4GT5FJFCQETSQKTODB5U.png?auth=937a4628c3f4346ab2c271811ca3752762748485b0666a1b03d92aa4958d7e52&smart=true&width=2752&height=1536",
-      "pubDate": "2026-08-24T03:28:21.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Bellacos",
-      "description": "Las leyendas toman cuerpo propio y se ven encarnando en otros personajes, que hoy, en tiempos restauradores, se vuelven legión",
+      "title": "El robo de una moto terminó con tiros en la puerta de la casa de Eduardo Duhalde en Lomas de Zamora",
+      "description": "La custodia del expresidente intervino ante el hurto y se enfrentó con los delincuentes; la víctima es un hombre de 60 años, que fue herido de bala; los sospechosos escaparon a pie y son buscados por la policía",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/opinion/bellacos-nid24082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/QFHZE6KHQNCZ3A2NXEIPPVY5DM.jpg?auth=c7df5da1eb5577f37d8683c28aa9b9229ad70876e24b6d789922f73cc9fa4660&smart=true&width=800&height=575",
-      "pubDate": "2026-08-24T03:15:00.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "El caso Moncayo",
-      "description": "El verdadero desafío de los tribunales actuales radica en aplicar el derecho con perspectiva de género y de infancia garantizando entornos seguros para las o los denunciantes, sin que ello signifique el desmantelamiento de las garantías procesales que protegen a cualquier ciudadano frente al poder p",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/opinion/el-caso-moncayo-nid24082026/",
-      "image": null,
-      "pubDate": "2026-08-24T03:13:00.000Z",
-      "emojisString": "⚖️ 💻"
+      "link": "https://www.lanacion.com.ar/seguridad/el-robo-de-una-moto-termino-con-tiros-en-la-casa-de-eduardo-duhalde-en-lomas-de-zamora-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/XO3EWU7R6VC7JMUAZAM562STJQ.JPG?auth=3c0877bb83b72e5bd894ba3c3648d043e50422448e3780e9d85b1546f89ea924&smart=true&width=1422&height=1066",
+      "pubDate": "2026-08-24T03:31:57.000Z",
+      "emojisString": "🏛️ 🚨 💻"
     },
     {
       "title": "Arruabarrena, de \"merecíamos un poquito más\" a \"hay rebeldía\"",
@@ -63,35 +90,8 @@
       "image": "https://media.ambito.com/p/2034d1d26d27d9f506928671340a9124/adjuntos/239/imagenes/043/598/0043598777/1200x675/smart/1200x675-notas-24-08-26-ok.jpg",
       "pubDate": "2026-08-24T03:00:00.000Z",
       "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "El uno por uno del empate de Racing con Boca ",
-      "description": "La Academia tuvo momentos de mejor juego que su rival, pero le faltó poder ofensivo y no pudo ir más allá de una igualdad. Acá, todos los puntajes.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/racing/racing-boca-clausura-clasico_0_KyYTG4Z8pE.html",
-      "image": "https://www.ole.com.ar/images/2026/08/23/CI5Dq9eIx_1200x630__1.jpg",
-      "pubDate": "2026-08-24T02:59:29.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "La Rioja denunció al Gobierno por presunto desvío de un billón de pesos para rutas",
-      "description": "El gobernador Ricardo Quintela solicita investigar a Milei, Caputo y otros funcionarios por defraudación en la gestión de fondos correspondientes al Sistema Vial Integrado.  Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/politica/la-rioja-denuncio-al-gobierno-por-presunto-desvio-de-un-billon-de-pesos.phtml",
-      "image": "https://fotos.perfil.com/2026/08/04/trim/540/304/ricardo-quintela-2297235.jpg",
-      "pubDate": "2026-08-24T02:17:58.000Z",
-      "emojisString": "💵 🏛️ 💻"
-    },
-    {
-      "title": "La policía investiga tras hallar 5 cadáveres en zona rural de Oregon",
-      "description": "Cinco cuerpos fueron hallados en una propiedad rural de Oregon tras un incendio vehicular. Las autoridades investigan el caso como un quíntuple homicidio.\nLa policía no cree que sea un acto aleatorio y aún no hay arrestos. Se trabaja en identificar a las víctimas y esclarecer los hechos.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/la-policia-investiga-tras-hallar-5-cadaveres-en-zona-rural-de-oregon_0_9acSYPvaJj.html",
-      "image": "https://www.clarin.com/img/2026/07/31/037DG1iiM_1200x630__1.jpg",
-      "pubDate": "2026-08-24T02:00:11.000Z",
-      "emojisString": "📰"
     }
   ],
   "count": 10,
-  "updated": "2026-08-24T03:30:05.163Z"
+  "updated": "2026-08-24T04:22:52.505Z"
 }
