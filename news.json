@@ -2,76 +2,67 @@
   "success": true,
   "data": [
     {
-      "title": "Los Leones superaron 5-3 a India y clasificaron a las semifinales del Mundial de hockey",
-      "description": "El equipo de Lucas Rey triunfó con goles de Lucas y Joaquín Toscani, Nicolás della Torre y un doblete de Tomás Domene. Tras el empate entre Países Bajos e Inglaterra, el combinado argentino selló su pase en busca de la final",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/deportes/2026/08/24/los-leones-superaron-5-3-a-india-y-se-clasificaron-a-las-semifinales-del-mundial-de-hockey/",
-      "image": "https://www.infobae.com/resizer/v2/Z343ET36CVEGXOHTP6HEDBWYQA.jpg?auth=b663ba00d54efa23734146286fc107f1a58f290e999a0bfad8efdb667261e634&smart=true&width=1920&height=1320",
-      "pubDate": "2026-08-24T17:40:31.000Z",
-      "emojisString": "⚽ 💻"
-    },
-    {
-      "title": "Tras la deportación, salvadoreños retornados se enfrentan a múltiples obstáculos para reconstruir su vida",
-      "description": "Las limitaciones en el acceso al empleo, estigmatización social y desafíos emocionales afectan a quienes regresan, en especial a jóvenes que desconocen la realidad salvadoreña",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/el-salvador/2026/08/24/tras-la-deportacion-salvadorenos-retornados-se-enfrentan-a-multiples-obstaculos-para-reconstruir-su-vida/",
-      "image": "https://www.infobae.com/resizer/v2/4XW7NGV2YHUO27QLVNIVE2NWZE.jpg?auth=a156737c583367c2884e062c93207c014548eb4081f7300a175f1eb41d65fb49&smart=true&width=800&height=532",
-      "pubDate": "2026-08-24T17:40:08.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "EE.UU. anuncia medidas para aislar a la economía de Irán del resto del mundo y lanza advertencias a todos los países",
-      "description": "Teherán advirtió que cualquier escalada por parte de Washington “tendrá sin dudas consecuencias”",
+      "title": "Un asalto de motochorros derivó en un tiroteo frente a la casa de Eduardo Duhalde en Lomas de Zamora",
+      "description": "La custodia del expresidente intervino ante el hurto y se enfrentó con los delincuentes; la víctima es un hombre de 60 años, que fue herido de bala; los sospechosos escaparon a pie y son buscados por la policía",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/el-mundo/iran-aumenta-la-presion-sobre-ormuz-ante-el-inminente-anuncio-de-sanciones-de-eeuu-nid24082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/BAIF4IEYTNEQVERD5IMKKLM2DY.JPG?auth=300667a0b1e85bae52a7bec791570b7998ce42b60d549578e5a1e40594761860&smart=true&width=7183&height=4788",
-      "pubDate": "2026-08-24T17:39:41.000Z",
-      "emojisString": "📊 💻 🇺🇸"
-    },
-    {
-      "title": "Palmeiras, de subcampeón sin títulos a candidato al triplete: la temporada histórica del equipo de Abel Ferreira",
-      "description": "El Verdao atraviesa un 2026 espectacular: ya fue campeón del Paulista y pelea por el Brasileirão, la Libertadores y la Copa de Brasil.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/palmeiras-subcampeon-titulos-candidato-triplete-temporada-historica-equipo-abel-ferreira_0_uUZKAIU4QW.html",
-      "image": "https://www.ole.com.ar/images/2026/08/24/TiGdeJYeG_1200x630__1.jpg",
-      "pubDate": "2026-08-24T17:39:34.000Z",
-      "emojisString": "⚽ 🗳️ 🇧🇷"
-    },
-    {
-      "title": "Moretti se tiró flores por la venta de Gill: \"Lo trajimos de la B de Paraguay\" y la ironía con \"otro negociado que vino para la Reserva\"",
-      "description": "Después de que se confirme la salida del arquero al Lille de Francia, el ex presidente de San Lorenzo habló sobre la llegada del paraguayo al club.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-orlando-gill-marcelo-moretti-tweet-venta-dijo-negociado-reserva_0_NpXxq4dspF.html",
-      "image": "https://www.ole.com.ar/images/2025/01/20/6DOIVwnsb_1200x630__1.jpg",
-      "pubDate": "2026-08-24T17:38:57.000Z",
+      "link": "https://www.lanacion.com.ar/seguridad/el-robo-de-una-moto-termino-con-tiros-en-la-casa-de-eduardo-duhalde-en-lomas-de-zamora-nid23082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/XO3EWU7R6VC7JMUAZAM562STJQ.JPG?auth=3c0877bb83b72e5bd894ba3c3648d043e50422448e3780e9d85b1546f89ea924&smart=true&width=1422&height=1066",
+      "pubDate": "2026-08-24T18:09:55.000Z",
       "emojisString": "🏛️ 💻"
     },
     {
-      "title": "Javier Milei ratificó el rumbo económico delante del Gabinete y negó que haya una crisis de morosidad  ",
-      "description": "El Presidente se reunió con los ministros durante casi tres horas y pidió apoyo a su agenda legislativa; “al populismo no se le gana con más populismo”, les dijo; no iba a la Casa Rosada desde hace 24 días",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-volvio-a-la-casa-rosada-tras-23-dias-y-reune-al-gabinete-nid24082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/XSOCMJ33D5B3BETMAVCDZS3EJU.jpg?auth=ea0720a1645d3eb01858f4554f6ee1d0d141a78c057bcf8da5a9e1acfa1677bb&smart=true&width=1600&height=1066",
-      "pubDate": "2026-08-24T17:38:37.000Z",
-      "emojisString": "🏛️"
+      "title": "Abelardo de la Espriella reveló desde el Chocó nuevo balance oficial del terremoto en Colombia: 329 muertos y 234 desaparecidos",
+      "description": "Abelardo de la Espriella lo anunció desde el Chocó, que además 4.592 lesionados y 234 personas sin localizar tras el evento del 10 de agosto, con epicentro en San José del Palmar",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/colombia/2026/08/24/abelardo-de-la-espriella-revelo-desde-el-choco-nuevo-balance-oficial-del-terremoto-en-colombia-329-muertos-y-234-desaparecidos/",
+      "image": "https://www.infobae.com/resizer/v2/UDE2I34GZBAWVGPH3E7PLS4UWA.png?auth=77a7f82c37edb2b07fdbd28a79450b2ccf15fb219502cebd273012566bef0f83&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-24T18:09:45.000Z",
+      "emojisString": "💻 🌊 🚗"
     },
     {
-      "title": "Manuel Adorni pidió una prórroga para justificar su patrimonio ante la Justicia",
-      "description": "",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/manuel-adorni-pidio-una-prorroga-justificar-su-patrimonio-la-justicia-n6314210",
-      "image": null,
-      "pubDate": "2026-08-24T17:35:16.000Z",
-      "emojisString": "⚖️ 💻"
-    },
-    {
-      "title": "A cuánto cotiza el euro blue hoy, lunes 24 de agosto",
-      "description": "La divisa europea informal cotiza al alza, presentando una suba de $12 transcurridas tres horas de la primer rueda cambiaria de la semana. Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/economia/a-cuanto-cotiza-el-euro-blue-hoy-lunes-24-de-agosto.phtml",
-      "image": "https://fotos.perfil.com/2025/04/25/trim/540/304/euros-2010944.jpg",
-      "pubDate": "2026-08-24T17:22:00.000Z",
+      "title": "El verdadero problema de los equipos multigeneracionales no es la edad, es el enfoque de liderazgo ",
+      "description": "Solo uno de cada cuatro colaboradores en el mundo experimenta lo que los especialistas llaman “sinergia generacional”. El problema no es la edad de los equipos, es la falta de preparación de quienes los lideran",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/peru/2026/08/24/el-verdadero-problema-de-los-equipos-multigeneracionales-no-es-la-edad-es-el-enfoque-de-liderazgo/",
+      "image": "https://www.infobae.com/resizer/v2/5PY4TOUDCRFFXMT67PWSYGRF3Q.png?auth=003633694c67d1fdc519a1ab1036dc056092c758178d69dfc72e1bccc2de55d7&smart=true&width=1408&height=768",
+      "pubDate": "2026-08-24T18:08:21.000Z",
       "emojisString": "💻"
+    },
+    {
+      "title": "Así quedó la tabla de posiciones del grupo de los Leones en el Mundial de hockey 2026, tras el triunfo vs. India",
+      "description": "La selección argentina se impuso 5 a 3 a los asiáticos y se clasificó a las semifinales porque Inglaterra empató con Países Bajos 2 a 2",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/asi-quedo-la-tabla-de-posiciones-del-grupo-de-los-leones-en-el-mundial-de-hockey-2026-tras-el-nid24082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/MEVD4OXQOFAK7H6GXGY677DUOE.jpg?auth=86e29f9630fd34c070370966f4aa51e123e7d70f838868d99ed59ba3460c5b7c&smart=true&width=1890&height=1310",
+      "pubDate": "2026-08-24T18:07:04.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Augusto Batalla fue operado y comenzó su recuperación tras la fractura de tibia: ¿cuánto tiempo estará de baja?",
+      "description": "El arquero argentino fue intervenido con éxito y afrontará una larga rehabilitación. Y el Rayo Vallecano ya analiza alternativas en el puesto...",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/espana/augusto-batalla-operado-exito-recuperacion-rayo-vallecano_0_TtnJVtbxYh.html",
+      "image": "https://www.ole.com.ar/images/2026/08/22/W4I4ZQIou_1200x630__1.jpg",
+      "pubDate": "2026-08-24T18:05:53.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Simeone recibió un homenaje por los 800 partidos en el Atlético en medio de la tensión con Julián",
+      "description": "El Cholo fue reconocido por su extensa trayectoria en el Colchonero durante una jornada marcada por el clima adverso con la Araña.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/espana/cholo-simeone-homenaje-partidos-atletico-madrid-julian-alvarez-tension-conflicto_0_6VKCHIKqPq.html",
+      "image": "https://www.ole.com.ar/images/2026/08/24/kb0srwWPU_1200x630__1.jpg",
+      "pubDate": "2026-08-24T18:04:00.000Z",
+      "emojisString": "💻 🌤️"
+    },
+    {
+      "title": "El Gobierno le transfirió a Río Negro dos rutas nacionales clave para Vaca Muerta",
+      "description": "Se trata de la 22 y la 151, que fueron reclamadas por la provincia durante los últimos años. El gobernador Alberto Weretilneck calificó el entendimiento de \"histórico\". La concesión tendrá un plazo de 20 años.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/ambito-nacional/el-gobierno-le-transfirio-rio-negro-dos-rutas-nacionales-clave-vaca-muerta-n6314225",
+      "image": "https://media.ambito.com/p/101927662b4d4a40a98a276ad846cdc4/adjuntos/239/imagenes/043/600/0043600053/1200x675/smart/caputo-santilli-weretilneck.jpg",
+      "pubDate": "2026-08-24T17:57:00.000Z",
+      "emojisString": "🏛️ 💻 🚗"
     },
     {
       "title": "Dólar hoy y dólar blue hoy minuto a minuto: a cuánto opera este lunes 24 de agosto",
@@ -79,19 +70,28 @@
       "source": "Ámbito",
       "link": "https://www.ambito.com/finanzas/dolar-hoy-y-dolar-blue-hoy-minuto-minuto-cuanto-opera-este-lunes-24-agosto-n6313999",
       "image": "https://media.ambito.com/p/32a7bb62831d5e2da49190f64c37118b/adjuntos/239/imagenes/043/161/0043161111/1200x675/824x407:844x427/mercados-finanzas-vivo-acciones-bolsas-inversiones-bonos-dolar-tasas-cedears.jpg",
-      "pubDate": "2026-08-24T17:21:00.000Z",
+      "pubDate": "2026-08-24T17:48:00.000Z",
       "emojisString": "💵 💻"
     },
     {
-      "title": "Nevada ordena evacuar a 90.000 personas mientras crece incendio forestal",
-      "description": "Un incendio forestal se expandió rápidamente en las estribaciones de la Sierra Nevada, amenazando vecindarios en Reno y forzando evacuaciones masivas.\nLos bomberos combaten el fuego que ha destruido viviendas y causado heridos, mientras las autoridades investigan su origen humano.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/nevada-ordena-evacuar-a-90-000-personas-mientras-crece-incendio-forestal_0_ZNHER4xU7T.html",
-      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
-      "pubDate": "2026-08-24T17:20:05.000Z",
-      "emojisString": "📰"
+      "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
+      "description": "Canadá y EE.UU. están enfilados hacia una guerra comercial luego de que las negociaciones para un acuerdo definitivo no llegaran a buen puerto. El primer ministro canadiense tiene ahora que convencer a su población de asumir las consecuencias.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e8d/live/bdb8d650-9fcf-11f1-b109-879e35c24276.jpg",
+      "pubDate": "2026-08-24T17:45:03.000Z",
+      "emojisString": "💻 💥 🇺🇸"
+    },
+    {
+      "title": "Qué es el fenómeno de activación dinámica que puede “encender” la falla de San Andrés a miles de kilómetros",
+      "description": "En un estudio realizado sobre el tramo Parkfield-Cholame, una zona de transición clave en el centro de California, los científicos del Servicio Geológico de Estados Unidos (USGS) observaron un episodio de temblor profundo después del paso de ondas sísmicas procedentes de otro terremoto.\r\n Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/ciencia/que-es-el-fenomeno-de-activacion-dinamica-que-puede-encender-a50-la-falla-de-san-andres-a-miles-de-kilometros.phtml",
+      "image": "https://fotos.perfil.com/2026/08/19/trim/540/304/activacion-dinamica-2307221.jpg",
+      "pubDate": "2026-08-24T17:45:00.000Z",
+      "emojisString": "💻 🌊 🇺🇸"
     }
   ],
   "count": 10,
-  "updated": "2026-08-24T17:44:50.366Z"
+  "updated": "2026-08-24T18:13:50.744Z"
 }
