@@ -2,6 +2,15 @@
   "success": true,
   "data": [
     {
+      "title": "\"Ya ni intentamos refinanciar la deuda porque es impagable\": los millones de argentinos que se han convertido en morosos (y qué dice sobre la economía del país) ",
+      "description": "Una de cada tres personas en Argentina tienen problemas para cancelar las deudas que tomaron con bancos, billeteras virtuales o prestamistas.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cp8dn385kl0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b11/live/722613d0-a072-11f1-b109-879e35c24276.jpg",
+      "pubDate": "2026-08-26T11:00:27.000Z",
+      "emojisString": "💵 📊 💻"
+    },
+    {
       "title": "Daniel Mecca, escritor: “Recorrer las calles por donde Borges caminaba permite crear una imaginación poética de su figura”",
       "description": "La recorrido atraviesa Recoleta y Retiro siguiendo las huellas biográficas y literarias del autor de “Ficciones”; casas, amistades, antepasados y escenarios porteños construyen un relato que busca acercar su obra a nuevas generaciones",
       "source": "La Nación",
@@ -11,31 +20,67 @@
       "emojisString": "💻"
     },
     {
-      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 26 de agosto, minuto a minuto ",
-      "description": "La divisa oficial operó a $1530 para la venta en el Banco Nación; el dólar blue cotizó a $1565 para esa operación; qué pasó con el MEP y el CCL",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid26082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
-      "pubDate": "2026-08-26T10:26:43.000Z",
-      "emojisString": "💵 💻"
+      "title": "Jimena Barón cuestionó la actuación de Miguel Ángel Rodríguez en Es mi sueño: “Fue un caos lo que trajeron”",
+      "description": "El actor se presentó junto a Vanesa Rodríguez con una versión de “Seminare” que cosechó opiniones divididas en el jurado",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/teleshow/2026/08/26/jimena-baron-cuestiono-la-actuacion-de-miguel-angel-rodriguez-en-es-mi-sueno-fue-un-caos-lo-que-trajeron/",
+      "image": "https://www.infobae.com/resizer/v2/B5EZUQOAINA3TOL7QXX5DKITEM.jpg?auth=024c68fdb9b9d59be3489b3280d529011ea07f9a17b8571f8b8d9a88efdb27ef&smart=true&width=3264&height=1836",
+      "pubDate": "2026-08-26T10:55:09.000Z",
+      "emojisString": "📰"
     },
     {
-      "title": "Suspenden jornadas de esterilización animal en Huautla, Hidalgo, tras denuncias por falta de higiene",
-      "description": "El gobierno municipal anunció la suspensión de las campañas de esterilización canina y felina luego de señalamientos sobre presuntas irregularidades de limpieza",
+      "title": "Señales de unidad del PJ en Santa Fe: Sergio Massa reapareció en público y respaldó a Diego Giuliano que busca la gobernación",
+      "description": "El ex ministro acompañó al diputado nacional y presidente del Frente Renovador en Rosario, donde presentó un libro y, juntó a todas las tribus del peronismo santafesino, lanzó su candidatura",
       "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/26/suspenden-jornadas-de-esterilizacion-animal-en-huautla-hidalgo-tras-denuncias-por-falta-de-higiene/",
-      "image": "https://www.infobae.com/resizer/v2/X7TI6KW7NVDWJEHM2EMWQFQ3WE.jpg?auth=48d95e94ed766f2ba855f08ebd47b3c9a5189779798b07adb882daf07e962807&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-26T10:18:30.000Z",
+      "link": "https://www.infobae.com/politica/2026/08/26/senales-de-unidad-del-pj-en-santa-fe-sergio-massa-reaparecio-en-publico-y-respaldo-a-diego-giuliano-que-busca-la-gobernacion/",
+      "image": "https://www.infobae.com/resizer/v2/MVSWFPECQVGDHJKWXW7QOUDF4M.jpg?auth=3e361197e2e305c8dea3588f9207c4a67979e580c927fcd85c1b096a08ea2c43&smart=true&width=1920&height=1080",
+      "pubDate": "2026-08-26T10:53:39.000Z",
       "emojisString": "🏛️ 🗳️ 💻"
     },
     {
-      "title": "Precio de la gasolina en Jalisco este 25 de agosto",
-      "description": "La Comisión Nacional de Energía es el organismo encargado de informar todos los días el costo de las gasolinas en el país",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/mexico/2026/08/26/precio-de-la-gasolina-en-jalisco-este-25-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/6NUTLUQRYVHCBJQ7HUJKEHJVOA.jpg?auth=663a3822d70c158a01430fb0aa7acc996edbf6d7a8bd451eaf579c1a42ae4da2&smart=true&width=1920&height=1080",
-      "pubDate": "2026-08-26T10:18:00.000Z",
-      "emojisString": "📰"
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 26 de agosto, minuto a minuto ",
+      "description": "La divisa oficial operó ayer a $1530 para la venta en el Banco Nación; el dólar blue cotizó a $1565 para esa operación; qué pasó con el MEP y el CCL",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid26082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GHSZNGFV4FBN7D6V3AYV4H6RTU.jpg?auth=d9c8fd22de8f9f8455c0d6610ecd246b61fdc09688eb4385a24c4611144e9133&smart=true&width=2000&height=1333",
+      "pubDate": "2026-08-26T10:50:00.000Z",
+      "emojisString": "💵 💻"
+    },
+    {
+      "title": "El Gobierno aprobó un nuevo proyecto RIGI por más de u$s365 millones en petróleo y gas en Buenos Aires y Neuquén",
+      "description": "La iniciativa contempla ampliar en 1.500 toneladas diarias la producción de líquidos del gas natural. La inversión total declarada asciende a u$s365,4 millones.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/energia/el-gobierno-aprobo-un-nuevo-proyecto-rigi-mas-us365-millones-petroleo-y-gas-buenos-aires-y-neuquen-n6314827",
+      "image": "https://media.ambito.com/p/465a261a74f9e414466c50161c77398f/adjuntos/239/imagenes/043/557/0043557355/1200x675/smart/rigi-mega.jpeg",
+      "pubDate": "2026-08-26T10:36:00.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "Caso Axel González: detuvieron a “Kunito” Gómez por una denuncia de amenazas",
+      "description": "Sergio “Kunito” Gómez fue detenido cuando se presentó ante la Justicia para cumplir una obligación semanal que tenía impuesta en la causa por la desaparición del joven de Fontana. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/nea/caso-axel-gonzalez-detuvieron-a-kunito-gomez-por-una-denuncia-de-amenazas.phtml",
+      "image": "https://fotos.perfil.com/2026/05/26/trim/540/304/desaparicion-de-axel-gonzalez-2247631.jpg",
+      "pubDate": "2026-08-26T10:30:00.000Z",
+      "emojisString": "⚖️ 🚨 💻"
+    },
+    {
+      "title": "Real hoy: precio y a cuánto cotiza este miércoles 26 de agosto de 2026",
+      "description": "Conocé la variación del real para la compra y venta.\nLa cotización de la divisa de Brasil según el Banco Nación.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/real-hoy-precio-y-a-cuanto-cotiza-este-miercoles-26-de-agosto-de-2026_0_Hv1AMIIviS.html",
+      "image": "https://www.clarin.com/img/2025/01/21/WwaeGg8d5_1200x630__1.jpg",
+      "pubDate": "2026-08-26T10:25:03.000Z",
+      "emojisString": "💵 💻 🇧🇷"
+    },
+    {
+      "title": "Euro hoy: precio y a cuánto cotiza este miércoles 26 de agosto de 2026",
+      "description": "Mirá la cotización para la compra y venta del euro oficial.\nTodas las variaciones y la referencia del Banco Nación.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/economia/euro-hoy-precio-y-a-cuanto-cotiza-este-miercoles-26-de-agosto-de-2026_0_aTV0AJlKkj.html",
+      "image": "https://www.clarin.com/img/2022/01/28/maQAVAJcC_1200x630__1.jpg",
+      "pubDate": "2026-08-26T10:25:02.000Z",
+      "emojisString": "💵 💻"
     },
     {
       "title": "Benito Fernández sobre la industria textil: \"Estamos peor que en la pandemia\"",
@@ -45,53 +90,8 @@
       "image": "https://fotos.perfil.com/2026/06/19/trim/540/304/benito-fernandez-2264966.jpg",
       "pubDate": "2026-08-26T10:04:00.000Z",
       "emojisString": "💻"
-    },
-    {
-      "title": "La pequeña ciudad escocesa que busca migrantes para frenar la caída de su población",
-      "description": "Greenock quiere atraer inmigrantes para que se establezcan en la ciudad y revertir el descenso de su población.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/ceqe400d82zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/305b/live/510d0290-9cca-11f1-b109-879e35c24276.jpg",
-      "pubDate": "2026-08-26T10:03:21.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Margarita Barrientos: \"Me gustaría conversar con Milei\"",
-      "description": "La fundadora del comedor Los Piletones afirmó que \"la gente está triste y endeudada\". Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/nea/margarita-barrientos-me-gustaria-conversar-con-milei.phtml",
-      "image": "https://fotos.perfil.com/2026/04/25/trim/540/304/25-4-2026-margarita-barrientos-2227632.jpg",
-      "pubDate": "2026-08-26T10:03:00.000Z",
-      "emojisString": "🏛️"
-    },
-    {
-      "title": "Tres regresos clave en River pero sin ritmo de juego para definir la serie de octavos de la Sudamericana",
-      "description": "Los campeones del mundo Montiel y Acuña más el goleador Driussi volverán al 11 de Coudet este miércoles a pesar de estar recién recuperados de lesiones musculares.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/river-plate/river-sudamericana-coudet-montiel-driussi-acuna_0_wRkYg5NvxM.html",
-      "image": "https://www.ole.com.ar/images/2026/05/14/V41gDe0nu_1200x630__1.jpg",
-      "pubDate": "2026-08-26T10:01:54.000Z",
-      "emojisString": "⚽ 🎬"
-    },
-    {
-      "title": "Se viene el sorteo de la Champions League 2026/27: ¿qué argentinos la jugarán?",
-      "description": "Este jueves quedará conformado el calendario de la Fase de la Liga, con numerosa presencia albiceleste, entre futbolistas y entrenadores.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/champions/viene-sorteo-fase-liga-champions-league-2026-2027-futbolistas-entrenadores-argentinos-romero-martinez-rulli-ceslo-simeone-mac-allister-demichelis_0_zW0TRxL7Hj.html",
-      "image": "https://www.ole.com.ar/images/2026/08/25/1qN04Jayw_1200x630__1.jpg",
-      "pubDate": "2026-08-26T10:01:54.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "El Gobierno modificó los requisitos y estándares de seguridad para los autos y vehículos 0 km: cuáles son los cambios desde hoy",
-      "description": "El Decreto 796/2026 actualizó las condiciones para la fabricación e importación de vehículos nacionales y extranjeros. Las unidades deberán contar con las licencias de configuración correspondientes y se habilitará la homologación bajo determinados estándares internacionales.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/autos/el-gobierno-modifico-los-requisitos-y-estandares-seguridad-los-y-vehiculos-0-km-cuales-son-los-cambios-hoy-n6314826",
-      "image": null,
-      "pubDate": "2026-08-26T09:51:00.000Z",
-      "emojisString": "🏛️ 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-08-26T10:28:12.509Z"
+  "updated": "2026-08-26T11:01:44.182Z"
 }
