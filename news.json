@@ -2,96 +2,96 @@
   "success": true,
   "data": [
     {
-      "title": "PISA 2025 revela una paradoja en Perú: escolares están entre los más curiosos, pero el aprendizaje sigue rezagado",
-      "description": "El 81% de los estudiantes peruanos afirma sentir curiosidad por muchas cosas y el país ocupa el séptimo lugar entre 85 sistemas evaluados en este indicador. Sin embargo, siete de cada diez no alcanzan el nivel básico en Matemática. ¿Qué falta para transformar esa disposición en mejores aprendizajes?",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/09/15/pisa-2025-revela-una-paradoja-en-peru-escolares-estan-entre-los-mas-curiosos-pero-el-aprendizaje-sigue-rezagado/",
-      "image": "https://www.infobae.com/resizer/v2/YS5NTEMVFFHD7OFS67PZ72OA74.png?auth=a6502562204bd8c85f40b73450fb2b4ebea6415ce6ff9a803a9bf32561430346&smart=true&width=1920&height=1080",
-      "pubDate": "2026-09-15T00:51:55.000Z",
-      "emojisString": "💻 📚"
-    },
-    {
-      "title": "Panamá busca mejorar la conectividad ecológica, el monitoreo y la gestión de sus zonas protegidas",
-      "description": "El país ya rebasa el objetivo de conservar el 30% de las áreas terrestres, aguas continentales y zonas marinas y costeras antes de 2030",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/panama/2026/09/15/panama-busca-mejorar-la-conectividad-ecologica-el-monitoreo-y-la-gestion-de-sus-zonas-protegidas/",
-      "image": "https://www.infobae.com/resizer/v2/E3AUIESTCVH53KQNRJ23N7IERU.jpeg?auth=282e1a965626b654e9092e8593401a639037e285fa9e54d449e0615214d6ac83&smart=true&width=667&height=494",
-      "pubDate": "2026-09-15T00:50:56.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "La nueva vida de Estefi Berardi: lejos de la TV, se dedica al marketing y disfruta de su futura maternidad",
-      "description": "Hoy, alejada de los medios masivos, atraviesa su momento más feliz junto al empresario Félix Orsatti, a la espera de su primer hijo varón",
+      "title": "Milei vs. Milei",
+      "description": "La parálisis de construcción e industria; la fantasía kirchnerista; la economía de Trump daña al Presidente; el sueño de salir al mercado; Malvinas y el avance del “Mago” Caputo sobre el PAMI y Aduana; Urribarri, preso tras “sus” propias rejas",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-nueva-vida-de-estefi-berardi-lejos-de-la-tv-se-dedica-al-marketing-y-disfruta-de-su-futura-nid14092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/G6FM4FJFVBBANDXT5VOMITP3PA.jpg?auth=34c6ca15d53468037d80ad106cc5072fb928a40e015979289fd4ed8ba41c5252&smart=true&width=2000&height=1333",
-      "pubDate": "2026-09-15T00:50:00.000Z",
+      "link": "https://www.lanacion.com.ar/politica/milei-vs-milei-nid15092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/VFNNAEVUSRBJJEUIRT5HCEZBEY.jpeg?auth=3643f437a36dc124f703097e38db6f30a587d8126209a495c15431a0816777c5&smart=true&width=1280&height=854",
+      "pubDate": "2026-09-15T05:34:30.000Z",
+      "emojisString": "📊 🏛️ 💻"
+    },
+    {
+      "title": "Virgen, extra y lampante: estos son los precios del aceite de oliva hoy 15 de septiembre",
+      "description": "El mercado de aceite de oliva es de vital importancia debido a que se trata de un pilar fundamental en el sistema agroalimentario español",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/espana/2026/09/15/virgen-extra-y-lampante-estos-son-los-precios-del-aceite-de-oliva-hoy-15-de-septiembre/",
+      "image": "https://www.infobae.com/resizer/v2/LTLE365WHRGSNMQ7CWS75VWW6I.png?auth=f57b7cbeb35d90087b04a994f52ebe5fef1e0fbae2148b7d1012c03f1753cee0&smart=true&width=1456&height=816",
+      "pubDate": "2026-09-15T05:30:53.000Z",
+      "emojisString": "📊 💻"
+    },
+    {
+      "title": "El petróleo brent sube el 1,6 % hasta los 107 dólares el barril",
+      "description": "",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/america/agencias/2026/09/15/el-petroleo-brent-sube-el-16-hasta-los-107-dolares-el-barril/",
+      "image": null,
+      "pubDate": "2026-09-15T05:30:38.000Z",
+      "emojisString": "💵"
+    },
+    {
+      "title": "Un nene de 7 años murió tras un ataque armado contra una vivienda en Mendoza",
+      "description": "La víctima recibió un disparo mortal durante el violento hecho registrado en Las Heras. \nLos agresores escaparon en un vehículo y la Justicia busca determinar quiénes fueron.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/policiales/nene-7-anos-murio-ataque-armado-vivienda-mendoza_0_qurK68s4i6.html",
+      "image": "https://www.clarin.com/img/2024/01/16/xh4AHCG_2_1200x630__1.jpg",
+      "pubDate": "2026-09-15T05:00:09.000Z",
+      "emojisString": "⚖️ 💻 💥"
+    },
+    {
+      "title": "Nicolás Martínez, argentino que vive en España, contó cuál es el gasto que casi nadie tiene en cuenta al emigrar: “No es el vuelo ni el alquiler”",
+      "description": "Nicolás Martínez explicó qué es lo primero en lo que hay que poner plata y que muchas personas olvidan incluir al preparar su mudanza.\nHacerlo es decisivo para ingresar, incluso los que tienen pasaporte europeo. La única excepción es para los que tienen documentación española.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/internacional/nicolas-martinez-argentino-vive-espana-conto-gasto-nadie-cuenta-emigrar-vuelo-alquiler_0_X97xxuy8cZ.html",
+      "image": "https://www.clarin.com/img/2026/09/01/XABN1v7qW_1200x630__1.jpg",
+      "pubDate": "2026-09-15T04:31:26.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Emotiva actuación: la patinadora que no fue a su viaje de egresados para competir en los Juegos Suramericanos",
-      "description": "Micaela Lopetegui, de 17 años, realizó su presentación en el programa libre corto de patinaje artístico y terminó con lágrimas en los ojos.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/polideportivo/juegos-suramericanos/juegos-suramericanos-santa-fe-viaje-egresados-patinaje-llanto-emocion-odesur_0_epF9PirtM9.html",
-      "image": "https://www.ole.com.ar/images/2026/09/14/0GwRnhhz0_1200x630__1.jpg",
-      "pubDate": "2026-09-15T00:49:49.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Premios Emmy 2026, EN VIVO: la ceremonia minuto a minuto y todos los ganadores",
-      "description": "Esta noche se entregan los galardones de la Academia de Televisión de Estados Unidos",
+      "title": "Premios Hugo: Billy Elliot y Hairspray, las grandes ganadoras de la noche ",
+      "description": "En el teatro Coliseo y con transmisión de la TV Pública, se realizó la  ceremonia de entrega de los galardones que reconocen a lo más destacado del teatro musical",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/espectaculos/television/premios-emmy-2026-en-vivo-la-ceremonia-minuto-a-minuto-con-todos-los-ganadores-nid14092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/R5SY7GH7RVAIXNT2BDBQ72EPUE.jpg?auth=5b4d9204049a43d21baf831aa1b048d75a5bd11c2ce3fd441b1fb9de9968ea8f&smart=true&width=2000&height=1333",
-      "pubDate": "2026-09-15T00:48:58.000Z",
-      "emojisString": "💻 🇺🇸"
-    },
-    {
-      "title": "Los sentidos mensajes entre Marchiori y Mammana",
-      "description": "El arquero de Vélez posteó unas emotivas palabras en apoyo al defensor que lesionó sin mala intención. Su compañero respondió con mucha calidez.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/velez/velez-emanuelmammana-tomasmarchiori-neumotorax-newells_0_39ayBRr3gD.html",
-      "image": "https://www.ole.com.ar/images/2026/09/14/iJohvarKI_1200x630__1.jpg",
-      "pubDate": "2026-09-15T00:46:27.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "El Banco Provincia colocó deuda por u$s74 millones, entre un bono en pesos TAMAR y otro denominado en dólar MEP",
-      "description": "La banca pública bonaerense captó $60.798 millones en un bono en pesos ajustable a la tasa TAMAR + 4,25% y otros u$s33,6 millones en un título dólar MEP con una tasa fija del 5,75%.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/finanzas/el-banco-provincia-coloco-deuda-us74-millones-un-bono-pesos-tamar-y-otro-denominado-dolar-mep-n6322307",
-      "image": "https://media.ambito.com/p/50f1b59a26c4eab8c0ed1dfe1b1e3f78/adjuntos/239/imagenes/043/615/0043615568/1200x675/1080x573:1100x593/banco-provincia.jpg",
-      "pubDate": "2026-09-15T00:43:00.000Z",
-      "emojisString": "💵 💻"
-    },
-    {
-      "title": "Asesinaron a puñaladas a una joven en San Juan y detuvieron a su pareja, ambos aspirantes de Gendarmería",
-      "description": "La víctima, oriunda de Rosario, fue encontrada en su departamento con marcas producidas aparentemente con un arma blanca.\nEl sospechoso, que habría intentado suicidarse, está detenido",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/policiales/asesinaron-punaladas-joven-san-juan-detuvieron-pareja-ambos-aspirantes-gendarmeria_0_z63FcP1Rzq.html",
-      "image": "https://www.clarin.com/img/2026/09/14/BlwSAt876_1200x630__1.jpg",
-      "pubDate": "2026-09-15T00:32:26.000Z",
-      "emojisString": "🚨"
-    },
-    {
-      "title": "La psicología dice que el tiempo realmente parece pasar más rápido entre los 60 y 70 años, y no es una ilusión: el cerebro registra la novedad y los años rutinarios dejan menos marcas, por lo que períodos enteros se comprimen en la memoria",
-      "description": "La sensación de que los años pasan cada vez más rápido tiene una explicación relacionada con la edad.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/psicologia-dice-tiempo-realmente-parece-pasar-rapido-60-70-anos-ilusion-cerebro-registra-novedad-anos-rutinarios-dejan-marcas-periodos-enteros-comprimen-memoria_0_Mo9mU0lhxt.html",
-      "image": "https://www.clarin.com/img/2026/05/01/telSQAdoy_1200x630__1.jpg",
-      "pubDate": "2026-09-15T00:31:25.000Z",
+      "link": "https://www.lanacion.com.ar/espectaculos/premios-hugo-billy-elliot-y-hairspray-las-grandes-ganadoras-de-la-noche-nid15092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/E7AD66G7NVEQRF3EQPZN5KCOHM.JPG?auth=ab5407a9edc3503dbb8beabd7cc8538b8486589f30c11c30c937ab0c20047275&smart=true&width=1126&height=751",
+      "pubDate": "2026-09-15T04:11:32.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Repunta la pobreza: afecta a 1,7 millones de personas más que en 2025 y el deterioro es similar al inicio de la crisis macrista",
-      "description": "La pobreza había alcanzado a 13,4 millones de personas en el segundo semestre de 2025, mientras que las personas en condiciones precarias de vida se elevaron hasta 15,1 millones de personas entre enero y junio de 2026.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/economia/repunta-la-pobreza-afecta-17-millones-personas-mas-que-2025-y-el-deterioro-es-similar-al-inicio-la-crisis-macrista-n6322254",
-      "image": "https://media.ambito.com/p/44269415d00ce60c925c93f2baaa9502/adjuntos/239/imagenes/043/429/0043429753/pobreza-argentina.jpeg",
-      "pubDate": "2026-09-15T00:21:00.000Z",
+      "title": "Cristina Kirchner y sus hijos recibieron un inesperado revés judicial que podría traerle graves problemas económicos",
+      "description": "La expresidenta y sus hijos, Florencia y Máximo, arrancaron la semana con malas noticias a nivel judicial. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/judiciales/cristina-kirchner-y-sus-hijos-maximo-y-florencia-recibieron-un-inesperado-reves-judicial.phtml",
+      "image": "https://fotos.perfil.com/2026/08/29/trim/540/304/cristina-y-maximo-kirchner-2314791.png",
+      "pubDate": "2026-09-15T03:44:19.000Z",
       "emojisString": "💻"
+    },
+    {
+      "title": "Premios Emmy 2026: estos son los ganadores de una gala en la que hizo historia la serie de comedia \"Widow's Bay\"",
+      "description": "\"Widow's Bay\" se llevó 14 premios, más que ningún otra serie de comedia en una edición de los Emmy.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cmx2zex83g59o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bf9/live/79b3f170-b0ae-11f1-9738-1d592fa0fe2e.jpg",
+      "pubDate": "2026-09-15T03:21:35.000Z",
+      "emojisString": "💻 🎬"
+    },
+    {
+      "title": "Presupuesto 2027: los tres números clave que más preocupan a los mercados",
+      "description": "El Poder Ejecutivo presentará su pauta de gastos e ingresos para el año próximo. El de 2026 proyectó un IPC del 10% y terminará cerca del 30%. El problema del gasto indexado.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/economia/presupuesto-2027-los-tres-numeros-clave-que-mas-preocupan-los-mercados-n6322261",
+      "image": "https://media.ambito.com/p/54bcb525b3049e4b5d1e92c0af1cb61f/adjuntos/239/imagenes/043/401/0043401158/1200x675/987x270:1007x290/luis-caputo-latam-forum-2026.jpeg",
+      "pubDate": "2026-09-15T03:00:00.000Z",
+      "emojisString": "📊"
+    },
+    {
+      "title": "Malvinas, petróleo y rearme: Argentina entra en la ofensiva conservadora por el gasto militar británico",
+      "description": "El desarrollo del yacimiento Sea Lion, con producción prevista para 2028, volvió a poner a las islas en el centro del debate estratégico británico. La oposición conservadora en Westminster eleva a la Argentina al rango de amenaza junto a Rusia. Mientras tanto, Londres prepara nuevos despliegues mili",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/politica/malvinas-petroleo-y-rearme-argentina-entra-la-ofensiva-conservadora-el-gasto-militar-britanico-n6322328",
+      "image": "https://media.ambito.com/p/6f50881cdddd319bab764a49a29b947a/adjuntos/239/imagenes/043/642/0043642615/1200x675/smart/airbus-kc2-voyager-2.jpg",
+      "pubDate": "2026-09-15T03:00:00.000Z",
+      "emojisString": "💻 💥"
     }
   ],
   "count": 10,
-  "updated": "2026-09-15T00:54:10.317Z"
+  "updated": "2026-09-15T05:39:18.191Z"
 }
