@@ -2,76 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "Pico y Placa en Cartagena: qué carros descansan este 15 de octubre de 2026",
-      "description": "Esto le interesa si va a conducir por las calles de la ciudad hoy",
+      "title": "María Dolores Jiménez-Blanco, nueva presidenta del Real Patronato del Museo Reina Sofía",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/10/15/pico-y-placa-en-cartagena-que-carros-descansan-este-15-de-octubre-de-2026/",
-      "image": "https://www.infobae.com/resizer/v2/X7SPBQHN4VCKRBKLD7L7RSRQEQ.jpg?auth=60426a41a3240f66f1565e6b7624573d1f972bd61c713369e61a004eab464d67&smart=true&width=1920&height=1080",
-      "pubDate": "2026-10-15T04:47:13.000Z",
+      "link": "https://www.infobae.com/espana/agencias/2026/10/15/maria-dolores-jimenez-blanco-nueva-presidenta-del-real-patronato-del-museo-reina-sofia/",
+      "image": null,
+      "pubDate": "2026-10-15T09:34:10.000Z",
       "emojisString": "📰"
     },
     {
-      "title": "Lotería del Valle resultados miércoles 14 de octubre: quién ganó el premio mayor de $9.000 millones",
-      "description": "Como cada miércoles, aquí están los números ganadores del último sorteo",
+      "title": "Rusia importará gasolina hasta final de 2026 pese al acuerdo de diésel con Trump",
+      "description": "",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/10/15/loteria-del-valle-resultados-miercoles-14-de-octubre-quien-gano-el-premio-mayor-de-9000-millones/",
-      "image": "https://www.infobae.com/resizer/v2/YELX25H2GJDL7DY5OKRZ46AADU.jpg?auth=cf9256d6c7e08051ce6adefc8d34fd03b268ed3257d902605bae3fbc14de64b5&smart=true&width=1920&height=1080",
-      "pubDate": "2026-10-15T04:46:55.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/america/agencias/2026/10/15/rusia-importara-gasolina-hasta-final-de-2026-pese-al-acuerdo-de-diesel-con-trump/",
+      "image": null,
+      "pubDate": "2026-10-15T09:33:53.000Z",
+      "emojisString": "💻 🇺🇸"
     },
     {
-      "title": "Manuel, mecánico, señala el cambio de hábitos que puede ahorrar hasta un 20% de combustible: \"Para ahorrar hasta un 20% en combustible hay que cambiar los hábitos de conducción\"",
-      "description": "El consumo de un auto no depende únicamente del motor ni del precio que marca el surtidor. \nEl mantenimiento y la forma de manejar pueden modificar cuánto combustible se utiliza en cada recorrido.",
+      "title": "Se viene una ola de frío para este fin de semana en la región central de Estados Unidos",
+      "description": "Consulta cuándo llega el frío a Estados Unidos este fin de semana y qué regiones podrían registrar heladas, vientos fuertes y las primeras nevadas.",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/estados-unidos/se-viene-una-ola-de-frio-para-este-fin-de-semana-en-la-region-central-de-estados-unidos-nid14102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/QEUHZTR6XRFBTJXRTD6QZ32XC4.png?auth=ee57ae0371062d5d7a9d6f1b3904e3e7d24e5c4f88c958231aee85741994a9f1&smart=true&width=2000&height=1333",
+      "pubDate": "2026-10-15T09:28:00.000Z",
+      "emojisString": "🌤️ 🇺🇸"
+    },
+    {
+      "title": "Javier Milei y sus medidas, EN VIVO: el Presidente pidió que Trump salga “fortalecido” en las elecciones de Estados Unidos ",
+      "description": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-pidio-que-trump-salga-fortalecido-en-las-elecciones-nid15102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2PX77TSC5NHU7LLWGFMVFBRYLA.jpg?auth=e97195321194bf603646fade388d3da8b6d292e4170710960219d565e27db3c2&smart=true&width=2000&height=1333",
+      "pubDate": "2026-10-15T09:15:30.000Z",
+      "emojisString": "🏛️ 🗳️ 🇺🇸"
+    },
+    {
+      "title": "Partidos de HOY, jueves 15 de octubre: horario y por dónde ver fútbol EN VIVO\n",
+      "description": "Estudiantes disputa la ida de las semifinales de la Libertadores ante Flamengo, arranca una nueva fecha del Clausura, se disputará una jornada completa en la Europa League y más.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-jueves-15-octubre-horario-ver-futbol-vivo-tv-online_0_FZKAm2rtFo.html",
+      "image": "https://www.ole.com.ar/images/2026/09/17/r1XeoYSeg_1200x630__1.jpg",
+      "pubDate": "2026-10-15T09:01:12.000Z",
+      "emojisString": "⚽ 💻 📚"
+    },
+    {
+      "title": "La presidenta de Perú oficializó a Álvaro Vargas Llosa como embajador en EE.UU.",
+      "description": "Álvaro Vargas Llosa, hijo mayor del escritor Mario Vargas Llosa, fue designado embajador por el gobierno de Keiko Fujimori. \nEl nombramiento se formalizó mediante una resolución suprema publicada en el diario oficial El Peruano.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/internacional/manuel-mecanico-senala-cambio-habitos-puede-ahorrar-20-combustible-ahorrar-20-combustible-cambiar-habitos-conduccion_0_tu4SFh2oCu.html",
-      "image": "https://www.clarin.com/img/2026/05/12/rMGjfcdgF_1200x630__1.jpg",
-      "pubDate": "2026-10-15T04:29:07.000Z",
+      "link": "https://www.clarin.com/cultura/presidenta-peru-oficializo-alvaro-vargas-llosa-embajador-eeuu_0_s4iZfeWqdz.html",
+      "image": "https://www.clarin.com/img/2026/10/14/pZZiscr3j_1200x630__1.jpg",
+      "pubDate": "2026-10-15T08:55:10.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "La psicología dice que las experiencias negativas pueden influir en la confianza y en la manera de construir vínculos. Distintos estudios explican qué papel cumplen el apego, la vulnerabilidad emocional y las relaciones anteriores en las amistades adultas",
+      "description": "Por qué algunos adultos tienen pocos amigos y les cuesta establecer relaciones cercanas: qué dice la psicología.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/estados-unidos/psicologia-dice-experiencias-negativas-pueden-influir-confianza-manera-construir-vinculos-distintos-estudios-explican-papel-cumplen-apego-vulnerabilidad-emocional-relaciones-anteriores-amistades-adultas_0_yMhFuoXHdp.html",
+      "image": "https://www.clarin.com/img/2026/08/12/uT1rNQngd_1200x630__1.jpg",
+      "pubDate": "2026-10-15T08:53:10.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "Martín Fierro de la Música: todos los ganadores y la estatuilla de Oro para Abel Pintos",
-      "description": "Se realizaron por primera vez, en una sala de tango porteña; hubo casi treinta categorías en competencia y premios especiales",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/espectaculos/musica/martin-fierro-de-la-musica-todos-los-ganadores-y-la-estatuilla-de-oro-para-abel-pintos-nid15102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/MMLG75AY6VF63DYITVIYEZYYYA.jpg?auth=74f4075008124cff26fc9fcf5272548df45d4261e91f075c31734649ec7e63ff&smart=true&width=2778&height=1851",
-      "pubDate": "2026-10-15T04:21:05.000Z",
-      "emojisString": "💻 🎵"
-    },
-    {
-      "title": "En 1996, Indiana transformó arena residual de fundición en un terraplén de carretera de 275 metros; posteriormente, Purdue descubrió que el material funcionaba con éxito como relleno vial a gran escala ",
-      "description": "El ensayo comparó el desempeño del subproducto con alternativas habituales y también examinó posibles efectos ambientales.\nUna estimación calculó una reducción de unos 145.000 dólares en los costos de insumos para la obra.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/1996-indiana-transformo-arena-residual-fundicion-terraplen-carretera-275-metros-posteriormente-purdue-descubrio-material-funcionaba-exito-relleno-vial-gran-escala_0_7FCNhHvhLc.html",
-      "image": "https://www.clarin.com/img/2026/10/09/5cITBRD5V_1200x630__1.jpg",
-      "pubDate": "2026-10-15T04:11:07.000Z",
-      "emojisString": "💵 💻 🚗"
-    },
-    {
-      "title": "Reabren las Cataratas del Iguazú y este jueves se habilitará el circuito inferior",
-      "description": "La medida fue anunciada por las autoridades a través de un comunicado; después de una crecida histórica, el acceso al parque había sido restringido",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/sociedad/reabren-las-cataratas-del-iguazu-y-este-jueves-se-habilitara-el-circuito-inferior-nid15102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/MX64FOVMBZG4DAMVWEZC7QV36I.jpg?auth=9e05b2f41ca0a69b012fcf8b1dd4d9a4a36084a2e542918d4c697ae949182e94&smart=true&width=2000&height=1333",
-      "pubDate": "2026-10-15T03:48:25.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "El Parque Nacional Iguazú anunció que día abrirá nuevamente sus puertas",
-      "description": "El pasado lunes al triplicarse, en menos de 48 horas, el caudal de las Cataratas del Iguazú, se decidió cerrar el acceso al Parque. Leer más",
+      "title": "La investigación médica crece: Anmat ya aprobó más ensayos clínicos que durante todo 2025",
+      "description": "La Argentina alcanzó un nuevo récord en investigación clínica: durante los primeros nueve meses de 2026, la ANMAT autorizó 291 estudios destinados a evaluar nuevos medicamentos y tratamientos, un 36% más que en el mismo período del año pasado. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/sociedad/el-parque-nacional-iguazu-anuncio-que-dia-abrira-nuevamente-sus-puertas.phtml",
-      "image": "https://fotos.perfil.com/2026/10/14/trim/540/304/1410cataratas-del-iguazu-2348059.jpg",
-      "pubDate": "2026-10-15T03:16:44.000Z",
-      "emojisString": "📰"
+      "link": "https://www.perfil.com/noticias/sociedad/la-investigacion-medica-crece-la-anmat-ya-aprobo-mas-ensayos-clinicos-que-en-todo-2025.phtml",
+      "image": "https://fotos.perfil.com/2026/10/13/trim/540/304/masensayos-2347408.jpg",
+      "pubDate": "2026-10-15T08:30:00.000Z",
+      "emojisString": "🏥"
     },
     {
-      "title": "Solo 19 de cada 100 estudiantes alcanzan los conocimientos básicos: “Argentina tiene que empezar a preocuparse por los aprendizajes”",
-      "description": "El Índice de Resultados Escolares de Argentinos por la Educación ubicó al país en el séptimo puesto entre nueve naciones de América Latina, pese a que el 97% de los adolescentes de 15 y 16 años asiste a la escuela. Martín Nistal, coautor del informe, analizó las causas del retroceso y advirtió que l",
+      "title": "Juicio por la muerte de Karla Roble: los mensajes de odio y las amenazas que recibió de Diego Zerda antes de quitarse la vida",
+      "description": "La fiscalía presentó nueve capturas de chats en las que se leen insultos y amenazas dirigidos a Karla Robles. La acusación sostiene que la joven de 27 años sufría violencia física y psicológica. Leer más",
       "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/solo-19-de-cada-100-estudiantes-llegan-con-los-conocimientos-basicos-argentina-tiene-que-empezar-a-preocuparse-por-los-aprendizajes.phtml",
-      "image": "https://fotos.perfil.com/2026/10/14/trim/540/304/estudiantes-2348550.jpg",
-      "pubDate": "2026-10-15T03:00:00.000Z",
-      "emojisString": "💻 📚"
+      "link": "https://www.perfil.com/noticias/policia/juicio-a-diego-zerda-los-mensajes-de-odio-y-las-amenazas-que-recibio-karla-robles-antes-de-quitarse-la-vida.phtml",
+      "image": "https://fotos.perfil.com/2026/10/14/trim/540/304/caso-karla-robles-y-diego-zerda-2348070.jpg",
+      "pubDate": "2026-10-15T08:30:00.000Z",
+      "emojisString": "⚖️ 💻 🚗"
     },
     {
       "title": "La oposición pone a prueba a los aliados de Javier Milei en una sesión con quorum incierto",
@@ -81,17 +90,8 @@
       "image": "https://media.ambito.com/p/da0c725333c9518f72a1922893bf7a11/adjuntos/239/imagenes/043/611/0043611088/1200x675/694x262:714x282/diputados-oposicion.jpg",
       "pubDate": "2026-10-15T03:00:00.000Z",
       "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "Gonzalo Díaz Solá, de Gire: \"La mayoría de los pagos ya son remotos, pero los presenciales no van a desaparecer\"",
-      "description": "El CEO de la compañía de cobranzas explicó que la pandemia aceleró la migración del pago presencial al remoto. Y detalló la apuesta de la empresa por soluciones digitales como Aura Gestión y RapiGo para sostenerse en un contexto desafiante.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/negocios/gonzalo-diaz-sola-gire-la-mayoria-los-pagos-ya-son-remotos-pero-los-presenciales-no-van-desaparecer-n6325007",
-      "image": "https://media.ambito.com/p/f25c8551a2d5539da6f22bc7547ca7d9/adjuntos/239/imagenes/042/872/0042872231/1200x675/smart/gonzalo-diaz-sola-ceo-gire.jpg",
-      "pubDate": "2026-10-15T03:00:00.000Z",
-      "emojisString": "💻"
     }
   ],
   "count": 10,
-  "updated": "2026-10-15T04:57:03.456Z"
+  "updated": "2026-10-15T09:36:40.348Z"
 }
