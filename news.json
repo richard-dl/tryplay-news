@@ -2,96 +2,96 @@
   "success": true,
   "data": [
     {
-      "title": "Irán nombra ministro de Defensa a un experto en misiles sancionado por Occidente",
-      "description": "",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/america/agencias/2026/10/18/iran-nombra-ministro-de-defensa-a-un-experto-en-misiles-sancionado-por-occidente/",
-      "image": null,
-      "pubDate": "2026-10-18T09:30:59.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Las últimas previsiones para Arequipa: temperatura, lluvias y viento",
-      "description": "La diversidad climatológica en Perú es tal que se tienen identificados 38 estados del tiempo a lo largo del país",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/10/18/las-ultimas-previsiones-para-arequipa-temperatura-lluvias-y-viento/",
-      "image": "https://www.infobae.com/resizer/v2/COXDRMPK2BC23EOWYL3PPQEQZA.png?auth=ba965d49734b5589ceaa92580781caeabaaab8133cfe9dc5637e73be843c5c4e&smart=true&width=1920&height=1080",
-      "pubDate": "2026-10-18T09:30:55.000Z",
-      "emojisString": "💻 🌤️"
-    },
-    {
-      "title": "El costo de producir granos en la Argentina se acerca al de sus competidores",
-      "description": "En un año 13 bienes y servicios en dólares cayeron 5,6 puntos porcentuales",
+      "title": "Encuestas de las elecciones Brasil 2026: quién gana según los últimos sondeos para el balotaje",
+      "description": "A días de la votación decisiva hay una diferencia de dos puntos entre ambos candidatos, lo que marca un escenario de empate técnico",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/campo/el-costo-de-producir-granos-en-la-argentina-se-acerca-al-de-sus-competidores-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/2ZRCQNZVGNA77KDFZ3YRAC7SSE.jpg?auth=12562c1e87c02b1c9bc118e13d4a4709f3f659cebfc76ec936b869e3b7544302&smart=true&width=2000&height=1333",
-      "pubDate": "2026-10-18T09:30:00.000Z",
-      "emojisString": "💵"
+      "link": "https://www.lanacion.com.ar/el-mundo/encuestas-de-las-elecciones-brasil-2026-quien-gana-segun-los-ultimos-sondeos-para-el-balotaje-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/IZEAHKH4NNCCTA6NLUOR7QKK4M.jpg?auth=a30c42d4a11093cbfc0f3ceba14a5092c26910663762011b7ca0c474fe99989b&smart=true&width=2000&height=1333",
+      "pubDate": "2026-10-18T13:28:35.000Z",
+      "emojisString": "🗳️ 💻 🇧🇷"
     },
     {
-      "title": "Se mudaron para pagar menos alquiler y ahora los precios suben: las ciudades que dejaron de ser baratas en EE.UU.",
-      "description": "Compara los alquileres en EE.UU. y descubre qué ciudades registraron subas en septiembre, cuánto cuestan las rentas y qué impulsa los aumentos.",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/estados-unidos/se-mudaron-para-pagar-menos-alquiler-y-ahora-los-precios-suben-las-ciudades-que-dejaron-de-ser-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/VQT3S6WJIRCKFMWYRAKUX3D5TY.jpg?auth=2254a4376a2e9ad3c3eb50b95be80127a8761a42ef44f29aba6b61889f42a6b6&smart=true&width=2752&height=1536",
-      "pubDate": "2026-10-18T09:28:00.000Z",
-      "emojisString": "📰"
+      "title": "Se registra sismo de 4.2 de magnitud",
+      "description": "El temblor sucedió a las 17:00 horas, a una distancia de 81 km de Salina Cruz y tuvo una profundidad de 19.3 km",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/mexico/2026/10/17/se-registra-sismo-de-42-de-magnitud/",
+      "image": "https://www.infobae.com/resizer/v2/FRALXZ6MDFAQZBY4IKR3FB6TBY.jpg?auth=aaed1e58cab45d918e75e9c68d26d5d0d989f04b6e71d2cc696a2ff6195049fa&smart=true&width=1920&height=1080",
+      "pubDate": "2026-10-18T13:27:52.000Z",
+      "emojisString": "💻 🌊"
     },
     {
-      "title": "El tamaño de mi vacío",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cultura/el-tamano-de-mi-vacio.phtml",
-      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
-      "pubDate": "2026-10-18T09:09:42.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Límites, bordes",
-      "description": "Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cultura/limites-bordes.phtml",
-      "image": "https://fotos.perfil.com/2025/03/11/trim/540/304/logo-perfil-1982676.png",
-      "pubDate": "2026-10-18T09:03:53.000Z",
-      "emojisString": "📰"
-    },
-    {
-      "title": "Los costos del agro argentino se acercan a los de sus competidores, pero las retenciones siguen pesando",
-      "description": "Un relevamiento de Fundación Mediterránea muestra que la brecha promedio de precios de 13 insumos y servicios agropecuarios frente a Brasil, Paraguay, Uruguay y Estados Unidos cayó del 6% en 2025 al 0,4% en septiembre de 2026.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/rural/costos-agro-argentino-acercan-competidores-retenciones-siguen-pesando_0_WAUYZjLLTX.html",
-      "image": "https://www.clarin.com/img/2025/11/03/uneCFUc-b_1200x630__1.jpg",
-      "pubDate": "2026-10-18T08:35:56.000Z",
-      "emojisString": "🇺🇸 🇧🇷"
-    },
-    {
-      "title": "La psicología dice que después de jubilarse, algunas personas descubren que ya no mantienen contacto frecuente con compañeros con quienes compartieron años de trabajo. Las conversaciones diarias, los almuerzos y los encuentros habituales desaparecen, mientras que ciertas relaciones comienzan a debilitarse",
-      "description": "Por qué algunas personas descubren que tienen menos amigos después de jubilarse: qué dice la psicología.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/psicologia-dice-despues-jubilarse-personas-descubren-mantienen-contacto-frecuente-companeros-compartieron-anos-trabajo-conversaciones-diarias-almuerzos-encuentros-habituales-desaparecen-ciertas-relaciones-comienzan-debilitarse_0_C9EvNDU9m0.html",
-      "image": "https://www.clarin.com/img/2026/07/24/bZyOJj9Hp_1200x630__1.jpg",
-      "pubDate": "2026-10-18T08:17:56.000Z",
+      "title": "La PNP desarticula a ‘Al Qaeda’, la red que extorsionaba a transportistas en Lima y el Callao: así operaba",
+      "description": "Las diligencias concluyeron con nueve capturas y una orden judicial por 15 días contra presuntos miembros del grupo criminal, investigado desde diciembre de 2025 por el Ministerio Público",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/peru/2026/10/18/la-pnp-desarticula-a-al-qaeda-la-red-que-extorsionaba-a-transportistas-en-lima-y-el-callao-asi-operaba/",
+      "image": "https://www.infobae.com/resizer/v2/EMD7S62ML5G5TM7R32OGP7OAAY.jpg?auth=f99adc4215344d1835ed645d31f418eec6bdb7585264fe9ef49df0c948ad77c4&smart=true&width=1920&height=1080",
+      "pubDate": "2026-10-18T13:27:37.000Z",
       "emojisString": "💻"
     },
     {
-      "title": "\"No hay lugar para la violencia\": edificios en llamas, saqueos y más de 1.200 detenidos en multitudinarias protestas en Francia",
-      "description": "Durante la jornada de protestas en París y otras ciudades hubo choques con la policía, que enfrentó a los manifestantes con gases lacrimógenos.",
-      "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/cvwy7rzx34r1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/756e/live/ecc2e080-ca68-11f1-a9a1-e109aa719673.jpg",
-      "pubDate": "2026-10-18T07:30:33.000Z",
-      "emojisString": "🚨 💻 🚗"
+      "title": "Santiago Beltrán, de un comienzo casi ideal en River y el llamado a la selección a un futuro incierto",
+      "description": "Hoy ya lleva 41 partidos jugados (40 como titular), con 17 vallas invictas y 34 goles recibidos, además de las citaciones de Lionel Scaloni; su contrato, uno de los temas a resolver",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/santiago-beltran-de-un-comienzo-casi-ideal-en-river-y-el-llamado-a-la-seleccion-a-un-futuro-incierto-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/OTOEHXWHUZGZ3CKJU4E3QVZLUU.jpg?auth=9edf770c2a45299b10466bbe6cd586c4cfac252b16113efdbaaba9403b9ea859&smart=true&width=4208&height=2800",
+      "pubDate": "2026-10-18T13:27:15.000Z",
+      "emojisString": "⚽ 💻"
     },
     {
-      "title": "Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte",
-      "description": "La BBC sigue la pista de una embarcación de 80 metros de largo equipada con toboganes acuáticos para saber más sobre cómo Kim pasa sus vacaciones, algo inalcanzable para la mayoría de los norcoreanos.",
+      "title": "Tata Martino, rendido ante Messi tras la derrota de su Atlanta United: \"No hay ningún motivo para pensar que nosotros vamos a poder neutralizarlo\"",
+      "description": "Luego de la caída que sufrió frente a su ex club Inter Miami por 3-1, el DT argentino se deshizo en elogios hacia Leo, que marcó un doblete en cuatro minutos.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-internacional/mls/tata-martino-messi-inter-miami-atlanta-united-mls_0_LrDyk5JarQ.html",
+      "image": "https://www.ole.com.ar/images/2026/10/15/AQDloCHSJ_1200x630__1.jpg",
+      "pubDate": "2026-10-18T13:18:04.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "La economía bajo presión: los salarios duran cada vez menos, cae el margen de ahorro y crece el endeudamiento",
+      "description": "Distintas encuestas muestran que los ingresos pierden capacidad para cubrir los gastos cotidianos, crece el recurso al crédito y la recuperación salarial gana prioridad frente a la estabilidad de precios. Los relevamientos también registran una evaluación negativa de la economía y dudas sobre el rum",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/economia/la-presion-los-salarios-duran-cada-vez-menos-cae-el-margen-ahorro-y-crece-el-endeudamiento-n6335007",
+      "image": "https://media.ambito.com/p/acb15ae676a1182d85a308de203e6e55/adjuntos/239/imagenes/043/585/0043585667/1200x675/866x433:886x453/salarios-ingresos-sueldo.jpg",
+      "pubDate": "2026-10-18T13:15:00.000Z",
+      "emojisString": "📊 💻"
+    },
+    {
+      "title": "Cuánto aporta la rica provincia de Alberta a la economía de Canadá y qué pasaría si logra la independencia",
+      "description": "Los habitantes de Alberta votan este lunes sobre si seguir siendo parte de Canadá o avanzar hacia un referendo vinculante de independencia.",
       "source": "BBC Mundo",
-      "link": "https://www.bbc.com/mundo/articles/c63r59qq0vd3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
-      "pubDate": "2026-10-18T03:59:17.000Z",
-      "emojisString": "📰"
+      "link": "https://www.bbc.com/mundo/articles/c95yng8me7vmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08ab/live/c621b760-caf6-11f1-acd8-5f0e740dfa92.jpg",
+      "pubDate": "2026-10-18T13:12:56.000Z",
+      "emojisString": "📊 💻"
+    },
+    {
+      "title": "José Luis Martínez-Almeida, alcalde de Madrid: “El límite para que Madrid no se convierta en invivible es que no haya contradicción entre los barrios y la ciudad global”\n",
+      "description": "Recibirá este lunes a una treintena de intendentes de Iberoamérica en la previa a la Cumbre de jefes de Estado y de presidentes que se celebrará en la capital española en noviembre.\nPara el alcalde, el reclamo de los inquilinos en la Puerta del Sol \"es legítimo por el malestar social pero no respeta",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/mundo/jose-luis-martinez-almeida-alcalde-madrid-limite-madrid-convierta-invivible-contradiccion-barrios-ciudad-global_0_7P3pBEhX09.html",
+      "image": "https://www.clarin.com/img/2026/10/18/fPWJkJFzB_1200x630__1.jpg",
+      "pubDate": "2026-10-18T12:50:32.000Z",
+      "emojisString": "🏛️ 💻"
+    },
+    {
+      "title": "\"Me trae recuerdos hermosos de hace poquito\": el posteo de Lionel Messi tras su doblete con Inter Miami y los comentarios de la Scaloneta",
+      "description": "El astro argentino escribió en sus redes sociales después del triunfo 3-1 contra Atlanta United, por la MLS.\nFue en el estadio Mercedes Benz, donde el 15 de julio consiguió una de las victorias más importantes con la Selección, en las semifinales contra Inglaterra.",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/deportes/trae-recuerdos-hermosos-hace-poquito-posteo-lionel-messi-doblete-inter-miami-comentarios-scaloneta_0_8ivBNmUviw.html",
+      "image": "https://www.clarin.com/img/2026/10/18/skuNGP4vo_1200x630__1.jpg",
+      "pubDate": "2026-10-18T12:43:56.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "La moda china cambia las reglas del negocio global y pone en jaque a las grandes marcas occidentales",
+      "description": "La búsqueda de precios más bajos y el avance del mercado de segunda mano reconfiguran la industria de la moda. El cambio golpea a las marcas tradicionales, obliga a revisar estrategias comerciales y modifica el valor que los consumidores asignan a las etiquetas de lujo.",
+      "source": "Ámbito",
+      "link": "https://www.ambito.com/negocios/la-moda-china-cambia-las-reglas-del-negocio-global-y-pone-jaque-las-grandes-marcas-occidentales-n6335004",
+      "image": "https://media.ambito.com/p/ddc06d64aafe638efb351de5fcc1ed72/adjuntos/239/imagenes/043/636/0043636316/1200x675/894x367:914x387/ropa-indumentaria-textil.jpg",
+      "pubDate": "2026-10-18T12:36:36.000Z",
+      "emojisString": "⚽ 📊 💻"
     }
   ],
   "count": 10,
-  "updated": "2026-10-18T09:33:45.462Z"
+  "updated": "2026-10-18T13:33:16.203Z"
 }
