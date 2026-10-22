@@ -2,49 +2,85 @@
   "success": true,
   "data": [
     {
-      "title": "El Gobierno consiguió aprobar su proyecto de discapacidad con el respaldo del peronismo",
-      "description": "Con 237 votos a favor el bloque de LLA logró avanzar con su iniciativa después de una jornada marcada por negociaciones a contra reloj y varias concesiones a los espacios opositores",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/politica/el-oficialismo-logro-el-apoyo-del-peronismo-y-se-encamina-a-aprobar-su-proyecto-de-discapacidad-nid21102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/WBW4E623JJFAVDIGD3F5QXAVLU.png?auth=99a40a69e645d8f2a478b9a460becf481733a0ae4114ff46029486744ca12f2d&smart=true&width=919&height=568",
-      "pubDate": "2026-10-22T04:46:35.000Z",
-      "emojisString": "🏛️ 🗳️ 💻"
-    },
-    {
-      "title": "El grupo coreano BTS le puso el toque argentino a su primer show en nuestro país: “Fuera de joda, son el mejor público”",
-      "description": "Los reyes del k-pop se presentaron en el Estadio Único de La Plata; dos horas de show a la medida de sus fans",
-      "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/espectaculos/musica/fenomeno-k-pop-asi-es-el-furor-por-bts-en-su-primer-show-en-la-argentina-nid21102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/I42S7PSGARBANEZJ35UIWGTPU4.jpg?auth=f874d6364d19e4177659c46919a7dcd41894795124afd5d5656ecda751480008&smart=true&width=2000&height=1332",
-      "pubDate": "2026-10-22T04:44:03.000Z",
-      "emojisString": "🎵"
-    },
-    {
-      "title": "Resultados de la Lotería del Valle miércoles 21 de octubre de 2026: todos los secos millonarios",
-      "description": "Como cada miércoles, aquí están los números ganadores del último sorteo",
+      "title": "Ayuso pide “respeto” por Milei porque es un presidente “salido de las urnas” y ensalza su gestión: “Argentina es el país que más crece de toda Hispanoamérica”",
+      "description": "PSOE y Más Madrid afean a la presidenta su encuentro con el mandatario: “Le gustan tanto los áticos como recibir a los lunáticos”",
       "source": "Infobae",
-      "link": "https://www.infobae.com/colombia/2026/10/22/resultados-de-la-loteria-del-valle-miercoles-21-de-octubre-de-2026-todos-los-secos-millonarios/",
-      "image": "https://www.infobae.com/resizer/v2/YELX25H2GJDL7DY5OKRZ46AADU.jpg?auth=cf9256d6c7e08051ce6adefc8d34fd03b268ed3257d902605bae3fbc14de64b5&smart=true&width=1920&height=1080",
-      "pubDate": "2026-10-22T04:31:09.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/espana/2026/10/22/ayuso-pide-respeto-por-milei-porque-es-un-presidente-salido-de-las-urnas-y-ensalza-su-gestion-argentina-es-el-pais-que-mas-crece-de-toda-hispanoamerica/",
+      "image": "https://www.infobae.com/resizer/v2/ZNOZVKF7VNF2XADR4VNZLGPJKQ.jpg?auth=caf9df77eeb5c3377836036a094c5a65edeeb3ae6a3c95aeb80bcc31cafc550e&smart=true&width=3744&height=2496",
+      "pubDate": "2026-10-22T09:40:07.000Z",
+      "emojisString": "🏛️"
     },
     {
-      "title": "Almada destaca la mejoría del América que, se ratificó como líder del Apertura mexicano",
-      "description": "",
+      "title": "Martín Fierro de Radio: así fue el emotivo homenaje para “El Negro” González Oro durante la ceremonia",
+      "description": "Durante la entrega de premios, Eduardo Feinmann subió al escenario para recordar al periodista, que falleció el 25 de septiembre a los 74 años",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/espectaculos/martin-fierro-de-radio-asi-fue-el-emotivo-homenaje-para-el-negro-gonzalez-oro-durante-la-ceremonia-nid22102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/UWAJGGKZ5FCMDKFHW27BBGZQGA.jpg?auth=3121ff398388fec662b3643da5550649f2138f7236d52c67acaa8eb8b197a72d&smart=true&width=2000&height=1333",
+      "pubDate": "2026-10-22T09:39:18.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Javier Milei y sus medidas, en vivo: durante su gira en Madrid, el mandatario acusó al presidente español de “dictador”",
+      "description": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "source": "La Nación",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-durante-su-gira-en-madrid-el-mandatario-acuso-al-presidente-nid22102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/MJ4VVCRKJFHLPNDGXNFBUYV35Q.jpg?auth=100a783afa23052985bac628f958176799e7907b2514c0e1fd15adb1c4b5f083&smart=true&width=2000&height=1333",
+      "pubDate": "2026-10-22T09:38:35.000Z",
+      "emojisString": "🏛️"
+    },
+    {
+      "title": "Leonardo Aguilar habla del peso de llevar el apellido y comparte el consejo que le dio su padre: “Que no caiga en provocaciones”",
+      "description": "El cantante busca que el público lo conozca por su trabajo y no solo por el linaje musical de su familia",
       "source": "Infobae",
-      "link": "https://www.infobae.com/espana/agencias/2026/10/22/almada-destaca-la-mejoria-del-america-que-se-ratifico-como-lider-del-apertura-mexicano/",
-      "image": null,
-      "pubDate": "2026-10-22T04:30:29.000Z",
-      "emojisString": "📰"
+      "link": "https://www.infobae.com/mexico/2026/10/22/leonardo-aguilar-habla-del-peso-de-llevar-el-apellido-y-comparte-el-consejo-que-le-dio-su-padre-que-no-caiga-en-provocaciones/",
+      "image": "https://www.infobae.com/resizer/v2/IBWSVEO65RBQHLN7ZAWKO6GQHA.jpg?auth=711aea36eefa5f1d528501c4b8b1852c7a3bd37aa89df0e727c1fd9447c8d047&smart=true&width=1920&height=1080",
+      "pubDate": "2026-10-22T09:33:24.000Z",
+      "emojisString": "💵 💻 🎵"
     },
     {
-      "title": "Era una fábrica de sardinas abandonada en California y una donación de 57 millones de dólares la convirtió en uno de los acuarios más famosos del mundo",
-      "description": "Un edificio ligado al pasado pesquero de Monterey encontró una segunda vida junto al océano.\nLa iniciativa de un grupo de científicos terminó convirtiéndolo en un espacio dedicado a conocer y proteger la vida marina.",
+      "title": "Irán dice que hay 7 petroleros dañados en Ormuz, entre temores a un repunte de la guerra",
+      "description": "Siete embarcaciones sufrieron daños en Ormuz, elevando tensiones en un contexto de posibles conflictos renovados. Irán amenaza a bases de EE.UU.\nIrán propone un acuerdo para abrir el estrecho, mientras EE.UU. refuerza su presencia militar. Trump rechaza el plan; ataques a barcos continúan.",
       "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/fabrica-sardinas-abandonada-california-donacion-57-millones-dolares-convirtio-acuarios-famosos-mundo_0_Z3VcHPKGOL.html",
-      "image": "https://www.clarin.com/img/2026/10/21/TarCZuRUb_1200x630__1.jpg",
-      "pubDate": "2026-10-22T04:03:01.000Z",
-      "emojisString": "💵 💻"
+      "link": "https://www.clarin.com/estados-unidos/iran-dice-que-hay-7-petroleros-danados-en-ormuz-entre-temores-a-un-repunte-de-la-guerra_0_EhMGNFjk2x.html",
+      "image": "https://www.clarin.com/img/2026/07/30/knP6xNUVh_1200x630__1.jpg",
+      "pubDate": "2026-10-22T09:20:06.000Z",
+      "emojisString": "💻 💥 🇺🇸"
+    },
+    {
+      "title": "Crecida del Paraná: productores apícolas sacan contrarreloj miles de colmenas de las islas y ya dan el año como perdido\n",
+      "description": "Los apicultores trabajan para transportar las colmenas antes de que llegue el pico en el caudal de agua en el norte de Santa Fe.\nLos insectos son trasladados a campos ganaderos donde la floración de las plantas es mucho menor que en las islas, por lo que esperan un fuerte recorte en la producción de",
+      "source": "Clarín",
+      "link": "https://www.clarin.com/rural/crecida-parana-productores-apicolas-sacan-contrarreloj-miles-colmenas-islas-dan-ano-perdido_0_GW0ewz1FtG.html",
+      "image": "https://www.clarin.com/img/2026/10/21/fgweS7vh1_1200x630__1.jpg",
+      "pubDate": "2026-10-22T09:19:08.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Partidos de fútbol de HOY, jueves 22 de octubre: horario y cómo ver por TV y online",
+      "description": "Flamengo y Estudiantes definen al segundo clasificado a la final de la Libertadores, hay Europa League, Conference y mucho más. Acá, la agenda completa.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/agenda-deportiva/partidos-hoy-jueves-22-octubre-hora-ver-tv-online-formaciones_0_JnpwFgp0UZ.html",
+      "image": "https://www.ole.com.ar/images/2026/10/16/FeecSq58i_1200x630__1.jpg",
+      "pubDate": "2026-10-22T09:01:06.000Z",
+      "emojisString": "⚽ 💻 📚"
+    },
+    {
+      "title": "Menopausia: aliviar y contener sus síntomas le puede costar a una mujer hasta $3,6 millones por año",
+      "description": "Un informe de organismos bonaerenses, la UBA y el CONICET calculó que afrontar los síntomas de la menopausia puede demandar entre $649.000 y $3,6 millones al año. Advierten que los costos profundizan las desigualdades y dificultan el acceso a tratamientos. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/sociedad/menopausia-aliviar-y-contener-sus-sintomas-le-puede-costar-a-una-mujer-hasta-36-millones-por-ano.phtml",
+      "image": "https://fotos.perfil.com/2026/10/19/trim/540/304/costosmenopausia-2351779.jpg",
+      "pubDate": "2026-10-22T08:30:00.000Z",
+      "emojisString": "💻"
+    },
+    {
+      "title": "Encuesta 2027: \"antiperonismo\" o \"anti Milei\" ¿Cuál pesará más a la hora de votar? ",
+      "description": "Una consultora buscó la forma de medir el rechazo para medir el impacto electoral que esos \"efectos\" podrían tener en las elecciones presidenciales. Leer más",
+      "source": "Perfil",
+      "link": "https://www.perfil.com/noticias/politica/encuesta-2027-antiperonismo-o-anti-milei-cual-pesara-mas-a-la-hora-de-votar.phtml",
+      "image": "https://fotos.perfil.com/2026/10/21/trim/540/304/milei-acto-militancia-peronista-2353176.jpg",
+      "pubDate": "2026-10-22T08:30:00.000Z",
+      "emojisString": "🏛️ 🗳️ 💻"
     },
     {
       "title": "Corea del Norte publica fotos de Kim Jong-un: ¿por qué siguen surgiendo rumores sobre su supuesta muerte?",
@@ -54,44 +90,8 @@
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg",
       "pubDate": "2026-10-22T04:00:30.000Z",
       "emojisString": "🚗"
-    },
-    {
-      "title": "Kiev y Moscú intercambian ataques tras la visita del emisario de EEUU a Rusia",
-      "description": "Rusia y Ucrania intensifican sus ataques, con misiles y drones afectando a Kiev y Moscú, tras conversaciones entre EE.UU. y el Kremlin. \nEE.UU. busca reanudar diálogos tripartitos, pero la violencia persiste, con heridos en Kiev y drones interceptados cerca de Moscú.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/kiev-y-moscu-intercambian-ataques-tras-la-visita-del-emisario-de-eeuu-a-rusia_0_IpF3exqqZJ.html",
-      "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
-      "pubDate": "2026-10-22T04:00:07.000Z",
-      "emojisString": "💻 💥 🇺🇸"
-    },
-    {
-      "title": "Holgada aprobación a un proyecto para fondos en discapacidad en Diputados",
-      "description": "El Gobierno cedió en la mitad de su redacción para conseguir la media sanción. Resta que se trate en el Senado. También se aprobó la ley de \"Inviolabilidad de la Propiedad Privada\", condenas al vandalismo rural y un sistema de trazabilidad de medicamentos de alto riesgo.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/el-gobierno-aspira-conseguir-unanimidad-su-proyecto-discapacidad-diputados-y-la-sesion-podria-terminarse-antes-tiempo-n6336495",
-      "image": "https://media.ambito.com/p/3cc9bed56e9d8a0cc120675e42d5356e/adjuntos/239/imagenes/043/719/0043719741/1200x675/smart/unanimidad-diputados.jpg",
-      "pubDate": "2026-10-22T03:38:00.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "Sergio Massa se reunió con autoridades universitarias en UNSAM y cuestionó el ajuste de Milei",
-      "description": "Tras varios meses de bajo perfil, Sergio Massa reapareció en la UNSAM con rectores universitarios para criticar el ajuste presupuestario del Gobierno y empezó a posicionarse de cara a 2027 Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/politica/sergio-massa-se-reunio-con-autoridades-universitarias-en-unsam-y-cuestiono-el-ajuste-de-milei.phtml",
-      "image": "https://fotos.perfil.com/2026/10/22/trim/540/304/sergio-massa-encuentro-con-rectores-21102026-2353897.jpg",
-      "pubDate": "2026-10-22T03:35:11.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "El \"espíritu papal\" descomprime la guerra entre el PJ y la UCR: la Unicameral vuelve al recinto el 28",
-      "description": "La sesión del 28 de octubre marcará el regreso al recinto tras semanas de alta tensión. El oficialismo y la oposición buscan bajar la espuma al conflicto político, pero persisten los cuestionamientos por la parálisis legislativa.  Leer más",
-      "source": "Perfil",
-      "link": "https://www.perfil.com/noticias/cordoba/el-espiritu-papal-descomprime-la-guerra-entre-el-pj-y-la-ucr-la-unicameral-vuelve-al-recinto-el-28.phtml",
-      "image": "https://fotos.perfil.com/2026/10/22/trim/540/304/emilce-cuda-recibio-reconocimiento-de-la-legislatura-2353881.jpg",
-      "pubDate": "2026-10-22T03:22:57.000Z",
-      "emojisString": "💻 💥"
     }
   ],
   "count": 10,
-  "updated": "2026-10-22T04:47:28.962Z"
+  "updated": "2026-10-22T09:46:26.011Z"
 }
