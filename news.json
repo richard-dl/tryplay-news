@@ -2,96 +2,96 @@
   "success": true,
   "data": [
     {
-      "title": "Superclásico 94: una historia que excede el fútbol",
-      "description": "Una serie de podcast relata aquel Boca-River trágico que terminó con el asesinato de dos hinchas.",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/informacion-general/boca-river-violencia-abuelo-la12-ortega_0_Op2Egxb8Ow.html",
-      "image": "https://www.ole.com.ar/images/2026/11/06/4mGM6V_QP_1200x630__1.jpg",
-      "pubDate": "2026-11-06T19:47:03.000Z",
-      "emojisString": "⚽ 🚨 💻"
-    },
-    {
-      "title": "Periodista Yoani Sánchez fue liberada en La Habana tras pasar nueve horas detenida: “Contaré lo que vi en esos calabozos”",
-      "description": "La directora de 14ymedio se pronunció luego que agentes de la Seguridad del Estado la arrestaron cuando salía de su vivienda y anticipó que revelará las condiciones de quienes permanecen bajo custodia en Cuba",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/cuba/2026/11/06/periodista-yoani-sanchez-fue-liberada-en-la-habana-tras-mas-de-nueve-horas-detenida-contare-lo-que-vi-en-esos-calabozos/",
-      "image": "https://www.infobae.com/resizer/v2/6J7OVYWMQJGW7GO6U5U56RCDTU.jpeg?auth=6c4c3d8f6064e4d2f574c971d7046916275529734639648f85ca27f8dd8f055f&smart=true&width=1920&height=1079",
-      "pubDate": "2026-11-06T19:45:10.000Z",
-      "emojisString": "🚨 💻"
-    },
-    {
-      "title": "Viaje del papa León XIV EN VIVO: El sumo pontífice ya se encuentra en Uruguay e inicia su visita a Sudamérica, mientras Perú lo espera con entusiasmo",
-      "description": "El pontífice inició su recorrido el viernes 6 de noviembre desde Roma y ya está en Uruguay. Luego pasará por Argentina antes de llegar al Perú el miércoles 11. Su agenda contempla vuelos internacionales, desplazamientos en helicóptero, misas multitudinarias y encuentros con autoridades, jóvenes y co",
-      "source": "Infobae",
-      "link": "https://www.infobae.com/peru/2026/11/06/viaje-del-papa-leon-xiv-al-peru-en-vivo-la-ruta-que-seguira-desde-roma-hasta-su-llegada-a-lima-agenda-y-ultimas-noticias/",
-      "image": "https://www.infobae.com/resizer/v2/QSSUFYI2ARCJVF4LYFA7GI7TNM.JPG?auth=3523a7598dd3498938a64e3ac5db988289f9b88add8b7d01c5139bad6568c5f9&smart=true&width=6000&height=4000",
-      "pubDate": "2026-11-06T19:45:01.000Z",
-      "emojisString": "💻"
-    },
-    {
-      "title": "Con mayoría del fútbol local: salió la lista de Costa Rica para enfrentar a Argentina ",
-      "description": "Bryan Ruiz dio a conocer a sus 23 convocados para los amistosos ante Ecuador y la Albiceleste. ¿Dónde juega cada uno?",
-      "source": "Olé",
-      "link": "https://www.ole.com.ar/futbol-internacional/convocatoria-seleccion-costa-rica-lista-bryan-ruiz-amistoso-fecha-fifa-argentina-ecuador_0_HTR2LwgQgM.html",
-      "image": "https://www.ole.com.ar/images/2026/10/21/qQjgKg2de_1200x630__1.jpg",
-      "pubDate": "2026-11-06T19:44:08.000Z",
-      "emojisString": "⚽"
-    },
-    {
-      "title": "La foto viral que muestra la distancia de Milei con el rey y el presidente de España",
-      "description": "La cita en Madrid dejó un saludo frío con Pedro Sánchez, ausencias en actos oficiales y reuniones con referentes de la oposición al Gobierno de España Leer más",
-      "source": "Perfil",
-      "link": "https://perfil.com/politica/la-foto-viral-que-muestra-la-distancia-de-milei-con-el-rey-y-el-presidente-de-espana-apmsS0F5sZdt",
-      "image": "https://media.perfil.com/prod/images/gm_preview/8e899bccb8cb-javier-milei-2362026.webp",
-      "pubDate": "2026-11-06T19:41:19.000Z",
-      "emojisString": "🏛️ 💻 🌤️"
-    },
-    {
-      "title": "Milei calificó como \"héroes\" a los empresarios y volvió a prometer que eliminará las retenciones al campo",
-      "description": "\"Los que fracasaron por cien años ahora nos quieren decir como hacer las cosas. Porque pueden cambiar las personas, pero siguen repitiendo el mismo modelo decadente\", resaltó Milei. Leer más",
-      "source": "Perfil",
-      "link": "https://perfil.com/economia/milei-califico-como-heroes-a-los-empresarios-y-volvio-a-prometer-que-eliminara-las-retenciones-al-campo-atoJD6x8nxfq",
-      "image": "https://media.perfil.com/prod/images/gm_preview/eeb301419a10-proyecto-nuevo-2026-11-06t141347260.webp",
-      "pubDate": "2026-11-06T19:39:51.000Z",
-      "emojisString": "🏛️ 💻"
-    },
-    {
-      "title": "El riesgo país vuelve a subir hasta los 936 puntos y alcanza un nuevo techo en el año",
-      "description": "El indicador elaborado por JP Morgan inicialmente cayó hasta las 895 unidades, pero luego borró ese descenso y retomó la tendencia alcista",
+      "title": "Tras ser destituido por el Senado, Santiago Peña fue detenido en su domicilio ",
+      "description": "El colapso de Ueno Bank precipitó su salida, en medio de denuncias por irregularidades y una creciente presión política; Pedro Alliana juró como nuevo presidente en el Congreso",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-cae-por-debajo-de-los-900-puntos-a-partir-del-rebote-de-los-bonos-nid06112026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HG3CYW6BSBEPPBJ22ZL7G4UNGA.JPG?auth=f5f1efadd70e3100dbe953916cb592988dd5d7cf500f3e595b4bf12ccf7c7bae&smart=true&width=2000&height=1333",
-      "pubDate": "2026-11-06T19:39:22.000Z",
-      "emojisString": "💻"
+      "link": "https://www.lanacion.com.ar/el-mundo/el-senado-de-paraguay-destituyo-al-presidente-santiago-pena-tras-el-colapso-del-ueno-bank-nid06112026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/X3DGBPN6JVD6JHQXYXJ5EJCB4A.JPG?auth=15804c3b84eb16109ec2581d937e4948a830b8c48d3c8a880ee6c4bb5c3f9081&smart=true&width=2100&height=1400",
+      "pubDate": "2026-11-06T23:50:24.000Z",
+      "emojisString": "🏛️ 🚨 💻"
     },
     {
-      "title": "La Anses cambió el calendario de pago de jubilaciones y prestaciones por la visita del papa León XIV",
-      "description": "Debido a los feriados establecidos por la llegada del Sumo Pontífice a la Argentina, el organismo previsional modificó algunas fechas de cobro de noviembre",
+      "title": "Visita del Papa León XIV, EN VIVO: su paso por Uruguay y las últimas noticias de su agenda en Buenos Aires, Córdoba y Luján",
+      "description": "El Sumo Pontífice fue recibido por el presidente Yamandú Orsi y participó de una ceremonia de bienvenida en Montevideo; recordó a Francisco, apuntó contra el desarrollo de la IA y pidió una “salud para todos”",
       "source": "La Nación",
-      "link": "https://www.lanacion.com.ar/economia/la-anses-cambio-el-calendario-de-pago-de-jubilaciones-y-prestaciones-por-la-visita-del-papa-leon-xiv-nid06112026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/DEIQTQBHWRBZXJZ3IS3A2L2C54.jpg?auth=c29fefcea089971ac432856bb5acf6745677e7ba69469001c5e5924d911bb2f4&smart=true&width=6000&height=4000",
-      "pubDate": "2026-11-06T19:38:17.000Z",
-      "emojisString": "💻"
+      "link": "https://www.lanacion.com.ar/sociedad/visita-del-papa-leon-xiv-a-la-argentina-en-vivo-la-agenda-en-buenos-aires-cordoba-y-lujan-los-nid06112026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/KUJCW2FFQRHIPFBXWO246FRKVA.JPG?auth=621bd7fba079db50978ce7d7e1311b8e201dd90ed3b7aaa02566f947bdb65bc4&smart=true&width=4702&height=3135",
+      "pubDate": "2026-11-06T23:50:19.000Z",
+      "emojisString": "🏛️ 💻 🏥"
     },
     {
-      "title": "Dos de cada tres hogares atraviesan dificultades económicas y crece el pesimismo sobre el futuro",
-      "description": "Un relevamiento nacional de CEOP Latam muestra que el 58,5% combina un presente complicado con expectativas pesimistas. Los asalariados, tanto formales como informales, aparecen entre los sectores más afectados por el ajuste.",
-      "source": "Ámbito",
-      "link": "https://www.ambito.com/politica/dos-cada-tres-hogares-atraviesan-dificultades-economicas-y-crece-el-pesimismo-el-futuro-n6342510",
-      "image": "https://media.ambito.com/p/8e5a566034a63d5f27eb2394494739e6/adjuntos/239/imagenes/040/067/0040067183/jovenes-desempleowebp.png",
-      "pubDate": "2026-11-06T19:35:00.000Z",
-      "emojisString": "💻"
+      "title": "Quién es Pedro Alliana, el nuevo presidente de Paraguay tras la destitución de Santiago Peña",
+      "description": "Pedro Alliana fue juramentado este viernes como nuevo presidente de Paraguay,  tras el juicio político con el que el Congreso sacó del cargo a Santiago Peña.",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/cmqjnn8jrqq0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3f8/live/e6e0a8b0-da39-11f1-959c-e95bd2c2a35f.jpg",
+      "pubDate": "2026-11-06T23:48:43.000Z",
+      "emojisString": "🏛️ ⚖️ 💻"
     },
     {
-      "title": "Rubio asistirá a reunión de G7 en París la próxima semana tras revés en legislativas",
-      "description": "El secretario estadounidense viajará a París para una cumbre del G7, buscando fortalecer lazos en un contexto global complicado.\nEl encuentro, inicialmente planeado en Marsella, abordará tensiones en Oriente Medio y Ucrania, y marcará un nuevo capítulo tras las elecciones.",
-      "source": "Clarín",
-      "link": "https://www.clarin.com/estados-unidos/rubio-asistira-a-reunion-de-g7-en-paris-la-proxima-semana-tras-reves-en-legislativas_0_eedtoWI9i9.html",
-      "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
-      "pubDate": "2026-11-06T19:30:33.000Z",
-      "emojisString": "🗳️ 💻 💥"
+      "title": "Independiente vence a Riestra y avanza a los octavos del Torneo Clausura, mientras que San Lorenzo pierde y queda eliminado",
+      "description": "El Rojo se enfrenta a Riestra y el Ciclón choca ante Platense. Además, Unión se mide al clasificado Vélez",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/deportes/2026/11/06/independiente-san-lorenzo-platense-y-union-buscan-su-lugar-en-los-playoffs-del-torneo-clausura-todo-lo-que-hay-que-saber/",
+      "image": "https://www.infobae.com/resizer/v2/SGEDCUCIIJEGTFLJ7QQWPGYRLA.JPG?auth=18511e9632f2abb5f2329d351ec24e604c7a29ef6286c30848e1db0e814acde9&smart=true&width=4091&height=2301",
+      "pubDate": "2026-11-06T23:47:06.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Sur Finanzas: procesaron a Maximiliano Vallejo por liderar una presunta asociación ilícita dedicada al lavado de activos",
+      "description": "El juez federal Juan Tomás Rodríguez Ponte también procesó a nueve sociedades vinculadas con el grupo. Dispuso la prisión preventiva del principal acusado, que cumplirá bajo arresto domiciliario con tobillera electrónica, y ordenó un embargo de $40.000 millones sobre sus bienes",
+      "source": "Infobae",
+      "link": "https://www.infobae.com/judiciales/2026/11/06/sur-finanzas-procesaron-a-maximiliano-vallejo-por-liderar-una-presunta-asociacion-ilicita-dedicada-al-lavado-de-activos/",
+      "image": "https://www.infobae.com/resizer/v2/O4JRM2DILZBUNKZLIDRAYNADYQ.jpg?auth=12d31d959836738caa2e2ebad7f0fd1235ab166ef04162926147a33b7944c227&smart=true&width=584&height=329",
+      "pubDate": "2026-11-06T23:46:52.000Z",
+      "emojisString": "⚖️ 💻"
+    },
+    {
+      "title": "Trump nombra a Stephen Miller, el \"arquitecto\" de su dura política migratoria, como nuevo jefe de gabinete de la Casa Blanca ",
+      "description": "En una publicación en Truth Social, Trump señaló que Susie Wiles, a quien sucederá Miller, hizo un trabajo \"sobresaliente\" y que pasará a formar parte de la \"Operación política de Trump\".",
+      "source": "BBC Mundo",
+      "link": "https://www.bbc.com/mundo/articles/c90k001drxxko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c26/live/d3456da0-da1f-11f1-bba7-b50f1faa7672.png",
+      "pubDate": "2026-11-06T23:39:40.000Z",
+      "emojisString": "💻 🇺🇸"
+    },
+    {
+      "title": "Con algunas bajas, la racha que defenderá Instituto ante Newell´s en Alta Córdoba",
+      "description": "El puntero de la zona busca sellar su pase en la cima con puntaje perfecto en su estadio, mientras reacomoda piezas por sanciones y problemas físicos.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/instituto/instituto-newells-altacordoba-clausura-diegoflores-leonelmosevich-agustinmassaccesi-jeremiaslazaro-jhoncordoba-matiastissera-facundosuarez-alexluna-jonathangalvan-matiascoccaro-lagloria_0_goPbpkUqr7.html",
+      "image": "https://www.ole.com.ar/images/2026/10/09/FIHN1N7td_1200x630__1.jpg",
+      "pubDate": "2026-11-06T23:37:32.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "Así fue la fiesta de cumpleaños de Pía, la hija de Ángel Di María y Jorgelina Cardoso: amigos, dulces y kermesse personalizada",
+      "description": "Tras la celebración, que se realizó en un salón de Funes, publicaron un encantador video que mostró cómo transcurrió la fiesta y la temática que Pía decidió para ella. Leer más",
+      "source": "Perfil",
+      "link": "https://perfil.com/entretenimiento/asi-fue-la-fiesta-de-cumpleanos-de-pia-la-hija-de-angel-di-maria-y-jorgelina-cardoso-amigos-dulces-y-kermesse-personalizada-aAGQ35A54S8q",
+      "image": "https://media.perfil.com/prod/images/gm_preview/a0be0666bef3-angel-di-maria-jorgelina-cardoso-y-sus-hijas-pia-y-mia.webp",
+      "pubDate": "2026-11-06T23:34:22.000Z",
+      "emojisString": "📰"
+    },
+    {
+      "title": "El equipo de la Primera Nacional que busca el ascenso y comparte récord con Boca",
+      "description": "Sueña con llegar a la máxima categoría con un récord envidiable: desde su afiliación a la AFA jamás bajó de división, al igual que el Xeneize.",
+      "source": "Olé",
+      "link": "https://www.ole.com.ar/futbol-ascenso/tristan-suarez-boca-juniors-ascenso-descenso-godoy-cruz_0_ulTreHLNft.html",
+      "image": "https://www.ole.com.ar/images/2026/09/22/dovDEztYX_1200x630__1.jpg",
+      "pubDate": "2026-11-06T23:32:13.000Z",
+      "emojisString": "⚽ 💻"
+    },
+    {
+      "title": "Netflix anuncia la serie spinoff de Stranger Things, \"Otros Mundos: Una Aventura de Stranger Things\"",
+      "description": "El anuncio se realiza en el marco de la celebración anual del Día de Stranger Things, dedicada a los fans de la serie. Leer más",
+      "source": "Perfil",
+      "link": "https://perfil.com/entretenimiento/netflix-anuncia-la-serie-spinoff-de-stranger-things-otros-mundos-una-aventura-de-stranger-things-aHLMR0i9xeC3",
+      "image": "https://media.perfil.com/prod/images/gm_preview/f98c48be440c-otros-mundos-una-aventura-de-stranger-things.webp",
+      "pubDate": "2026-11-06T23:31:26.000Z",
+      "emojisString": "💻 🎬"
     }
   ],
   "count": 10,
-  "updated": "2026-11-06T19:48:12.846Z"
+  "updated": "2026-11-06T23:54:05.686Z"
 }
